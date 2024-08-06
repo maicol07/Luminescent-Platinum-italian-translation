@@ -28,7 +28,7 @@ jobs:
         - name: Override conversion script
           run: cp $GITHUB_WORKSPACE/overrides/convert.py .
         - name: Convert to CSV
-          run: python convert.py csv
+          run: python ./convert.py csv
         - name: Copy output files
           run: cp output/* $GITHUB_WORKSPACE/csv
         - run: cd $GITHUB_WORKSPACE
