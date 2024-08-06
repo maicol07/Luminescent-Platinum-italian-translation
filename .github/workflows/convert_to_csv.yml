@@ -24,7 +24,7 @@ jobs:
         - name: Create input and output folders
           run: mkdir -p input output
         - name: Copy files
-          run: cp $GITHUB_WORKSPACE/AssetFolder/* input
+          run: cp -r $GITHUB_WORKSPACE/AssetFolder/* input
         - name: Override conversion script
           run: cp $GITHUB_WORKSPACE/overrides/convert.py .
         - name: Convert to CSV
