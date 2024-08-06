@@ -20,18 +20,21 @@ jobs:
           with:
             repository: SaltContainer/Lumi_Small_Scripts
             path: Lumi_Small_Scripts
-        - run: cd Lumi_Small_Scripts/label_files
         - name: Create input and output folders
           run: mkdir -p input output
+          working-directory: Lumi_Small_Scripts/label_files
         - name: Copy files
           run: cp -r $GITHUB_WORKSPACE/AssetFolder/* input
+          working-directory: Lumi_Small_Scripts/label_files
         - name: Override conversion script
           run: cp $GITHUB_WORKSPACE/overrides/convert.py .
+          working-directory: Lumi_Small_Scripts/label_files
         - name: Convert to CSV
-          run: python ./convert.py csv
+          run: python convert.py csv
+          working-directory: Lumi_Small_Scripts/label_files
         - name: Copy output files
           run: cp output/* $GITHUB_WORKSPACE/csv
-        - run: cd $GITHUB_WORKSPACE
+          working-directory: Lumi_Small_Scripts/label_files
         - uses: stefanzweifel/git-auto-commit-action@v5
           with:
             commit_message: "Convert changed files to CSV"
