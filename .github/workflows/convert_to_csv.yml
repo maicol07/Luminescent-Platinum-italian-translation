@@ -2,6 +2,7 @@ on:
   push:
     paths:
       - AssetFolder/**/*
+  workflow_dispatch:
 
 jobs:
     convert_to_csv:
