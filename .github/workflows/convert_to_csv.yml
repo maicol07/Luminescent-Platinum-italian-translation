@@ -1,0 +1,37 @@
+on:
+  push:
+    paths:
+      - AssetFolder/**/*
+
+jobs:
+    convert_to_csv:
+        permissions:
+          contents: write
+        runs-on: ubuntu-latest
+        steps:
+        - uses: actions/checkout@v4
+        - name: Set up Python
+          uses: actions/setup-python@v5
+          with:
+            python-version: '3.10'
+        - name: Clone https://github.com/SaltContainer/Lumi_Small_Scripts
+          uses: actions/checkout@v4
+          with:
+            repository: SaltContainer/Lumi_Small_Scripts
+        - run: cd Lumi_Small_Scripts/label_files
+        - name: Create input and output folders
+          run: mkdir -p input output
+        - name: Copy files
+          run: cp ../../AssetFolder/* input
+        - name: Override conversion script
+          run: cp ../../overrides/convert.py .
+        - name: Convert to CSV
+          run: python convert.py csv
+        - name: Copy output files
+          run: cp output/* ../../csv
+        - run: cd ../../
+        - uses: stefanzweifel/git-auto-commit-action@v5
+          with:
+            commit_message: "Convert changed files to CSV"
+            branch: main
+            file_pattern: 'csv/*'
