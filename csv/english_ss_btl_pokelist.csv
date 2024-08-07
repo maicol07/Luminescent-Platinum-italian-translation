@@ -1,0 +1,200 @@
+0,msg_ui_btl_pokelist_lv,Lv. {tag:0},37,-1,42,294,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+1,msg_ui_btl_pokelist_pokename,{tag:0},120,-1,42,294,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+2,msg_ui_btl_pokelist_hp_01,/,146,-1,42,84,0,"-1
+0
+0
+-1
+0"
+3,msg_ui_btl_pokelist_hp_02,{tag:0},148,-1,42,168,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+4,msg_ui_btl_pokelist_hp_03,{tag:0},148,-1,42,168,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+5,msg_ui_btl_pokelist_help_00, Confirm,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+6,msg_ui_btl_pokelist_help_02, Back,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+7,msg_ui_btl_pokelist_help_03,Reselect,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+8,msg_ui_btl_pokelist_wazaname,{tag:0},39,-1,42,420,0,"-1
+0
+0
+-1
+0",0,1,7,0,0,0,,0
+9,msg_ui_btl_pokelist_tokusei,Ability,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+10,msg_ui_btl_pokelist_tokuseiname,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",0,1,6,0,0,0,,0
+11,msg_ui_btl_pokelist_type,Type,78,-1,32,128,0,"-1
+0
+0
+-1
+0"
+12,msg_ui_btl_pokelist_pp_04,{tag:0}/{tag:1},150,-1,42,252,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0,1,2,1,1,0,205,,0
+13,msg_ui_btl_pokelist_egg,An Egg can’t battle!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+14,msg_ui_btl_pokelist_state_00,In Battle,38,-1,42,336,0,"-1
+0
+0
+-1
+0"
+15,msg_ui_btl_pokelist_state_01,Can Battle,38,-1,42,336,0,"-1
+0
+0
+-1
+0"
+16,msg_ui_btl_pokelist_state_02,Can’t Battle,38,-1,42,336,0,"-1
+0
+0
+-1
+0"
+17,msg_ui_btl_pokelist_state_03,Ally,38,-1,42,336,0,"-1
+0
+0
+-1
+0"
+18,msg_ui_btl_pokelist_state_04,Standing By,38,-1,42,336,0,"-1
+0
+0
+-1
+0"
+19,msg_ui_btl_pokelist_waza_00,Category,80,-1,32,192,0,"-1
+0
+0
+-1
+0"
+20,msg_ui_btl_pokelist_waza_01,Power,80,-1,32,192,0,"-1
+0
+0
+-1
+0"
+21,msg_ui_btl_pokelist_waza_02,Accuracy,80,-1,32,192,0,"-1
+0
+0
+-1
+0"
+22,msg_ui_btl_pokelist_waza_03,{tag:0},166,-1,32,128,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+23,msg_ui_btl_pokelist_waza_04,{tag:0},166,-1,32,128,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+24,msg_ui_btl_pokelist_waza_05,—,148,-1,42,168,0,"-1
+0
+0
+-1
+0"
+25,msg_ui_btl_pokelist_sel_00,Swap Pokémon,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+26,msg_ui_btl_pokelist_sel_01,Check summary,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+27,msg_ui_btl_pokelist_sel_02,Restore,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+28,msg_ui_btl_pokelist_sel_03,Cancel,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+29,msg_ui_btl_pokelist_error_00,{tag:0} is already in battle!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+30,msg_ui_btl_pokelist_error_02,The Pokémon can’t be switched out!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+31,msg_ui_btl_pokelist_error_03,{tag:0} has no energy left to battle!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+32,msg_ui_btl_pokelist_error_04,{tag:0} is already selected.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+33,msg_ui_btl_pokelist_sel_04,Place it on the left,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+34,msg_ui_btl_pokelist_sel_05,Place it on the right,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+35,msg_ui_btl_pokelist_playername,{tag:0},37,-1,42,294,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+36,msg_ui_btl_pokelist_kouka_00,Super effective,38,-1,42,336,0,"-1
+0
+0
+-1
+0"
+37,msg_ui_btl_pokelist_kouka_01,Effective,38,-1,42,336,0,"-1
+0
+0
+-1
+0"
+38,msg_ui_btl_pokelist_kouka_02,Not very effective,38,-1,42,336,0,"-1
+0
+0
+-1
+0"
+39,msg_ui_btl_pokelist_kouka_03,No effect,38,-1,42,336,0,"-1
+0
+0
+-1
+0"

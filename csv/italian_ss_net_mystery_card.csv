@@ -1,0 +1,256 @@
+0,SS_net_mystery_card_01,Dono: {tag:0},56,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+1,SS_net_mystery_card_02,Dono: Uovo,56,-1,42,840,0,"0
+0
+0
+-1
+0"
+2,SS_net_mystery_card_03,Dono: Pokémon,56,-1,42,840,0,"0
+0
+0
+-1
+0"
+3,SS_net_mystery_card_04,Dono: {tag:0},56,-1,42,840,0,"0
+0
+0
+-1
+0",8,1,9,0,0,0,,0
+4,SS_net_mystery_card_05,Dono: set di strumenti,56,-1,42,840,0,"0
+0
+0
+-1
+0"
+5,SS_net_mystery_card_06,Dono: strumento,56,-1,42,840,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+6,SS_net_mystery_card_09,{tag:0} ({tag:1}),56,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,1,0,0,0,,0,1,1,4,0,0,0,,0
+7,SS_net_mystery_card_10,{tag:0} (Pokémon leggendario),56,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+8,SS_net_mystery_card_11,{tag:0} (Pokémon misterioso),56,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+9,SS_net_mystery_card_12,{tag:0} di {tag:1},56,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,1,0,0,0,,0,3,1,0,0,0,0,,0
+10,SS_net_mystery_card_13,{tag:0} cromatico,56,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+11,SS_net_mystery_card_14,{tag:0} ({tag:1}),56,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,1,0,0,0,,0,2,1,72,0,0,0,,0
+12,SS_net_mystery_card_15,Dono: {tag:0},56,-1,42,840,0,"0
+0
+0
+-1
+0",2,1,72,0,0,0,,0
+13,SS_net_mystery_card_16,{tag:0} con un’abilità speciale,56,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+14,SS_net_mystery_card_17,{tag:0} con {tag:1},56,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,1,0,0,0,,0,4,1,7,0,0,0,,0
+15,SS_net_mystery_card_18,{tag:0} con {tag:1},56,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,1,0,0,0,,0,5,1,7,0,0,0,,0
+16,SS_net_mystery_card_19,{tag:0} con {tag:1},56,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,1,0,0,0,,0,6,1,7,0,0,0,,0
+17,SS_net_mystery_card_20,{tag:0} con {tag:1},56,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,1,0,0,0,,0,7,1,7,0,0,0,,0
+18,SS_net_mystery_card_21,{tag:0} con {tag:1},56,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,1,0,0,0,,0,9,1,9,0,0,0,,0
+0,,,0,0,0,0,0,
+19,SS_net_mystery_card_24,Dono per l’acquisto della versione scaricabile,56,-1,42,840,0,"0
+0
+0
+-1
+0"
+20,SS_net_mystery_card_25,Dono per l’acquisto della confezione speciale,56,-1,42,840,0,"0
+0
+0
+-1
+0"
+21,SS_net_mystery_card_26,Dono per l’acquisto in negozio,56,-1,42,840,0,"0
+0
+0
+-1
+0"
+22,SS_net_mystery_card_27,Dono per l’acquisto della guida strategica,56,-1,42,840,0,"0
+0
+0
+-1
+0"
+23,SS_net_mystery_card_28,Dono per l’acquisto,56,-1,42,840,0,"0
+0
+0
+-1
+0"
+24,SS_net_mystery_card_29,Buon compleanno!,56,-1,42,840,0,"0
+0
+0
+-1
+0"
+25,SS_net_mystery_card_30,Dono speciale Virtual Console,56,-1,42,840,0,"0
+0
+0
+-1
+0"
+26,SS_net_mystery_card_31,Club Allenatori di Pokémon,56,-1,42,840,0,"0
+0
+0
+-1
+0"
+27,SS_net_mystery_card_32,Pokémon Global Link,56,-1,42,840,0,"0
+0
+0
+-1
+0"
+28,SS_net_mystery_card_33,Banca Pokémon,56,-1,42,840,0,"0
+0
+0
+-1
+0"
+29,SS_net_mystery_card_34,Pokémon HOME,56,-1,42,840,0,"0
+0
+0
+-1
+0"
+30,SS_net_mystery_card_35,Dono: soldi,56,-1,42,840,0,"0
+0
+0
+-1
+0"
+31,SS_net_mystery_card_36,{tag:0} ,56,-1,42,840,0,"0
+0
+0
+-1
+0",12,2,6,1,0,1,,0
+32,SS_net_mystery_card_37,Dono: vestiti,56,-1,42,840,0,"0
+0
+0
+-1
+0"
+33,SS_net_mystery_card_38,Dono per la Lotta Competitiva,56,-1,42,840,0,"0
+0
+0
+-1
+0"
+34,SS_net_mystery_card_39,Dono per la partecipazione alla Gara Online,56,-1,42,840,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+35,SS_net_mystery_card_41,Dono per la Gara Ufficiale: strumento,56,-1,42,840,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+36,SS_net_mystery_card_43,Dono per la Gara Ufficiale: Pokémon,56,-1,42,840,0,"0
+0
+0
+-1
+0"
+37,SS_net_mystery_card_44,Dono per la Gara Ufficiale: Uovo,56,-1,42,840,0,"0
+0
+0
+-1
+0"
+38,SS_net_mystery_card_45,Dono per la Gara Ufficiale: vestiti,56,-1,42,840,0,"0
+0
+0
+-1
+0"
+39,SS_net_mystery_card_46,Dono Lotta in Singolo stagione {tag:0}: strumento,56,-1,42,840,0,"0
+0
+0
+-1
+0",10,2,1,1,0,205,,0
+0,,,0,0,0,0,0,
+40,SS_net_mystery_card_48,Dono Lotta in Singolo stagione {tag:0}: Pokémon,56,-1,42,840,0,"0
+0
+0
+-1
+0",10,2,1,1,0,205,,0
+41,SS_net_mystery_card_49,Dono Lotta in Singolo stagione {tag:0}: Uovo,56,-1,42,840,0,"0
+0
+0
+-1
+0",10,2,1,1,0,205,,0
+42,SS_net_mystery_card_50,Dono Lotta in Singolo stagione {tag:0}: vestiti,56,-1,42,840,0,"0
+0
+0
+-1
+0",10,2,1,1,0,205,,0
+43,SS_net_mystery_card_51,Dono Lotta in Doppio stagione {tag:0}: strumento,56,-1,42,840,0,"0
+0
+0
+-1
+0",10,2,1,1,0,205,,0
+0,,,0,0,0,0,0,
+44,SS_net_mystery_card_53,Dono Lotta in Doppio stagione {tag:0}: Pokémon,56,-1,42,840,0,"0
+0
+0
+-1
+0",10,2,1,1,0,205,,0
+45,SS_net_mystery_card_54,Dono Lotta in Doppio stagione {tag:0}: Uovo,56,-1,42,840,0,"0
+0
+0
+-1
+0",10,2,1,1,0,205,,0
+46,SS_net_mystery_card_55,Dono Lotta in Doppio stagione {tag:0}: vestiti,56,-1,42,840,0,"0
+0
+0
+-1
+0",10,2,1,1,0,205,,0
+47,SS_net_mystery_card_56,Dono: statua di Pokémon,56,-1,42,840,0,"0
+0
+0
+-1
+0"
+48,SS_net_mystery_card_57,Dono: {tag:0},56,-1,42,840,0,"0
+0
+0
+-1
+0",13,1,22,0,0,0,,0
+49,SS_net_mystery_card_58,Dono: Uovo di Manaphy,56,-1,42,840,0,"0
+0
+0
+-1
+0"

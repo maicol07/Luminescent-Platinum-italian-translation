@@ -1,0 +1,4389 @@
+0,106-msg_tv_02_01_01_1,"{pageend:Bentornati ad ""Acchiappa il Pokémon""!}
+Anche oggi metterò sotto i riflettori una cattura
+davvero pazzesca! Siete pronti?!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+1,106-msg_tv_02_01_01_2,"L’{tag:0} che ha attirato la nostra attenzione
+stavolta è nien-te-me-no che...
+{tag:1}{pageend:!}
+Ma vi starete chiedendo... Cos’avrà mai
+acchiappato {tag:2} {tag:3}...?
+Un esemplare di {tag:4}, ecco cosa!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"Allenatore
+Allenatrice",0,0,1,0,0,0,0,,0,-1,21,0,5,0,255,"il nostro
+la nostra",0,0,1,0,0,0,0,,0,1,1,1,0,0,0,,0
+2,106-msg_tv_02_01_01_3,"Bel colpo, {tag:0}!
+{pageend:Questa sì che è una cattura coi fiocchi!}
+Il Pokémon è stato preso con una
+{tag:1} e {tag:2} {tag:3} {tag:4}!
+Non male!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,2,1,9,0,0,0,,0,-1,21,1,5,0,3,"c'è voluto
+ci sono voluti",0,3,2,2,1,0,205,,0,-1,21,1,5,0,3,"lancio
+lanci",0
+3,106-msg_tv_02_01_01_4,"Ben fatto, {tag:0}! E chi ti ferma più?
+Mmh? Aspettate un attimo...
+Ho ricevuto un aggiornamento sen-sa-zio-na-le!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+4,106-msg_tv_02_01_01_5,"Mi hanno comunicato che {tag:0}
+ha dato un soprannome {tag:1}{tag:2}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,11,5,1,1,,0,1,1,1,0,0,0,,0
+5,106-msg_tv_02_01_01_6,"Siete pronti? L’ha chiamato... {tag:0}!
+Ma pensa te! Sei troppo forte, {tag:1}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",4,1,2,0,0,0,,0,0,1,0,0,0,0,,0
+6,106-msg_tv_02_01_01_7,"Ascoltatemi bene, gente! Fate anche voi
+come {tag:0}{pageend:!}
+Mettetevi in marcia, e catturate Pokémon a più
+non posso! Acchiappateli tutti!!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+7,106-msg_tv_02_01_02_1,"{pageend:Bentornati ad ""Acchiappa il Pokémon""!}
+Anche oggi metterò sotto i riflettori una cattura
+davvero pazzesca! Siete pronti?!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+8,106-msg_tv_02_01_02_2,"L’{tag:0} che ha attirato la nostra attenzione
+stavolta è nien-te-me-no che...
+{tag:1}{pageend:!}
+Ma vi starete chiedendo... Cos’avrà mai
+acchiappato {tag:2} {tag:3}...?
+Un esemplare di {tag:4}, ecco cosa!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"Allenatore
+Allenatrice",0,0,1,0,0,0,0,,0,-1,21,0,5,0,255,"il nostro
+la nostra",0,0,1,0,0,0,0,,0,1,1,1,0,0,0,,0
+9,106-msg_tv_02_01_02_3,"Bel colpo, {tag:0}!
+{pageend:Questa sì che è una cattura coi fiocchi!}
+Il Pokémon è stato preso con una
+{tag:1} e {tag:2} {tag:3} {tag:4}!
+Non male!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,2,1,9,0,0,0,,0,-1,21,1,5,0,3,"c'è voluto
+ci sono voluti",0,3,2,2,1,0,205,,0,-1,21,1,5,0,3,"lancio
+lanci",0
+10,106-msg_tv_02_01_02_4,"Ben fatto, {tag:0}! E chi ti ferma più?
+Mmh? Aspettate un attimo...
+Ho ricevuto un aggiornamento sen-sa-zio-na-le!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+11,106-msg_tv_02_01_02_5,"Mi hanno comunicato che {tag:0}
+ha deciso di non dare un soprannome
+{tag:1}{tag:2}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,11,5,1,1,,0,1,1,1,0,0,0,,0
+12,106-msg_tv_02_01_02_6,"Ottima scelta, {tag:0}!!! Sei fortissim{tag:1}{pageend:!}
+Ascoltatemi bene, gente! Fate anche voi come
+{tag:2}{pageend:!}
+Mettetevi in marcia, e catturate Pokémon a più
+non posso! Acchiappateli tutti!!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0,0,1,0,0,0,0,,0
+13,106-msg_tv_02_02_01_1,"{pageend:Bentornati ad ""Acchiappa il Pokémon""!}
+Anche oggi metterò sotto i riflettori una cattura
+davvero pazzesca! Siete pronti?!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+14,106-msg_tv_02_02_01_2,"L’{tag:0} che ha attirato la nostra attenzione
+stavolta è nien-te-me-no che...
+{tag:1}{pageend:!}
+Ma vi starete chiedendo... Cos’avrà mai
+acchiappato {tag:2} {tag:3}...?
+Un esemplare di... Eh? Aspettate un attimo...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"Allenatore
+Allenatrice",0,0,1,0,0,0,0,,0,-1,21,0,5,0,255,"il nostro
+la nostra",0,0,1,0,0,0,0,,0
+15,106-msg_tv_02_02_01_3,"Dalla regia mi dicono che {tag:0}
+{pageend:non ha acchiappato proprio un bel niente...}
+Ha effettuato {tag:1} lanc{tag:2}, ma non {tag:3} servit{tag:4}...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,2,2,1,0,205,,0,-1,21,1,5,0,1,"io
+i",0,-1,21,1,5,0,1,"è
+sono",0,-1,21,1,5,0,1,"o
+i",0
+16,106-msg_tv_02_02_01_4,"E alla fine, {tag:0} ha mandato
+{pageend:il Pokémon KO...}
+Oh, che fiasco... È una notizia troppo
+sconfortante per essere trasmessa...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+17,106-msg_tv_02_02_01_5,"Ma non buttarti giù, {tag:0}!
+{pageend:Forza e coraggio!}
+Dimentica quel Pokémon! Non era destino
+che fosse tuo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+18,106-msg_tv_02_02_01_6,"La regione di Sinnoh è piena zeppa di Pokémon
+che non aspettano altro di essere acchiappati
+da Allenatori come te!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+19,106-msg_tv_02_02_02_1,"{pageend:Bentornati ad ""Acchiappa il Pokémon""!}
+Anche oggi metterò sotto i riflettori una cattura
+davvero pazzesca! Siete pronti?!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+20,106-msg_tv_02_02_02_2,"L’{tag:0} che ha attirato la nostra attenzione
+stavolta è nien-te-me-no che...
+{tag:1}{pageend:!}
+Ma vi starete chiedendo... Cos’avrà mai
+acchiappato {tag:2} {tag:3}...?
+Un esemplare di... Eh? Aspettate un attimo...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"Allenatore
+Allenatrice",0,0,1,0,0,0,0,,0,-1,21,0,5,0,255,"il nostro
+la nostra",0,0,1,0,0,0,0,,0
+21,106-msg_tv_02_02_02_3,"Dalla regia mi dicono che {tag:0}
+{pageend:non ha acchiappato proprio un bel niente...}
+Ha effettuato {tag:1} lanc{tag:2}, ma non {tag:3} servit{tag:4}...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,2,2,1,0,205,,0,-1,21,1,5,0,1,"io
+i",0,-1,21,1,5,0,1,"è
+sono",0,-1,21,1,5,0,1,"o
+i",0
+22,106-msg_tv_02_02_02_4,"Oh, che fiasco... È una notizia troppo
+{pageend:sconfortante per essere trasmessa...}
+Ma non buttarti giù, {tag:0}!
+Forza e coraggio!!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+23,106-msg_tv_02_02_02_5,"Dimentica quel Pokémon! Non era destino
+{pageend:che fosse tuo!}
+La regione di Sinnoh è piena zeppa di Pokémon
+che non aspettano altro di essere acchiappati
+da Allenatori come te!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+24,106-msg_tv_02_03_01_1,"Benvenuti al nostro consueto appuntamento
+{pageend:con ""A tutta pesca!"".}
+Come sempre, a farci compagnia in studio
+abbiamo Paracelso, il Pescatore eccelso.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+25,106-msg_tv_02_03_01_2,Uhm!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+26,106-msg_tv_02_03_01_3,"Oggi parleremo di {tag:0} e dei suoi
+{pageend:tentativi di pesca.}
+Usando un {tag:1}, {tag:2}
+è riuscit{tag:3} a catturare un bell’esemplare
+di {tag:4}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,9,0,0,0,,0,0,1,0,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0,2,1,1,0,0,0,,0
+27,106-msg_tv_02_03_01_4,Uhm!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+28,106-msg_tv_02_03_01_5,"Signor Paracelso, ci dica: come giudica l’attività
+peschereccia {tag:0} {tag:1}?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"del nostro
+della nostra",0,0,1,0,0,0,0,,0
+29,106-msg_tv_02_03_01_6,"Uhm! Direi che adopera l’amo con destrezza!
+{pageend:Traspare la passione per la pesca!}
+Per quanto mi riguarda, merita 100 punti su 100!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+30,106-msg_tv_02_03_01_7,"Congratulazioni, {tag:0}!
+Promoss{tag:1}{pageend: a pieni voti!}
+Per oggi da noi è tutto, a risentirci!
+E mi raccomando: pescate, pescate, pescate!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0
+31,106-msg_tv_02_03_02_1,"Benvenuti al nostro consueto appuntamento
+{pageend:con ""A tutta pesca!"".}
+Come sempre, a farci compagnia in studio
+abbiamo Paracelso, il Pescatore eccelso.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+32,106-msg_tv_02_03_02_2,Uhm!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+33,106-msg_tv_02_03_02_3,"Oggi parleremo di {tag:0} e dei suoi
+{pageend:tentativi di pesca.}
+Ahimè, pare proprio che {tag:1}
+non riesca a pescare nemmeno un Pokémon...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,0,1,0,0,0,0,,0
+34,106-msg_tv_02_03_02_4,Uhm!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+35,106-msg_tv_02_03_02_5,"Signor Paracelso, ci dica: come giudica l’attività
+peschereccia {tag:0} {tag:1}?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"del nostro
+della nostra",0,0,1,0,0,0,0,,0
+36,106-msg_tv_02_03_02_6,"Uhm! Direi che adopera l’amo con poca
+{pageend:convinzione!}
+Per quanto mi riguarda, merita 5 punti su 100!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+37,106-msg_tv_02_03_02_7,"Ahi ahi, {tag:0}! Solo 5 punti!
+{pageend:Cerca di impegnarti un po’ di più!}
+Per oggi da noi è tutto, a risentirci!
+E mi raccomando: pescate, pescate, pescate!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+38,106-msg_tv_02_04_01_1,"Gentili spettatori, bentornati al nostro
+{pageend:programma ""Gruppi, che passione!"".}
+Anche oggi abbiamo con noi il caro Geppi,
+l’esperto di gruppi!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+39,106-msg_tv_02_04_01_2,Yuhuuu!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+40,106-msg_tv_02_04_01_3,"Sembra che {tag:0} si sia trasferit{tag:1}
+nel gruppo ""{tag:2}{pageend:""...}
+Cosa ne pensa di questo nuovo e sensazionale
+sviluppo?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0,1,1,35,0,0,0,,0
+41,106-msg_tv_02_04_01_4,"Yuhuu! Mah, vi dirò: bene così, no?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+42,106-msg_tv_02_04_01_5,"Parole sagge! Beh, da noi per oggi è tutto!
+Ci vediamo alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+43,106-msg_tv_02_05_01_1,"Uah ah ah ah! Sull’attenti, ciurma! È il capitano
+{pageend:che vi parla! Benvenuti a ""Vento d’avventura""!}
+Spero che il vostro viaggio stia andando
+a gonfie vele!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+44,106-msg_tv_02_05_01_2,"Ci sono tre cose che amo: i Pokémon, il pericolo
+{pageend:e l’avventura!}
+E oggi vi parlerò di qualcuno che condivide
+le mie stesse passioni...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+45,106-msg_tv_02_05_01_3,"Si tratta di {tag:0}! Sentite qui
+che ha fatto quest{tag:1} giovane {tag:2}{pageend:...}
+Mentre si trovava {tag:3},
+si è imbattut{tag:4} nientemeno che in un rarissimo
+{tag:5}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0,-1,21,0,5,0,255,"Allenatore
+Allenatrice",0,1,1,71,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0,2,1,1,0,0,0,,0
+46,106-msg_tv_02_05_01_4,"E non è finita qui! Grazie all’aiuto del fidato
+compagno d’avventura, l’ha persino mandato KO!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+47,106-msg_tv_02_05_01_5,"Che storia entusiasmante, nevvero?
+{pageend:Dateci dentro anche voi, ciurma!}
+L’avventura vi aspetta... Parola di capitano!
+E con ciò, passo e chiudo! Uah ah ah ah!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+48,106-msg_tv_02_05_02_1,"Uah ah ah ah! Sull’attenti, ciurma! È il capitano
+{pageend:che vi parla! Benvenuti a ""Vento d’avventura""!}
+Spero che il vostro viaggio stia andando
+a gonfie vele!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+49,106-msg_tv_02_05_02_2,"Ci sono tre cose che amo: i Pokémon, il pericolo
+{pageend:e l’avventura!}
+E oggi vi parlerò di qualcuno che condivide
+le mie stesse passioni...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+50,106-msg_tv_02_05_02_3,"Si tratta di {tag:0}! Sentite qui
+che ha fatto quest{tag:1} giovane {tag:2}{pageend:...}
+Mentre si trovava {tag:3},
+si è imbattut{tag:4} nientemeno che in un rarissimo
+{tag:5}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0,-1,21,0,5,0,255,"Allenatore
+Allenatrice",0,1,1,71,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0,2,1,1,0,0,0,,0
+51,106-msg_tv_02_05_02_4,"Sfortunatamente, pare che il Pokémon
+sia riuscito a fuggire... Peccato, uah ah ah!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+52,106-msg_tv_02_05_02_5,"Che storia entusiasmante, nevvero?
+{pageend:Dateci dentro anche voi, ciurma!}
+L’avventura vi aspetta... Parola di capitano!
+E con ciò, passo e chiudo! Uah ah ah ah!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+53,106-msg_tv_02_05_03_1,"Uah ah ah ah! Sull’attenti, ciurma! È il capitano
+{pageend:che vi parla! Benvenuti a ""Vento d’avventura""!}
+Spero che il vostro viaggio stia andando
+a gonfie vele!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+54,106-msg_tv_02_05_03_2,"Ci sono tre cose che amo: i Pokémon, il pericolo
+{pageend:e l’avventura!}
+E oggi vi parlerò di qualcuno che condivide
+le mie stesse passioni...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+55,106-msg_tv_02_05_03_3,"Si tratta di {tag:0}! Sentite qui
+che ha fatto quest{tag:1} giovane {tag:2}{pageend:...}
+Mentre si trovava {tag:3},
+si è imbattut{tag:4} nientemeno che in un rarissimo
+{tag:5}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0,-1,21,0,5,0,255,"Allenatore
+Allenatrice",0,1,1,71,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0,2,1,1,0,0,0,,0
+56,106-msg_tv_02_05_03_4,"E non è finita qui! L’ha persino catturato!
+Tanto di cappello!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+57,106-msg_tv_02_05_03_5,"Che storia entusiasmante, nevvero?
+{pageend:Dateci dentro anche voi, ciurma!}
+L’avventura vi aspetta... Parola di capitano!
+E con ciò, passo e chiudo! Uah ah ah ah!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+58,106-msg_tv_02_06_01_1,"{pageend:E adesso passiamo a una notizia dell’ultima ora.}
+{tag:0} ha rinvenuto
+{tag:1}{tag:2}
+{tag:3}.",0,-1,54,1080,1,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0,-1,21,5,5,0,2,,0,2,1,10,0,0,0,,0,0,1,71,0,0,0,,0
+59,106-msg_tv_02_06_01_2,"Non è chiaro come sia avvenuta la scoperta,
+ma stando alle testimonianze {tag:0}
+{pageend:si guardava intorno di continuo, senza darsi pace.}
+E con questa notizia si conclude il telegiornale
+di oggi. Arrivederci.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+60,106-msg_tv_02_08_01_1,"{pageend:Ed ecco a voi l’attesissimo ""Club Uovo giulivo""!}
+L’Uovo di {tag:0} si è schiuso
+{tag:1}...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,71,0,0,0,,0
+61,106-msg_tv_02_08_01_2,"Ed è nato un piccolo {tag:0}!
+Congratulazioni, {tag:1}{pageend:!!!}
+Ah, che cosa meravigliosa che è la vita...
+Beh, per oggi è tutto: al prossimo Uovo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",2,1,1,0,0,0,,0,0,1,0,0,0,0,,0
+82,106-msg_tv_02_10_01_1,"{pageend:Come si dice, ""soprannomen omen""...}
+Ma è vero che cambiando un soprannome
+{pageend:si può cambiare il destino?!}
+Questo e altro nella puntata di oggi di
+""Soprannomastica Show""!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+83,106-msg_tv_02_10_01_2,"Oggi sotto i riflettori c’è {tag:0}{tag:1}
+di {tag:2}{pageend:...}
+{tag:3} ha scelto per lui un nuovo
+soprannome: ""{tag:4}{pageend:""!}
+Chiediamo alla nostra esperta cosa ne pensa...
+Allora, signora giudice? Ci dica la sua.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,3,5,0,1,,0,1,1,1,0,0,0,,0,0,1,0,0,0,0,,0,-1,21,0,5,0,255,"Il suo Allenatore
+La sua Allenatrice",0,2,1,2,0,0,0,,0
+84,106-msg_tv_02_10_01_3,"Sarò sincera, ""{tag:0}"" è
+un soprannome...
+{pageend:eccellente!}
+Sento che in futuro {tag:1} diventerà
+ancora più affascinante!",0,-1,54,1080,1,"0
+0
+0
+-1
+0",2,1,2,0,0,0,,0,2,1,2,0,0,0,,0
+85,106-msg_tv_02_10_01_4,"Ma! E c’è un ma... {tag:0} e il suo
+Pokémon si troveranno in un pantano di guai!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+86,106-msg_tv_02_10_01_5,"{tag:0}, cambiare il soprannome
+{pageend:del tuo Pokémon è stata un’ottima idea!}
+Cerca di dare tanti poffin a {tag:1},
+e vedrai che le cose andranno per il meglio.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,2,1,2,0,0,0,,0
+87,106-msg_tv_02_10_01_6,"Ma ricordati delle parole della nostra esperta,
+{pageend:e fai attenzione quando vai alla Gran Palude!}
+Per oggi è davvero tutto, arrivederci alla
+prossima puntata!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+88,106-msg_tv_02_10_02_1,"{pageend:Come si dice, ""soprannomen omen""...}
+Ma è vero che cambiando un soprannome
+{pageend:si può cambiare il destino?!}
+Questo e altro nella puntata di oggi di
+""Soprannomastica Show""!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+89,106-msg_tv_02_10_02_2,"Oggi sotto i riflettori c’è {tag:0}{tag:1}
+di {tag:2}{pageend:...}
+{tag:3} ha scelto per lui un nuovo
+soprannome: ""{tag:4}{pageend:""!}
+Chiediamo alla nostra esperta cosa ne pensa...
+Allora, signora giudice? Ci dica la sua.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,3,5,0,1,,0,1,1,1,0,0,0,,0,0,1,0,0,0,0,,0,-1,21,0,5,0,255,"Il suo Allenatore
+La sua Allenatrice",0,2,1,2,0,0,0,,0
+90,106-msg_tv_02_10_02_3,"Sarò sincera, ""{tag:0}"" è
+un soprannome...
+{pageend:eccellente!}
+Sento che in futuro {tag:1} diventerà
+ancora più veloce!",0,-1,54,1080,1,"0
+0
+0
+-1
+0",2,1,2,0,0,0,,0,2,1,2,0,0,0,,0
+91,106-msg_tv_02_10_02_4,"Ma! E c’è un ma... {tag:0} e il suo
+Pokémon si troveranno in un pantano di guai!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+92,106-msg_tv_02_10_02_5,"{tag:0}, cambiare il soprannome
+{pageend:del tuo Pokémon è stata un’ottima idea!}
+Vedi di dare tanto Carburante a {tag:1},
+e scommetto che le cose andranno per il meglio.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,2,1,2,0,0,0,,0
+93,106-msg_tv_02_10_02_6,"Ma ricordati delle parole della nostra esperta,
+{pageend:e fai attenzione quando vai alla Gran Palude!}
+Per oggi è davvero tutto, arrivederci alla
+prossima puntata!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+94,106-msg_tv_02_10_03_1,"{pageend:Come si dice, ""soprannomen omen""...}
+Ma è vero che cambiando un soprannome
+{pageend:si può cambiare il destino?!}
+Questo e altro nella puntata di oggi di
+""Soprannomastica Show""!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+95,106-msg_tv_02_10_03_2,"Oggi sotto i riflettori c’è {tag:0}{tag:1}
+di {tag:2}{pageend:...}
+{tag:3} ha scelto per lui un nuovo
+soprannome: ""{tag:4}{pageend:""!}
+Chiediamo alla nostra esperta cosa ne pensa...
+Allora, signora giudice? Ci dica la sua.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,3,5,0,1,,0,1,1,1,0,0,0,,0,0,1,0,0,0,0,,0,-1,21,0,5,0,255,"Il suo Allenatore
+La sua Allenatrice",0,2,1,2,0,0,0,,0
+96,106-msg_tv_02_10_03_3,"Sarò sincera, ""{tag:0}"" è
+un soprannome...
+{pageend:eccellente!}
+Sento che in futuro {tag:1} diventerà
+ancora più profumato!",0,-1,54,1080,1,"0
+0
+0
+-1
+0",2,1,2,0,0,0,,0,2,1,2,0,0,0,,0
+97,106-msg_tv_02_10_03_4,"Ma! E c’è un ma... {tag:0} e il suo
+Pokémon si troveranno in un pantano di guai!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+98,106-msg_tv_02_10_03_5,"{tag:0}, cambiare il soprannome
+{pageend:del tuo Pokémon è stata un’ottima idea!}
+Un Pokémon profumato, che gran fortuna!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+99,106-msg_tv_02_10_03_6,"Ma ricordati delle parole della nostra esperta,
+{pageend:e fai attenzione quando vai alla Gran Palude!}
+Per oggi è davvero tutto, arrivederci alla
+prossima puntata!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+100,106-msg_tv_02_10_04_1,"{pageend:Come si dice, ""soprannomen omen""...}
+Ma è vero che cambiando un soprannome
+{pageend:si può cambiare il destino?!}
+Questo e altro nella puntata di oggi di
+""Soprannomastica Show""!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+101,106-msg_tv_02_10_04_2,"Oggi sotto i riflettori c’è {tag:0}{tag:1}
+di {tag:2}{pageend:...}
+{tag:3} ha scelto per lui un nuovo
+soprannome: ""{tag:4}{pageend:""!}
+Chiediamo alla nostra esperta cosa ne pensa...
+Allora, signora giudice? Ci dica la sua.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,3,5,0,1,,0,1,1,1,0,0,0,,0,0,1,0,0,0,0,,0,-1,21,0,5,0,255,"Il suo Allenatore
+La sua Allenatrice",0,2,1,2,0,0,0,,0
+102,106-msg_tv_02_10_04_3,"Sarò sincera, ""{tag:0}"" è
+un soprannome...
+{pageend:eccellente!}
+Sento che in futuro {tag:1} diventerà
+ancora più forte!",0,-1,54,1080,1,"0
+0
+0
+-1
+0",2,1,2,0,0,0,,0,2,1,2,0,0,0,,0
+103,106-msg_tv_02_10_04_4,"Ma! E c’è un ma... {tag:0} e il suo
+Pokémon si troveranno in un pantano di guai!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+104,106-msg_tv_02_10_04_5,"{tag:0}, cambiare il soprannome
+{pageend:del tuo Pokémon è stata un’ottima idea!}
+Cerca di mandare in campo {tag:1}
+per primo, e vedrai che vincerai ogni lotta.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,2,1,2,0,0,0,,0
+105,106-msg_tv_02_10_04_6,"Ma ricordati delle parole della nostra esperta,
+{pageend:e fai attenzione quando vai alla Gran Palude!}
+Per oggi è davvero tutto, arrivederci alla
+prossima puntata!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+106,106-msg_tv_02_10_05_1,"{pageend:Come si dice, ""soprannomen omen""...}
+Ma è vero che cambiando un soprannome
+{pageend:si può cambiare il destino?!}
+Questo e altro nella puntata di oggi di
+""Soprannomastica Show""!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+107,106-msg_tv_02_10_05_2,"Oggi sotto i riflettori c’è {tag:0}{tag:1}
+di {tag:2}{pageend:...}
+{tag:3} ha scelto per lui un nuovo
+soprannome: ""{tag:4}{pageend:""!}
+Chiediamo alla nostra esperta cosa ne pensa...
+Allora, signora giudice? Ci dica la sua.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,3,5,0,1,,0,1,1,1,0,0,0,,0,0,1,0,0,0,0,,0,-1,21,0,5,0,255,"Il suo Allenatore
+La sua Allenatrice",0,2,1,2,0,0,0,,0
+108,106-msg_tv_02_10_05_3,"Sarò sincera, ""{tag:0}"" è
+un soprannome...
+{pageend:eccellente!}
+Sento che in futuro {tag:1} diventerà
+ancora più felice!",0,-1,54,1080,1,"0
+0
+0
+-1
+0",2,1,2,0,0,0,,0,2,1,2,0,0,0,,0
+109,106-msg_tv_02_10_05_4,"Ma! E c’è un ma... {tag:0} e il suo
+Pokémon si troveranno in un pantano di guai!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+110,106-msg_tv_02_10_05_5,"{tag:0}, cambiare il soprannome
+{pageend:del tuo Pokémon è stata un’ottima idea!}
+{tag:1} diventerà ancora più felice...
+Devo ammettere che un po’ lo invidio!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,2,1,2,0,0,0,,0
+111,106-msg_tv_02_10_05_6,"Ma ricordati delle parole della nostra esperta,
+{pageend:e fai attenzione quando vai alla Gran Palude!}
+Per oggi è davvero tutto, arrivederci alla
+prossima puntata!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+112,106-msg_tv_02_12_01_1,"Andrò adesso ad annunciare il risultato
+{pageend:della Lotteria Pokémon.}
+{pageend:Il numero vincente è...}
+{tag:0}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,2,6,1,0,0,,0
+113,106-msg_tv_02_12_01_2,"{tag:0} è {tag:1},
+{pageend:che si porta a casa...}
+{tag:2}{tag:3}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"Il fortunato vincitore
+La fortunata vincitrice",0,1,1,0,0,0,0,,0,-1,21,6,5,0,2,,0,2,1,10,0,0,0,,0
+114,106-msg_tv_02_13_01_1,"Ed eccoci di nuovo in onda con
+{pageend:""Chi trova un tesoro trova... un tesoro""!}
+Anche oggi abbiamo in studio il nostro ospite,
+lo Scoprirovine.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+115,106-msg_tv_02_13_01_2,"Sì, sono io! Mi avete scoperto, eheheh!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+116,106-msg_tv_02_13_01_3,"Oggi vi andremo a parlare di {tag:0},
+che ha dissotterrato un bel tesoro...
+{tag:1}{tag:2}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,5,5,0,1,,0,1,1,22,0,0,0,,0
+117,106-msg_tv_02_13_01_4,"Non mi stupisce, nei Grandi Sotterranei ci sono
+{pageend:ancora moltissimi tesori da scoprire...}
+{tag:0}{tag:1} non è
+poi tutta questa rarità, insomma!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,6,5,0,1,,0,1,1,22,0,0,0,,0
+118,106-msg_tv_02_13_01_5,"Se mi permette, signor Scoprirovine, lei invece
+non ha una gran fortuna coi tesori...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+119,106-msg_tv_02_13_01_6,"Questo è proprio un colpo basso.
+Da lei non me lo aspettavo!
+Guardi che io scavo a più non posso...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+120,106-msg_tv_02_13_01_7,"{pageend:Beh, in ogni caso per oggi abbiamo concluso!}
+Ci auguriamo che {tag:0} continui
+{pageend:a dissotterrare tesori nascosti!}
+Alla prossima puntata! E ricordate...
+Chi trova un tesoro trova... un tesoro!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+121,106-msg_tv_02_14_01_1,"{pageend:E adesso passiamo a una notizia dell’ultima ora.}
+Nel corso delle sue avventure a Sinnoh,
+{tag:0} è riuscit{tag:1} a sconfiggere
+la Campionessa, assicurandosi un posto
+nella Sala d’Onore!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0
+122,106-msg_tv_02_14_01_2,"Stando alle testimonianze, l’incredibile
+performance di {tag:0} è stata
+decisiva per la vittoria!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,1,0,0,0,,0
+123,106-msg_tv_02_14_01_3,"Ottimo lavoro, {tag:0}! E complimenti
+{tag:1}, {tag:2}{pageend:!}
+... A-Ahem! E con questa notizia si conclude
+il telegiornale di oggi. Arrivederci.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,1,0,0,0,,0,-1,21,0,5,0,255,"al nuovo Campione
+alla nuova Campionessa",0,0,1,0,0,0,0,,0
+124,106-msg_tv_02_15_01_1,"{pageend:E adesso passiamo a una notizia dell’ultima ora.}
+{tag:0} è stat{tag:1} avvistat{tag:2} mentre
+catturava dei Pokémon nella Gran Palude.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0,-1,21,0,5,0,255,"o
+a",0
+125,106-msg_tv_02_15_01_2,"Stando alle testimonianze, il primo Pokémon
+catturato è stato {tag:0}{tag:1}{pageend:...}
+Pare che {tag:2} fosse al colmo
+della felicità.",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,5,5,1,1,,0,1,1,1,0,0,0,,0,0,1,0,0,0,0,,0
+126,106-msg_tv_02_15_01_3,"Le nostre fonti riportano che il Gioco Safari
+si è alla fine concluso con {tag:0} cattur{tag:1}{pageend:.}
+E con questa notizia si conclude il telegiornale
+di oggi. Arrivederci.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",2,2,1,1,0,205,,0,-1,21,1,5,0,2,"a
+e",0
+127,106-msg_tv_02_17_01_1,"{pageend:E adesso passiamo a una notizia dell’ultima ora.}
+{tag:0} è stat{tag:1} avvistat{tag:2} mentre
+dava {tag:3}{tag:4}
+al suo {tag:5}.",0,-1,54,1080,1,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0,-1,21,0,5,0,255,"o
+a",0,-1,21,5,5,0,2,,0,2,1,9,0,0,0,,0,1,1,1,0,0,0,,0
+128,106-msg_tv_02_17_01_2,"Secondo alcune testimonianze, {tag:0}
+{pageend:avrebbe fatto una faccia a dir poco nauseata...}
+Ma pare che {tag:1} non si sia accort{tag:2}
+{pageend:affatto della reazione del suo povero Pokémon.}
+E con questa notizia si conclude il telegiornale
+di oggi. Arrivederci.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,1,0,0,0,,0,0,1,0,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0
+129,106-msg_tv_02_18_01_1,"{pageend:Bentornati a ""Una bacca al giorno...""!}
+Come sempre, con noi in studio c’è il nostro
+baccologo di fiducia!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+130,106-msg_tv_02_18_01_2,Perbacco!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+131,106-msg_tv_02_18_01_3,"Professore, parliamo di {tag:0} e della
+sua pianta di {tag:1}...
+La pianta sta crescendo bene, non trova?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,9,0,0,0,,2
+132,106-msg_tv_02_18_01_4,"Perbacco, ha proprio ragione!
+La pianta ha prodotto {tag:0} {tag:1}{pageend:!}
+{tag:2} ha mostrato una certa abilità
+nell’arte di piantare e annaffiare bacche.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",2,2,1,1,0,205,,0,-1,21,1,5,0,2,"bacca
+bacche",0,0,1,0,0,0,0,,0
+133,106-msg_tv_02_18_01_5,"Sentito, {tag:0}?
+{pageend:Tanto di cappello, da tutti e due!}
+Beh, per oggi è tutto. Arrivederci!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+62,108-msg_tv_01_09_02_1,"Vi do il benvenuto a un nuovo imperdibile
+appuntamento con ""Fenomenale!"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+63,108-msg_tv_01_09_02_2,Clap clap clap!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+64,108-msg_tv_01_09_02_3,"In questa puntata la nostra inviata è andata
+a curiosare all’evento del momento: la mostra
+{pageend:dedicata al DecoraBall!}
+Tenetevi forte, perché questo servizio sarà...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+65,108-msg_tv_01_09_02_4,... fenomenale!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+66,108-msg_tv_01_09_02_5,Allora passiamo la linea alla nostra inviata!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+67,108-msg_tv_01_09_02_6,"{pageend:Salve a tutti!}
+Oggi ci troviamo nientemeno che negli studi
+{pageend:di Giubilo TV!}
+Qui è stata allestita una splendida mostra
+dedicata al DecoraBall, dove sono esposti
+i bolli realmente usati dagli Allenatori più
+{pageend:rappresentativi di Sinnoh.}
+{pageend:Sono tutti così preziosi che...}
+<size=75%>mi viene spontaneo parlare a voce bassa!</size>",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+68,108-msg_tv_01_09_02_7,"Ma bando alla ciance, andiamo subito a sentire
+le impressioni a caldo di una persona che
+si sta letteralmente divorando la mostra
+con gli occhi fin dal suo arrivo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+134,106-msg_tv_02_20_01_1,"Gentili spettatori, bentornati al nostro
+{pageend:programma ""Gruppi, che passione!"".}
+Anche oggi abbiamo con noi il caro Geppi,
+l’esperto di gruppi!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+135,106-msg_tv_02_20_01_2,Yuhuuu!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+136,106-msg_tv_02_20_01_3,"Sembra che {tag:0} abbia creato
+un nuovo gruppo: ""{tag:1}{pageend:""...}
+Cosa ne pensa di questo nuovo e sensazionale
+sviluppo?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,35,0,0,0,,0
+137,106-msg_tv_02_20_01_4,"Yuhuuu! Mah, che dire: bene così, no?
+E bene anche per il gruppo {tag:0}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,35,0,0,0,,0
+138,106-msg_tv_02_20_01_5,"Parole sagge! Beh, da noi per oggi è tutto!
+Ci vediamo alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+139,106-msg_tv_02_21_01_1,"Signore e signori, è arrivato il momento che
+{pageend:aspettavate: è l’ora di ""L’arte dei bolli""!}
+Anche oggi, come di consueto, abbiamo
+in studio Abollo, critico di bolli.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+140,106-msg_tv_02_21_01_2,Salve a tutti.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+141,106-msg_tv_02_21_01_3,"Oggi esamineremo una capsula realizzata
+da {tag:0}.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+142,106-msg_tv_02_21_01_4,"{pageend:Mmh, vediamo un po’...}
+Singolare, quel {tag:0}
+applicato alla capsula...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,77,0,0,0,,0
+143,106-msg_tv_02_21_01_5,"A prima vista potrebbe sembrare messo
+{pageend:a casaccio, alla rinfusa... Nulla di più sbagliato.}
+Qui c’è del metodo, dell’ingegno...
+È tutto calcolato, signori miei...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+144,106-msg_tv_02_21_01_6,"Ma... Un momento, fermi tutti!
+Dentro non c’è un Pokémon qualunque...
+Dentro c’è {tag:0}{tag:1}{pageend:!}
+Chi ha decorato questa capsula ha ben pensato
+di servirsi del bollo per enfatizzare l’istante in cui
+il Pokémon scende in campo... Incredibile!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,5,5,1,2,,0,2,1,1,0,0,0,,0
+145,106-msg_tv_02_21_01_7,"Complimenti, {tag:0}!
+Sei riuscit{tag:1}{pageend: a colpire persino il nostro Abollo!}
+Care telespettatrici e cari telespettatori,
+se volete vedere anche voi la sua capsula...
+Beh, non dovete fare altro che sfidarl{tag:2}{pageend:!}
+Per oggi è davvero tutto, ci vediamo alla
+prossima puntata!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0,-1,21,0,5,0,255,"o
+a",0
+146,106-msg_tv_02_21_02_1,"Signore e signori, è arrivato il momento che
+{pageend:aspettavate: è l’ora di ""L’arte dei bolli""!}
+Anche oggi, come di consueto, abbiamo
+in studio Abollo, critico di bolli.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+147,106-msg_tv_02_21_02_2,Salve a tutti.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+148,106-msg_tv_02_21_02_3,"Oggi esamineremo una capsula realizzata
+da {tag:0}.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+149,106-msg_tv_02_21_02_4,"{pageend:Bah, non mi piace per nulla. Che spreco!}
+Certo, che {tag:0}{tag:1} sia
+{pageend:bello da vedere lo sanno tutti...}
+Ma posizionato in questo modo non rende
+affatto, mi dispiace.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,3,5,0,1,,0,1,1,77,0,0,0,,0
+150,106-msg_tv_02_21_02_5,"Ma... Un momento! Non può essere...
+In questa capsula c’è {tag:0}{tag:1}!!!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,5,5,1,2,,0,2,1,1,0,0,0,,0
+151,106-msg_tv_02_21_02_6,"{pageend:Ma questo cambia tutto!}
+{tag:0} rende il posizionamento
+{tag:1}{tag:2} a dir poco...
+magistrale!",0,-1,54,1080,1,"0
+0
+0
+-1
+0",2,1,1,0,0,0,,0,-1,21,7,5,0,1,,0,1,1,77,0,0,0,,0
+152,106-msg_tv_02_21_02_7,"Ma quindi... {tag:0} ha messo apposta
+{tag:1}{tag:2}{pageend: in quel punto...}
+sapendo benissimo che nella capsula ci sarebbe
+stato {tag:3}{tag:4}!!!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,3,5,0,1,,0,1,1,77,0,0,0,,0,-1,21,5,5,1,2,,0,2,1,1,0,0,0,,0
+153,106-msg_tv_02_21_02_8,"Piccol{tag:0} insolente!! Ingannare così un esperto
+come me! Vergognati, {tag:1}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0,0,1,0,0,0,0,,0
+154,106-msg_tv_02_21_02_9,"Incredibile! {tag:0} è riuscit{tag:1}
+{pageend:a far perdere le staffe persino al nostro Abollo!}
+Care telespettatrici e cari telespettatori,
+se volete vedere anche voi la sua capsula...
+Beh, non dovete fare altro che sfidarl{tag:2}{pageend:!}
+Per oggi è davvero tutto, ci vediamo alla
+prossima puntata!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0,-1,21,0,5,0,255,"o
+a",0
+155,106-msg_tv_02_21_03_1,"Signore e signori, è arrivato il momento che
+{pageend:aspettavate: è l’ora di ""L’arte dei bolli""!}
+Anche oggi, come di consueto, abbiamo
+in studio Abollo, critico di bolli.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+156,106-msg_tv_02_21_03_2,Salve a tutti.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+157,106-msg_tv_02_21_03_3,"Oggi esamineremo una capsula realizzata
+da {tag:0}.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+158,106-msg_tv_02_21_03_4,"Mmh... Vedo che l’{tag:0} di questa capsula
+ha prestato molta attenzione ai particolari...
+E questo {tag:1}{pageend:? Molto bello.}
+Si vede che {tag:2} ha un ottimo
+senso artistico, sì...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"autore
+autrice",0,1,1,77,0,0,0,,0,0,1,0,0,0,0,,0
+159,106-msg_tv_02_21_03_5,"E dentro la capsula c’è... {tag:0}{tag:1}!
+Uah ah ah! Ben fatto, {tag:2}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,5,5,1,2,,0,2,1,1,0,0,0,,0,0,1,0,0,0,0,,0
+160,106-msg_tv_02_21_03_6,"Ottimo lavoro, {tag:0}! Sei riuscit{tag:1}
+{pageend:a conquistare persino il nostro Abollo!}
+Care telespettatrici e cari telespettatori,
+se volete vedere anche voi la sua capsula...
+Beh, non dovete fare altro che sfidarl{tag:2}{pageend:!}
+Per oggi è davvero tutto, ci vediamo alla
+prossima puntata!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0,-1,21,0,5,0,255,"o
+a",0
+192,107-msg_tv_04_01_01_1,"Salve a tutti, e bentornati a ""Paese che vai,
+gruppo che trovi""!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+193,107-msg_tv_04_01_01_2,"Oggi ci troviamo qui per parlare
+di {tag:0}, nonché del gruppo
+{tag:1}, di cui fa parte.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,35,0,0,0,,0
+194,107-msg_tv_04_01_01_3,"Ah, eccol{tag:0} laggiù, è proprio {tag:1}!
+Si vede che {tag:2} piacciono le attività di gruppo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0,0,1,0,0,0,0,,0,-1,21,0,5,0,255,"gli
+le",0
+195,107-msg_tv_04_01_01_4,"E guardate il suo sorriso... È chiaro che in quel
+{pageend:gruppo si sente come a casa!}
+Se dovessi descrivere questo gruppo
+dalla mia personalissima prospettiva...
+Direi che mi ricorda il tipo {tag:0}{pageend:!}
+Per oggi è tutto, a risentirci!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",2,1,3,0,0,0,,0
+196,107-msg_tv_04_02_01_1,"Salve a tutti, qui è Serenella, in diretta
+{pageend:con gli ultimi aggiornamenti meteo!}
+Qui {tag:0} il cielo
+è limpido e terso!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,71,0,0,0,,0
+197,107-msg_tv_04_02_01_2,"Benissimo! Ne approfitterò per stendere
+{pageend:la montagna di bucato che ho accumulato!}
+Per oggi è tutto dalla vostra Serenella...
+Ci vediamo alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+198,107-msg_tv_04_02_02_1,"Salve a tutti, qui è Serenella, in diretta
+{pageend:con gli ultimi aggiornamenti meteo!}
+Qui {tag:0} c’è
+un bellissimo cielo azzurro!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,71,0,0,0,,0
+199,107-msg_tv_04_02_02_2,"È la giornata ideale per salire in sella alla vostra
+{pageend:fidata Bicicletta e pedalare a più non posso!}
+E se finite in mare per il troppo entusiasmo,
+poco male...
+{pageend:Ci penserà questo bel sole ad asciugarvi!}
+Per oggi è tutto dalla vostra Serenella...
+Ci vediamo alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+200,107-msg_tv_04_02_03_1,"Salve a tutti, qui è Serenella, in diretta
+{pageend:con gli ultimi aggiornamenti meteo!}
+Qui {tag:0} c’è
+sereno che più sereno non si può!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,71,0,0,0,,0
+201,107-msg_tv_04_02_03_2,"Sarebbe un peccato starsene in casa
+con un tempo del genere...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+202,107-msg_tv_04_02_03_3,"Fatevi un piccolo regalo, e uscite a crogiolarvi
+{pageend:sotto il sole!}
+Magari fischiettando qualche allegro motivetto...
+{pageend:Con questo sole, tutto è possibile!}
+Per oggi è tutto dalla vostra Serenella...
+Ci vediamo alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+203,107-msg_tv_04_02_04_1,"Salve a tutti, qui è Serenella, in diretta
+{pageend:con gli ultimi aggiornamenti meteo!}
+Qui {tag:0} non c’è
+una nuvola che sia una!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,71,0,0,0,,0
+204,107-msg_tv_04_02_04_2,"È la giornata ideale per fare qualche foto
+{pageend:all’aria aperta!}
+Sotto questo bel sole vi verranno degli scatti
+{pageend:fantastici: parola di Serenella!}
+Per oggi è tutto dalla vostra Serenella...
+Ci vediamo alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+205,107-msg_tv_04_02_05_1,"Salve a tutti, qui è Serenella, in diretta
+{pageend:con gli ultimi aggiornamenti meteo!}
+Qui {tag:0} ci sono
+dei nuvoloni cupi.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,71,0,0,0,,0
+206,107-msg_tv_04_02_05_2,"Del sole non c’è nemmeno l’ombra, ma non
+{pageend:lasciatevi ingannare...}
+È in giornate nuvolose come queste che bisogna
+{pageend:stare particolarmente attenti alle scottature!}
+Per oggi è tutto dalla vostra Serenella...
+Ci vediamo alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+207,107-msg_tv_04_02_06_1,"Salve a tutti, qui è Serenella, in diretta
+{pageend:con gli ultimi aggiornamenti meteo!}
+Qui {tag:0} c’è
+una bella pioggerella!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,71,0,0,0,,0
+208,107-msg_tv_04_02_06_2,"In giorni come questi mi viene voglia di starmene
+rintanata in casa con un po’ di buona musica
+{pageend:e una bella tazza di tè!}
+Starsene al calduccio è l’ideale mentre fuori
+la pioggia bagna la terra e le piante...
+{pageend:E anche qualche malcapitato senza ombrello!}
+Per oggi è tutto dalla vostra Serenella...
+Ci vediamo alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+209,107-msg_tv_04_02_07_1,"Salve a tutti, qui è Serenella, in diretta
+{pageend:con gli ultimi aggiornamenti meteo!}
+Qui {tag:0} c’è
+un vero e proprio acquazzone!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,71,0,0,0,,0
+210,107-msg_tv_04_02_07_2,"È il momento perfetto per uscire di casa senza
+ombrello e gridare i vostri ardenti sentimenti
+{pageend:alla persona che vi fa battere forte il cuore!}
+Aaah, non c’è niente di meglio di una
+{pageend:dichiarazione d’amore sotto la pioggia...!}
+Per oggi è tutto dalla vostra Serenella...
+Ci vediamo alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+211,107-msg_tv_04_02_08_1,"Salve a tutti, qui è Serenella, in diretta
+{pageend:con gli ultimi aggiornamenti meteo!}
+Brrr... Qui {tag:0}
+sta nevicando! Che freddo...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,71,0,0,0,,0
+212,107-msg_tv_04_02_08_2,"Vorrei tornare bambina e divertirmi a tirare
+palle di neve...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+213,107-msg_tv_04_02_08_3,"Ma fa talmente freddo che ho deciso che invece
+andrò subito a casa a fare una bella pennichella
+{pageend:assieme al mio Clefairy!}
+Per oggi è tutto dalla vostra Serenella...
+Ci vediamo alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+214,107-msg_tv_04_02_09_1,"Salve a tutti, qui è Serenella, in diretta
+{pageend:con gli ultimi aggiornamenti meteo!}
+Qui {tag:0} si sta
+abbattendo una bufera di neve!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,71,0,0,0,,0
+215,107-msg_tv_04_02_09_2,"I più intrepidi di voi potrebbero decidere
+di affrontare le intemperie nella speranza
+{pageend:di trovare qualche Pokémon raro...}
+Vi consiglio di vestirvi pesanti e di non
+{pageend:addormentarvi in mezzo alla bufera!}
+Per oggi è tutto dalla vostra Serenella...
+Ci vediamo alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+216,107-msg_tv_04_02_10_1,"Salve a tutti, qui è Serenella, in diretta
+{pageend:con gli ultimi aggiornamenti meteo!}
+Co-Come potete vedere anche voi,
+{tag:0} si sta
+abbattendo una tormenta di neve...!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,71,0,0,0,,0
+217,107-msg_tv_04_02_10_2,"I miei capelli si stanno congelando...
+{pageend:E ho della neve fin su per il naso!}
+Ah, avrei dovuto comprarmi un cappotto
+nuovo con l’ultimo aumento...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+218,107-msg_tv_04_02_10_3,"Malgrado le terribili condizioni atmosferiche,
+{pageend:si vedono ancora alcuni Allenatori in giro...!}
+Mi sembra un po’ azzardato, ma non posso
+fare a meno di dire: ci vuole fegato, ragazzi!
+{pageend:E adesso, per favore, lasciatemi rientrare!}
+Per oggi è tutto dalla vostra Serenella...
+Ci vediamo alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+219,107-msg_tv_04_02_11_1,"Salve a tutti, qui è Serenella, in diretta
+{pageend:con gli ultimi aggiorname...}
+Uaaaaaaaaah!!!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+220,107-msg_tv_04_02_11_2,"Qui {tag:0} c’è
+{pageend:una tempesta in cor...}
+Uaaaaaah! Un altro fulmine!!!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,71,0,0,0,,0
+221,107-msg_tv_04_02_11_3,"Non uscite di casa, mi raccomando! Ricordate...
+{pageend:Chi semina vento, raccoglie tempesta!}
+Per oggi è tutto dalla vostra Serenella!
+Arrivederci, adesso corro a mettermi in salvo!!!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+222,107-msg_tv_04_02_12_1,"Salve a tutti, qui è Serenella, in diretta
+{pageend:con gli ultimi aggiornamenti meteo!}
+Oggi avete la fortuna di assistere a un fenomeno
+atmosferico del tutto eccezionale...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+223,107-msg_tv_04_02_12_2,"Nel cielo qui {tag:0}
+{pageend:c’è una bellissima polvere di diamante!}
+L’aria è piena di meravigliose particelle
+scintillanti... Che spettacolo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,71,0,0,0,,0
+224,107-msg_tv_04_02_12_3,"È l’atmosfera perfetta per una serata romantica
+{pageend:con la persona amata...}
+E ascoltate il mio consiglio: quale occasione
+{pageend:migliore per fare la fatidica domanda?!}
+Per oggi è tutto dalla vostra Serenella...
+Ci vediamo alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+225,107-msg_tv_04_05_01_1,"{pageend:E adesso passiamo a una notizia dell’ultima ora.}
+Sono state avvistate orde di {tag:0}
+{tag:1}.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,1,0,0,0,,0,0,1,71,0,0,0,,0
+226,107-msg_tv_04_05_01_2,"Se vi siete sempre chiesti cosa si prova ad essere
+circondati da {tag:0}{pageend:...}
+O se volete creare una squadra composta
+esclusivamente da {tag:1}{pageend:...}
+Oppure se vi è venuto il ghiribizzo di mettervi
+{tag:2}{tag:3} in testa a mo’ di corona...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,1,0,0,0,,0,1,1,1,0,0,0,,0,-1,21,5,5,0,1,,0,1,1,1,0,0,0,,0
+227,107-msg_tv_04_05_01_3,"... Allora mettete da parte ogni indugio e
+precipitatevi {tag:0}{pageend:!}
+E con questa notizia si conclude il telegiornale
+di oggi. Arrivederci.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,71,0,0,0,,0
+228,107-msg_tv_04_07_01_1,"Bentornati, miei cari fan! Tutti pronti per un’altra
+puntata de ""Il tipo giusto""?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+229,107-msg_tv_04_07_01_2,"Allora, state usando mosse di tipo {tag:0}{pageend:?}
+Sono superefficaci contro i Pokémon
+di tipo {tag:1}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,3,0,0,0,,0,1,1,3,0,0,0,,0
+230,107-msg_tv_04_07_01_3,"Quanto sono efficaci, mi chiedete?
+Facile: quanto uno dei miei affascinanti sorrisi!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+231,107-msg_tv_04_07_01_4,"E per oggi è tutto, e ricordate: se avete delle
+lettere per me, affidatele ai vostri Pokémon alati.
+{pageend:Al resto ci penseranno loro!}
+Chi lo sa... Forse qualcuno tra voi avrà la fortuna
+{pageend:di incontrare me, il grande Fantallenatore!}
+A presto!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+232,107-msg_tv_04_07_02_1,"Bentornati, miei cari fan! Tutti pronti per un’altra
+puntata de ""Il tipo giusto""?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+233,107-msg_tv_04_07_02_2,"Allora, state usando mosse di tipo {tag:0}{pageend:?}
+Contro i Pokémon di tipo {tag:1}
+sono ok, anche se non eccezionali.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,3,0,0,0,,0,1,1,3,0,0,0,,0
+234,107-msg_tv_04_07_02_3,"Come tutti i Fantallenatori se paragonati a me,
+in pratica!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+235,107-msg_tv_04_07_02_4,"E per oggi è tutto, e ricordate: se avete delle
+lettere per me, affidatele ai vostri Pokémon alati.
+{pageend:Al resto ci penseranno loro!}
+Chi lo sa... Forse qualcuno tra voi avrà la fortuna
+{pageend:di incontrare me, il grande Fantallenatore!}
+A presto!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+236,107-msg_tv_04_07_03_1,"Bentornati, miei cari fan! Tutti pronti per un’altra
+puntata de ""Il tipo giusto""?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+237,107-msg_tv_04_07_03_2,"Allora, state usando mosse di tipo {tag:0}{pageend:?}
+Ahimè, non sono molto efficaci contro i Pokémon
+di tipo {tag:1}.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,3,0,0,0,,0,1,1,3,0,0,0,,0
+238,107-msg_tv_04_07_03_3,"Mi ricordano tutti gli Allenatori che mi imitano...
+Che tristezza, amici miei!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+239,107-msg_tv_04_07_03_4,"E per oggi è tutto, e ricordate: se avete delle
+lettere per me, affidatele ai vostri Pokémon alati.
+{pageend:Al resto ci penseranno loro!}
+Chi lo sa... Forse qualcuno tra voi avrà la fortuna
+{pageend:di incontrare me, il grande Fantallenatore!}
+A presto!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+240,107-msg_tv_04_07_04_1,"Bentornati, miei cari fan! Tutti pronti per un’altra
+puntata de ""Il tipo giusto""?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+241,107-msg_tv_04_07_04_2,"Allora, state usando mosse di tipo {tag:0}{pageend:?}
+Sono assolutamente inutili contro i Pokémon
+di tipo {tag:1}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,3,0,0,0,,0,1,1,3,0,0,0,,0
+242,107-msg_tv_04_07_04_3,"Inutili come gli sforzi di quegli Allenatori
+invidiosi che tentano di ostacolarmi!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+243,107-msg_tv_04_07_04_4,"E per oggi è tutto, e ricordate: se avete delle
+lettere per me, affidatele ai vostri Pokémon alati.
+{pageend:Al resto ci penseranno loro!}
+Chi lo sa... Forse qualcuno tra voi avrà la fortuna
+{pageend:di incontrare me, il grande Fantallenatore!}
+A presto!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+244,107-msg_tv_04_09_01_1,"Ehi, ehi, ehi! Bentornati, amici delle bacche!
+Che si dice? Come butta? Come ve la passate?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+245,107-msg_tv_04_09_01_2,"Spero che le vostre bacche stiano crescendo
+rigogliose! Ma bando alle ciance...
+È giunta l’ora di ""Perbacco, che bacca!"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+246,107-msg_tv_04_09_01_3,"Siete mai stati {tag:0}{pageend:?}
+Io ci sono andato proprio oggi, sperando
+di trovare qualche bella bacca...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,71,0,0,0,,0
+247,107-msg_tv_04_09_01_4,"E non ci crederete, ma... le ho trovate!
+{pageend:Il mio viaggio è stato un successone!}
+Avevo il cuore che batteva all’impazzata...
+Ah, che felicità!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+248,107-msg_tv_04_09_01_5,"Alla fine, però, le ho lasciate lì dov’erano...
+{pageend:Consideratele un piccolo regalo da parte mia!}
+Beh, per oggi è tutto! Ci do un taglio! La pianto!
+Alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+249,107-msg_tv_04_09_02_1,"Ehi, ehi, ehi! Bentornati, amici delle bacche!
+Che si dice? Come butta? Come ve la passate?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+250,107-msg_tv_04_09_02_2,"Spero che le vostre bacche stiano crescendo
+rigogliose! Ma bando alle ciance...
+È giunta l’ora di ""Perbacco, che bacca!"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+251,107-msg_tv_04_09_02_3,"Siete mai stati {tag:0}{pageend:?}
+Io ci sono andato proprio oggi, sperando
+di trovare qualche bella bacca...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,71,0,0,0,,0
+252,107-msg_tv_04_09_02_4,"E non ci crederete, ma... non ce n’erano proprio!
+{pageend:In compenso, però, ho trovato dei bei fiori!}
+Sapeste che buon profumo avevano, e con che
+grazia si facevano accarezzare dal vento!
+Solo a vederli, è sbocciata in me la gioia!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+253,107-msg_tv_04_09_02_5,"Si vede che stanno per spuntare delle fantastiche
+{pageend:bacche... Non vedo l’ora!}
+Beh, per oggi è tutto! Ci do un taglio! La pianto!
+Alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+254,107-msg_tv_04_09_03_1,"Ehi, ehi, ehi! Bentornati, amici delle bacche!
+Che si dice? Come butta? Come ve la passate?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+255,107-msg_tv_04_09_03_2,"Spero che le vostre bacche stiano crescendo
+rigogliose! Ma bando alle ciance...
+È giunta l’ora di ""Perbacco, che bacca!"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+256,107-msg_tv_04_09_03_3,"Siete mai stati {tag:0}{pageend:?}
+Io ci sono andato proprio oggi, sperando
+di trovare qualche bella bacca...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,71,0,0,0,,0
+257,107-msg_tv_04_09_03_4,"E non ci crederete, ma... non ce n’erano proprio!
+{pageend:Eppure niente è ancora perduto!}
+Ho visto delle piante che crescevano rigogliose,
+{pageend:e con esse crescevano anche le mie speranze!}
+Vedrete, ancora un po’ di pazienza e
+sbocceranno presto dei meravigliosi fiori!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+258,107-msg_tv_04_09_03_5,"Beh, per oggi è tutto! Ci do un taglio! La pianto!
+Alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+259,107-msg_tv_04_09_04_1,"Ehi, ehi, ehi! Bentornati, amici delle bacche!
+Che si dice? Come butta? Come ve la passate?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+260,107-msg_tv_04_09_04_2,"Spero che le vostre bacche stiano crescendo
+rigogliose! Ma bando alle ciance...
+È giunta l’ora di ""Perbacco, che bacca!"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+261,107-msg_tv_04_09_04_3,"Siete mai stati {tag:0}{pageend:?}
+Io ci sono andato proprio oggi, sperando
+di trovare qualche bella bacca...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,71,0,0,0,,0
+262,107-msg_tv_04_09_04_4,"E non ci crederete, ma... non ce n’erano proprio!
+Ma quel che ho visto mi ha riempito di gioia...
+Dei bellissimi germogli, simbolo della vita stessa!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+263,107-msg_tv_04_09_04_5,"Mi raccomando, state tutti attenti a non
+{pageend:calpestarli!}
+Beh, per oggi è tutto! Ci do un taglio! La pianto!
+Alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+264,107-msg_tv_04_09_05_1,"Ehi, ehi, ehi! Bentornati, amici delle bacche!
+Che si dice? Come butta? Come ve la passate?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+265,107-msg_tv_04_09_05_2,"Spero che le vostre bacche stiano crescendo
+rigogliose! Ma bando alle ciance...
+È giunta l’ora di ""Perbacco, che bacca!"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+266,107-msg_tv_04_09_05_3,"Siete mai stati {tag:0}{pageend:?}
+Io ci sono andato proprio oggi, sperando
+di trovare qualche bella bacca...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,71,0,0,0,,0
+267,107-msg_tv_04_09_05_4,"E non ci crederete, ma... non ce n’erano proprio!
+Ho viaggiato fino a lì per nulla...
+Che gran delusione, amici miei!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+268,107-msg_tv_04_09_05_5,"Si vede che qualcuno le ha raccolte tutte...
+{pageend:Beh, spero che ne stia facendo buon uso!}
+Beh, per oggi è tutto! Anzi... per oggi è niente!
+Alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+269,104-msg_tv_03_01_01_1,"{pageend:Bentornati a... ""Batti il record!"".}
+Oggi vi parleremo di un record stabilito
+da una persona davvero abile nella Torre Lotta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+270,104-msg_tv_03_01_01_2,"Abile nella Torre Lotta, hai detto?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+271,104-msg_tv_03_01_01_3,"Sì, Loretta, proprio così! Mi riferisco ovviamente
+a {tag:0} e alla sua squadra, guidata
+nientepopodimeno che da {tag:1}{pageend:!}
+Il record di oggi è stato registrato nelle
+Lotte in Singolo, con... Accidenti!
+Ben {tag:2} vittorie consecutive!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,1,0,0,0,,0,2,2,3,1,0,1,,0
+272,104-msg_tv_03_01_01_4,Si vede che a loro piace scalare le classifiche.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+273,104-msg_tv_03_01_01_5,"Ma no, ma no, non è come dici!
+L’hanno fatto per la gloria! Per la fama!
+Ma adesso dobbiamo lasciarvi... Alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+274,104-msg_tv_03_01_02_1,"{pageend:Bentornati a... ""Batti il record!"".}
+Oggi vi parleremo di un record stabilito
+da una persona davvero abile nella Torre Lotta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+275,104-msg_tv_03_01_02_2,"Abile nella Torre Lotta, hai detto?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+276,104-msg_tv_03_01_02_3,"Sì, Loretta, proprio così! Mi riferisco ovviamente
+a {tag:0} e alla sua squadra, guidata
+nientepopodimeno che da {tag:1}{pageend:!}
+Il record di oggi è stato registrato nelle
+Lotte in Doppio, con... Accidenti!
+Ben {tag:2} vittorie consecutive!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,1,0,0,0,,0,2,2,3,1,0,1,,0
+277,104-msg_tv_03_01_02_4,"Si vede che avevano paura di provare
+le Lotte in Singolo.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+278,104-msg_tv_03_01_02_5,"Ma no, ma no, non è come dici!
+Guarda che anche le Lotte in Doppio sono toste!
+Ma adesso dobbiamo lasciarvi... Alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+279,104-msg_tv_03_03_01_1,"{pageend:Bentornati a... ""Batti il record!"".}
+Oggi vi parleremo di un enorme Pokémon
+che ha battuto ogni record di grandezza!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+280,104-msg_tv_03_03_01_2,"Un Pokémon enorme, hai detto?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+281,104-msg_tv_03_03_01_3,"Sì, Loretta, proprio così! Stiamo parlando
+{tag:0}{tag:1} di {tag:2}{pageend:!}
+Questo enorme Pokémon ha battuto ogni record
+grazie alle sue dimensioni di... Accidenti!
+Ben {tag:3},{tag:4} cm!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,7,5,1,1,,0,1,1,1,0,0,0,,0,0,1,0,0,0,0,,0,2,2,2,1,0,205,,0,3,2,0,1,0,205,,0
+282,104-msg_tv_03_03_01_4,"Ma un Pokémon così non ci starà mai sul palmo
+della mia mano...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+283,104-msg_tv_03_03_01_5,"Ma no, ma no! Certo che no! Ma, soprattutto...
+Perché vuoi metterlo sul palmo della mano?
+Ma adesso dobbiamo lasciarvi... Alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+284,104-msg_tv_03_05_01_1,"{pageend:Bentornati a... ""Batti il record!"".}
+Oggi vi parleremo di un record stabilito
+da una persona che se ne intende di fiocchi!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+285,104-msg_tv_03_05_01_2,"Fiocchi? Quali fiocchi? Io non ne ho mica,
+tra i capelli...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+286,104-msg_tv_03_05_01_3,"{pageend:Ma no, Loretta! Parliamo di fiocchi dei Pokémon!}
+Devi sapere che {tag:0}{tag:1}
+di {tag:2} ha appena ricevuto
+un bellissimo {tag:3}{pageend:...}
+E pare che questo Pokémon sia un vero e proprio
+collezionista, perché in totale ha ricevuto... Wow!
+Ben {tag:4} {tag:5}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,3,5,1,1,,0,1,1,1,0,0,0,,0,0,1,0,0,0,0,,0,2,1,38,0,0,0,,0,3,2,2,1,0,205,,0,-1,21,1,5,0,3,"fiocco
+fiocchi",0
+287,104-msg_tv_03_05_01_4,"Chissà se gli stanno bene, almeno.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+288,104-msg_tv_03_05_01_5,"Ma su, ma su! Non preoccupiamoci di queste
+{pageend:minuzie!}
+Ma adesso dobbiamo lasciarvi... Alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+289,104-msg_tv_03_06_01_1,"{pageend:Bentornati a... ""Batti il record!"".}
+Oggi vi parleremo di un record stabilito
+da una persona che se ne intende di bacche!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+290,104-msg_tv_03_06_01_2,"Se ne intende di bacche, hai detto? Che ha
+fatto? Ha trovato una bacca piccolissima?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+291,104-msg_tv_03_06_01_3,"Ma no, Loretta! Qui non si parla di dimensioni,
+{pageend:ma di quantità!}
+{tag:0} ha fatto crescere una bella
+pianta di {tag:1}{pageend:!}
+E l’ha fatto con una tale maestria che è riuscit{tag:2}
+a raccogliere un’infinità di bacche!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,9,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0
+292,104-msg_tv_03_06_01_4,Avrà fatto una gran scorpacciata!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+293,104-msg_tv_03_06_01_5,"Ma no, ma no, non se le è di certo mangiate
+{tag:0}, le bacche!
+Ma adesso dobbiamo lasciarvi... Alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+294,104-msg_tv_03_07_01_1,"{pageend:Bentornati a... ""Batti il record!"".}
+Oggi vi parleremo di un record stabilito da una
+persona che se ne intende di erba frusciante!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+295,104-msg_tv_03_07_01_2,"Erba frusciante...?
+E cos’è? Si mangia tipo insalata?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+296,104-msg_tv_03_07_01_3,"Ma no, Loretta! Non stiamo parlando di cibo,
+{pageend:ma di Pokémon!}
+Sentite un po’... Pare che {tag:0} sia
+riuscit{tag:1} a incontrare lo stesso Pokémon selvatico
+per... Oh! Ben {tag:2} {tag:3} di seguito!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0,1,2,2,1,0,205,,0,-1,21,1,5,0,1,"volta
+volte",0
+297,104-msg_tv_03_07_01_4,Siamo sicuri che non sia solo una coincidenza?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+298,104-msg_tv_03_07_01_5,"Ma no, ma no, non è come dici! Non basta mica
+un po’ di fortuna per ottenere questi record!
+Ma adesso dobbiamo lasciarvi... Alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+327,105-msg_tvcm_01,"Centro Pokémon: sempre al tuo fianco,
+in ogni avventura!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+328,105-msg_tvcm_02,Pokémon-Market: il ritrovo delle persone felici!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+329,105-msg_tvcm_03,"Questo programma è stato gentilmente offerto
+da Giubilo TV!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+330,105-msg_tvcm_04,"I Pokémon vanno trattati con i guanti!
+Impara come fare alla Scuola per Allenatori!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+331,105-msg_tvcm_05,La felicità è un PokéKron al polso!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+332,105-msg_tvcm_06,"Sono finalmente disponibili nuove applicazioni
+{pageend:per il tuo fidato PokéKron!}
+Non rinviare a domani... Passa oggi stesso
+dalla PokéKron S.p.A. di Giubilopoli!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+333,105-msg_tvcm_07,"Fiorista Milletinte, il tuo fiorista di fiducia.
+Vieni da noi, e coloreremo la tua vita!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+334,105-msg_tvcm_08,"{pageend:Cambia marcia anche tu!}
+Se cerchi gli ultimi modelli di Biciclette, passa
+subito al Negozio di bici di Gigi Manubrio!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+335,105-msg_tvcm_09,"Il pinnacolo della bellezza!
+{pageend:Un’eleganza straripante!}
+Emozioni a non finire!
+Le Super Gare-show di Cuoripoli!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+336,105-msg_tvcm_10,"Per un attimo di relax assieme al tuo amato
+Pokémon...
+... Fai un salto al Parco Concordia di Cuoripoli!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+337,105-msg_tvcm_11,"Vieni a trovarci al Centro Commerciale
+di Rupepoli... Dove i sorrisi sono garantiti!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+338,105-msg_tvcm_12,"Vuoi la moda più fashion? Cerchi i capi più chic?
+{pageend:Sogni i vestiti più trendy?}
+Fai un salto all’Angolo del look Il Metronomo
+di Rupepoli, e trova lo stile che fa per te!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+339,105-msg_tvcm_13,"All’Ostello Pokémon di Flemminia ci prendiamo
+cura dei tuoi Pokémon con amore!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+340,105-msg_tvcm_14,Hotel Grande Lago: per gente di classe!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+341,105-msg_tvcm_15,"Una natura incontaminata, abitata solo
+{pageend:dai Pokémon più esotici...}
+Prova anche tu il Gioco Safari della Gran Palude
+di Pratopoli.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+342,105-msg_tvcm_16,"Nevepoli, la meta ideale per chi ama la neve!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+343,105-msg_tvcm_17,"Il cuore pulsante di Arenipoli!
+{pageend:La cucina di Sinnoh!}
+Vieni ad assaggiare i nostri prodotti
+al Mercato di Arenipoli.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+344,105-msg_tvcm_18,"Collegati con il mondo e trova nuovi amici
+grazie alla SPG, la Stazione Prodigiosa Globale!
+Ti aspettiamo a Giubilopoli!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+345,105-msg_tvcm_19,"Pokémon! Pokémon! We’re full of Pokémon
+at Renegade Park!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+346,105-msg_tvcm_20,"Servizio di traghetti ad alta velocità
+{pageend:per la Zona Lotta!}
+Partenze giornaliere da Nevepoli!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+347,105-msg_tvcm_21,"Per Allenatori e Pokémon alla ricerca di una
+{pageend:vera sfida...}
+La Zona Lotta è pronta a mettere tutti
+gli Allenatori alla prova!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+348,105-msg_tvcm_22,"Associazione dei Fiocchi, per Allenatori raffinati.
+Riservata ai soci.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+349,105-msg_tvcm_23,"Un mondo di pace!
+Team Galassia",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+350,105-msg_tvcm_24,"L’energia dei sogni!
+Team Galassia",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+351,105-msg_tvcm_25,"Fai incetta di bei momenti assieme
+{pageend:ai tuoi amici vicini...}
+Sala locale: ciò che vi unisce.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+352,105-msg_tvcm_26,"Incontra nuove persone quando vuoi,
+{pageend:dove vuoi...}
+L’amicizia non ha confini, al Club globale!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+353,105-msg_tvcm_27,"Se desideri cimentarti nella lotta al livello
+{pageend:più alto che ci sia...}
+Vieni alla Torre Lotta! Ti garantiamo le lotte
+più epiche a cui tu abbia mai partecipato.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+354,105-msg_tvcm_28,"Lo sapevi? La Torre Lotta nasconde un segreto...
+{pageend:E le sue porte sono spalancate a tutto il mondo!}
+Potrai sfidare Allenatori provenienti da ogni
+angolo di questo pianeta...
+Come te la caverai contro di loro?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+355,105-msg_tvcm_29,"Non tutti i lidi possono essere raggiunti
+{pageend:con l’aiuto di Surf!}
+Quando la tavola non basta, c’è la Motonave
+Sinnoh! Veloce, sicura e rilassante!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+357,107-msg_tv_04_11_01_1,"{pageend:Bentornati a ""La scienza dei Pokémon""!}
+Oggi esamineremo un Pokémon selvatico
+direttamente sul campo.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+358,107-msg_tv_04_11_01_2,"Oh, ho giusto avvistato {tag:0}{tag:1}
+{pageend:selvatico... Fa proprio al caso nostro!}
+Mmmh? Sbaglio o ha con sé uno strumento?
+Andiamo a dare un’occhiata da vicino!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,5,5,1,0,,0,0,1,1,0,0,0,,0
+359,107-msg_tv_04_11_01_3,"Ehi, tu! Mi fai guardare un attimo cos’hai lì?
+Vediamo un po’...
+{pageend:Ahi! Che dolore! Mi ha graffiato il dito!}
+{pageend:Ma poco male, per la ricerca questo e altro!}
+Ora sappiamo che è possibile incontrare
+{tag:0} selvatici che hanno con sé
+{tag:1}{tag:2}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,1,0,0,0,,0,-1,21,5,5,0,1,,0,1,1,10,0,0,0,,0
+360,107-msg_tv_04_11_01_4,"Grazie mille, {tag:0}!
+E rieccoti {tag:1} {tag:2}...
+Aaahia! Povero me! Mi ha graffiato di nuovo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,1,0,0,0,,0,-1,21,2,5,0,1,"il tuo
+la tua
+i tuoi
+le tue",0,1,1,9,0,0,0,,0
+361,107-msg_tv_04_11_01_5,"I Pokémon se la prendono sempre con me...
+Beh, adesso devo andare! A presto!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+362,108-msg_tv_01_02_01_1,"Ehilà! Rieccoci con l’ultima edizione
+di ""Lotte, lotte e ancora lotte"", la rubrica
+dedicata ai fanatici della Torre Lotta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+363,108-msg_tv_01_02_01_2,"Oggi parleremo con {tag:0}, che si è
+fatt{tag:1} valere alla Torre Lotta collezionando...
+Accipicchia! Ben {tag:2}{pageend: vittorie consecutive!}
+Bene, sentiamo un po’ le impressioni a caldo
+di {tag:3}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0,0,2,2,1,0,205,,0,1,1,0,0,0,0,,0
+364,108-msg_tv_01_02_01_3,"{pageend:Uhm, uhm... Capisco... Mmmh, mmmh...}
+Dunque: si sente come il sole che brilla alto
+nei cieli della vittoria...!
+{pageend:Ma che poesia, ma che belle parole!}
+Traspare appieno il suo entusiasmo
+per le {tag:0} vittorie consecutive!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+365,108-msg_tv_01_02_01_4,"Beh, per oggi è tutto! Venite anche voi alla
+Torre Lotta! Il divertimento è assicurato!
+Ci si vede! Ciaooo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+366,108-msg_tv_01_02_02_1,"Ehilà! Rieccoci con l’ultima edizione
+di ""Lotte, lotte e ancora lotte"", la rubrica
+dedicata ai fanatici della Torre Lotta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+367,108-msg_tv_01_02_02_2,"Oggi parleremo di {tag:0}, che alla
+Torre Lotta si è fatt{tag:1} sfuggire il record di...
+Ahi ahi, ben {tag:2}{pageend: vittorie consecutive...}
+Andiamo ad ascoltare le impressioni a caldo
+di {tag:3}.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0,0,2,2,1,0,205,,0,1,1,0,0,0,0,,0
+368,108-msg_tv_01_02_02_3,"{pageend:Uhm, uhm... Capisco... Mmmh, mmmh...}
+Dunque: si sente come un Magikarp travolto
+dall’ondata del rimpianto...!
+{pageend:Ma che dramma, ma che parole struggenti!}
+Traspare appieno il lato più duro delle lotte!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+369,108-msg_tv_01_02_02_4,"Beh, per oggi è tutto! Venite anche voi alla
+Torre Lotta! Il divertimento è assicurato!
+Ci si vede! Ciaooo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+370,108-msg_tv_01_04_01_1,"Bentornati a ""I vostri Pokémon""!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+371,108-msg_tv_01_04_01_2,"Oggi vi parleremo di {tag:0}, l’amato
+{tag:1} di {tag:2}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",2,1,2,0,0,0,,0,1,1,1,0,0,0,,0,0,1,0,0,0,0,,0
+372,108-msg_tv_01_04_01_3,"Cosa significa il tuo caro {tag:0}
+per te, {tag:1}{pageend:?}
+Dunque... È sempre al tuo fianco... Mh-mh...
+Quando dormi, quando sei svegli{tag:2}... Capisco...
+{pageend:Insomma, è un compagno insostituibile... Ok!}
+Grazie mille, {tag:3}!
+Si vede che andate d’amore e d’accordo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",2,1,2,0,0,0,,0,0,1,0,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0,0,1,0,0,0,0,,0
+373,108-msg_tv_01_04_01_4,"Per oggi è tutto, cari telespettatori! Continuate
+a mostrarci i vostri Pokémon del cuore!
+Alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+374,108-msg_tv_01_05_01_1,"Salve... E bentornati a ""Gli strumenti che vi
+{pageend:rendono contenti""...}
+Ecco uno strumento consigliato da
+{tag:0}, proveniente da Duefoglie...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+375,108-msg_tv_01_05_01_2,"{tag:0}{tag:1}{pageend:...}
+Cari telespettatori, fatemi sapere... Quali sono
+{pageend:gli strumenti che vi rendono più contenti...?}
+Per oggi è tutto, ma prima di lasciarci vi saluterò
+con queste parole...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,4,5,0,1,,0,1,1,9,0,0,0,,0
+376,108-msg_tv_01_05_01_3,"""Ah, {tag:0}{tag:1}... Quanti bei
+{pageend:ricordi...""}
+Questo programma è stato gentilmente offerto
+dal Pokémon-Market... Arrivederci...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,3,5,0,1,,0,1,1,9,0,0,0,,0
+377,108-msg_tv_01_05_02_1,"Salve... E bentornati a ""Gli strumenti che vi
+{pageend:rendono contenti""...}
+Ecco uno strumento consigliato da
+{tag:0}, proveniente da Duefoglie...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+378,108-msg_tv_01_05_02_2,"{tag:0}{tag:1}{pageend:...}
+Cari telespettatori, fatemi sapere... Quali sono
+{pageend:gli strumenti che vi rendono più contenti...?}
+Per oggi è tutto, ma prima di lasciarci vi saluterò
+con queste parole...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,4,5,0,1,,0,1,1,9,0,0,0,,0
+379,108-msg_tv_01_05_02_3,"""Ah, {tag:0}{tag:1}... {tag:2}
+{tag:3}{pageend:...}
+Questo programma è stato gentilmente offerto
+dal Pokémon-Market... Arrivederci...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,3,5,0,1,,0,1,1,9,0,0,0,,0,-1,21,2,5,0,1,"Il mio unico
+La mia unica
+I miei unici
+Le mie uniche",0,-1,21,2,5,0,1,"vero amico
+vera amica
+veri amici
+vere amiche",0
+380,108-msg_tv_01_05_03_1,"Salve... E bentornati a ""Gli strumenti che vi
+{pageend:rendono contenti""...}
+Ecco uno strumento consigliato da
+{tag:0}, proveniente da Duefoglie...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+381,108-msg_tv_01_05_03_2,"{tag:0}{tag:1}{pageend:...}
+Cari telespettatori, fatemi sapere... Quali sono
+{pageend:gli strumenti che vi rendono più contenti...?}
+Per oggi è tutto, ma prima di lasciarci vi saluterò
+con queste parole...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,4,5,0,1,,0,1,1,9,0,0,0,,0
+382,108-msg_tv_01_05_03_3,"""{tag:0} {tag:1}{tag:2}
+la salvezza di {tag:3}{pageend:...""}
+Questo programma è stato gentilmente offerto
+dal Pokémon-Market... Arrivederci...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,1,5,0,1,"Sarà
+Saranno",0,-1,21,5,5,0,1,,0,1,1,9,0,0,0,,0,0,1,0,0,0,0,,0
+383,108-msg_tv_01_05_04_1,"Salve... E bentornati a ""Gli strumenti che vi
+{pageend:rendono contenti""...}
+Ecco uno strumento consigliato da
+{tag:0}, proveniente da Duefoglie...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+384,108-msg_tv_01_05_04_2,"{tag:0}{tag:1}{pageend:...}
+Cari telespettatori, fatemi sapere... Quali sono
+{pageend:gli strumenti che vi rendono più contenti...?}
+Per oggi è tutto, ma prima di lasciarci vi saluterò
+con queste parole...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,4,5,0,1,,0,1,1,9,0,0,0,,0
+385,108-msg_tv_01_05_04_3,"""{tag:0} è compost{tag:1} al 50%
+da {tag:2}{pageend:...""}
+Questo programma è stato gentilmente offerto
+dal Pokémon-Market... Arrivederci...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0,1,1,9,0,0,0,,0
+386,108-msg_tv_01_06_01_1,"È arrivato il momento che tutti aspettavate...
+{pageend:Esatto... È scattata ""L’ora del PokéKron""!}
+Oggi daremo un’occhiata all’app preferita
+di {tag:0}...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+387,108-msg_tv_01_06_01_2a,"L’app più apprezzata da {tag:0} è...
+""{tag:1}""!
+{pageend:E come mai, vi chiederete voi?}
+Ecco cos’ha detto {tag:2} in merito:
+""È un’app facilissima da usare!"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,21,0,0,0,,0,0,1,0,0,0,0,,0
+388,108-msg_tv_01_06_01_2b,"L’app più apprezzata da {tag:0} è...
+""{tag:1}""!
+{pageend:E come mai, vi chiederete voi?}
+Ecco cos’ha detto {tag:2} in merito:
+""Ha un’interfaccia davvero adorabile!"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,21,0,0,0,,0,0,1,0,0,0,0,,0
+389,108-msg_tv_01_06_01_2c,"L’app più apprezzata da {tag:0} è...
+""{tag:1}""!
+{pageend:E come mai, vi chiederete voi?}
+Ecco cos’ha detto {tag:2} in merito:
+""È un’app rilassante, mi aiuta a prendere sonno!"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,21,0,0,0,,0,0,1,0,0,0,0,,0
+390,108-msg_tv_01_06_01_3,"{pageend:Beh, che dire? Ha ragione da vendere!}
+Fate anche voi come {tag:0} {tag:1},
+{pageend:e mostrate a tutti quanto ne sapete di PokéKron!}
+Per oggi è tutto... Alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"il nostro
+la nostra",0,0,1,0,0,0,0,,0
+391,108-msg_tv_01_07_01_1,"{pageend:Ed eccoci qui in diretta dall’Arena delle Virtù!}
+L’arena è gremita di Allenatori giunti da tutta
+Sinnoh assieme ai loro fidati Pokémon...
+Si respira un’aria di tensione ed entusiasmo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+392,108-msg_tv_01_07_01_2,"Oh, ma ecco alcuni sfidanti che hanno appena
+{pageend:terminato la Gara!}
+Andiamogli incontro per strappargli un’intervista!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+393,108-msg_tv_01_07_01_3,"{pageend:Salve! Siamo di Giubilo TV! Dunque...}
+Questo {tag:0} ha partecipato
+a una {tag:1}
+di {tag:2}?",0,-1,54,1080,1,"0
+0
+0
+-1
+0",0,1,1,0,0,0,,0,1,1,31,0,0,0,,0,2,1,32,0,0,0,,0
+394,108-msg_tv_01_07_01_4,Un commento a caldo sul risultato?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+549,109-msg_tv_interview_deco01,Pedro,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+550,109-msg_tv_interview_deco02,Gardenia,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+551,109-msg_tv_interview_deco03,Marzia,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+395,108-msg_tv_01_07_01_5d,"Come, come?
+{pageend:...}
+Capisco...
+{pageend:...}
+Mmh, chiaro...
+...
+{pageend:Dunque, riassumendo...}
+Vi siete sentiti tutt’uno con gli spettatori,
+e questo vi ha permesso di ottenere una
+performance eccezionale!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+396,108-msg_tv_01_07_01_6,"Benissimo! Grazie mille, {tag:0}, e
+ancora complimenti per la splendida Gara!
+Per oggi è tutto dall’Arena delle Virtù!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,45,0,0,0,,0
+397,108-msg_tv_01_10_01_1,"Bentornati a ""Che tipo sei?"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+398,108-msg_tv_01_10_01_2,"L’{tag:0} di cui parleremo oggi è
+{tag:1}{pageend:!}
+Durante la nostra intervista, {tag:2}
+ci ha rivelato che preferisce il tipo Normale...",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,0,5,0,0,"Allenatore
+Allenatrice",0,0,1,0,0,0,0,,0,0,1,0,0,0,0,,0
+399,108-msg_tv_01_10_01_3,"Ma quali sono le caratteristiche degli Allenatori
+{pageend:che amano i Pokémon di tipo Normale?}
+Stando ai nostri esperti, sono persone che amano
+{pageend:divertirsi insieme agli altri...}
+Ma non appena si trovano da soli con qualcuno,
+{pageend:si imbarazzano e non sanno più che dire!}
+Allora, che dite? Abbiamo indovinato?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+400,108-msg_tv_01_10_02_1,"Bentornati a ""Che tipo sei?"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+401,108-msg_tv_01_10_02_2,"L’{tag:0} di cui parleremo oggi è
+{tag:1}{pageend:!}
+Durante la nostra intervista, {tag:2}
+ci ha rivelato che preferisce il tipo Fuoco...",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,0,5,0,0,"Allenatore
+Allenatrice",0,0,1,0,0,0,0,,0,0,1,0,0,0,0,,0
+402,108-msg_tv_01_10_02_3,"Ma quali sono le caratteristiche degli Allenatori
+{pageend:che amano i Pokémon di tipo Fuoco?}
+Stando ai nostri esperti, sono persone che sanno
+{pageend:sempre come tirare su il morale agli amici...}
+Eppure, quando si trovano in difficoltà, cercano
+{pageend:di risolvere tutto con le proprie forze!}
+Allora, che dite? Abbiamo indovinato?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+403,108-msg_tv_01_10_03_1,"Bentornati a ""Che tipo sei?"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+404,108-msg_tv_01_10_03_2,"L’{tag:0} di cui parleremo oggi è
+{tag:1}{pageend:!}
+Durante la nostra intervista, {tag:2}
+ci ha rivelato che preferisce il tipo Acqua...",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,0,5,0,0,"Allenatore
+Allenatrice",0,0,1,0,0,0,0,,0,0,1,0,0,0,0,,0
+405,108-msg_tv_01_10_03_3,"Ma quali sono le caratteristiche degli Allenatori
+{pageend:che amano i Pokémon di tipo Acqua?}
+Stando ai nostri esperti, sono persone sempre
+{pageend:sicure di ciò che vogliono!}
+Per loro non c’è moda che tenga...
+{pageend:Se apprezzano qualcosa, non cambiano mai idea!}
+Allora, che dite? Abbiamo indovinato?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+406,108-msg_tv_01_10_04_1,"Bentornati a ""Che tipo sei?"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+407,108-msg_tv_01_10_04_2,"L’{tag:0} di cui parleremo oggi è
+{tag:1}{pageend:!}
+Durante la nostra intervista, {tag:2}
+ci ha rivelato che preferisce il tipo Elettro...",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,0,5,0,0,"Allenatore
+Allenatrice",0,0,1,0,0,0,0,,0,0,1,0,0,0,0,,0
+408,108-msg_tv_01_10_04_3,"Ma quali sono le caratteristiche degli Allenatori
+{pageend:che amano i Pokémon di tipo Elettro?}
+Stando ai nostri esperti, sono persone che
+possono sembrare disinvolte e noncuranti...
+{pageend:Ma è tutta una messinscena!}
+In realtà tengono particolarmente all’estetica!
+{pageend:I loro oggetti sono curati nel minimo dettaglio...}
+Dalle grucce che usano per appendere i vestiti
+{pageend:fino alle loro gomme da cancellare!}
+Allora, che dite? Abbiamo indovinato?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+409,108-msg_tv_01_10_05_1,"Bentornati a ""Che tipo sei?"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+410,108-msg_tv_01_10_05_2,"L’{tag:0} di cui parleremo oggi è
+{tag:1}{pageend:!}
+Durante la nostra intervista, {tag:2}
+ci ha rivelato che preferisce il tipo Erba...",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,0,5,0,0,"Allenatore
+Allenatrice",0,0,1,0,0,0,0,,0,0,1,0,0,0,0,,0
+411,108-msg_tv_01_10_05_3,"Ma quali sono le caratteristiche degli Allenatori
+{pageend:che amano i Pokémon di tipo Erba?}
+Stando ai nostri esperti, sono persone che ce la
+{pageend:mettono tutta in ogni situazione...}
+Però a volte hanno il difetto di non capire
+quando è arrivato il momento di gettare
+{pageend:la spugna!}
+Allora, che dite? Abbiamo indovinato?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+412,108-msg_tv_01_10_06_1,"Bentornati a ""Che tipo sei?"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+413,108-msg_tv_01_10_06_2,"L’{tag:0} di cui parleremo oggi è
+{tag:1}{pageend:!}
+Durante la nostra intervista, {tag:2}
+ci ha rivelato che preferisce il tipo Ghiaccio...",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,0,5,0,0,"Allenatore
+Allenatrice",0,0,1,0,0,0,0,,0,0,1,0,0,0,0,,0
+414,108-msg_tv_01_10_06_3,"Ma quali sono le caratteristiche degli Allenatori
+{pageend:che amano i Pokémon di tipo Ghiaccio?}
+Stando ai nostri esperti, sono persone che
+{pageend:farebbero qualsiasi cosa per i loro amici...}
+Se vedono che i loro sforzi non sono riconosciuti,
+{pageend:però, ci rimangono subito male...}
+Allora, che dite? Abbiamo indovinato?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+415,108-msg_tv_01_10_07_1,"Bentornati a ""Che tipo sei?"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+416,108-msg_tv_01_10_07_2,"L’{tag:0} di cui parleremo oggi è
+{tag:1}{pageend:!}
+Durante la nostra intervista, {tag:2}
+ci ha rivelato che preferisce il tipo Lotta...",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,0,5,0,0,"Allenatore
+Allenatrice",0,0,1,0,0,0,0,,0,0,1,0,0,0,0,,0
+417,108-msg_tv_01_10_07_3,"Ma quali sono le caratteristiche degli Allenatori
+{pageend:che amano i Pokémon di tipo Lotta?}
+Stando ai nostri esperti, sono persone che
+{pageend:tentano di rinnovarsi costantemente...}
+Sono dei romantici, sempre alla ricerca
+{pageend:di qualche stupendo ideale!}
+Allora, che dite? Abbiamo indovinato?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+418,108-msg_tv_01_10_08_1,"Bentornati a ""Che tipo sei?"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+419,108-msg_tv_01_10_08_2,"L’{tag:0} di cui parleremo oggi è
+{tag:1}{pageend:!}
+Durante la nostra intervista, {tag:2}
+ci ha rivelato che preferisce il tipo Veleno...",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,0,5,0,0,"Allenatore
+Allenatrice",0,0,1,0,0,0,0,,0,0,1,0,0,0,0,,0
+420,108-msg_tv_01_10_08_3,"Ma quali sono le caratteristiche degli Allenatori
+{pageend:che amano i Pokémon di tipo Veleno?}
+Stando ai nostri esperti, sono persone che sanno
+{pageend:sempre come tirare su di morale il prossimo!}
+Ma quando sono loro a sentirsi giù, preferiscono
+{pageend:starsene in disparte, lontano dagli sguardi altrui...}
+Allora, che dite? Abbiamo indovinato?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+421,108-msg_tv_01_10_09_1,"Bentornati a ""Che tipo sei?"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+422,108-msg_tv_01_10_09_2,"L’{tag:0} di cui parleremo oggi è
+{tag:1}{pageend:!}
+Durante la nostra intervista, {tag:2}
+ci ha rivelato che preferisce il tipo Terra...",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,0,5,0,0,"Allenatore
+Allenatrice",0,0,1,0,0,0,0,,0,0,1,0,0,0,0,,0
+423,108-msg_tv_01_10_09_3,"Ma quali sono le caratteristiche degli Allenatori
+{pageend:che amano i Pokémon di tipo Terra?}
+Stando ai nostri esperti, sono persone che amano
+{pageend:divertirsi e fare sempre ciò che vogliono!}
+Hanno mille passioni, e le loro stanze sono piene
+{pageend:zeppe di libri, fumetti e videogiochi!}
+Allora, che dite? Abbiamo indovinato?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+424,108-msg_tv_01_10_10_1,"Bentornati a ""Che tipo sei?"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+425,108-msg_tv_01_10_10_2,"L’{tag:0} di cui parleremo oggi è
+{tag:1}{pageend:!}
+Durante la nostra intervista, {tag:2}
+ci ha rivelato che preferisce il tipo Volante...",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,0,5,0,0,"Allenatore
+Allenatrice",0,0,1,0,0,0,0,,0,0,1,0,0,0,0,,0
+426,108-msg_tv_01_10_10_3,"Ma quali sono le caratteristiche degli Allenatori
+{pageend:che amano i Pokémon di tipo Volante?}
+Stando ai nostri esperti, sono persone sveglie,
+e se affrontano un problema assieme ad altri...
+{pageend:sono sempre i primi a trovare una soluzione!}
+Ma, non volendo prendersene tutto il merito,
+{pageend:cercano di aiutare gli altri con degli indizi!}
+Allora, che dite? Abbiamo indovinato?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+427,108-msg_tv_01_10_11_1,"Bentornati a ""Che tipo sei?"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+428,108-msg_tv_01_10_11_2,"L’{tag:0} di cui parleremo oggi è
+{tag:1}{pageend:!}
+Durante la nostra intervista, {tag:2}
+ci ha rivelato che preferisce il tipo Psico...",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,0,5,0,0,"Allenatore
+Allenatrice",0,0,1,0,0,0,0,,0,0,1,0,0,0,0,,0
+429,108-msg_tv_01_10_11_3,"Ma quali sono le caratteristiche degli Allenatori
+{pageend:che amano i Pokémon di tipo Psico?}
+Stando ai nostri esperti, sono persone sempre
+{pageend:felici e solari!}
+Ad esempio, quando lottano contro un amico,
+{pageend:non gli importa se vincono o se perdono.}
+Per loro la cosa più bella è passare del tempo
+{pageend:assieme ai loro preziosi amici!}
+Allora, che dite? Abbiamo indovinato?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+430,108-msg_tv_01_10_12_1,"Bentornati a ""Che tipo sei?"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+431,108-msg_tv_01_10_12_2,"L’{tag:0} di cui parleremo oggi è
+{tag:1}{pageend:!}
+Durante la nostra intervista, {tag:2}
+ci ha rivelato che preferisce il tipo Coleottero...",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,0,5,0,0,"Allenatore
+Allenatrice",0,0,1,0,0,0,0,,0,0,1,0,0,0,0,,0
+432,108-msg_tv_01_10_12_3,"Ma quali sono le caratteristiche degli Allenatori
+{pageend:che amano i Pokémon di tipo Coleottero?}
+Stando ai nostri esperti, sono persone che amano
+{pageend:condividere le proprie passioni con gli altri!}
+Quando trovano un nuovo interesse, sono
+disposti a passare ore a parlarne ai loro amici...
+{pageend:Sperando che anche loro ne capiscano il fascino!}
+Allora, che dite? Abbiamo indovinato?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+433,108-msg_tv_01_10_13_1,"Bentornati a ""Che tipo sei?"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+434,108-msg_tv_01_10_13_2,"L’{tag:0} di cui parleremo oggi è
+{tag:1}{pageend:!}
+Durante la nostra intervista, {tag:2}
+ci ha rivelato che preferisce il tipo Roccia...",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,0,5,0,0,"Allenatore
+Allenatrice",0,0,1,0,0,0,0,,0,0,1,0,0,0,0,,0
+435,108-msg_tv_01_10_13_3,"Ma quali sono le caratteristiche degli Allenatori
+{pageend:che amano i Pokémon di tipo Roccia?}
+Stando ai nostri esperti, sono persone calme
+{pageend:e razionali, anche nelle situazioni più caotiche!}
+Se i loro amici non sanno cosa fare, e si lasciano
+{pageend:prendere dal panico...}
+loro sono i primi a rimboccarsi le maniche
+{pageend:e impugnare le redini della situazione!}
+Allora, che dite? Abbiamo indovinato?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+436,108-msg_tv_01_10_14_1,"Bentornati a ""Che tipo sei?"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+437,108-msg_tv_01_10_14_2,"L’{tag:0} di cui parleremo oggi è
+{tag:1}{pageend:!}
+Durante la nostra intervista, {tag:2}
+ci ha rivelato che preferisce il tipo Spettro...",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,0,5,0,0,"Allenatore
+Allenatrice",0,0,1,0,0,0,0,,0,0,1,0,0,0,0,,0
+438,108-msg_tv_01_10_14_3,"Ma quali sono le caratteristiche degli Allenatori
+{pageend:che amano i Pokémon di tipo Spettro?}
+Stando ai nostri esperti, sono persone che amano
+{pageend:il divertimento e le sorprese.}
+Se gli succede qualcosa di inaspettato che
+{pageend:li rende felici, invece di dirlo ai loro amici...}
+cercano piuttosto di far sì che anche loro vivano
+{pageend:la stessa esperienza!}
+Allora, che dite? Abbiamo indovinato?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+439,108-msg_tv_01_10_15_1,"Bentornati a ""Che tipo sei?"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+440,108-msg_tv_01_10_15_2,"L’{tag:0} di cui parleremo oggi è
+{tag:1}{pageend:!}
+Durante la nostra intervista, {tag:2}
+ci ha rivelato che preferisce il tipo Drago...",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,0,5,0,0,"Allenatore
+Allenatrice",0,0,1,0,0,0,0,,0,0,1,0,0,0,0,,0
+441,108-msg_tv_01_10_15_3,"Ma quali sono le caratteristiche degli Allenatori
+{pageend:che amano i Pokémon di tipo Drago?}
+Stando ai nostri esperti, sono persone timide
+{pageend:e riservate.}
+Non amano le folle, e se sono invitati
+{pageend:a una festa di compleanno...}
+preferiscono lasciare il regalo davanti alla porta
+{pageend:del festeggiato e andarsene tranquilli a casa!}
+Allora, che dite? Abbiamo indovinato?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+442,108-msg_tv_01_10_16_1,"Bentornati a ""Che tipo sei?"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+443,108-msg_tv_01_10_16_2,"L’{tag:0} di cui parleremo oggi è
+{tag:1}{pageend:!}
+Durante la nostra intervista, {tag:2}
+ci ha rivelato che preferisce il tipo Buio...",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,0,5,0,0,"Allenatore
+Allenatrice",0,0,1,0,0,0,0,,0,0,1,0,0,0,0,,0
+444,108-msg_tv_01_10_16_3,"Ma quali sono le caratteristiche degli Allenatori
+{pageend:che amano i Pokémon di tipo Buio?}
+Stando ai nostri esperti, sono persone dai gusti
+{pageend:molto particolari...}
+Ma quando trovano una canzone che gli piace,
+{pageend:un film che li diverte, un libro che li conquista...}
+sono capaci di riascoltarla, di riguardarlo,
+{pageend:di rileggerlo all’infinito!}
+Allora, che dite? Abbiamo indovinato?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+445,108-msg_tv_01_10_17_1,"Bentornati a ""Che tipo sei?"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+446,108-msg_tv_01_10_17_2,"L’{tag:0} di cui parleremo oggi è
+{tag:1}{pageend:!}
+Durante la nostra intervista, {tag:2}
+ci ha rivelato che preferisce il tipo Acciaio...",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,0,5,0,0,"Allenatore
+Allenatrice",0,0,1,0,0,0,0,,0,0,1,0,0,0,0,,0
+447,108-msg_tv_01_10_17_3,"Ma quali sono le caratteristiche degli Allenatori
+{pageend:che amano i Pokémon di tipo Acciaio?}
+Stando ai nostri esperti, sono persone che amano
+{pageend:sognare a occhi aperti!}
+Prima di mettersi a dormire, si immaginano
+{pageend:tutte le cose che vorrebbero realizzare...}
+E, come per miracolo, alcuni di quei sogni
+{pageend:si trasformano immancabilmente in realtà!}
+Allora, che dite? Abbiamo indovinato?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+448,108-msg_tv_01_10_18_1,"Bentornati a ""Che tipo sei?"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+449,108-msg_tv_01_10_18_2,"L’{tag:0} di cui parleremo oggi è
+{tag:1}{pageend:!}
+Durante la nostra intervista, {tag:2}
+ci ha rivelato che preferisce il tipo Folletto...",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,0,5,0,0,"Allenatore
+Allenatrice",0,0,1,0,0,0,0,,0,0,1,0,0,0,0,,0
+450,108-msg_tv_01_10_18_3,"Ma quali sono le caratteristiche degli Allenatori
+{pageend:che amano i Pokémon di tipo Folletto?}
+Stando ai nostri esperti, sono persone che sanno
+{pageend:mantenere il sorriso in ogni situazione...}
+La loro indole solare, innocente e birichina
+{pageend:riesce a rischiarare anche gli umori più cupi!}
+Allora, che dite? Abbiamo indovinato?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+451,108-msg_tv_01_11_01_1,"{pageend:Bentornati ad ""Aggiungi un poffin a tavola""!}
+Anche oggi a farci compagnia in studio c’è
+Gustavo, che di poffin se ne intende!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+452,108-msg_tv_01_11_01_2,Salve a tutti!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+453,108-msg_tv_01_11_01_3,"Oggi parleremo di un poffin preparato
+da {tag:0}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+454,108-msg_tv_01_11_01_4,"Oh, è un {tag:0}...!
+{pageend:Questa è roba da intenditori!}
+Ma che dico... È un vero e proprio gioiello
+per il palato!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,15,0,0,0,,0
+455,108-msg_tv_01_11_01_5,"Dopo aver finito di preparare il poffin,
+{tag:0}{pageend: ha dichiarato...}
+""Mentre lo realizzavo, avevo in mente l’immagine
+{pageend:di uno scrigno tempestato di gemme!""}
+Che vi dicevo? Il nostro Gustavo sa proprio
+il fatto suo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+456,108-msg_tv_01_11_01_6,"Oh, come vorrei assaggiarne uno anch’io!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+457,108-msg_tv_01_11_01_7,"Cari telespettatori, prendete spunto {tag:0}
+{tag:1}{pageend: e rimboccatevi le maniche!}
+Non vediamo l’ora di parlare delle vostre
+deliziose creazioni! Alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"dal nostro
+dalla nostra",0,0,1,0,0,0,0,,0
+458,108-msg_tv_01_11_02_1,"{pageend:Bentornati ad ""Aggiungi un poffin a tavola""!}
+Anche oggi a farci compagnia in studio c’è
+Gustavo, che di poffin se ne intende!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+459,108-msg_tv_01_11_02_2,Salve a tutti!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+460,108-msg_tv_01_11_02_3,"Oggi parleremo di un poffin preparato
+da {tag:0}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+461,108-msg_tv_01_11_02_4,"Oh, è un {tag:0}...!
+{pageend:Questa è roba da intenditori!}
+Ma che dico... È una vera e propria sinfonia
+per il palato!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,15,0,0,0,,0
+462,108-msg_tv_01_11_02_5,"Dopo aver finito di preparare il poffin,
+{tag:0}{pageend: ha dichiarato...}
+""Mentre lo realizzavo, avevo in mente l’immagine
+{pageend:di un’orchestra che suona una vivace melodia!""}
+Che vi dicevo? Il nostro Gustavo sa proprio
+il fatto suo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+463,108-msg_tv_01_11_02_6,"Oh, come vorrei assaggiarne uno anch’io!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+464,108-msg_tv_01_11_02_7,"Cari telespettatori, prendete spunto {tag:0}
+{tag:1}{pageend: e rimboccatevi le maniche!}
+Non vediamo l’ora di parlare delle vostre
+deliziose creazioni! Alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"dal nostro
+dalla nostra",0,0,1,0,0,0,0,,0
+465,108-msg_tv_01_11_03_1,"{pageend:Bentornati ad ""Aggiungi un poffin a tavola""!}
+Anche oggi a farci compagnia in studio c’è
+Gustavo, che di poffin se ne intende!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+466,108-msg_tv_01_11_03_2,Salve a tutti!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+467,108-msg_tv_01_11_03_3,"Oggi parleremo di un poffin preparato
+da {tag:0}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+468,108-msg_tv_01_11_03_4,"Oh, è un {tag:0}...!
+{pageend:Questa è roba da intenditori!}
+Ma che dico... È un vero e proprio triplo salto
+carpiato per il palato!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,15,0,0,0,,0
+469,108-msg_tv_01_11_03_5,"Dopo aver finito di preparare il poffin,
+{tag:0}{pageend: ha dichiarato...}
+""Mentre lo realizzavo, avevo in mente l’immagine
+{pageend:di un atleta che si esibisce sul trampolino!""}
+Che vi dicevo? Il nostro Gustavo sa proprio
+il fatto suo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+470,108-msg_tv_01_11_03_6,"Oh, come vorrei assaggiarne uno anch’io!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+471,108-msg_tv_01_11_03_7,"Cari telespettatori, prendete spunto {tag:0}
+{tag:1}{pageend: e rimboccatevi le maniche!}
+Non vediamo l’ora di parlare delle vostre
+deliziose creazioni! Alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"dal nostro
+dalla nostra",0,0,1,0,0,0,0,,0
+472,108-msg_tv_01_11_04_1,"{pageend:Bentornati ad ""Aggiungi un poffin a tavola""!}
+Anche oggi a farci compagnia in studio c’è
+Gustavo, che di poffin se ne intende!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+473,108-msg_tv_01_11_04_2,Salve a tutti!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+474,108-msg_tv_01_11_04_3,"Oggi parleremo di un poffin preparato
+da {tag:0}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+475,108-msg_tv_01_11_04_4,"Oh, è {tag:0}{tag:1}{pageend:...!}
+Beh, questa sì che è... una sorpresa!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,5,5,0,1,,0,1,1,15,0,0,0,,0
+476,108-msg_tv_01_11_04_5,"Dopo aver finito di preparare il poffin,
+{tag:0}{pageend: ha dichiarato...}
+""Ah, beh... Non mi aspettavo proprio
+{pageend:che venisse fuori un poffin del genere!""}
+Che vi dicevo? Il nostro Gustavo sa proprio
+il fatto suo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+477,108-msg_tv_01_11_04_6,"Oh, come vorrei assaggiarne uno anch’io!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+478,108-msg_tv_01_11_04_7,"Cari telespettatori, prendete spunto {tag:0}
+{tag:1}{pageend: e rimboccatevi le maniche!}
+Non vediamo l’ora di parlare delle vostre
+deliziose creazioni! Alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"dal nostro
+dalla nostra",0,0,1,0,0,0,0,,0
+479,108-msg_tv_01_11_05_1,"{pageend:Bentornati ad ""Aggiungi un poffin a tavola""!}
+Anche oggi a farci compagnia in studio c’è
+Gustavo, che di poffin se ne intende!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+480,108-msg_tv_01_11_05_2,Salve a tutti!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+481,108-msg_tv_01_11_05_3,"Oggi parleremo di un poffin preparato
+da {tag:0}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+482,108-msg_tv_01_11_05_4,"Oh, è un {tag:0}...!
+{pageend:Questa è roba da intenditori!}
+Ma che dico... È un vero e proprio gioiello
+per il palato!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,15,0,0,0,,0
+483,108-msg_tv_01_11_05_5,"Dopo aver finito di preparare il poffin,
+{tag:0}{pageend: ha dichiarato...}
+""Mentre lo realizzavo, avevo in mente l’immagine
+{pageend:delle Super Gare-show!""}
+Che vi dicevo? Il nostro Gustavo sa proprio
+il fatto suo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+484,108-msg_tv_01_11_05_6,"Oh, come vorrei assaggiarne uno anch’io!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+485,108-msg_tv_01_11_05_7,"Cari telespettatori, prendete spunto {tag:0}
+{tag:1}{pageend: e rimboccatevi le maniche!}
+Non vediamo l’ora di parlare delle vostre
+deliziose creazioni! Alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"dal nostro
+dalla nostra",0,0,1,0,0,0,0,,0
+486,108-msg_tv_01_13_01_1,"Signore e signori, mi auguro che stiate
+{pageend:trascorrendo una lieta giornata.}
+Permettetemi di darvi un cordiale benvenuto
+al nostro consueto appuntamento con...
+""Il diario di Parco Concordia"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+487,108-msg_tv_01_13_01_2,"Oggi ci occuperemo della passeggiata
+di {tag:0}{pageend:...}
+Sono sicuro che ne apprezzerete i lati
+più avvincenti.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+488,108-msg_tv_01_13_01_3,"{tag:0} ha fatto un giro in compagnia
+del suo fidato {tag:1}{pageend:.}
+I due hanno passeggiato, passeggiato
+e ancora passeggiato...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,1,0,0,0,,0
+489,108-msg_tv_01_13_01_4,"{tag:0} si è goduto la bellissima
+{pageend:passeggiata.}
+E, come potrete immaginare, i due hanno
+preparato un gran numero di poffin.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,1,0,0,0,,0
+490,108-msg_tv_01_13_01_5,"{tag:0} e il suo
+{tag:1}
+erano
+{pageend:pervasi da un senso di relax...}
+Proprio come se avessero fatto un bel pisolino
+nella Gran Palude!",0,-1,54,1080,1,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,1,0,0,0,,0
+491,108-msg_tv_01_13_01_6,"Allora, cari telespettatori e care telespettatrici,
+{pageend:cosa ve n’è parso di questa passeggiata?}
+Le storie di amicizia fra Pokémon e persone
+mi scaldano davvero il cuore...
+Per oggi è tutto, a risentirci!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+492,108-msg_tv_01_13_02_1,"Signore e signori, mi auguro che stiate
+{pageend:trascorrendo una lieta giornata.}
+Permettetemi di darvi un cordiale benvenuto
+al nostro consueto appuntamento con...
+""Il diario di Parco Concordia"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+493,108-msg_tv_01_13_02_2,"Oggi ci occuperemo della passeggiata
+di {tag:0}{pageend:...}
+Sono sicuro che ne apprezzerete i lati
+più avvincenti.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+494,108-msg_tv_01_13_02_3,"{tag:0} ha fatto un giro in compagnia
+del suo fidato {tag:1}{pageend:.}
+I due hanno passeggiato, passeggiato
+e ancora passeggiato...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,1,0,0,0,,0
+495,108-msg_tv_01_13_02_4,E {tag:0} si è divertito un mondo.,0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,1,0,0,0,,0
+496,108-msg_tv_01_13_02_5,"{tag:0} e il suo {tag:1} erano
+{pageend:pervasi da un senso di felicità...}
+Proprio come se avessero fatto una gran corsa
+sulla Pista Ciclabile!",0,-1,54,1080,1,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,1,0,0,0,,0
+497,108-msg_tv_01_13_02_6,"Allora, cari telespettatori e care telespettatrici,
+{pageend:cosa ve n’è parso di questa passeggiata?}
+Le storie di amicizia fra Pokémon e persone
+mi scaldano davvero il cuore...
+Per oggi è tutto, a risentirci!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+498,108-msg_tv_01_13_03_1,"Signore e signori, mi auguro che stiate
+{pageend:trascorrendo una lieta giornata.}
+Permettetemi di darvi un cordiale benvenuto
+al nostro consueto appuntamento con...
+""Il diario di Parco Concordia"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+499,108-msg_tv_01_13_03_2,"Oggi ci occuperemo della passeggiata
+di {tag:0}{pageend:...}
+Sono sicuro che ne apprezzerete i lati
+più avvincenti.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+500,108-msg_tv_01_13_03_3,"{tag:0} ha fatto un giro in compagnia
+del suo fidato {tag:1}{pageend:.}
+I due hanno passeggiato, passeggiato
+e ancora passeggiato...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,1,0,0,0,,0
+501,108-msg_tv_01_13_03_4,"{tag:0}{pageend: si è divertito tantissimo...}
+E fra le altre cose ha anche trovato
+{tag:1}{tag:2}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,1,0,0,0,,0,-1,21,5,5,0,3,,0,3,1,10,0,0,0,,0
+502,108-msg_tv_01_13_03_5,"{tag:0} e il suo {tag:1}
+{pageend:erano pervasi da un senso di allegria...}
+Proprio come se avessero surfato un po’
+all’Area Svago!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,1,0,0,0,,0
+503,108-msg_tv_01_13_03_6,"Allora, cari telespettatori e care telespettatrici,
+{pageend:cosa ve n’è parso di questa passeggiata?}
+Le storie di amicizia fra Pokémon e persone
+mi scaldano davvero il cuore...
+Per oggi è tutto, a risentirci!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+515,109-msg_tv_interview_00_01,"Salve, sono di Giubilo TV! Posso disturbarti
+un attimo per una breve intervista?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+516,109-msg_tv_interview_00_02,"Oh, che peccato! Magari la prossima volta potrai
+concedermi qualche minuto del tuo tempo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+517,109-msg_tv_interview_00_03,"Grazie per aver condiviso con noi
+{pageend:le tue opinioni!}
+Presenteremo presto queste informazioni
+{pageend:in uno dei nostri programmi...}
+Sintonizzati e vedrai che figurone farai in TV!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+518,109-msg_tv_interview_02,"{pageend:Grazie mille! Ma andiamo subito al dunque...}
+Complimenti per la tua performance
+{pageend:alla Torre Lotta!}
+{pageend:Dicci tutto: com’è andata? Come ti senti?}
+... ... ...
+{pageend:... ... ...}
+Mmh, capisco, capisco! Grazie, sei stat{tag:0}
+{pageend:illuminante!}
+Questa intervista verrà trasmessa prossimamente
+in TV... Sintonizzati anche tu, mi raccomando!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+519,109-msg_tv_interview_04,"{pageend:Grazie mille! Ma andiamo subito al dunque...}
+Il tuo {tag:0} ha un’aria davvero
+{pageend:contenta! Dicci qualcosa su questo bel Pokémon!}
+... ... ...
+{pageend:... ... ...}
+Mmh, capisco, capisco! Grazie, sei stat{tag:1}
+{pageend:illuminante!}
+Questa intervista verrà trasmessa prossimamente
+in TV... Sintonizzati anche tu, mi raccomando!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,1,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0
+520,109-msg_tv_interview_06_1,"{pageend:Grazie mille! Ma andiamo subito al dunque...}
+Vedo che hai un PokéKron! Puoi dirci qual è
+l’app che usi di più?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+521,109-msg_tv_interview_06_2,"Ah, {tag:0}{pageend:, ma certo!}
+{pageend:Dicci tutto: come ti ci trovi? Che ne pensi?}
+... ... ...
+{pageend:... ... ...}
+Mmh, capisco, capisco! Grazie, sei stat{tag:1}
+{pageend:illuminante!}
+Questa intervista verrà trasmessa prossimamente
+in TV... Sintonizzati anche tu, mi raccomando!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,21,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0
+522,109-msg_tv_interview_07,"{pageend:Grazie mille! Ma andiamo subito al dunque...}
+Complimenti per la tua performance alle
+{pageend:Super Gare-show!}
+{pageend:Dicci tutto: com’è andata? Come ti senti?}
+... ... ...
+{pageend:... ... ...}
+Mmh, capisco, capisco! Grazie, sei stat{tag:0}
+{pageend:illuminante!}
+Questa intervista verrà trasmessa prossimamente
+in TV... Sintonizzati anche tu, mi raccomando!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+523,109-msg_tv_interview_10,"{pageend:Grazie mille! Ma andiamo subito al dunque...}
+Puoi dirci quale tra questi è il tuo tipo preferito?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+524,109-msg_tv_interview_11,"{pageend:Grazie mille! Ma andiamo subito al dunque...}
+Vedo che hai appena finito di preparare
+{pageend:un poffin... Dicci tutto: come ti senti?}
+... ... ...
+{pageend:... ... ...}
+Mmh, capisco, capisco! Grazie, sei stat{tag:0}
+{pageend:illuminante!}
+Questa intervista verrà trasmessa prossimamente
+in TV... Sintonizzati anche tu, mi raccomando!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+530,109-msg_tv_interview_type01,Normale,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+531,109-msg_tv_interview_type02,Fuoco,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+532,109-msg_tv_interview_type03,Acqua,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+533,109-msg_tv_interview_type04,Elettro,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+534,109-msg_tv_interview_type05,Erba,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+535,109-msg_tv_interview_type06,Ghiaccio,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+536,109-msg_tv_interview_type07,Lotta,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+537,109-msg_tv_interview_type08,Veleno,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+538,109-msg_tv_interview_type09,Terra,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+539,109-msg_tv_interview_type10,Volante,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+540,109-msg_tv_interview_type11,Psico,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+541,109-msg_tv_interview_type12,Coleottero,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+542,109-msg_tv_interview_type13,Roccia,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+543,109-msg_tv_interview_type14,Spettro,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+544,109-msg_tv_interview_type15,Drago,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+545,109-msg_tv_interview_type16,Buio,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+546,109-msg_tv_interview_type17,Acciaio,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+547,109-msg_tv_interview_type18,Folletto,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+548,110-msg_tv_00_01_01,"Buongiorno, Allenatori! Vi state prendendo
+{pageend:cura dei vostri amati Pokémon?}
+Bentornati a ""Allenatori di professione""!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+73,108-msg_tv_01_09_02_11_female,"Capisco, hai una particolare predilezione
+per {tag:0}{pageend:...}
+E se non è troppo disturbo, ti dispiacerebbe
+{pageend:dirci come mai?}
+...
+...
+...
+Certo certo, è naturale...
+Dunque hai avuto questa impressione quando
+hai affrontato {tag:1}{pageend: di persona!}
+{pageend:Amici del pubblico, senza saperlo...}
+<size=75%>abbiamo intervistato un vero asso delle lotte!</size>{pageend:}
+Dalla mostra è tutto, linea allo studio!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+69,108-msg_tv_01_09_02_8,...,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+70,108-msg_tv_01_09_02_9,"Secondo te, quale Allenatore ha saputo
+usare il DecoraBall con maggiore maestria?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+71,108-msg_tv_01_09_02_10,{tag:0},0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+72,108-msg_tv_01_09_02_11,"Capisco, hai una particolare predilezione
+per {tag:0}{pageend:...}
+E se non è troppo disturbo, ti dispiacerebbe
+{pageend:dirci come mai?}
+...
+...
+...
+Certo certo, è naturale...
+Dunque hai avuto questa impressione quando
+hai affrontato {tag:1}{pageend: di persona!}
+{pageend:Amici del pubblico, senza saperlo...}
+<size=75%>abbiamo intervistato un vero asso delle lotte!</size>{pageend:}
+Dalla mostra è tutto, linea allo studio!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+74,108-msg_tv_01_09_02_12,"{pageend:Grazie mille alla nostra inviata!}
+Chi si sarebbe mai aspettato di trovare un tale
+prodigio delle lotte in un posto del genere!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+75,108-msg_tv_01_09_02_13,Eh già!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+76,108-msg_tv_01_09_02_14,"A pensarci bene, la nostra inviata avrebbe
+dovuto chiedere un autografo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+77,108-msg_tv_01_09_02_15,Eh già!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+78,108-msg_tv_01_09_02_16,"Speriamo di incontrare tanti altri Allenatori
+talentuosi!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+79,108-msg_tv_01_09_02_17,Eh già!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+80,108-msg_tv_01_09_02_18,"E chissà... La star della prossima puntata
+{pageend:potresti essere tu!}
+Perché anche tu sei...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+81,108-msg_tv_01_09_02_19,... fenomenale!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+161,106-msg_tv_02_24_01_1,"Salve a tutti!
+{pageend:È l’ora di ""Rarità sotto il microscopio""!}
+Oggi abbiamo come ospite d’onore un esimio
+intenditore di bacche, il Professor Baccarara!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+162,106-msg_tv_02_24_01_2,Mmh!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+163,106-msg_tv_02_24_01_3,"Allora, Professore, passiamo all’argomento
+di oggi: {tag:0}{tag:1} di {tag:2}
+ha trovato una bacca rara!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,3,5,0,1,,0,1,1,2,0,0,0,,0,0,1,0,0,0,0,,0
+164,106-msg_tv_02_24_01_4,"Mmmh!
+{pageend:Lasci che dia un’occhiata!}
+...
+...
+... Mmh!
+Questa è {tag:0}{tag:1}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,5,5,0,2,,0,2,1,9,0,0,0,,0
+165,106-msg_tv_02_24_01_5,Che tipo di bacca è?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+166,106-msg_tv_02_24_01_6a,"{pageend:Dunque dunque...}
+Questa bacca è davvero eccezionale!
+Guardi la rugosità della buccia!
+Vede come forma queste grinze particolari?
+Delle grinze davvero eccezionali!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+167,106-msg_tv_02_24_01_6b,"{pageend:Dunque dunque...}
+Una bacca del genere non si vede tutti i giorni!
+Sì, insomma...
+È rarissimo vederne una!
+Beh, ci siamo capiti.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+168,106-msg_tv_02_24_01_6c,"{pageend:Dunque dunque...}
+Mi ricorda quando ero giovane e facevo pratica
+di giardinaggio assieme al mio maestro.
+Aveva sempre qualche osservazione da farmi...
+""Lì non hai annaffiato abbastanza!""
+""Devi fare più attenzione al terreno!""
+Insomma, era davvero molto severo.
+Ebbene, un giorno il maestro...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+169,106-msg_tv_02_24_01_7,"Grazie mille, Professore!
+{pageend:Davvero illuminante!}
+Allora, {tag:0}, hai trovato utile
+{pageend:l’acuta analisi del nostro esperto?}
+Ad ogni modo, tratta quella bacca come
+un tesoro, mi raccomando!
+Alla prossima!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+170,106-msg_tv_02_25_01_1,"{pageend:È l’ora della rubrica ""Acchiappalike tutti""!}
+Anche oggi abbiamo con noi in studio
+un grande fanatico dei ""mi piace""...
+Il signor Piacenzo della Social Freak!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+171,106-msg_tv_02_25_01_2,Mi piace!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+172,106-msg_tv_02_25_01_3,"{pageend:Abbiamo una notizia fresca fresca di giornata!}
+{tag:0} e la sua Base Segreta hanno
+ricevuto {tag:1} ""mi piace""!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,2,2,1,0,205,,0
+173,106-msg_tv_02_25_01_4,Mi piace!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+174,106-msg_tv_02_25_01_5,"Signor Piacenzo, vuole commentare brevemente
+questa notizia dall’alto della sua indiscussa
+autorità in materia?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+175,106-msg_tv_02_25_01_6_1,"Mh, {tag:0}{pageend: ""mi piace""...?}
+{pageend:Mi piace!}
+Ma mi piacerebbe ancora di più se usasse
+più hashtag...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,2,2,1,0,205,,0
+176,106-msg_tv_02_25_01_6_2,"Un commento degno di lei, signor Piacenzo!
+{pageend:La sua sete di ""mi piace"" è inesauribile!}
+{tag:0}, che ne dici di provare a usare
+{pageend:più hashtag?}
+Bene, alla prossima puntata!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+177,106-msg_tv_02_25_01_7_1,"Mh, {tag:0}{pageend: ""mi piace""...?}
+{pageend:Mi piace!}
+Ma mi piacerebbe ancora di più se aumentasse
+il numero di follower...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,2,2,1,0,205,,0
+178,106-msg_tv_02_25_01_7_2,"Un commento degno di lei, signor Piacenzo!
+{pageend:La sua fame di ""mi piace"" è insaziabile!}
+{tag:0}, che ne dici di provare
+{pageend:ad aumentare i tuoi follower?}
+Bene, alla prossima puntata!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+179,106-msg_tv_02_25_01_8_1,"Mh, {tag:0}{pageend: ""mi piace""...?}
+{pageend:Mi piace!}
+Ma mi piacerebbe ancora di più se coinvolgesse
+di più la sua community...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,2,2,1,0,205,,0
+180,106-msg_tv_02_25_01_8_2,"Un commento degno di lei, signor Piacenzo!
+Il suo amore per i ""mi piace"" è sconfinato!
+{pageend:L’avevo sottovalutata!}
+{tag:0}, anche tu hai trovato questo
+{pageend:commento super coinvolgente, vero?}
+Bene, alla prossima puntata!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+181,106-msg_tv_02_25_02_1,"{pageend:È l’ora della rubrica ""Acchiappalike tutti""!}
+Anche oggi abbiamo con noi in studio
+un grande fanatico dei ""mi piace""...
+Il signor Piacenzo della Social Freak!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+182,106-msg_tv_02_25_02_2,Mi piace!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+183,106-msg_tv_02_25_02_3,"{pageend:Abbiamo una notizia fresca fresca di giornata!}
+{tag:0} ha inviato {tag:1} ""mi piace""
+in segno di apprezzamento per la Base Segreta
+di un altro Allenatore!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,2,2,1,0,205,,0
+184,106-msg_tv_02_25_02_4,Mi piace!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+185,106-msg_tv_02_25_02_5,"Signor Piacenzo, vuole commentare brevemente
+questa notizia dall’alto della sua indiscussa
+autorità in materia?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+186,106-msg_tv_02_25_02_6_1,"Mh, {tag:0}{pageend: ""mi piace""...?}
+{pageend:Mi piace!}
+Dove regnano i ""mi piace"", regna la felicità!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,2,2,1,0,205,,0
+187,106-msg_tv_02_25_02_6_2,"Un commento degno di lei, signor Piacenzo!
+I ""mi piace"" sono un modo per dispensare felicità
+{pageend:alle altre persone.}
+{tag:0}, metti ""mi piace"" a destra
+{pageend:e a manca, mi raccomando!}
+Bene, alla prossima puntata!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+188,106-msg_tv_02_25_02_7_1,"Mh, {tag:0}{pageend: ""mi piace""...?}
+{pageend:Mi piace!}
+Dove regnano i ""mi piace"", regna la serenità!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,2,2,1,0,205,,0
+189,106-msg_tv_02_25_02_7_2,"Un commento degno di lei, signor Piacenzo!
+I ""mi piace"" sono un modo per dispensare
+{pageend:serenità alle altre persone.}
+{tag:0}, metti ""mi piace"" a destra
+{pageend:e a manca, mi raccomando!}
+Bene, alla prossima puntata!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+190,106-msg_tv_02_25_02_8_1,"Mh, {tag:0}{pageend: ""mi piace""...?}
+Pazzesco! Incredibile!
+Sono commosso!!!
+Wooooooooow...!!!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,2,2,1,0,205,,0
+191,106-msg_tv_02_25_02_8_2,"Signor Piacenzo! La prego, si calmi!
+Basta con questi ""mi piace""!
+{pageend:Mi ha colpito il braccio! Ahi!}
+Amici telespettatori, mi raccomando, siate
+{pageend:gentili e mettete tanti ""mi piace""!}
+Bene, alla prossima puntata... Ahi!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+299,104-msg_tv_03_10_01_1,"{pageend:Ecco a voi... ""Batti il record!"".}
+Oggi parleremo di un record stabilito
+nella Gran Palude da un vero asso.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+300,104-msg_tv_03_10_01_2,E cosa c’è di tanto divertente?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+301,104-msg_tv_03_10_01_3,"Loretta, non hai capito! Asso, non spasso!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+302,104-msg_tv_03_10_01_4,"Ad ogni modo, {tag:0} ha catturato
+{tag:1} Pokémon in una volta sola nel Gioco Safari
+della Gran Palude!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,2,1,1,0,205,,0
+303,104-msg_tv_03_10_01_5,Tipo lanciando fango...?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+304,104-msg_tv_03_10_01_6,"Oh, Loretta! Ma sei un’esperta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+305,104-msg_tv_03_10_01_7,E tipo lanciando cibo...?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+306,104-msg_tv_03_10_01_8,"Esatto, Loretta! Sei proprio sul pezzo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+307,104-msg_tv_03_10_01_9,E tipo lanciando Poké Ball...?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+308,104-msg_tv_03_10_01_10,"Beh, Loretta, sono Poké Ball!
+{pageend:Cosa vuoi farci se non lanciarle?!}
+{pageend:Questa era un po’ un’ovvietà, non trovi?}
+Ad ogni modo, catturare {tag:0} Pokémon
+in una volta sola non è da tutti!
+Scusate, ora dobbiamo lasciarvi!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,2,1,1,0,205,,0
+309,104-msg_tv_03_11_01_1,"{pageend:Ecco a voi... ""Batti il record!"".}
+Oggi parleremo di un record strabiliante stabilito
+da una vera e propria star dell’estatuazione.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+310,104-msg_tv_03_11_01_2,Eh? Estatuazione?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+311,104-msg_tv_03_11_01_3,"Brava, Loretta! Vedo che sei attenta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+312,104-msg_tv_03_11_01_4,Cosa vuol dire estatuazione?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+313,104-msg_tv_03_11_01_5,"{tag:0} ha compiuto l’impresa di
+ottenere ben {tag:1} {tag:2} di statue!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,2,2,1,0,205,,0,-1,21,1,5,0,1,"tipo
+tipi",0
+314,104-msg_tv_03_11_01_6,"Sì, ma cos’è l’estatuazione?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+315,104-msg_tv_03_11_01_7,"A volte ti rimbocchi le maniche e non ottieni
+altro che una statua che già avevi!
+{pageend:Che delusione!}
+Le statue sono l’agognato frutto di lacrime,
+sangue e sudore!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+316,104-msg_tv_03_11_01_8,E l’estatuazione...?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+317,104-msg_tv_03_11_01_9,"Loretta, è stata un’impresa grandiosa!
+Grandiosa, ti dico!
+Scusate, ora dobbiamo lasciarvi!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+318,104-msg_tv_03_12_01_1,"{pageend:Ecco a voi... ""Batti il record!"".}
+Oggi parleremo di un record stabilito
+da una persona che si merita senza dubbio
+il titolo di collezionista di sfavilliti.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+319,104-msg_tv_03_12_01_2,Hai detto sfavilliti?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+320,104-msg_tv_03_12_01_3,"Hai sentito bene, Loretta!
+Stiamo parlando di una raccolta di sfavilliti
+da record nei Grandi Sotterranei!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+321,104-msg_tv_03_12_01_4,Dimmi tutto!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+322,104-msg_tv_03_12_01_5,"{tag:0} ha compiuto l’impresa
+di raccogliere sfavilliti per ben {tag:1} {tag:2}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,2,2,1,0,205,,0,-1,21,1,5,0,1,"volta
+volte",0
+323,104-msg_tv_03_12_01_6,Non mi sembra niente di che...,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+324,104-msg_tv_03_12_01_7,"Come, scusa?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+325,104-msg_tv_03_12_01_8,"Beh, ha usato il camion, no?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+326,104-msg_tv_03_12_01_9,"{pageend:Un camion?}
+Ma no, Loretta! Ho detto collezionista,
+non camionista!
+Ad ogni modo, è stata un’impresa grandiosa!
+Scusate, ora dobbiamo lasciarvi!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+356,105-msg_tvcm_30,"{pageend:Conosci il vero volto della Torre Lotta?}
+Nella Classe Master, gli Allenatori più forti
+di Sinnoh danno prova della loro abilità
+{pageend:sfidandosi in lotte senza esclusione di mosse!}
+E tu, fino a dove riuscirai ad arrivare?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+504,108-msg_tv_01_14_01_1,"Eccoci con una nuova strepitosa puntata
+di ""Obiettivo stile"", la nostra consueta rubrica
+fotografica dedicata alla moda di strada!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+505,108-msg_tv_01_14_01_2,"L’elegante protagonista della foto di oggi
+è {tag:0}!",0,-1,54,1080,1,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+506,108-msg_tv_01_14_01_3a,"Questa istantanea è stata scattata
+{tag:0}, dove
+la nostra icona della moda ha sfoggiato
+un pregevole {tag:1}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",2,1,71,0,0,0,,0,1,1,84,0,0,0,,0
+507,108-msg_tv_01_14_01_3b,"Stava facendo una passeggiata
+{tag:0}, sfoggiando
+il suo squisito {tag:1}!",0,-1,54,1080,1,"0
+0
+0
+-1
+0",2,1,71,0,0,0,,0,1,1,84,0,0,0,,0
+0,,,0,0,0,0,0,
+508,108-msg_tv_01_14_01_4a_a,"I passanti non sembravano particolarmente
+colpiti e hanno tirato dritto senza degnare
+di uno sguardo il nostro stiloso soggetto.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+509,108-msg_tv_01_14_01_4a_b,"I passanti si fermavano incantati alla vista
+di tanta eleganza.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+510,108-msg_tv_01_14_01_4a_c,"I passanti erano rapiti dallo strabordante carisma
+di {tag:0}, tanto che si è formata
+una piccola folla tutt’intorno!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+511,108-msg_tv_01_14_01_4b_a,"Appena ha visto il nostro obiettivo, ha sorriso
+mettendosi in posa timidamente.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+512,108-msg_tv_01_14_01_4b_b,"Vedendo il nostro obiettivo, ha posato per noi
+con la naturalezza di una vera star!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+513,108-msg_tv_01_14_01_4b_c,"Appena ha visto il nostro obiettivo, ha assunto
+una posa stilosa urlando: ""Tadaaaaaan!"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+514,108-msg_tv_01_14_01_5,"Allora, amiche e amici da casa, vi è piaciuta
+{pageend:la puntata di oggi?}
+Magari la prossima volta punteremo i nostri
+obiettivi proprio sulla vostra città!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+526,109-msg_tv_interview_14_1,"{pageend:Salve!}
+Questo è l’angolo delle interviste di Giubilo TV!
+Posso farti qualche domanda?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+527,109-msg_tv_interview_14_2,"Perbacco, è un vero peccato...
+Magari la prossima volta, allora!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+528,109-msg_tv_interview_14_3,"Grazie mille!
+{pageend:Allora bando alle ciance...}
+Vado dritta al punto! Quale Allenatore ha saputo
+usare il DecoraBall con particolare maestria?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+529,109-msg_tv_interview_14_4,"Capisco, hai una particolare predilezione
+per {tag:0}{pageend:...}
+E se non è troppo disturbo, ti dispiacerebbe
+{pageend:dirci come mai?}
+...
+...
+...
+{pageend:Certo certo, è naturale...}
+Grazie mille per aver condiviso con noi
+{pageend:le tue impressioni!}
+Questa intervista sarà trasmessa in TV.
+Non perdertela, mi raccomando!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+552,109-msg_tv_interview_deco04,Omar,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+553,109-msg_tv_interview_deco05,Fannie,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+554,109-msg_tv_interview_deco06,Ferruccio,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+555,109-msg_tv_interview_deco07,Bianca,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+556,109-msg_tv_interview_deco08,Corrado,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+557,109-msg_tv_interview_deco09,Aaron,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+558,109-msg_tv_interview_deco10,Terrie,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+559,109-msg_tv_interview_deco11,Vulcano,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+560,109-msg_tv_interview_deco12,Luciano,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+561,109-msg_tv_interview_deco13,Camilla,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+525,109-msg_tv_interview_13,"Grazie molte!
+{pageend:Andiamo subito al dunque...}
+Vorrei sentire la tua opinione sulla tua
+passeggiata con {tag:0}{pageend:.}
+{pageend:Puoi dirmi quello che provi adesso?}
+... ... ...
+{pageend:... ... ...}
+Mmh, capisco, capisco! Grazie, sei stat{tag:1}
+{pageend:illuminante!}
+Questa intervista verrà trasmessa prossimamente
+in TV... Sintonizzati anche tu, mi raccomando!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,1,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0

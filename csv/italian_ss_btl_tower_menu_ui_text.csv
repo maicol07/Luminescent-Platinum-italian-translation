@@ -1,0 +1,308 @@
+0,msg_tower_receptionist_14,Scegli le regole e i Pokémon per la lotta.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+1,msg_tower_receptionist_15,"Molto bene. Prego, per di qua!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+2,msg_tower_receptionist_00,Benvenut{tag:0} alla Torre Lotta!,0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+3,msg_tower_receptionist_01,Cosa posso fare per te?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+4,msg_tower_receptionist_02,Vuoi continuare a lottare?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+5,msg_tower_receptionist_03,"Grazie per essere venut{tag:0} alla Torre Lotta!
+Speriamo di rivederti presto!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+6,msg_tower_receptionist_04,"Ah, non è andata bene...
+Beh, speriamo di rivederti presto!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+7,msg_tower_receptionist_05,Complimenti! Sei salit{tag:0} al grado {tag:1}!,0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0,0,2,0,1,0,205,,0
+8,msg_tower_receptionist_06,"Meriti una ricompensa per rendere
+onore al tuo nuovo grado!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+9,msg_tower_receptionist_07,Il sistema di valutazione è stato aggiunto ai Box!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+10,msg_tower_receptionist_08,"Ora puoi scegliere la musica di sottofondo
+per la Torre Lotta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+11,msg_tower_description_00,"La Torre Lotta, come si evince dal nome,
+{pageend:è una struttura dedicata alle lotte Pokémon.}
+Qui potrai partecipare alle Lotte in Singolo
+{pageend:e alle Lotte in Doppio di Classe Master e non.}
+Vincendo le lotte, potrai ottenere premi
+{pageend:come Caramelle rare e PL!}
+È il posto perfetto per affinare la propria
+abilità nelle lotte!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+12,msg_tower_choice_00,Voglio lottare!,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+13,msg_tower_choice_01,Spiegami come funziona,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+14,msg_tower_choice_02,Esci,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+15,msg_tower_choice_03,Continua,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+18,msg_tower_info_01,Hai ottenuto {tag:0} PL!,0,-1,54,1080,0,"0
+0
+0
+-1
+0",3,2,1,1,0,205,,0
+19,msg_tower_rental_choice_00,Con piacere!,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+20,msg_tower_rental_choice_01,Non adesso,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+21,msg_tower_rental_choice_02,Voglio questa squadra!,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+22,msg_tower_rental_choice_03,Dimmi di più...,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+23,msg_tower_rental_choice_04,Fammi vedere le altre!,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+24,msg_tower_rental_talk_00,"Vuoi prendere in prestito una delle mie
+Squadre Lotta?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+25,msg_tower_rental_talk_01,Ok. Torna da me se cambi idea!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+26,msg_tower_rental_talk_02,Che squadra vuoi prendere in prestito?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+27,msg_tower_rental_talk_03,Mi sa che non hai più spazio...,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+28,msg_tower_rental_talk_04,Ti interessa questa Squadra Lotta?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+29,msg_tower_rental_talk_05,Buona fortuna!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+30,msg_tower_rental_talk_06,Hai già preso in prestito questa squadra.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+31,msg_tower_rental_team_00,Semplicità,36,-1,42,252,0,"0
+0
+0
+-1
+0"
+32,msg_tower_rental_team_01,Impulso,36,-1,42,252,0,"0
+0
+0
+-1
+0"
+33,msg_tower_rental_team_02,Equilibrio,36,-1,42,252,0,"0
+0
+0
+-1
+0"
+34,msg_tower_rental_team_03,Uggiosità,36,-1,42,252,0,"0
+0
+0
+-1
+0"
+35,msg_tower_rental_team_04,Flemma,36,-1,42,252,0,"0
+0
+0
+-1
+0"
+36,msg_tower_rental_team_05,Esci,36,-1,42,252,0,"0
+0
+0
+-1
+0"
+37,msg_tower_receptionist_10,Hai raggiunto il grado {tag:0}!,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+38,msg_tower_receptionist_12,Sei sces{tag:0} di grado...,0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+39,mes_tower_rental_system,"Hai preso in prestito la squadra ""{tag:0}""!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,57,0,0,0,,0
+16,msg_tower_choice_04,Riposa,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+17,msg_tower_choice_05,Sospendi,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+40,58-msg_t06pc0101_pc_mewtwo_01,"Greetings, Pokémon Trainer.
+{pageend:I bare an invitation.}
+You have been invited to a battle by
+{pageend:the world's greatest Pokémon.}
+Please accept this invitation and
+attend me at the Gate.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+41,58-msg_t06pc0101_pc_mewtwo_02,I shall await your arrival.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+42,58-msg_t06pc0101_pc_mewtwo_03,"Hm? Where am I..?
+{pageend:This is the Battleground?}
+I don’t understand what happened...
+{pageend:But your Pokémon need healing, right?}
+A true Pokémon nurse never rests!
+Speak to me if your team needs help.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+43,58-msg_t06pc0101_pc_mewtwo_getinvitation,{tag:0} received the Odd Invitation! ,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+44,58-msg_d14r0102_Mewtwo_teleport_01,A mysterious voice calls out to you.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+45,58-msg_d14r0102_Mewtwo_teleport_02,It seems you've accepted my invitation.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+46,58-msg_d10r0601_mewtwo_leave,A mysterious force stops you from leaving,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+47,58-msg_d10r0601_mewtwo_win,...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+48,58-msg_d10r0601_mewtwo_last_pokemon,You may be strong enough after all.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+49,58-msg_d10r0601_mewtwo_trainer_lose,"What a shame, not even Sinnoh’s champion can 
+match my strength",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+50,58-msg_d10r0601_mewtwo_trainer_start_01,"For years I have traveled the world to test my 
+{pageend:strength against any who dare face me.}
+Only one has proven any challenge at all.
+But now, I have cloned his Pokémon.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+51,58-msg_d10r0601_mewtwo_trainer_start_02,Do you truly think you stand a chance?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+52,58-msg_d10r0601_mewtwo_capture,"Fine, I'll do it myself.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+53,58-msg_d10r0601_mewtwo_capture_retry,Back again?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+54,58-msg_d10r0601_mewtwo_trainer_start_01_alt,"For years I have traveled the world in this form to 
+{pageend:test my strength against any who dare face me. }
+Only one has proven any challenge at all. But now,
+I have cloned his Pokémon",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"

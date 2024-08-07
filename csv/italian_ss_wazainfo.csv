@@ -1,0 +1,5334 @@
+0,WAZAINFO_000,"-
+-
+-",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+1,WAZAINFO_001,"Colpisce il bersaglio con la coda o le zampe
+anteriori.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+2,WAZAINFO_002,"Colpisce il bersaglio con un colpo netto. Probabile
+brutto colpo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+3,WAZAINFO_003,"Schiaffeggia il bersaglio da due a cinque volte di
+fila.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+4,WAZAINFO_004,"Colpisce il bersaglio con una scarica di pugni da
+due a cinque volte di fila.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+5,WAZAINFO_005,Colpisce il bersaglio con un pugno poderoso.,109,-1,32,736,0,"0
+0
+0
+-1
+0"
+6,WAZAINFO_006,"Colpisce il bersaglio con una gran quantità
+di monete recuperabili dopo la lotta.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+7,WAZAINFO_007,"Colpisce il bersaglio con un pugno ardente
+che può scottarlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+8,WAZAINFO_008,"Colpisce il bersaglio con un pugno di ghiaccio
+che può congelarlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+9,WAZAINFO_009,"Colpisce il bersaglio con un pugno elettrico
+che può paralizzarlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+10,WAZAINFO_010,"Infligge danni al bersaglio con artigli acuminati,
+duri e affilati.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+11,WAZAINFO_011,Stringe il bersaglio in una morsa.,109,-1,32,736,0,"0
+0
+0
+-1
+0"
+12,WAZAINFO_012,"Attacca il bersaglio con pericolose tenaglie.
+Se l’attacco va a segno, il Pokémon colpito
+va subito KO.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+13,WAZAINFO_013,"Chi la usa genera un turbine al primo turno e
+attacca al secondo. Probabile brutto colpo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+14,WAZAINFO_014,"Danza frenetica che incrementa lo spirito combattivo.
+Chi la usa aumenta di molto il suo Attacco.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+15,WAZAINFO_015,"Attacca il bersaglio con artigli o falci affilate.
+È una delle mosse MN del PokéKron.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+16,WAZAINFO_016,"Infligge danni al bersaglio con una folata di vento
+sollevata dalle ali.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+17,WAZAINFO_017,"Infligge danni al bersaglio spiegando delle grandi
+ali possenti.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+18,WAZAINFO_018,"Il bersaglio lascia il campo e viene sostituito.
+Mette fine alle lotte contro singoli Pokémon
+selvatici.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+19,WAZAINFO_019,"Chi la usa si alza in volo per attaccare al turno
+seguente. È una delle mosse MN del PokéKron.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+20,WAZAINFO_020,"Il lungo corpo o i tentacoli di chi la usa legano e
+stritolano il bersaglio per quattro o cinque turni.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+21,WAZAINFO_021,"Infligge danni al bersaglio con la coda, con una
+liana o con qualcosa di simile.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+22,WAZAINFO_022,"Infligge danni al bersaglio con liane sottili
+simili a fruste.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+23,WAZAINFO_023,"Colpisce il bersaglio con un grosso piede
+e può anche farlo tentennare.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+24,WAZAINFO_024,"Colpisce il bersaglio due volte con una raffica
+di calci inferti con entrambi i piedi.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+25,WAZAINFO_025,"Colpisce il bersaglio con un calcio sferrato
+con la forza di muscoli poderosi.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+26,WAZAINFO_026,"Permette di saltare in alto per attaccare con un
+calcio. Se non va a buon fine, chi la usa si ferisce.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+27,WAZAINFO_027,"Chi la usa infierisce sul bersaglio con un calcio
+rotante. Può anche farlo tentennare.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+28,WAZAINFO_028,"Getta sabbia in faccia al bersaglio e ne riduce
+la precisione.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+29,WAZAINFO_029,"Chi la usa si lancia diritto di testa contro
+il bersaglio. Può anche farlo tentennare.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+30,WAZAINFO_030,"Danneggia il bersaglio infilzandolo con un corno
+affilato.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+31,WAZAINFO_031,"Infilza il bersaglio con corna affilate o con il becco
+da due a cinque volte di fila.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+32,WAZAINFO_032,"Colpisce il bersaglio con un corno perforante
+come un trapano. Se il colpo va a segno,
+il Pokémon colpito va KO.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+33,WAZAINFO_033,"Attacco fisico che colpisce il bersaglio
+investendolo con tutto il corpo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+34,WAZAINFO_034,"Chi la usa carica il bersaglio con tutto il corpo.
+Può causarne anche la paralisi.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+35,WAZAINFO_035,"Il lungo corpo o le liane di chi la usa avvolgono
+e stritolano il bersaglio per quattro o cinque turni.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+36,WAZAINFO_036,"Carica spericolata con tutto il corpo contro
+il bersaglio. Danneggia un po’ anche chi la usa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+37,WAZAINFO_037,"Assale e attacca il nemico per due o tre turni,
+ma confonde chi la usa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+38,WAZAINFO_038,"Carica spietata e pericolosa che danneggia molto
+anche chi la usa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+39,WAZAINFO_039,"Chi la usa agita la coda per distrarre i nemici
+che ha intorno, riducendone la Difesa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+40,WAZAINFO_040,"Colpisce il bersaglio con un aculeo tossico
+che può anche avvelenarlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+41,WAZAINFO_041,"Colpisce il nemico due volte di seguito con un
+paio di aghi. Può anche avvelenarlo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+42,WAZAINFO_042,"Il bersaglio viene colpito da due a cinque volte
+in rapida successione con delle spine.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+43,WAZAINFO_043,"Terrorizza i nemici intorno con uno sguardo
+fulminante e intimidatorio, riducendone la Difesa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+44,WAZAINFO_044,"Il bersaglio viene morso da denti affilatissimi
+che possono farlo tentennare.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+45,WAZAINFO_045,"Distrae i nemici intorno con un tenero ruggito
+e ne riduce l’Attacco.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+46,WAZAINFO_046,"Il bersaglio lascia il campo e viene sostituito.
+Se usata contro singoli Pokémon selvatici, mette
+fine alla lotta.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+47,WAZAINFO_047,"Dolce ninnananna, cantata da una voce suadente,
+che fa addormentare il bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+48,WAZAINFO_048,"Chi la usa genera dal proprio corpo strane onde
+acustiche che possono confondere il bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+49,WAZAINFO_049,"Il nemico viene colpito da una scarica concentrata
+che infligge sempre un danno di 20 PS.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+50,WAZAINFO_050,"Per quattro turni impedisce al bersaglio
+di riutilizzare l’ultima mossa usata.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+51,WAZAINFO_051,"Colpisce i nemici intorno spruzzando un acido
+corrosivo. Può anche ridurne la Difesa Speciale.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+52,WAZAINFO_052,"Il bersaglio viene colpito da fiammelle che possono
+anche scottarlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+53,WAZAINFO_053,"Il bersaglio viene colpito da intense fiammate
+che possono anche scottarlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+54,WAZAINFO_054,"Chi la usa attira una nebbia che blocca la riduzione
+delle statistiche per sé e gli alleati per cinque turni.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+55,WAZAINFO_055,Il bersaglio è colpito da un potente getto d’acqua.,109,-1,32,736,0,"0
+0
+0
+-1
+0"
+56,WAZAINFO_056,"Il bersaglio è travolto da un potente getto d’acqua
+spruzzato ad altissima pressione.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+57,WAZAINFO_057,"Un’onda enorme sommerge il campo di lotta,
+colpendo tutti i Pokémon intorno a chi la scatena.
+È una delle mosse MN del PokéKron.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+58,WAZAINFO_058,"Il bersaglio è colpito da un raggio di energia gelida
+che può anche congelarlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+59,WAZAINFO_059,"Colpisce i nemici intorno con una tremenda
+tempesta di ghiaccio che può anche congelarli.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+60,WAZAINFO_060,"Colpisce il bersaglio con un raggio speciale.
+Può anche confonderlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+61,WAZAINFO_061,"Colpisce il bersaglio con una forte scarica di bolle.
+Può anche ridurne la Velocità.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+62,WAZAINFO_062,"Colpisce il bersaglio con un raggio dai colori
+dell’iride. Può anche ridurne l’Attacco.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+63,WAZAINFO_063,"Colpisce il bersaglio con un potente raggio. Chi la usa
+salta il turno successivo per recuperare energia.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+64,WAZAINFO_064,"Colpisce il bersaglio con il becco appuntito
+o con un corno.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+65,WAZAINFO_065,"Attacco a spirale con un becco aguzzo
+che fa da trapano.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+66,WAZAINFO_066,"Chi la usa carica il bersaglio in modo spericolato,
+ma danneggia anche se stesso.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+67,WAZAINFO_067,"Un calcio basso e potente che fa cadere il bersaglio.
+Danneggia maggiormente i Pokémon più pesanti.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+68,WAZAINFO_068,"Mossa che contrasta ogni attacco fisico,
+arrecando il doppio del danno ricevuto.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+69,WAZAINFO_069,"Colpisce il bersaglio con la forza di gravità.
+Infligge un danno pari al livello di chi la usa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+70,WAZAINFO_070,"Chi la usa colpisce il bersaglio con tutte le sue forze.
+È una delle mosse MN del PokéKron.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+71,WAZAINFO_071,"Mossa che assorbe PS. Chi la usa recupera una
+quantità di PS pari alla metà del danno inferto.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+72,WAZAINFO_072,"Mossa che assorbe PS. Chi la usa recupera una
+quantità di PS pari alla metà del danno inferto.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+73,WAZAINFO_073,"Vengono piantati semi sul bersaglio. Questi
+sottraggono PS a ogni turno permettendo
+a chi la usa di curarsi.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+74,WAZAINFO_074,"Provoca la crescita immediata del corpo
+e l’aumento dell’Attacco e dell’Attacco Speciale
+di chi la usa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+75,WAZAINFO_075,"Foglie taglienti sferzano i nemici intorno.
+Probabile brutto colpo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+76,WAZAINFO_076,"Chi la usa assorbe luce al primo turno per proiettare
+un raggio intenso al turno successivo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+77,WAZAINFO_077,"Investe il bersaglio con una nuvola di polvere
+tossica che avvelena.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+78,WAZAINFO_078,"Investe il bersaglio con una nuvola di polvere
+che paralizza.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+79,WAZAINFO_079,"Investe il bersaglio con una grande nuvola
+di polvere soporifera che lo fa addormentare.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+80,WAZAINFO_080,"Attacca il nemico cospargendolo di petali
+per due o tre turni, ma chi la usa rimane confuso.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+81,WAZAINFO_081,"Chi la usa produce della seta che avvolge
+i nemici intorno e ne riduce di molto la Velocità.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+82,WAZAINFO_082,"Colpisce il nemico con un’onda d’urto generata
+dall’ira. Questo attacco provoca sempre un danno
+di 40 PS.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+83,WAZAINFO_083,"Intrappola il bersaglio in un turbine di fuoco
+che dura per quattro o cinque turni.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+84,WAZAINFO_084,"Colpisce il bersaglio con una scarica elettrica
+che può anche paralizzarlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+85,WAZAINFO_085,"Il bersaglio viene colpito da una potente scarica
+elettrica che può anche paralizzarlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+86,WAZAINFO_086,"Colpisce il bersaglio con una debole scarica
+elettrica che lo paralizza.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+87,WAZAINFO_087,"Il bersaglio è colpito da un fulmine molto violento
+che può anche paralizzarlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+88,WAZAINFO_088,"Chi la usa raccoglie una pietra e la lancia
+contro il bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+89,WAZAINFO_089,"Chi la usa provoca un potente sisma che colpisce
+i Pokémon che ha intorno.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+90,WAZAINFO_090,"Chi la usa crea una spaccatura nel terreno e cerca
+di gettarvici dentro il bersaglio. Se va a segno,
+il Pokémon colpito va KO.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+91,WAZAINFO_091,"Chi la usa scava al primo turno e attacca al successivo.
+Fuori dalla lotta consente di uscire dalle grotte e simili.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+92,WAZAINFO_092,"Iperavvelena il bersaglio con una potente tossina.
+Il danno peggiora a ogni turno.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+93,WAZAINFO_093,"Colpisce il bersaglio con una leggera forza
+telecinetica e può anche confonderlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+94,WAZAINFO_094,"Il bersaglio viene colpito da una potente
+forza telecinetica che può anche ridurne
+la Difesa Speciale.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+95,WAZAINFO_095,"Chi la usa si avvale della suggestione ipnotica
+per far addormentare il bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+96,WAZAINFO_096,"Il Pokémon medita risvegliando il potere nel
+profondo del suo corpo ed aumentando il suo
+Attacco.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+97,WAZAINFO_097,"Chi la usa rilassa e alleggerisce il proprio corpo
+per far salire di molto la Velocità.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+98,WAZAINFO_098,"Chi la usa colpisce a una tale velocità da rendersi
+quasi invisibile. Questa mossa ha priorità alta.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+99,WAZAINFO_099,"Quando un Pokémon usa questa mossa, il suo
+attacco aumenta ogni volta che viene colpito.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+100,WAZAINFO_100,"Chi la usa viene sostituito da un altro Pokémon, laddove
+possibile. Se un Pokémon selvatico la usa, fugge dalla
+lotta. Fa tornare all’ultimo Centro Pokémon visitato.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+101,WAZAINFO_101,"Fa apparire un orribile miraggio al bersaglio
+e infligge un danno pari al livello di chi la usa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+102,WAZAINFO_102,"Chi la usa copia l’ultima mossa usata dal bersaglio
+e la conserva finché rimane in campo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+103,WAZAINFO_103,"Stridio assordante che riduce di molto la Difesa
+del bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+104,WAZAINFO_104,"Chi la usa si muove in fretta e crea copie illusorie
+di se stesso che aumentano la capacità di elusione.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+105,WAZAINFO_105,"Mossa autocurativa. Chi la usa recupera metà
+dei PS massimi.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+106,WAZAINFO_106,"Tutti i muscoli del corpo si tonificano
+per aumentare la Difesa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+107,WAZAINFO_107,"Il corpo di chi la usa si comprime e diventa
+più piccolo. La sua capacità di elusione
+aumenta di molto.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+108,WAZAINFO_108,"Nuvola di fumo o inchiostro che riduce
+la precisione del bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+109,WAZAINFO_109,"Colpisce il bersaglio con un raggio funesto
+che lo confonde.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+110,WAZAINFO_110,"Il corpo si ritira nel suo duro guscio per aumentare
+la Difesa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+111,WAZAINFO_111,"Chi la usa si raggomitola per nascondere
+i punti deboli e aumentare la propria Difesa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+112,WAZAINFO_112,"Innalza una barriera resistente che aumenta molto
+la Difesa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+113,WAZAINFO_113,"Innalza una barriera misteriosa che riduce i danni degli
+attacchi speciali per sé e gli alleati per cinque turni.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+114,WAZAINFO_114,"Chi la usa crea una nube nera che annulla
+ogni modifica alle statistiche di tutti i Pokémon
+in campo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+115,WAZAINFO_115,"Innalza una barriera misteriosa che riduce i danni degli
+attacchi fisici per sé e gli alleati per cinque turni.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+116,WAZAINFO_116,"Chi la usa fa un profondo respiro e si concentra
+per rendere più probabili i brutti colpi.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+117,WAZAINFO_117,"Chi la usa subisce attacchi per due turni, per poi
+attaccare restituendo il doppio dei danni subiti.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+118,WAZAINFO_118,"Chi la usa fa di no con il dito e stimola il cervello
+a usare a caso una delle tante mosse esistenti.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+119,WAZAINFO_119,"Chi la usa colpisce il bersaglio copiandone l’ultima
+mossa usata.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+120,WAZAINFO_120,"Chi la usa esplode e infligge danni ai Pokémon
+che ha intorno, ma poi va KO.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+121,WAZAINFO_121,"Colpisce il nemico con un grande uovo
+scaraventato con enorme forza.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+122,WAZAINFO_122,"Una lingua lunga infligge danni al bersaglio
+e può anche paralizzarlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+123,WAZAINFO_123,"Colpisce il bersaglio con una scarica di gas
+maleodoranti. Può anche avvelenarlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+124,WAZAINFO_124,"Chi la usa lancia fango malsano sul bersaglio.
+Può anche avvelenarlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+125,WAZAINFO_125,"Il Pokémon colpisce il nemico con un bastone
+d'osso. Può anche fare tentennare l'obiettivo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+126,WAZAINFO_126,"Investe il bersaglio con un’intensa fiammata
+che fa terra bruciata. Può anche scottarlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+127,WAZAINFO_127,"Chi la usa carica il bersaglio a grande velocità e può
+farlo tentennare. È una delle mosse MN del PokéKron.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+128,WAZAINFO_128,"Chi la usa intrappola e stritola il nemico con la sua
+corazza spessa e forte per quattro o cinque turni.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+129,WAZAINFO_129,"Chi la usa colpisce i nemici intorno con raggi
+a forma di stella. Questo attacco è infallibile.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+130,WAZAINFO_130,"Chi la usa ritira la testa per aumentare la Difesa
+e poi attacca al turno successivo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+131,WAZAINFO_131,"Il nemico viene colpito da due a cinque volte in
+rapida successione da spilli appuntiti.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+132,WAZAINFO_132,"Colpisce il nemico con lunghi tentacoli o piante
+rampicanti. Può anche ridurne la Velocità.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+133,WAZAINFO_133,"Chi la usa svuota per un po’ la mente per dimenticare
+i problemi. La Difesa Speciale aumenta di molto.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+134,WAZAINFO_134,"Chi la usa distrae il bersaglio piegando un cucchiaio
+e ne riduce la precisione.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+135,WAZAINFO_135,"Chi la usa recupera metà dei propri PS massimi.
+Fuori dalla lotta permette di trasferire PS agli alleati.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+136,WAZAINFO_136,"Chi la usa colpisce il bersaglio con una ginocchiata
+in volo. Se fallisce, subisce danni.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+137,WAZAINFO_137,"Chi la usa spaventa il bersaglio con uno sguardo
+terrificante e ne causa la paralisi.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+138,WAZAINFO_138,"Attacco che funziona solo su un bersaglio che dorme.
+Chi lo usa riceve metà dei PS persi dal Pokémon colpito.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+139,WAZAINFO_139,"Spruzza in faccia ai nemici che ha intorno
+una nuvola di gas tossico che avvelena.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+140,WAZAINFO_140,"Piovono enormi sfere sulla testa del nemico da
+due a cinque volte di fila.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+141,WAZAINFO_141,"Mossa succhiasangue. Chi la usa recupera una
+quantità di PS pari alla metà del danno inferto.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+142,WAZAINFO_142,"Chi la usa intimidisce il bersaglio con una faccia
+paurosa e gli schiocca un bacio che lo fa
+addormentare.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+143,WAZAINFO_143,"Attacco in due turni e probabile brutto colpo.
+Può anche far tentennare il bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+144,WAZAINFO_144,"Chi la usa si trasforma in una copia esatta
+del bersaglio per sfruttarne le mosse.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+145,WAZAINFO_145,"Uno spruzzo di bolle viene lanciato sul nemico.
+Può ridurne la velocità.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+146,WAZAINFO_146,"Colpisce il bersaglio con una sequenza di pugni
+che può anche confonderlo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+147,WAZAINFO_147,"Chi la usa sparge una nube di spore che fa venire
+sonnolenza al bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+148,WAZAINFO_148,"Investe il bersaglio con una luce abbagliante
+che ne riduce la precisione. Fuori dalla lotta
+serve per illuminare le grotte.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+149,WAZAINFO_149,"Il nemico è attaccato con una strana onda di
+energia. L'intensità dell'attacco è variabile.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+150,WAZAINFO_150,"Chi la usa sguazza nell’acqua, senza ottenere
+alcun effetto.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+151,WAZAINFO_151,"Chi la usa altera la sua struttura cellulare passando
+allo stato liquido. La Difesa sale di molto.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+152,WAZAINFO_152,"Danneggia il bersaglio servendosi di una grande
+tenaglia. Probabile brutto colpo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+153,WAZAINFO_153,"Chi la usa esplode per infliggere danni agli altri
+Pokémon attorno, ma va KO.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+154,WAZAINFO_154,"Colpisce il bersaglio con artigli o falci affilate
+da due a cinque volte in rapida successione.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+155,WAZAINFO_155,"Chi la usa lancia l’osso che ha con sé.
+L’osso colpisce due volte e ritorna come un vero
+e proprio boomerang.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+156,WAZAINFO_156,"Chi la usa recupera tutti i PS e guarisce da tutti
+i suoi problemi di stato, ma dorme per due turni.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+157,WAZAINFO_157,"I nemici vengono colpiti con violenza da grandi
+massi che possono anche farli tentennare.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+158,WAZAINFO_158,"Il Pokémon morde il nemico con zanne taglienti.
+Può anche farlo tentennare.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+159,WAZAINFO_159,"Chi la usa riduce il numero di poligoni sul proprio
+corpo per accentuarne gli spigoli e aumentare
+l'Attacco.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+160,WAZAINFO_160,"Il tipo di chi la usa muta in quello della prima
+mossa nella lista delle sue mosse.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+161,WAZAINFO_161,"Colpisce il bersaglio con tre raggi di luce che
+possono paralizzarlo, scottarlo o congelarlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+162,WAZAINFO_162,"Chi la usa salta sul bersaglio azzannandolo
+con i suoi incisivi affilati e facendogli perdere
+metà dei PS.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+163,WAZAINFO_163,"Attacca il bersaglio con artigli, falci o altro.
+Probabile brutto colpo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+164,WAZAINFO_164,"Chi la usa crea una copia di se stesso usando alcuni PS.
+La copia serve come esca per il nemico.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+165,WAZAINFO_165,"Mossa da usare solo in caso estremo, quando
+non si hanno più PP. Danneggia un po’ anche
+chi la usa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+166,WAZAINFO_166,"Permette a chi la usa di imparare l’ultima mossa
+usata dal bersaglio. La nuova mossa appresa
+sostituisce Schizzo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+167,WAZAINFO_167,"Chi la usa sferra fino a tre calci consecutivi
+la cui potenza aumenta a ogni colpo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+168,WAZAINFO_168,"Chi la usa attacca il bersaglio e può rubargli
+lo strumento, se non ne ha già uno.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+169,WAZAINFO_169,"Copre il nemico con un filo di seta sottile e
+appiccicoso. Il nemico non può fuggire.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+170,WAZAINFO_170,"Chi la usa prevede i movimenti del bersaglio
+per mandare a segno l’attacco successivo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+171,WAZAINFO_171,"Il nemico addormentato ha un incubo e perde PS
+ad ogni turno.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+172,WAZAINFO_172,"Chi la usa si copre di fuoco e carica il bersaglio.
+Può anche scottarlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+173,WAZAINFO_173,"Mossa che può essere usata solo mentre si dorme.
+Il chiasso assordante può anche far tentennare il
+bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+174,WAZAINFO_174,"Una mossa che agisce in modo diverso
+se chi la usa è di tipo Spettro.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+175,WAZAINFO_175,"Chi la usa si dimena per attaccare. È più efficace
+se i suoi PS sono bassi.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+176,WAZAINFO_176,"Chi la usa cambia tipo per rendersi resistente
+al tipo dell’ultima mossa usata dal bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+177,WAZAINFO_177,"Colpisce il bersaglio con un vortice d’aria
+per danneggiarlo. Probabile brutto colpo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+178,WAZAINFO_178,"Rilascia spore simili al cotone che si attaccano
+ai nemici nei paraggi e ne riducono di molto
+la Velocità.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+179,WAZAINFO_179,"Chi la usa attacca con tutte le sue forze.
+Più i PS sono bassi, maggiore è la potenza
+di questa mossa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+180,WAZAINFO_180,"Chi la usa sfoga la propria rabbia sull’ultima mossa
+usata dal bersaglio e le sottrae quattro PP.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+181,WAZAINFO_181,"Chi la usa attacca i nemici che ha intorno con
+una raffica di neve farinosa e può anche congelarli.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+182,WAZAINFO_182,"Permette di eludere tutti gli attacchi.
+Se usata in successione può fallire.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+183,WAZAINFO_183,"Chi la usa tira un pugno a una velocità
+impressionante.
+Questa mossa ha priorità alta.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+184,WAZAINFO_184,"Chi la usa spaventa il bersaglio con una faccia
+terribile e ne riduce di molto la Velocità.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+185,WAZAINFO_185,"Chi la usa si avvicina al nemico facendo finta di
+niente, per poi scagliare un pugno infallibile a
+tradimento.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+186,WAZAINFO_186,"Chi la usa bacia il bersaglio con una dolcezza
+angelica, confondendolo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+187,WAZAINFO_187,"Chi la usa massimizza l’Attacco in cambio di metà
+dei PS massimi.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+188,WAZAINFO_188,"Chi la usa lancia fango malsano sul bersaglio.
+Può anche avvelenarlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+189,WAZAINFO_189,"Chi la usa butta fango in faccia al bersaglio
+per arrecargli danni e ridurne la precisione.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+190,WAZAINFO_190,"Chi la usa spruzza inchiostro in faccia al bersaglio.
+Può anche ridurne la precisione.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+191,WAZAINFO_191,"Chi la usa piazza sul terreno una trappola di punte
+che danneggia i nemici quando scendono in campo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+192,WAZAINFO_192,"Chi la usa scaglia una sfera elettrica
+che infligge danni e paralizza il bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+193,WAZAINFO_193,"Chi la usa rende i Pokémon di tipo Spettro
+vulnerabili a qualsiasi tipo di mossa e può, inoltre,
+colpire i nemici sfuggenti.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+194,WAZAINFO_194,"Se chi la usa va KO a causa di un attacco,
+chi ha sferrato il colpo da KO fa la stessa fine.
+Se usata in successione fallisce.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+195,WAZAINFO_195,"Qualunque Pokémon che senta questo canto va
+KO in tre turni, se non lo si sostituisce.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+196,WAZAINFO_196,"Chi la usa attacca i nemici intorno con una folata
+di aria gelida e ne riduce anche la Velocità.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+197,WAZAINFO_197,"Permette di eludere tutti gli attacchi.
+Se usata in successione può fallire.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+198,WAZAINFO_198,"Chi la usa colpisce il bersaglio con un osso
+da due a cinque volte di fila.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+199,WAZAINFO_199,"Chi la usa punta il bersaglio con precisione.
+La mossa successiva andrà a segno.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+200,WAZAINFO_200,"Chi la usa sfoga la sua ira e attacca il nemico
+per due o tre turni prima di essere lasciato
+in preda alla confusione.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+201,WAZAINFO_201,"Causa una tempesta di sabbia per cinque turni che
+danneggia tutti i tipi, esclusi Terra, Roccia e Acciaio.
+Aumenta la Difesa Speciale dei Pokémon di tipo Roccia.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+202,WAZAINFO_202,"Mossa che assorbe PS. Chi la usa recupera una
+quantità di PS pari alla metà del danno inferto.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+203,WAZAINFO_203,"Chi la usa resta con un PS anche se subisce un colpo
+da KO in quel turno. Usata in successione può fallire.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+204,WAZAINFO_204,"Ammalia il bersaglio con lo sguardo per renderlo
+meno cauto. Ne riduce molto l’Attacco.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+205,WAZAINFO_205,"Chi la usa colpisce il bersaglio rotolando
+per cinque turni, con aumento progressivo
+della potenza ogni volta che va a segno.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+206,WAZAINFO_206,"Chi la usa attenua il colpo per impedire al bersaglio
+di andare KO, lasciandolo con almeno un PS.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+207,WAZAINFO_207,"Chi la usa provoca il bersaglio e lo confonde,
+facendo aumentare però di molto il suo Attacco.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+208,WAZAINFO_208,"Chi la usa recupera metà dei propri PS massimi.
+Fuori dalla lotta permette di trasferire PS agli alleati.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+209,WAZAINFO_209,"Colpisce il bersaglio con una scarica elettrica
+e può anche paralizzarlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+210,WAZAINFO_210,"Colpisce il bersaglio con falci o artigli. Se usata
+in successione aumenta di potenza ogni volta
+che va a segno.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+211,WAZAINFO_211,"Colpisce il bersaglio con ali d’acciaio.
+Può anche aumentare la Difesa di chi la usa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+212,WAZAINFO_212,"Chi la usa blocca il bersaglio con uno sguardo
+oscuro e ammaliante, impedendogli la fuga.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+213,WAZAINFO_213,"Se il bersaglio è del sesso opposto, s’infatua
+e diventa riluttante ad attaccare.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+214,WAZAINFO_214,"Chi la usa sferra a caso una delle proprie mosse
+mentre sta dormendo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+215,WAZAINFO_215,"Chi la usa produce uno scampanellio che cura
+i problemi di stato suoi e dei Pokémon alleati.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+216,WAZAINFO_216,"Mossa che diventa tanto più potente quanto
+maggiore è il grado di affezione del Pokémon per
+il proprio Allenatore.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+217,WAZAINFO_217,"Chi la usa dà un regalo bomba al bersaglio.
+A volte, però, può fargli recuperare PS.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+218,WAZAINFO_218,"Mossa che diventa tanto più potente quanto
+minore è il grado di affezione del Pokémon per il
+proprio Allenatore.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+219,WAZAINFO_219,"Chi la usa crea un campo protettivo che evita problemi
+di stato per sé e gli alleati per cinque turni.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+220,WAZAINFO_220,"Chi la usa somma i propri PS a quelli di un altro
+Pokémon per poi dividerli in parti uguali.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+221,WAZAINFO_221,"Colpisce il bersaglio con un fuoco mistico di
+enorme intensità che può anche causargli
+una scottatura.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+222,WAZAINFO_222,"Chi la usa scatena un terremoto d’intensità
+variabile che danneggia gli altri Pokémon in
+campo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+223,WAZAINFO_223,"Colpisce il bersaglio con un pugno davvero forte.
+Se va a segno, lo confonde.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+224,WAZAINFO_224,"Chi la usa utilizza il suo robusto e imponente
+corno per colpire il bersaglio con tutto se stesso.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+225,WAZAINFO_225,"Investe il bersaglio con una raffica potentissima
+che arreca danni. Può anche paralizzarlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+226,WAZAINFO_226,"Chi la usa è sostituito da un Pokémon della squadra,
+che eredita anche ogni modifica alle statistiche.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+227,WAZAINFO_227,"Chi la usa obbliga il bersaglio a ripetere per tre
+turni l’ultima mossa eseguita.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+228,WAZAINFO_228,"Una mossa d’attacco che infligge un danno
+doppio se il nemico è in fase di sostituzione.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+229,WAZAINFO_229,"Attacco rotante che elimina gli effetti di mosse come
+Legatutto, Avvolgibotta e Parassiseme. Aumenta anche
+la Velocità di chi la usa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+230,WAZAINFO_230,"Riduce di molto l’elusione dei nemici intorno a chi la
+usa. Fuori dalla lotta attira i Pokémon selvatici.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+231,WAZAINFO_231,"Il bersaglio viene colpito da una robusta coda
+d’acciaio che può anche ridurne la Difesa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+232,WAZAINFO_232,"Colpisce il bersaglio con artigli d’acciaio.
+Può anche aumentare l’Attacco di chi la usa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+233,WAZAINFO_233,"Chi la usa attacca per ultimo, ma il colpo
+è sempre infallibile.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+234,WAZAINFO_234,"Chi la usa recupera PS. Il numero di PS recuperati
+dipende dalle condizioni atmosferiche.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+235,WAZAINFO_235,"Chi la usa recupera PS. Il numero di PS recuperati
+dipende dalle condizioni atmosferiche.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+236,WAZAINFO_236,"Chi la usa recupera PS. Il numero di PS recuperati
+dipende dalle condizioni atmosferiche.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+237,WAZAINFO_237,"Mossa che cambia tipo a seconda del Pokémon
+che la usa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+238,WAZAINFO_238,"Investe il bersaglio con un colpo sferrato
+con entrambe le braccia incrociate.
+Probabile brutto colpo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+239,WAZAINFO_239,"Un potente tornado si abbatte sui nemici nei
+paraggi. Può anche farli tentennare.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+240,WAZAINFO_240,"Chi la usa provoca una forte pioggia per cinque turni,
+potenziando le mosse di tipo Acqua e riducendo
+la potenza di quelle di tipo Fuoco.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+241,WAZAINFO_241,"Chi la usa intensifica i raggi solari per cinque turni,
+potenziando le mosse di tipo Fuoco e riducendo
+la potenza di quelle di tipo Acqua.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+242,WAZAINFO_242,"Il bersaglio viene morso con denti affilati.
+Può anche ridurne la Difesa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+243,WAZAINFO_243,"Mossa che replica ogni attacco speciale,
+arrecando il doppio del danno ricevuto.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+244,WAZAINFO_244,"Chi la usa s’ipnotizza per copiare ogni modifica
+alle statistiche del bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+245,WAZAINFO_245,"Chi la usa carica il bersaglio a una velocità
+impressionante.
+Questa mossa ha priorità alta.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+246,WAZAINFO_246,"Colpisce il bersaglio con una forza primordiale.
+Può aumentare tutte le statistiche.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+247,WAZAINFO_247,"Lancia sul bersaglio una sfera nera.
+Può anche ridurne la Difesa Speciale.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+248,WAZAINFO_248,"Due turni dopo l’utilizzo di questa mossa,
+il bersaglio viene attaccato con energia psichica.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+249,WAZAINFO_249,"Chi la usa colpisce il bersaglio con un pugno che
+può anche ridurne la Difesa. È una delle mosse MN
+del PokéKron.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+250,WAZAINFO_250,"Intrappola il bersaglio in un turbine d’acqua per quattro
+o cinque turni infliggendo danni a ogni turno.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+251,WAZAINFO_251,"Chi la usa chiama in aiuto i Pokémon della squadra:
+più ce ne sono, maggiore è il numero di attacchi.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+252,WAZAINFO_252,"Mossa ad alta priorità che fa tentennare
+il bersaglio. Funziona solo appena scesi in campo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+253,WAZAINFO_253,"Chi la usa attacca per tre turni con un frastuono
+che non fa dormire nessuno.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+254,WAZAINFO_254,"Chi la usa accumula energia aumentando
+la Difesa e la Difesa Speciale.
+Si può utilizzare tre volte.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+255,WAZAINFO_255,"Tutta l’energia accumulata in precedenza
+con Accumulo è rilasciata nell’attacco.
+Maggiore è l’energia, più danni si arrecano.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+256,WAZAINFO_256,"Chi la usa assorbe l’energia raccolta
+con la mossa Accumulo e recupera PS.
+Maggiore è l’energia, più PS si recuperano.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+257,WAZAINFO_257,"Chi la usa investe i nemici che ha intorno con
+una folata di vento caldo. Può anche scottarli.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+258,WAZAINFO_258,"Chi la usa causa una grandinata che dura cinque turni.
+Danneggia tutti i Pokémon tranne quelli
+di tipo Ghiaccio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+259,WAZAINFO_259,"Chi la usa tormenta e fa infuriare il bersaglio,
+impedendogli di usare la stessa mossa
+due volte di seguito.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+260,WAZAINFO_260,"Adula il bersaglio e lo confonde, ma ne aumenta
+l’Attacco Speciale.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+261,WAZAINFO_261,"Fiamme sinistre e misteriose causano una scottatura
+al bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+262,WAZAINFO_262,"Chi la usa va KO. Tuttavia, riduce di molto
+l’Attacco e l’Attacco Speciale del bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+263,WAZAINFO_263,"Mossa d’attacco che raddoppia la potenza
+se chi la usa è scottato, avvelenato o paralizzato.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+264,WAZAINFO_264,"Chi la usa prende la mira prima di sferrare
+un pugno. Fallirà se verrà colpito prima
+di eseguire la mossa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+265,WAZAINFO_265,"Infligge un danno doppio ad un bersaglio
+paralizzato, ma ne cura anche la paralisi.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+266,WAZAINFO_266,"Chi la usa attira l’attenzione su di sé, costringendo
+i nemici a sceglierlo sempre come bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+267,WAZAINFO_267,"Mossa che fa uso della forza della natura.
+Il suo effetto varia in base all’ambiente.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+268,WAZAINFO_268,"Potenzia la mossa di tipo Elettro usata subito
+dopo. Aumenta anche la Difesa Speciale
+di chi la usa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+269,WAZAINFO_269,"Provoca il bersaglio inducendolo a usare solo mosse
+d’attacco per tre turni.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+270,WAZAINFO_270,"Mossa che aumenta la potenza dell’attacco
+di un alleato.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+271,WAZAINFO_271,"Chi la usa coglie il bersaglio in contropiede e lo
+obbliga a scambiare il suo strumento con il proprio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+272,WAZAINFO_272,"Chi la usa mima in tutto il bersaglio, copiandone
+l’abilità.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+273,WAZAINFO_273,"Quando un Pokémon la usa, al turno successivo
+la metà dei suoi PS massimi viene recuperata
+da lui stesso o dal Pokémon che lo sostituisce.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+274,WAZAINFO_274,"Chi la usa utilizza in fretta e a caso una delle
+mosse degli altri Pokémon della squadra.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+275,WAZAINFO_275,"Chi la usa mette delle radici che gli fanno
+recuperare PS a ogni turno. Non può
+essere sostituito.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+276,WAZAINFO_276,"Chi la usa attacca il bersaglio con grande forza,
+ma il suo Attacco e la sua Difesa diminuiscono.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+277,WAZAINFO_277,"Una barriera rimanda al mittente l’effetto
+di mosse come Parassiseme e di mosse
+che influenzano lo stato.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+278,WAZAINFO_278,"Chi la usa ricicla uno strumento che ha usato
+nella lotta e può riutilizzarlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+279,WAZAINFO_279,"Mossa d’attacco che infligge un danno doppio
+se si è stati colpiti dal Pokémon bersaglio nello
+stesso turno.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+280,WAZAINFO_280,"Colpisce il bersaglio con una mano e rompe
+barriere come Riflesso e Schermoluce.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+281,WAZAINFO_281,"Chi la usa fa un grande sbadiglio che
+addormenta il bersaglio al turno seguente.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+282,WAZAINFO_282,"Attacco che fa cadere lo strumento del bersaglio,
+impedendone l’uso nella lotta. La sua potenza
+aumenta se il Pokémon colpito ha uno strumento.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+283,WAZAINFO_283,"Attacco che riduce i PS del bersaglio a una
+quantità pari ai PS di chi lo usa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+284,WAZAINFO_284,"Attacco impetuoso ed esplosivo la cui potenza
+è proporzionale ai PS di chi lo usa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+285,WAZAINFO_285,"Chi la usa sfrutta i suoi poteri psichici per scambiare
+l’abilità con il bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+286,WAZAINFO_286,"Chi la usa impedisce al nemico di usare mosse
+che conoscono entrambi.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+287,WAZAINFO_287,"Chi la usa riposa per curarsi da avvelenamento,
+paralisi e scottatura.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+288,WAZAINFO_288,"Se chi la usa va KO, i PP della mossa nemica
+che lo ha messo fuori gioco si azzerano.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+289,WAZAINFO_289,"Chi la usa ruba e utilizza la mossa curativa o
+modifica-statistiche che il bersaglio stava per
+usare.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+290,WAZAINFO_290,"Attacco che può avere un effetto aggiuntivo a
+seconda del luogo in cui si trova chi lo usa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+291,WAZAINFO_291,"Chi la usa si tuffa in acqua per emergere
+e attaccare al turno successivo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+292,WAZAINFO_292,"Raffica di ceffoni che colpisce da due a
+cinque volte di fila.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+293,WAZAINFO_293,"Modifica il tipo di chi la usa a seconda del luogo,
+ad esempio sull'acqua, nell'erba o in una grotta.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+294,WAZAINFO_294,"Chi la usa fissa una luce forte per concentrarsi
+e aumentare moltissimo l’Attacco Speciale.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+295,WAZAINFO_295,"Chi la usa scatena un’esplosione abbagliante
+che può anche ridurre la Difesa Speciale
+del Pokémon colpito.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+296,WAZAINFO_296,"Una sfera di nebbia avvolge e danneggia il bersaglio.
+Può anche ridurne l’Attacco Speciale.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+297,WAZAINFO_297,"Chi la usa circonda il bersaglio con un turbinio
+di piume riducendo di molto il suo Attacco.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+298,WAZAINFO_298,"Chi la usa esegue una danza goffa che confonde
+tutti i Pokémon attorno.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+299,WAZAINFO_299,"Chi la usa tira un calcio. Probabile brutto colpo.
+Può anche scottare il bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+300,WAZAINFO_300,"Chi la usa si ricopre di fango indebolendo le
+mosse di tipo Elettro finché resta in campo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+301,WAZAINFO_301,"Chi la usa attacca il nemico rotolando per cinque
+turni, con aumento progressivo della potenza ogni
+volta che va a segno.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+302,WAZAINFO_302,"Chi la usa attacca colpendo il bersaglio con i suoi
+arti pieni di spine. Può far tentennare il Pokémon
+colpito.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+303,WAZAINFO_303,"Chi la usa si rilassa recuperando metà dei propri
+PS massimi.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+304,WAZAINFO_304,"Chi la usa lancia un urlo straziante che danneggia
+i nemici intorno a sé.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+305,WAZAINFO_305,"Chi la usa morde il bersaglio con denti avvelenati
+che possono anche iperavvelenarlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+306,WAZAINFO_306,"Colpisce il bersaglio con artigli robusti e affilati
+che possono ridurne la Difesa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+307,WAZAINFO_307,"Potente esplosione che danneggia il bersaglio,
+ma fa saltare il turno successivo a chi la provoca.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+308,WAZAINFO_308,"Colpisce il bersaglio con un potente getto d’acqua.
+Chi la usa salta il turno successivo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+309,WAZAINFO_309,"Colpisce il bersaglio con un pugno veloce come
+una meteora. Può far salire l’Attacco di chi la usa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+310,WAZAINFO_310,"Chi la usa attacca il bersaglio emettendo un verso
+terrificante. Può anche farlo tentennare.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+311,WAZAINFO_311,"Mossa d’attacco il cui tipo e la cui potenza variano
+in base alle condizioni atmosferiche.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+312,WAZAINFO_312,"Chi la usa rilascia un dolce profumo che cura
+tutti i problemi di stato propri e degli alleati.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+313,WAZAINFO_313,"Chi la usa inscena un pianto teatrale per commuovere
+il bersaglio. Ne riduce di molto la Difesa Speciale.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+314,WAZAINFO_314,"Chi la usa provoca un vento tagliente che sferza
+i nemici intorno. Probabile brutto colpo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+315,WAZAINFO_315,"Chi la usa sferra un potente attacco, ma il contraccolpo
+riduce di molto il suo Attacco Speciale.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+316,WAZAINFO_316,"Chi la usa rende i Pokémon di tipo Spettro
+vulnerabili a qualsiasi tipo di mossa e può, inoltre,
+colpire i nemici sfuggenti.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+317,WAZAINFO_317,"Colpisce il bersaglio con rocce. Inoltre, lo ostacola
+riducendone la Velocità.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+318,WAZAINFO_318,"Attacca con un forte vento di polvere di squame.
+Tutte le statistiche di chi la usa possono salire.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+319,WAZAINFO_319,"Orribile stridio, simile a quello prodotto dal
+metallo, che riduce di molto la Difesa Speciale
+del bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+320,WAZAINFO_320,"Una dolce melodia culla il bersaglio e lo costringe
+ad addormentarsi.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+321,WAZAINFO_321,"Chi la usa solletica il bersaglio e lo fa ridere,
+riducendo il suo Attacco e la sua Difesa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+322,WAZAINFO_322,"Chi la usa assorbe una forza mistica dallo spazio
+che aumenta la Difesa e la Difesa Speciale.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+323,WAZAINFO_323,"Lancia un getto d’acqua contro il nemico che ha
+davanti e quelli adiacenti. La potenza è
+proporzionale al numero di PS di chi la usa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+324,WAZAINFO_324,"Chi la usa attacca con uno strano raggio di luce
+che può anche confondere il Pokémon colpito.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+325,WAZAINFO_325,"Il bersaglio riceve un pugno proveniente
+dalle tenebre. Questa mossa è infallibile.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+326,WAZAINFO_326,"Chi la usa attacca con una misteriosa
+forza invisibile. Può far tentennare il bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+327,WAZAINFO_327,"Chi la usa attacca il nemico con un montante che
+può arrivare fino in cielo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+328,WAZAINFO_328,"Chi la usa intrappola il bersaglio in una tempesta
+di sabbia per quattro o cinque turni.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+329,WAZAINFO_329,"Il bersaglio esaurisce i PS in un colpo solo.
+Se viene usata da Pokémon che non sono di tipo
+Ghiaccio, difficilmente va a segno.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+330,WAZAINFO_330,"Chi la usa attacca i nemici che ha intorno con un
+getto di fango che può anche ridurne la precisione.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+331,WAZAINFO_331,"Chi la usa spara da due a cinque raffiche di semi
+contro il bersaglio in successione.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+332,WAZAINFO_332,"Chi la usa attacca il bersaglio a grande velocità.
+Questo attacco è infallibile.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+333,WAZAINFO_333,"Chi la usa spara ghiaccioli affilati contro il bersaglio
+da due a cinque volte di fila.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+334,WAZAINFO_334,"Il corpo di chi la usa si indurisce come il ferro,
+facendone salire di molto la Difesa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+335,WAZAINFO_335,"Chi la usa sbarra la strada al bersaglio
+impedendone la fuga o la sostituzione.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+336,WAZAINFO_336,"Chi la usa emette un forte verso per darsi coraggio
+e aumentare il proprio Attacco e quello degli alleati.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+337,WAZAINFO_337,"Chi la usa attacca con artigli affilati che graffiano
+il bersaglio rapidamente e con grande forza.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+338,WAZAINFO_338,"Un groviglio di radici colpisce il bersaglio.
+Chi la usa salta il turno successivo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+339,WAZAINFO_339,"Chi la usa tende i muscoli per gonfiare il corpo,
+aumentando Difesa e Attacco.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+340,WAZAINFO_340,"Chi la usa balza in alto e ricade sul bersaglio dopo
+un turno. Può anche paralizzarlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+341,WAZAINFO_341,"Chi la usa attacca lanciando fango sul bersaglio,
+riducendone anche la Velocità.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+342,WAZAINFO_342,"Chi la usa colpisce con la coda e può avvelenare
+il bersaglio. Probabile brutto colpo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+343,WAZAINFO_343,"Chi la usa si avvicina al bersaglio con fare innocente e
+gli ruba lo strumento.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+344,WAZAINFO_344,"Chi la usa si carica di elettricità e poi attacca.
+Può paralizzare il bersaglio. Il contraccolpo causa
+seri danni.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+345,WAZAINFO_345,"Chi la usa sparpaglia strane foglie che inseguono
+il bersaglio. Questa mossa è infallibile.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+346,WAZAINFO_346,"Chi la usa s’impregna d’acqua indebolendo le
+mosse di tipo Fuoco finché resta in campo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+347,WAZAINFO_347,"Chi la usa placa il proprio spirito meditando per
+aumentare l’Attacco Speciale e la Difesa Speciale.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+348,WAZAINFO_348,"Colpisce il bersaglio usando una foglia affilata
+come una spada. Probabile brutto colpo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+349,WAZAINFO_349,"Danza mistica e vigorosa che aumenta l’Attacco
+e la Velocità di chi la usa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+350,WAZAINFO_350,"Colpisce il bersaglio con dei massi pesanti lanciati
+in rapida successione. Il numero di massi varia
+da due a cinque.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+351,WAZAINFO_351,"Chi la usa colpisce il bersaglio con una scossa
+elettrica. È impossibile eludere questa mossa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+352,WAZAINFO_352,"Il bersaglio viene colpito da un getto d’acqua
+potentissimo che può anche confonderlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+353,WAZAINFO_353,"Intenso fascio di luce che colpisce il bersaglio
+dopo due turni dall’uso della mossa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+354,WAZAINFO_354,"Chi la usa sferra un potente attacco, ma il contraccolpo
+riduce di molto il suo Attacco Speciale.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+355,WAZAINFO_355,"Chi la usa sta fermo e riposa, recuperando metà
+dei propri PS massimi.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+356,WAZAINFO_356,"Per cinque turni rende vulnerabili alle mosse di tipo
+Terra i Pokémon con Levitazione o di tipo Volante.
+Non è possibile usare mosse che fanno volare.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+357,WAZAINFO_357,"Chi la usa rende i Pokémon di tipo Buio vulnerabili
+a qualsiasi tipo di mossa e può, inoltre, colpire i
+nemici sfuggenti.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+358,WAZAINFO_358,"Un attacco che infligge doppi danni se il nemico è
+Addormentato. Inoltre, lo sveglierà dal sonno.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+359,WAZAINFO_359,"Infligge danni al bersaglio colpendolo con
+un pugno molto potente. Riduce la Velocità
+di chi la usa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+360,WAZAINFO_360,"Chi la usa si scaglia sul bersaglio facendo ruotare
+vorticosamente il proprio corpo. Più lento è chi la usa,
+maggiore è il danno.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+361,WAZAINFO_361,"Chi la usa va KO, ma il Pokémon che lo sostituisce
+recupera tutti i PS e guarisce dai problemi di stato.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+362,WAZAINFO_362,"Se i PS del bersaglio sono scesi a metà o meno,
+questa mossa colpirà con il doppio della potenza.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+363,WAZAINFO_363,"Chi la usa trae forza dalla Bacca che tiene. Da
+questa dipendono il tipo e la forza dell'attacco.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+364,WAZAINFO_364,"Colpisce anche un bersaglio che ha usato mosse
+come Protezione e Individua, annullandone gli effetti.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+365,WAZAINFO_365,"Chi la usa becca il bersaglio. Inoltre, se questi ha
+una bacca, gliela ruba e ne sfrutta gli effetti.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+366,WAZAINFO_366,"Chi la usa scatena un turbine che aumenta
+la Velocità di tutti i Pokémon della squadra
+per quattro turni.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+367,WAZAINFO_367,"Chi la usa esercita pressione su alcuni punti
+nevralgici e aumenta di molto una statistica a caso.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+368,WAZAINFO_368,"Chi la usa si vendica sul nemico che l’ha appena
+ferito con una mossa anche più potente.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+369,WAZAINFO_369,"Chi usa questa mossa fa marcia indietro per farsi
+sostituire dopo aver sferrato l’attacco.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+370,WAZAINFO_370,"Chi la usa attacca abbassando la guardia.
+La propria Difesa e la Difesa Speciale si riducono.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+371,WAZAINFO_371,"Chi la usa accumula forza, poi attacca. La potenza
+raddoppia se il Pokémon agisce dopo il bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+372,WAZAINFO_372,"Se il bersaglio ha già subito dei danni nello stesso
+turno, la potenza di questa mossa raddoppia.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+373,WAZAINFO_373,"Impedisce al nemico di usare lo strumento che
+tiene e al suo Allenatore di usarne altri sul
+Pokémon.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+374,WAZAINFO_374,"Chi la usa lancia il suo strumento addosso al bersaglio.
+La forza e l’effetto dipendono dallo strumento.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+375,WAZAINFO_375,"Con la forza psichica e la suggestione, chi la usa
+può trasferire i suoi problemi di stato al Pokémon
+colpito.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+376,WAZAINFO_376,"Minori PP rimangono a questa mossa, e maggiori
+danni apporterà al nemico.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+377,WAZAINFO_377,"Chi la usa impedisce al nemico di utilizzare mosse
+o abilità recupera-PS per cinque turni.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+378,WAZAINFO_378,"Chi la usa stritola con forza il nemico. Più PS ha il
+nemico, maggiore è la potenza della mossa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+379,WAZAINFO_379,"Mossa psichica che permette a chi la usa
+di scambiare i valori delle sue statistiche
+di Attacco e Difesa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+380,WAZAINFO_380,"Chi la usa lancia acidi gastrici sul bersaglio.
+Il fluido annulla l’abilità del Pokémon colpito.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+381,WAZAINFO_381,"Chi la usa rivolge un incantesimo al cielo,
+impedendo al nemico di sferrare brutti colpi alla
+squadra.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+382,WAZAINFO_382,"Se chi la usa è più veloce del nemico, gli ruba la
+mossa e gliela ritorce contro con potenza persino
+maggiore.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+383,WAZAINFO_383,"Chi la usa mima l’ultima mossa eseguita.
+Fallisce se non è stata ancora usata alcuna
+mossa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+384,WAZAINFO_384,"Chi la usa sfrutta la sua forza psichica per scambiare
+le modifiche ad Attacco e Attacco Speciale
+con il bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+385,WAZAINFO_385,"Chi la usa sfrutta la sua forza psichica per scambiare
+le modifiche a Difesa e Difesa Speciale con il bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+386,WAZAINFO_386,"Questa mossa diventa più potente ogni volta che
+il nemico aumenta le proprie statistiche.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+387,WAZAINFO_387,"Per usare questa mossa, bisogna prima avvalersi
+in lotta di tutte le altre mosse conosciute.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+388,WAZAINFO_388,"Un seme che causa ansia viene piantato sul
+bersaglio. Ne muta l’abilità in Insonnia e ne
+previene o rimuove il sonno.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+389,WAZAINFO_389,"Chi la usa attacca con alta priorità, ma fallisce
+se il bersaglio non sta preparando un attacco.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+390,WAZAINFO_390,"Chi la usa piazza una trappola di punte che
+avvelenano i nemici che scendono in campo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+391,WAZAINFO_391,"Chi la usa sfrutta la sua forza psichica per
+scambiare le modifiche alle statistiche con
+il bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+392,WAZAINFO_392,"Chi la usa si avvolge in un velo d’acqua. Recupera
+alcuni PS a ogni turno.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+393,WAZAINFO_393,"Chi la usa si solleva in aria per cinque turni
+grazie a un campo elettromagnetico.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+394,WAZAINFO_394,"Chi la usa si ricopre di fuoco e carica il bersaglio,
+ma subisce seri danni per il contraccolpo.
+Può anche scottare il Pokémon colpito.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+395,WAZAINFO_395,"Chi la usa attacca con un’onda d’urto che
+può anche paralizzare il bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+396,WAZAINFO_396,"Chi la usa rilascia una forza eterea dal profondo
+del corpo. La mossa è infallibile.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+397,WAZAINFO_397,"Chi la usa leviga il proprio corpo per ridurne l’attrito.
+Aumenta di molto la Velocità.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+398,WAZAINFO_398,"Il bersaglio è colpito da un tentacolo o da un arto
+intriso di una sostanza tossica che può anche
+avvelenarlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+399,WAZAINFO_399,"Chi la usa emana un’aura impregnata di oscuri pensieri.
+Può anche far tentennare il Pokémon colpito.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+400,WAZAINFO_400,"Chi la usa colpisce il bersaglio appena si presenta
+l’occasione. Probabile brutto colpo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+401,WAZAINFO_401,"Chi la usa attacca agitando la coda come se fosse
+una violenta ondata in una tempesta furiosa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+402,WAZAINFO_402,"Chi la usa emette una raffica di semi dal guscio
+duro che colpiscono il bersaglio dall’alto.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+403,WAZAINFO_403,"Chi la usa attacca con un vento tagliente che squarcia
+il cielo. Può anche far tentennare il Pokémon colpito.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+404,WAZAINFO_404,"Chi la usa colpisce il bersaglio con un attacco
+che ricorda un colpo di forbici.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+405,WAZAINFO_405,"Chi la usa crea un’onda sonora che infligge danni.
+Può anche ridurre la Difesa Speciale del bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+406,WAZAINFO_406,"Chi la usa spalanca la bocca e genera un’onda
+d’urto che colpisce il bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+407,WAZAINFO_407,"Chi la usa attacca con fare minaccioso e in questo
+modo può anche far tentennare il bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+408,WAZAINFO_408,"Chi la usa attacca con un raggio di luce che brilla
+come se fosse fatto di pietre preziose.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+409,WAZAINFO_409,"Pugno che assorbe energia. Fa recuperare una quantità
+di PS pari alla metà del danno inferto.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+410,WAZAINFO_410,"Chi la usa rotea i pugni per lanciare un’onda di
+vuoto assoluto verso il bersaglio.
+Questa mossa ha priorità alta.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+411,WAZAINFO_411,"Chi la usa si concentra e rilascia la sua forza.
+Può ridurre la Difesa Speciale del Pokémon colpito.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+412,WAZAINFO_412,"Chi la usa attinge energia dalla natura e la scaglia
+contro il bersaglio, la cui Difesa Speciale può diminuire.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+413,WAZAINFO_413,"Chi la usa ripiega le ali e carica da bassa quota.
+Tuttavia, subisce considerevoli danni.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+414,WAZAINFO_414,"Dal terreno sotto il bersaglio si sprigiona una forza
+devastante. Può anche ridurne la Difesa Speciale.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+415,WAZAINFO_415,"Chi la usa scambia lo strumento che ha con quello
+del bersaglio a una velocità impressionante.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+416,WAZAINFO_416,"Chi la usa carica il bersaglio usando tutta la sua forza,
+ma al turno successivo deve riposarsi.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+417,WAZAINFO_417,"Chi la usa stimola il cervello pensando a cose cattive.
+Aumenta di molto l’Attacco Speciale.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+418,WAZAINFO_418,"Chi la usa attacca con una scarica di pugni veloci
+come proiettili.
+Questa mossa ha priorità alta.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+419,WAZAINFO_419,"Mossa d’attacco che infligge doppi danni se chi la usa
+è stato ferito dal Pokémon bersaglio nello stesso turno.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+420,WAZAINFO_420,"Chi la usa crea dei pezzi di ghiaccio e li lancia.
+Questa mossa ha priorità alta.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+421,WAZAINFO_421,"Chi la usa attacca con artigli d’ombra che colpiscono
+con gran forza. Probabile brutto colpo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+422,WAZAINFO_422,"Chi la usa morde con denti elettrificati che possono
+anche paralizzare o far tentennare il bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+423,WAZAINFO_423,"Chi la usa morde con denti ghiacciati. Può anche
+congelare o far tentennare il bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+424,WAZAINFO_424,"Chi la usa morde con denti infuocati. Può anche
+scottare o far tentennare il bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+425,WAZAINFO_425,"Chi la usa estende la sua ombra e attacca
+il nemico alle spalle.
+Questa mossa ha priorità alta.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+426,WAZAINFO_426,"Chi la usa lancia dure palle di fango sul nemico.
+Può anche ridurne la Precisione.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+427,WAZAINFO_427,"Chi la usa colpisce il bersaglio con lame fatte
+di forza psichica. Probabile brutto colpo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+428,WAZAINFO_428,"Chi la usa concentra le energie psichiche nella testa e si
+lancia contro il bersaglio. Può anche farlo tentennare.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+429,WAZAINFO_429,"Chi la usa colpisce il nemico lanciando fasci
+d'energia dal suo corpo. Può ridurne la precisione.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+430,WAZAINFO_430,"Chi la usa attacca raccogliendo e rilasciando energia
+luminosa. Può ridurre la Difesa Speciale del bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+431,WAZAINFO_431,"Carica il bersaglio e può anche confonderlo.
+È una delle mosse MN del PokéKron.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+432,WAZAINFO_432,"Chi la usa spazza via barriere come Schermoluce
+e Riflesso con un forte vento e riduce l’elusione
+del bersaglio. È una delle mosse MN del PokéKron.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+433,WAZAINFO_433,"Chi la usa crea una dimensione in cui i Pokémon
+più lenti agiscono per primi per cinque turni.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+434,WAZAINFO_434,"Attacca con meteore che cadono dal cielo.
+Il contraccolpo fa calare di molto
+l’Attacco Speciale di chi la usa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+435,WAZAINFO_435,"Chi la usa colpisce i Pokémon che ha intorno
+con un bagliore elettrico. Può anche paralizzarli.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+436,WAZAINFO_436,"Chi la usa lancia fiamme scarlatte su tutti i
+Pokémon nelle vicinanze, danneggiandoli.
+Può anche scottarli.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+437,WAZAINFO_437,"Si forma una tempesta di foglie affilate. Il contraccolpo
+riduce di molto l’Attacco Speciale di chi la usa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+438,WAZAINFO_438,"Chi la usa agita violentemente liane o tentacoli
+per sferzare il bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+439,WAZAINFO_439,"Chi la usa attacca il bersaglio con un enorme
+masso, ma si deve riposare al turno successivo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+440,WAZAINFO_440,"Attacco con zanne avvelenate che può anche
+avvelenare il Pokémon colpito. Probabile
+brutto colpo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+441,WAZAINFO_441,"Chi la usa attacca il bersaglio con rifiuti sudici
+che possono anche avvelenarlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+442,WAZAINFO_442,"Chi la usa colpisce il bersaglio con la sua testa
+dura come l’acciaio. Può anche farlo tentennare.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+443,WAZAINFO_443,"Chi la usa lancia bombe d’acciaio che si attaccano
+al nemico. Una mossa infallibile.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+444,WAZAINFO_444,"Chi la usa colpisce il bersaglio dal basso con
+pietre affilate. Probabile brutto colpo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+445,WAZAINFO_445,"Se il nemico è del sesso opposto di chi la usa, sarà
+ammaliato e il suo Attacco Speciale diminuirà di
+molto.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+446,WAZAINFO_446,"Chi la usa piazza una trappola di rocce sospese
+che danneggia i nemici che entrano in campo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+447,WAZAINFO_447,"Chi la usa intrappola il bersaglio con l’erba e lo fa
+cadere. Danneggia maggiormente i Pokémon
+più pesanti.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+448,WAZAINFO_448,"Chi la usa attacca creando un’onda sonora
+di parole a vanvera e confonde il bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+449,WAZAINFO_449,"Chi la usa rilascia numerosi colpi di luce. Il tipo
+varia a seconda della lastra che ha.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+450,WAZAINFO_450,"Chi la usa morde il bersaglio. Inoltre, se questi ha
+una bacca, gliela ruba e ne sfrutta gli effetti.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+451,WAZAINFO_451,"Chi la usa lancia un fascio di elettricità molto intensa.
+Può anche aumentare il suo Attacco Speciale.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+452,WAZAINFO_452,"Chi la usa si lancia con tutto il corpo contro
+il bersaglio, ma subisce anche considerevoli danni.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+453,WAZAINFO_453,"Chi la usa colpisce a una tale velocità da rendersi
+quasi invisibile.
+Questa mossa ha priorità alta.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+454,WAZAINFO_454,"Chi la usa raduna i suoi sgherri per colpire
+il bersaglio. Probabile brutto colpo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+455,WAZAINFO_455,"Chi la usa raduna i suoi sgherri per creare
+uno scudo, aumentando Difesa e Difesa Speciale.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+456,WAZAINFO_456,"Chi la usa raduna i propri sgherri per farsi curare.
+Recupera metà dei PS massimi.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+457,WAZAINFO_457,"Chi la usa attacca con tutta la potenza di cui
+dispone, ma subisce danni considerevoli.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+458,WAZAINFO_458,"Chi la usa colpisce il bersaglio due volte di fila
+con la coda, una liana o simili.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+459,WAZAINFO_459,"Chi la usa colpisce il bersaglio con una forza
+capace di alterare il tempo, ma deve stare fermo
+al turno successivo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+460,WAZAINFO_460,"Chi la usa lacera il bersaglio e lo spazio che
+lo circonda. Probabile brutto colpo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+461,WAZAINFO_461,"Chi la usa va KO. Il Pokémon che lo sostituisce
+guarisce dai propri problemi di stato e recupera
+tutti i PS e i PP.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+462,WAZAINFO_462,"Colpisce il bersaglio con grande forza. Più PS
+ha il Pokémon colpito, maggiore è la potenza
+della mossa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+463,WAZAINFO_463,"Intrappola il bersaglio in un turbine di fuoco che
+dura per quattro o cinque turni.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+464,WAZAINFO_464,"Trascina i nemici intorno in un mondo
+di totale oscurità e li fa addormentare.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+465,WAZAINFO_465,"Chi la usa genera un’onda d’urto dal suo corpo.
+Può anche ridurre di molto la Difesa Speciale
+del bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+466,WAZAINFO_466,"Chi la usa crea una raffica di vento ripugnante.
+Può aumentare tutte le statistiche di chi la usa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+467,WAZAINFO_467,"Chi la usa sparisce e poi colpisce il bersaglio
+al turno successivo. Colpisce anche un Pokémon
+che ha usato Protezione, Individua o simili.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+468,WAZAINFO_468,"Chi la usa affila i propri artigli aumentando
+Attacco e precisione.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+469,WAZAINFO_469,"Chi la usa protegge sé e gli alleati da colpi
+ad ampio raggio per un turno.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+470,WAZAINFO_470,"Chi la usa sfrutta la sua forza psichica per sommare
+Difesa e Difesa Speciale a quelle del bersaglio
+e dividerle equamente.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+471,WAZAINFO_471,"Chi la usa sfrutta la sua forza psichica per sommare
+Attacco e Attacco Speciale a quelli del bersaglio
+e dividerli equamente.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+472,WAZAINFO_472,"Chi la usa crea una dimensione in cui Difesa
+e Difesa Speciale di tutti i Pokémon vengono
+scambiate per cinque turni.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+473,WAZAINFO_473,"Chi la usa attacca il bersaglio facendo materializzare
+misteriose onde psichiche che provocano danni fisici.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+474,WAZAINFO_474,"Lancia uno speciale liquido tossico sul bersaglio.
+Se questi è avvelenato, il danno provocato raddoppia.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+475,WAZAINFO_475,"Chi la usa si libera di tutti i pesi in eccesso,
+alleggerendosi e aumentando di molto la propria
+Velocità.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+476,WAZAINFO_476,"Chi la usa attira l’attenzione dei nemici
+cospargendosi di una polvere irritante
+e diventando bersaglio di tutti gli attacchi.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+477,WAZAINFO_477,"Chi la usa fa fluttuare in aria il bersaglio,
+rendendolo facile da colpire per tre turni.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+478,WAZAINFO_478,"Chi la usa crea una dimensione in cui l’effetto
+degli strumenti di tutti i Pokémon è annullato
+per cinque turni.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+479,WAZAINFO_479,"Chi la usa lancia una pietra o un proiettile.
+Può colpire anche un bersaglio in volo
+e farlo cadere.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+480,WAZAINFO_480,"Chi la usa sferra un colpo micidiale al bersaglio.
+Brutto colpo assicurato.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+481,WAZAINFO_481,"Chi la usa emana una fiammata che colpisce il
+bersaglio e si propaga fino a raggiungere i
+Pokémon accanto.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+482,WAZAINFO_482,"Lancia un’onda di fango che attacca tutti
+i Pokémon nelle vicinanze. Può anche avvelenarli.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+483,WAZAINFO_483,"Danza leggiadra ed elegante che aumenta
+l’Attacco Speciale, la Difesa Speciale e la Velocità
+di chi la usa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+484,WAZAINFO_484,"Chi la usa si lancia contro il bersaglio con tutto
+il proprio peso. Più è pesante rispetto ad esso,
+più danni causa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+485,WAZAINFO_485,"Chi la usa infligge danni a tutti i Pokémon del suo
+stesso tipo che ha vicino usando misteriose onde
+elettromagnetiche.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+486,WAZAINFO_486,"Chi la usa attacca con una sfera d’energia elettrica.
+Più è rapido rispetto al bersaglio, più danni arreca.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+487,WAZAINFO_487,"Chi la usa proietta un lungo getto d’acqua contro
+il bersaglio e lo rende un Pokémon di tipo Acqua.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+488,WAZAINFO_488,"Chi la usa si copre di fuoco e attacca il bersaglio.
+Concentrandosi aumenta, inoltre, la propria
+Velocità.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+489,WAZAINFO_489,"Chi la usa si concentra aumentando Attacco,
+Difesa e precisione.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+490,WAZAINFO_490,"Chi la usa colpisce con un attacco fulmineo
+la parte inferiore del corpo del bersaglio,
+riducendone la Velocità.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+491,WAZAINFO_491,"Chi la usa attacca il bersaglio con un acido
+altamente corrosivo. Il fluido riduce di molto
+la Difesa Speciale del bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+492,WAZAINFO_492,"Chi la usa sfrutta la forza del bersaglio. Il danno
+inflitto è proporzionale all’Attacco del nemico.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+493,WAZAINFO_493,"Chi la usa emette un misterioso raggio psichico
+che trasforma l’abilità del Pokémon colpito in
+Disinvoltura.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+494,WAZAINFO_494,"Chi la usa saltella con un buffo ritmo, inducendo
+il bersaglio a imitarlo e rendendo la sua abilità
+identica alla propria.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+495,WAZAINFO_495,"Chi la usa aiuta un bersaglio più lento
+permettendogli di agire subito dopo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+496,WAZAINFO_496,"Attacca il bersaglio con una melodia. Se usata
+durante lo stesso turno da più Pokémon, i danni
+inflitti aumentano.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+497,WAZAINFO_497,"Attacca il bersaglio con la propria voce
+echeggiante. Se usata a ripetizione da uno
+o più Pokémon il danno aumenta.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+498,WAZAINFO_498,"Chi la usa attacca non appena il bersaglio abbassa
+la guardia. Il danno inflitto prescinde dalle
+modifiche alle statistiche.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+499,WAZAINFO_499,"Attacca il bersaglio lanciandogli contro una nuvola
+di fumo speciale, che annulla ogni modifica
+alle statistiche.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+500,WAZAINFO_500,"Attacca il bersaglio con l’energia accumulata.
+Più sono state aumentate le statistiche, maggiore
+è il danno inflitto.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+501,WAZAINFO_501,"Chi la usa protegge sé e gli alleati dalle mosse
+ad alta priorità.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+502,WAZAINFO_502,"Chi la usa cambia di posto con un alleato
+in campo grazie a un misterioso potere.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+503,WAZAINFO_503,"Chi la usa attacca il bersaglio con un getto
+d’acqua bollente che può anche scottarlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+504,WAZAINFO_504,"Chi la usa si disfa del guscio. Difesa e Difesa
+Speciale calano, ma aumentano di molto Attacco,
+Attacco Speciale e Velocità.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+505,WAZAINFO_505,"Chi la usa lancia un’onda rilassante che fa
+recuperare al bersaglio metà dei suoi PS massimi.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+506,WAZAINFO_506,"Attacco che causa un danno enorme se il bersaglio
+ha problemi di stato.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+507,WAZAINFO_507,"Porta il bersaglio in cielo e lo scaglia a terra al
+turno successivo. Il bersaglio catturato non può
+muoversi.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+508,WAZAINFO_508,"Facendo ruotare gli ingranaggi, chi la usa aumenta
+non solo il proprio Attacco, ma anche di molto la
+propria Velocità.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+509,WAZAINFO_509,"Il bersaglio è scaraventato via ed è costretto
+a lasciare il posto a un altro. Mette fine alle lotte
+contro singoli Pokémon selvatici.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+510,WAZAINFO_510,"Attacca i nemici che ha intorno con una fiammata.
+Il fuoco distruggerà le bacche o alcuni tipi di
+strumenti che i Pokémon hanno con sé.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+511,WAZAINFO_511,"Chi la usa spinge via il bersaglio, costringendolo
+ad agire per ultimo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+512,WAZAINFO_512,"Attacca rapidamente il bersaglio. Se chi la usa non
+ha uno strumento, infligge al nemico grossi danni.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+513,WAZAINFO_513,"Chi la usa cambia il proprio tipo in quello
+del bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+514,WAZAINFO_514,"Vendica un alleato messo KO. Se ciò è accaduto
+al turno precedente, il danno è maggiore.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+515,WAZAINFO_515,"Chi la usa attacca con tutta la potenza di cui
+dispone e va KO, ma infligge al bersaglio un danno
+pari ai PS che ha perso.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+516,WAZAINFO_516,"Chi la usa consegna il proprio strumento al
+bersaglio se ne è sprovvisto.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+517,WAZAINFO_517,"Il bersaglio viene avvolto da intense fiammate
+che causano scottature.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+518,WAZAINFO_518,"Attacca il nemico con una colonna d’acqua. Se
+usata con Fiammapatto, aumentano gli effetti e un
+arcobaleno appare in cielo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+519,WAZAINFO_519,"Attacca il nemico con una colonna di fuoco. Se
+usata con Erbapatto, aumentano gli effetti e il
+campo diventa un mare di fuoco.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+520,WAZAINFO_520,"Attacca il bersaglio con una colonna d’erba. Se
+usata con Acquapatto, gli effetti aumentano e il
+campo diventa una palude.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+521,WAZAINFO_521,"Chi usa questa mossa si tira indietro per farsi
+sostituire dopo aver sferrato l’attacco.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+522,WAZAINFO_522,"Colpisce i nemici intorno opponendo resistenza
+e riducendo il loro Attacco Speciale.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+523,WAZAINFO_523,"Chi la usa calpesta il terreno e scatena un terremoto
+che danneggia i Pokémon nei paraggi, riducendone
+la Velocità.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+524,WAZAINFO_524,"Chi la usa attacca il bersaglio con un soffio
+d’aria gelida. Brutto colpo assicurato.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+525,WAZAINFO_525,"Chi la usa fa volar via il bersaglio in modo che
+venga sostituito. Se il bersaglio è un singolo
+Pokémon selvatico, la lotta finisce.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+526,WAZAINFO_526,"Chi la usa si tira su di morale, aumentando
+il proprio Attacco e l’Attacco Speciale.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+527,WAZAINFO_527,"Chi la usa attacca i nemici catturandoli con una
+ragnatela elettrica e riducendone la Velocità.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+528,WAZAINFO_528,"Chi la usa si carica di elettricità per poi scagliarsi
+sul bersaglio, ma subisce dei danni per il contraccolpo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+529,WAZAINFO_529,"Chi la usa si scaglia sul bersaglio ruotando su se stesso
+come un trapano perforante. Probabile brutto colpo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+530,WAZAINFO_530,"Chi la usa attacca due volte il bersaglio con dei
+colpi estremamente forti.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+531,WAZAINFO_531,"Chi la usa distrae il nemico con un faccino
+innocente per poi sferrargli un colpo devastante
+che può farlo tentennare.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+532,WAZAINFO_532,"Chi la usa infilza il bersaglio con le corna e
+assorbe una quantità di PS pari alla metà del
+danno inflitto.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+533,WAZAINFO_533,"Chi la usa taglia il nemico con una spada magica.
+Il danno inflitto ignora le modifiche alle statistiche
+del bersaglio.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+534,WAZAINFO_534,"Chi la usa colpisce il bersaglio con il suo guscio
+affilato. Il colpo può anche ridurre la Difesa
+del bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+535,WAZAINFO_535,"Chi la usa carica con il suo corpo rovente. Più è
+pesante rispetto al bersaglio e più danni causa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+536,WAZAINFO_536,"Chi la usa avvolge e attacca il bersaglio con foglie
+affilate che possono anche ridurne la precisione.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+537,WAZAINFO_537,"Chi la usa ruota su se stesso ad alta velocità e
+schiaccia il bersaglio. Può anche farlo tentennare.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+538,WAZAINFO_538,"Chi la usa avvolge il proprio corpo con del cotone
+molto morbido, proteggendosi e aumentando
+moltissimo la propria Difesa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+539,WAZAINFO_539,"Chi la usa attacca il bersaglio con un’onda d’urto
+oscura che può ridurne la precisione.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+540,WAZAINFO_540,"Chi la usa attacca il bersaglio facendo materializzare
+misteriose onde psichiche che provocano danni fisici.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+541,WAZAINFO_541,"Chi la usa colpisce il bersaglio con la sua coda
+dura da due a cinque volte di fila.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+542,WAZAINFO_542,"Chi la usa attacca il bersaglio avvolgendolo con
+un vento fortissimo. Può anche confonderlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+543,WAZAINFO_543,"Chi la usa carica il bersaglio con la sua testa in
+stile afro, ma subisce un po’ di danni per il
+contraccolpo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+544,WAZAINFO_544,"Chi la usa colpisce il bersaglio due volte di fila
+lanciandogli contro dei dischi d'acciaio.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+545,WAZAINFO_545,"Chi la usa lancia fiamme scarlatte sugli altri
+Pokémon in campo. Può anche scottare.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+546,WAZAINFO_546,"Chi la usa rilascia un colpo di luce contro il
+bersaglio. Il tipo varia a seconda del modulo che
+ha.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+547,WAZAINFO_547,"Chi la usa attacca i nemici intonando un’antica
+melodia che colpisce il loro spirito. Può anche farli
+addormentare.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+548,WAZAINFO_548,"Chi la usa attacca il bersaglio tagliandolo con una
+spada mistica. La misteriosa energia sprigionata
+provoca danni fisici.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+549,WAZAINFO_549,"Chi la usa attacca i nemici con una folata d’aria
+gelida e ne riduce anche la Velocità.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+550,WAZAINFO_550,"Colpisce il bersaglio con una possente carica
+elettrica e può anche paralizzarlo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+551,WAZAINFO_551,"Chi la usa attacca il bersaglio avvolgendolo con
+magnifiche e intense fiamme blu che possono
+anche scottarlo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+552,WAZAINFO_552,"Chi la usa avvolge il bersaglio tra le fiamme. Può
+anche aumentare l'Attacco Speciale.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+553,WAZAINFO_553,"Chi la usa lancia contro il nemico al turno
+successivo una sfera di ghiaccio ricoperta di
+elettricità. Può anche paralizzarlo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+554,WAZAINFO_554,"Chi la usa attacca il bersaglio al turno successivo e
+lo avvolge in un soffio d’aria congelata. Può
+anche scottarlo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+555,WAZAINFO_555,"Chi la usa si mette a urlare per un po’, riducendo
+l’Attacco Speciale dei nemici intorno.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+556,WAZAINFO_556,"Chi la usa attacca violentemente il bersaglio con
+grosse stalattiti di ghiaccio che possono anche
+farlo tentennare.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+557,WAZAINFO_557,"Chi la usa carica emettendo fiamme ardenti dalla
+fronte, a costo di una riduzione di Difesa, Difesa
+Speciale e Velocità.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+558,WAZAINFO_558,"Chi la usa lancia una fiammata enorme. Se usata in
+combinazione con Incrotuono, il danno provocato
+dalla mossa aumenta.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+559,WAZAINFO_559,"Chi la usa lancia un fulmine enorme. Se usata in
+combinazione con Incrofiamma, il danno
+provocato dalla mossa aumenta.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+560,WAZAINFO_560,"Chi la usa si tuffa sul bersaglio dall’alto. È una
+mossa di tipo Lotta e Volante allo stesso tempo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+561,WAZAINFO_561,"Chi la usa protegge se stesso e i propri alleati dai
+danni di mosse nemiche, adoperando un tappetino
+come scudo. Non è efficace contro mosse di
+stato.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+562,WAZAINFO_562,"Chi la usa attacca il bersaglio con un rutto potente.
+Per utilizzare questa mossa, il Pokémon deve
+mangiare la bacca che possiede.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+563,WAZAINFO_563,"Chi la usa dissoda la terra per far crescere meglio
+l’erba. Questa mossa aumenta l’attacco e l’attacco
+speciale dei Pokémon di tipo Erba.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+564,WAZAINFO_564,"Chi la usa intreccia una rete appiccicosa attorno
+alla squadra avversaria, diminuendo la Velocità dei
+Pokémon nemici che entreranno in campo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+565,WAZAINFO_565,"L’Attacco di chi la usa aumenta moltissimo se
+grazie alla mossa il bersaglio va KO.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+566,WAZAINFO_566,"Chi la usa scompare improvvisamente per attaccare
+poi nel turno seguente. Questa mossa neutralizza
+le protezioni del bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+567,WAZAINFO_567,"Il bersaglio viene invitato a festeggiare Halloween
+e aggiunge così al proprio tipo anche il tipo
+Spettro.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+568,WAZAINFO_568,"Chi la usa emette un urlo potente che intimidisce
+il bersaglio, riducendone l’Attacco e l’Attacco
+Speciale.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+569,WAZAINFO_569,"Chi la usa disperde delle particelle elettrizzate che
+trasformano le mosse di tipo Normale in mosse di
+tipo Elettro.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+570,WAZAINFO_570,"Chi la usa attacca tutto ciò che lo circonda e
+recupera PS pari alla metà del danno inflitto.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+571,WAZAINFO_571,"Il Pokémon invoca la maledizione del bosco sul
+bersaglio, che acquisisce così anche il tipo Erba.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+572,WAZAINFO_572,"Infligge danni ai Pokémon che ha intorno
+attaccandoli con una tempesta di fiori.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+573,WAZAINFO_573,"Chi la usa raffredda istantaneamente il bersaglio
+e può congelarlo. Risulta superefficace contro
+i Pokémon di tipo Acqua.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+574,WAZAINFO_574,"Chi la usa infligge un danno spirituale ai nemici nei
+paraggi con una voce suadente. L’attacco andrà
+immancabilmente a segno.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+575,WAZAINFO_575,"Chi la usa lancia un monito intimidatorio al bersaglio,
+riducendone l’Attacco e l’Attacco Speciale, e si fa
+sostituire da un altro Pokémon della squadra.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+576,WAZAINFO_576,"Inverte tutte le modifiche alle statistiche del
+Pokémon bersaglio.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+577,WAZAINFO_577,"Chi la usa assorbe energia dal bersaglio con un bacio,
+recuperando così PS in quantità pari a più della metà
+del danno inferto.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+578,WAZAINFO_578,"Chi la usa protegge se stesso e i suoi alleati
+usando un potere misterioso. Non blocca le mosse
+che infliggono danno.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+579,WAZAINFO_579,"Grazie a un misterioso potere, aumenta la Difesa
+di tutti i Pokémon di tipo Erba presenti in campo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+580,WAZAINFO_580,"Per cinque turni il terreno entra nello stato di Campo
+Erboso: i Pokémon a terra recuperano PS a ogni turno
+e la potenza delle mosse di tipo Erba aumenta.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+581,WAZAINFO_581,"Per cinque turni il terreno entra nello stato di Campo
+Nebbioso: i Pokémon a terra sono immuni ai problemi
+di stato e la potenza delle mosse Drago è dimezzata.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+582,WAZAINFO_582,"Se colpisce il bersaglio prima che usi la sua mossa,
+per quel turno le sue mosse saranno di tipo
+Elettro.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+583,WAZAINFO_583,"Chi la usa attacca il bersaglio con delle carinerie.
+Può anche ridurne l’Attacco.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+584,WAZAINFO_584,"Chi la usa solleva un vento fatato che investe
+il bersaglio.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+585,WAZAINFO_585,"Chi la usa sfrutta il potere della luna per attaccare
+il bersaglio. Può anche ridurne l’Attacco Speciale.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+586,WAZAINFO_586,"Colpisce i Pokémon che ha intorno
+con la forza di un boato distruttivo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+587,WAZAINFO_587,"Bloccando il campo di battaglia, chi la usa
+impedisce a tutti i Pokémon di fuggire durante il
+prossimo turno.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+588,WAZAINFO_588,"Chi la usa assume una posa difensiva che lo
+protegge dalle mosse d’attacco. Riduce l’Attacco
+dei Pokémon che colpiscono direttamente lo
+scudo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+589,WAZAINFO_589,"Chi la usa diventa amico del bersaglio,
+rabbonendolo e riducendone così l’Attacco.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+590,WAZAINFO_590,"Chi la usa svela dei segreti al bersaglio,
+distraendolo e riducendone l’Attacco Speciale.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+591,WAZAINFO_591,"Colpisce i nemici che ha intorno con una tempesta
+di diamanti. Può anche aumentare la Difesa di chi
+la usa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+592,WAZAINFO_592,"Travolge il bersaglio con un’ondata di vapore
+rovente che può anche scottarlo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+593,WAZAINFO_593,"Chi la usa, sfrutta un passaggio interdimensionale
+per comparire a fianco del bersaglio e colpirlo,
+eludendo mosse come Protezione e Individua.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+594,WAZAINFO_594,"Chi la usa attacca sempre per primo, colpendo il
+bersaglio con uno shuriken di muco da due a
+cinque volte di fila.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+595,WAZAINFO_595,"Colpisce il bersaglio soffiandogli contro delle
+fiammate incredibilmente roventi, riducendone
+l’Attacco Speciale.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+596,WAZAINFO_596,"Protegge dagli attacchi, riducendo inoltre i PS
+dei Pokémon che entrano in contatto con
+chi la usa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+597,WAZAINFO_597,"Aumenta la Difesa Speciale di un alleato
+tramite un misterioso aroma.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+598,WAZAINFO_598,"Il corpo di chi la usa emette onde anomale che
+investono il bersaglio, riducendone di molto
+l’Attacco Speciale.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+599,WAZAINFO_599,"Emette un liquido particolare che riduce
+l’Attacco, l’Attacco Speciale e la Velocità
+dei nemici avvelenati intorno a chi la usa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+600,WAZAINFO_600,"Il bersaglio viene coperto da un pulviscolo che
+esplode danneggiandolo se questi utilizza una
+mossa di tipo Fuoco nello stesso turno.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+601,WAZAINFO_601,"Chi la usa assorbe energia al primo turno, per poi
+aumentare di molto Attacco Speciale, Difesa
+Speciale e Velocità, al turno successivo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+602,WAZAINFO_602,"Tramite il controllo dei campi magnetici, aumenta
+la Difesa e la Difesa Speciale dei Pokémon alleati
+dotati delle abilità Più o Meno.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+603,WAZAINFO_603,"Chi la usa si protende in avanti per colpire con il
+suo enorme martello. Questa mossa non può
+essere usata due volte di fila.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+604,WAZAINFO_604,"Per cinque turni il terreno entra nello stato di Campo
+Elettrico: i Pokémon a terra non si addormentano e la
+potenza delle mosse di tipo Elettro aumenta.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+605,WAZAINFO_605,"Chi la usa emette una luce potentissima che
+infligge danni ai nemici intorno.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+606,WAZAINFO_606,Il Pokémon ti fa gli auguri nel tuo giorno speciale.,109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+607,WAZAINFO_607,"Il Pokémon che la usa e un alleato si prendono per
+mano e fanno salti di gioia.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+608,WAZAINFO_608,"Chi la usa rivolge i propri occhioni languidi
+al bersaglio, riducendone l’Attacco.
+Questa mossa ha priorità alta.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+609,WAZAINFO_609,"Chi la usa strofina le guance elettrizzate contro
+il bersaglio, paralizzandolo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+610,WAZAINFO_610,"Chi la usa attacca il bersaglio, modulando il colpo
+in modo da lasciargli almeno un PS.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+611,WAZAINFO_611,"Chi la usa lancia un attacco che tormenta
+il bersaglio per quattro o cinque turni, durante
+i quali gli impedisce di fuggire.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+612,WAZAINFO_612,"Rende i pugni più duri a ogni colpo inferto.
+Se i pugni vanno a segno, l’Attacco di chi
+la usa aumenta.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+613,WAZAINFO_613,"Chi la usa assorbe l’energia vitale del bersaglio,
+recuperando una quantità di PS pari a più della
+metà del danno inferto.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+614,WAZAINFO_614,"Chi la usa scaglia frecce energetiche, colpendo
+{pageend:anche i Pokémon che fluttuano in aria. I nemici nei}
+paraggi vengono scaraventati a terra.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+615,WAZAINFO_615,"Un’onda di energia strisciante investe i nemici
+intorno impedendo loro di fuggire.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+616,WAZAINFO_616,"Chi la usa assorbe energia dal terreno e la
+concentra verso il bersaglio per causare danni.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+617,WAZAINFO_617,"Concentra il potere del Fiore Eterno in un raggio
+di luce potentissimo. Chi la usa subisce danni a sua
+volta.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+618,WAZAINFO_618,"Attacca i nemici intorno colpendoli
+con miriadi di raggi di luce blu.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+619,WAZAINFO_619,"Attacca i nemici intorno trasformando la potenza
+della terra in lame affilate.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+620,WAZAINFO_620,"Permette di proiettarsi in aria e fiondarsi
+sul bersaglio attaccando ad altissima velocità.
+Riduce la Difesa e la Difesa Speciale di chi la usa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+621,WAZAINFO_621,"Permette di attaccare ripetutamente grazie ai
+molti arti, ignorando mosse come Protezione o
+Individua. Riduce la Difesa di chi la usa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+622,WAZAINFO_622,"Chi la usa si carica di Potere Z e colpisce
+l’avversario a piena velocità. La potenza varia a
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+623,WAZAINFO_623,"Chi la usa si carica di Potere Z e colpisce
+l’avversario a piena velocità. La potenza varia a
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+624,WAZAINFO_624,"Chi la usa concentra il Potere Z in una scarica di
+potenza che rilascia sul bersaglio. La potenza varia
+{pageend:a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+625,WAZAINFO_625,"Chi la usa concentra il Potere Z in una scarica di
+potenza che rilascia sul bersaglio. La potenza varia
+{pageend:a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+626,WAZAINFO_626,"Chi la usa si leva in cielo carico di Potere Z per
+{pageend:poi piombare sul bersaglio. La potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+627,WAZAINFO_627,"Chi la usa si leva in cielo carico di Potere Z per
+{pageend:poi piombare sul bersaglio. La potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+628,WAZAINFO_628,"Chi la usa crea una pozza tossica usando il Potere
+Z, per poi investire il bersaglio con la sostanza
+{pageend:mefitica. La potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+629,WAZAINFO_629,"Chi la usa crea una pozza tossica usando il Potere
+{pageend:Z, per poi investire il bersaglio con la sostanza}
+{pageend:mefitica. La potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+630,WAZAINFO_630,"Chi la usa sfrutta il Potere Z per scagliare
+{pageend:l'avversario nel sottosuolo. La potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+631,WAZAINFO_631,"Chi la usa sfrutta il Potere Z per scagliare
+{pageend:l'avversario nel sottosuolo. La potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+632,WAZAINFO_632,"Chi la usa accumula rocce con il Potere Z, per poi
+schiacciare l’avversario sotto al macigno generato.
+{pageend:La potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+633,WAZAINFO_633,"Chi la usa accumula rocce con il Potere Z, per poi
+schiacciare l’avversario sotto al macigno generato.
+{pageend:La potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+634,WAZAINFO_634,"Chi la usa avvolge il bersaglio in un bozzolo di
+{pageend:Potere Z, per poi schiacciarlo con forza. La}
+{pageend:potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+635,WAZAINFO_635,"Chi la usa avvolge il bersaglio in un bozzolo di
+{pageend:Potere Z, per poi schiacciarlo con forza. La}
+{pageend:potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+636,WAZAINFO_636,"Chi la usa intrappola il bersaglio con mani spettrali
+{pageend:di Potere Z. La potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+637,WAZAINFO_637,"Chi la usa intrappola il bersaglio con mani spettrali
+{pageend:di Potere Z. La potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+638,WAZAINFO_638,"Chi la usa carica il bersaglio roteando come una
+{pageend:trivella sospita dal Potere Z. La}
+{pageend:potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+639,WAZAINFO_639,"Chi la usa carica il bersaglio roteando come una
+{pageend:trivella sospita dal Potere Z. La}
+{pageend:potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+640,WAZAINFO_640,"Chi la usa scaglia sul bersaglio intense fiammate di
+{pageend:Potere Z. La}
+{pageend:potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+641,WAZAINFO_641,"Chi la usa scaglia sul bersaglio intense fiammate di
+{pageend:Potere Z. La}
+{pageend:potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+642,WAZAINFO_642,"Chi la usa genera un mulinello di Potere Z,
+dirigendolo sul bersaglio perché ci caschi dentro.
+{pageend:La}
+{pageend:potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+643,WAZAINFO_643,"Chi la usa genera un mulinello di Potere Z,
+dirigendolo sul bersaglio perché ci caschi dentro.
+{pageend:La}
+{pageend:potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+644,WAZAINFO_644,"Chi la usa assorbe energia dalle piante grazie al
+{pageend:Potere Z, investendo il bersaglio. La}
+{pageend:potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+645,WAZAINFO_645,"Chi la usa assorbe energia dalle piante grazie al
+{pageend:Potere Z, investendo il bersaglio. La}
+{pageend:potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+646,WAZAINFO_646,"Chi la usa colpisce il bersaglio con una
+{pageend:potentissima scarica elettrica di Potere Z. La}
+{pageend:potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+647,WAZAINFO_647,"Chi la usa colpisce il bersaglio con una
+{pageend:potentissima scarica elettrica di Potere Z. La}
+{pageend:potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+648,WAZAINFO_648,"Chi la usa controlla mentalmente il bersaglio
+sfruttando il Potere Z, scagliandolo a destra e a
+{pageend:manca. La}
+{pageend:potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+649,WAZAINFO_649,"Chi la usa controlla mentalmente il bersaglio
+sfruttando il Potere Z, scagliandolo a destra e a
+{pageend:manca. La}
+{pageend:potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+650,WAZAINFO_650,"Chi la usa abbatte le temperature con il Potere Z,
+{pageend:avvolgendo il bersaglio in una morsa gelida. La}
+{pageend:potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+651,WAZAINFO_651,"Chi la usa abbatte le temperature con il Potere Z,
+{pageend:avvolgendo il bersaglio in una morsa gelida. La}
+{pageend:potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+652,WAZAINFO_652,"Chi la usa emette un’aura di Potere Z che colpisce
+{pageend:il bersaglio a piena potenza. La}
+{pageend:potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+653,WAZAINFO_653,"Chi la usa emette un’aura di Potere Z che colpisce
+{pageend:il bersaglio a piena potenza. La}
+{pageend:potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+654,WAZAINFO_654,"Chi la usa sfrutta il Potere Z per evocare un varco
+{pageend:di energia oscura, nel quale scaglia il bersaglio. La}
+{pageend:potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+655,WAZAINFO_655,"Chi la usa sfrutta il Potere Z per evocare un varco
+{pageend:di energia oscura, nel quale scaglia il bersaglio. La}
+{pageend:potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+656,WAZAINFO_656,"Chi la usa crea un mondo magico con il potere Z,
+nel quale gioca con il bersaglio come fosse una
+{pageend:bambola. La}
+{pageend:potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+657,WAZAINFO_657,"Chi la usa crea un mondo magico con il potere Z,
+nel quale gioca con il bersaglio come fosse una
+{pageend:bambola. La}
+{pageend:potenza varia a}
+seconda della mossa su cui si basa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+658,WAZAINFO_658,"Pikachu si circonda di elettricità tramite il Potere
+Z, scagliandola sul bersaglio con ampia potenza.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+659,WAZAINFO_659,"Chi la usa recupera metà dei propri PS massimi.
+Durante le tempeste di sabbia ne recupera di più.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+660,WAZAINFO_660,"È una mossa molto potente, ma funziona solo
+appena scesi in campo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+661,WAZAINFO_661,"Protegge chi la usa. Se l’avversario attacca con
+una mossa da contatto viene avvelenato.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+662,WAZAINFO_662,"Chi la usa attacca il bersaglio e fissa la sua ombra
+a terra impedendogli di fuggire.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+663,WAZAINFO_663,"Chi la usa attacca il bersaglio mulinando gli arti. Il
+danno inflitto ignora le modifiche alle statistiche
+del bersaglio.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+664,WAZAINFO_664,"Chi la usa si mette a cantare emettendo tanti
+palloncini d’acqua. I Pokémon che subiscono
+danni da questa mossa guariscono dalle
+scottature.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+665,WAZAINFO_665,"Chi la usa colpisce il nemico con il suo pugno forte
+e pesante, ma perde Velocità.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+666,WAZAINFO_666,"Fa recuperare metà dei PS massimi al bersaglio. È
+più efficace quando il terreno di lotta è nello stato
+di Campo Erboso.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+667,WAZAINFO_667,Chi la usa travolge il bersaglio con un attacco possente.,109,-1,32,736,0,"0
+0
+0
+-1
+0"
+668,WAZAINFO_668,"Fa recuperare una quantità di PS pari all’Attacco
+del bersaglio, che vedrà diminuire questa statistica.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+669,WAZAINFO_669,"Chi la usa assorbe la luce condensandola in una
+lama al primo turno per poi attaccare al turno
+successivo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+670,WAZAINFO_670,Attacca il bersaglio con delle foglie.,109,-1,32,736,0,"0
+0
+0
+-1
+0"
+671,WAZAINFO_671,"Chi la usa mette il bersaglio sotto i riflettori, e
+indirizza ad esso tutti gli attacchi del turno.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+672,WAZAINFO_672,"Avvelena il bersaglio avvolgendolo con filamenti
+tossici e ne riduce la Velocità.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+673,WAZAINFO_673,"Chi la usa si concentra e nel turno successivo
+metterà sicuramente a segno un brutto colpo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+674,WAZAINFO_674,"Dà una marcia in più agli alleati con le abilità
+Meno o Più aumentandone l’Attacco e l’Attacco
+Speciale.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+675,WAZAINFO_675,"Chi viene colpito da questa mossa prova un
+dolore lancinante e non può più usare mosse
+basate sul suono per due turni.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+676,WAZAINFO_676,"Chi la usa attacca il nemico con una sfera
+esplosiva. Se colpisce degli alleati, fa recuperare
+loro dei PS.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+677,WAZAINFO_677,"Chi la usa colpisce il nemico con un’ancora e lo
+intrappola nella catena impedendogli di fuggire.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+678,WAZAINFO_678,"Per cinque turni i Pokémon a contatto con il
+terreno di lotta non subiscono danni dalle mosse
+con priorità alta. La potenza delle mosse di tipo
+Psico aumenta.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+679,WAZAINFO_679,"Chi la usa si lancia con tutte le sue forze
+sul bersaglio e ne riduce l’Attacco.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+680,WAZAINFO_680,"Colpisce il bersaglio con una frusta infuocata e ne
+riduce la Difesa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+681,WAZAINFO_681,"Chi la usa attacca il bersaglio sfoggiando la
+propria forza. Più le sue statistiche sono state
+aumentate, più la mossa è potente",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+682,WAZAINFO_682,"Chi la usa attacca sfruttando tutta la sua potenza
+incendiaria per infliggere gravi danni al bersaglio,
+ma come conseguenza perde il tipo Fuoco.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+683,WAZAINFO_683,"Chi la usa scambia la propria Velocità con quella
+del bersaglio.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+684,WAZAINFO_684,"Chi la usa colpisce il bersaglio con un corno appuntito.
+Questa mossa va sempre a segno.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+685,WAZAINFO_685,"Il bersaglio della mossa viene curato dalle
+alterazioni di stato, inoltre l’utilizzatore ripristina i
+propri PS se la mossa va a segno.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+686,WAZAINFO_686,"Chi la usa si lancia in una danza e attacca il
+nemico con tutte le sue forze. Il tipo della mossa
+corrisponde al tipo del Pokémon che la usa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+687,WAZAINFO_687,"Chi la usa concentra tutto il potere delle sue
+cellule in un raggio devastante. Se il bersaglio ha
+già agito nel turno, perde la sua abilità.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+688,WAZAINFO_688,"Chi la usa colpisce il bersaglio con un potente
+calcio sfruttando una tecnica originaria dei paesi
+tropicali e ne riduce l’Attacco.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+689,WAZAINFO_689,"Chi la usa impone al bersaglio di riutilizzare
+l'ultima mossa usata.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+690,WAZAINFO_690,"Chi la usa arroventa il proprio becco e poi attacca.
+Se un Pokémon lo colpisce con un attacco diretto
+mentre sta accumulando calore, resta scottato.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+691,WAZAINFO_691,"Chi la usa attacca il bersaglio con un suono
+fortissimo che genera sfregando le scaglie del
+corpo. Dopo aver attaccato, la sua Difesa
+diminuisce.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+692,WAZAINFO_692,"Chi la usa infligge danni al bersaglio usando
+il proprio corpo come se fosse un martello.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+693,WAZAINFO_693,"Chi la usa infligge danni intorno a sé facendo
+ruotare una parte del suo corpo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+694,WAZAINFO_694,"Riduce i danni subiti dalle mosse fisiche e dalle
+mosse speciali per cinque turni.
+Si può usare solo quando grandina.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+695,WAZAINFO_695,"Tramite il Potere Z, Decidueye scaglia una raffica
+di frecce spettrali contro il bersaglio.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+696,WAZAINFO_696,"Incineroar incendia il proprio corpo sfruttando il
+Potere Z, colpeendo poi il bersaglio con una
+mossa da lottatore.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+697,WAZAINFO_697,"Primarina genera un’immensa quantità di acqua
+tramite il Potere Z e la riserva sul bersaglio.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+698,WAZAINFO_698,"Grazie al Potere Z, il Nume Locale evoca l’energia
+delle terre che protegge e attacca con grande
+potenza, facendo perdere al bersaglio la maggior
+parte dei suoi PS.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+699,WAZAINFO_699,"Grazie al Potere Z, Marshadow fa appello a tutte
+le sue forze e colpisce il bersaglio con una scarica
+di calci e pugni potentissimi.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+700,WAZAINFO_700,"Grazie al Potere Z, il Raichu di Alola attacca con
+tutta la sua potenza e paralizza il bersaglio.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+701,WAZAINFO_701,"Grazie al Potere Z, Snorlax tira fuori la grinta e,
+muovendo energicamente il suo enorme corpo,
+attacca il bersaglio con tutta la sua forza.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+702,WAZAINFO_702,"Grazie al Potere Z, Eevee evoca a sé tutta
+l’energia delle sue possibili evoluzioni e aumenta
+di molto le sue statistiche.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+703,WAZAINFO_703,"Grazie al Potere Z, Mew attacca il bersaglio con
+tutta la sua forza e genera un Campo Psichico a
+terra.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+704,WAZAINFO_704,"Il guscio del Pokémon diventa una trappola. Se un
+nemico lo colpisce con una mossa fisica, innesca
+un'esplosione e subisce dei danni.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+705,WAZAINFO_705,"Colpisce il bersaglio con un potente raggio, ma
+riduce di molto l'Attacco Speciale di chi la usa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+706,WAZAINFO_706,"L’utilizzatore morde il bersaglio, rompendo
+barriere come Schermoluce e Riflesso.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+707,WAZAINFO_707,"Chi la usa attacca battendo i piedi per la rabbia.
+Se la mossa usata al turno precedente non è
+andata a segno, la potenza raddoppia.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+708,WAZAINFO_708,"Chi la usa colpisce il bersaglio con un osso in cui
+alberga uno spirito. Può anche ridurne la Difesa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+709,WAZAINFO_709,"Chi la usa attacca il bersaglio colpendolo a tutta
+velocità. Questa mossa ha priorità alta.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+710,WAZAINFO_710,"Chi la usa colpisce il bersaglio con la forza
+dell’acqua. Può anche ridurne la Difesa.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+711,WAZAINFO_711,"Chi la usa proietta dei potenti raggi di luce grazie
+alla potenza del suo prisma, ma non può agire nel
+turno successivo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+712,WAZAINFO_712,"Chi la usa ruba gli aumenti delle statistiche del
+bersaglio, poi si nasconde nella sua ombra e lo
+attacca.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+713,WAZAINFO_713,"Chi la usa travolge il bersaglio con la potenza di
+una meteora. Questo attacco ignora l’abilità del
+bersaglio",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+714,WAZAINFO_714,"Chi la usa proietta sul bersaglio un misterioso
+raggio di luce. Questo attacco ignora l’abilità del
+bersaglio.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+715,WAZAINFO_715,"Chi la usa guarda il bersaglio con gli occhi pieni
+di lacrime e gli fa perdere lo spirito combattivo,
+riducendone l’Attacco e l’Attacco Speciale.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+716,WAZAINFO_716,"Chi la usa colpisce il bersaglio investendolo con
+una potente scarica elettrica che può anche farlo
+tentennare.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+717,WAZAINFO_717,"Scatena l’ira della natura sul bersaglio e ne
+dimezza i PS.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+718,WAZAINFO_718,"Chi la usa si avvolge in un potente campo
+energetico e colpisce il bersaglio. Il tipo della
+mossa varia in base alla ROM installata.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+719,WAZAINFO_719,"Grazie al Potere Z, Pikachu con il berretto scatena
+una potentissima scarica elettrica. Probabile
+brutto colpo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+720,WAZAINFO_720,"Chi la usa fa esplodere la propria testa per
+attaccare tutti i Pokémon che ha intorno, ma
+subisce danni.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+721,WAZAINFO_721,"Chi la usa attacca con pugni carichi di elettricità.
+Trasforma le mosse di tipo Normale in mosse di
+tipo Elettro.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+722,WAZAINFO_722,"Infligge danni in base all’Attacco o all’Attacco
+Speciale scegliendo il più alto tra i due. Questo
+attacco ignora l’abilità del bersaglio.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+723,WAZAINFO_723,"Ultra Necrozma raccoglie quanto più Potere Z
+{pageend:possibile, rilasciandolo sul bersaglio sfruttando la}
+{pageend:propria statistica d’attacco più alta. Ignora le}
+abilità.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+724,WAZAINFO_724,"Grazie al Potere Z, Solgaleo attacca il bersaglio
+con tutta la sua forza. Questo attacco ignora
+l’abilità del bersaglio se questa ha effetto sulle
+mosse.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+725,WAZAINFO_725,"Grazie al Potere Z, Lunala attacca il bersaglio con
+tutta la sua forza. Questo attacco ignora l’abilità
+del bersaglio se questa ha effetto sulle mosse.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+726,WAZAINFO_726,"Grazie al Potere Z, Mimikyu intrappola bersaglio
+sotto al suo sacco, tempestandolo di colpi.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+727,WAZAINFO_727,"Grazie al Potere Z, Lycanroc attacca il bersaglio
+con tutta la sua forza. Questa mossa annulla anche
+gli eventuali campi attivi.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+728,WAZAINFO_728,"Grazie al Potere Z, Kommo-o attacca i nemici con
+tutta la sua forza. Inoltre, aumenta le proprie
+statistiche.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+729,WAZAINFO_729,"Chi la usa si carica di elettricità e investe il
+bersaglio al altissima velocità. La mossa agisce
+sempre per prima e causa sempre un brutto colpo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+730,WAZAINFO_730,"Colpisce il bersaglio con un’enorme onda caricata
+di elettricità che può anche paralizzarlo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+731,WAZAINFO_731,"Chi la usa si libra in aria per poi piombare addosso
+al bersaglio. Può anche far tentennare il Pokémon
+colpito.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+732,WAZAINFO_732,"Questa mossa infallibile diventa più potente con il
+rafforzarsi del rapporto tra Pikachu e l’Allenatore.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+733,WAZAINFO_733,"Chi la usa colpisce il bersaglio con una raffica di
+bolle, per poi assorbirle e recuperare una quantità
+di PS pari alla metà del danno inferto.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+734,WAZAINFO_734,"Colpisce il bersaglio con una scarica elettrica che
+lo paralizza.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+735,WAZAINFO_735,"Chi la usa viene avvolto dalle fiamme e colpisce il
+bersaglio con forza, scottandolo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+736,WAZAINFO_736,"Colpisce il bersaglio ripetutamente con onde di
+forza psicocinetica e innalza una barriera
+fantastica che riduce i danni degli attacchi speciali
+nemici.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+737,WAZAINFO_737,"Chi la usa scatena l’oscurità che ha dentro,
+colpendo il bersaglio e innalzando una barriera
+fantastica che riduce i danni degli attacchi fisici
+nemici.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+738,WAZAINFO_738,"Fa crescere un’enorme pianta che colpisce il
+bersaglio con una pioggia di semi. Questi
+sottraggono PS a ogni turno permettendo a chi la
+usa di curarsi.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+739,WAZAINFO_739,"Chi la usa attacca il bersaglio con un cristallo
+formato da una nube nera congelata, che annulla
+ogni modifica alle statistiche di tutti i Pokémon.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+740,WAZAINFO_740,"Chi la usa attacca il bersaglio avvolgendolo in un
+turbine di profumi soffocanti e cura i problemi di
+stato propri e degli alleati.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+741,WAZAINFO_741,"Questa mossa infallibile diventa più potente con il
+rafforzarsi del rapporto tra Eevee e l’Allenatore.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+742,WAZAINFO_742,"Chi la usa colpisce due volte di fila ruotando i suoi
+arti metallici. Può far tentennare il bersaglio.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+743,WAZAINFO_743,"Permette di eludere tutti gli attacchi. Se usata in
+successione può fallire.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+744,WAZAINFO_744,"Chi la usa attacca emettendo un raggio dal suo
+nucleo. Se l’avversario è dynamaxizzato causa il
+doppio dei danni.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+745,WAZAINFO_745,"Permette di attaccare il bersaglio ignorando gli
+effetti di mosse e abilità che alterano le mosse.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+746,WAZAINFO_746,"Impedisce a chi la usa e al bersaglio di essere
+sostituiti finché non vanno KO. L’effetto svanisce
+se uno dei due lascia il campo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+747,WAZAINFO_747,"Se chi la usa ha con sé una bacca, la mangia e la
+sua Difesa aumenta di molto.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+748,WAZAINFO_748,"Chi la usa aumenta tutte le sue statistiche ma non
+può più fuggire o essere sostituito.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+749,WAZAINFO_749,"Chi la usa getta catrame appiccicoso sul bersaglio
+abbassandone la Velocità e rendendolo
+vulnerabile al tipo Fuoco.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+750,WAZAINFO_750,"Chi la usa getta addosso al bersaglio una polvere
+magica che lo rende di tipo Psico.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+751,WAZAINFO_751,"L’utilizzatore attacca due volte usando Dreepy. Se
+ci sono due obiettivi, questa mossa colpisce una
+volta ogni obiettivo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+752,WAZAINFO_752,"Chi la usa invita tutti i Pokémon in campo a
+prendere il tè. Quelli che hanno con sé una bacca
+la mangiano.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+753,WAZAINFO_753,"Chi la usa immobilizza il bersaglio impedendogli di
+fuggire e ne diminuisce la Difesa e la Difesa
+Speciale a ogni turno.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+754,WAZAINFO_754,"Chi la usa attacca il bersaglio con il becco
+appuntito carico d’elettricità. Se attacca per
+primo, la potenza della mossa raddoppia.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+755,WAZAINFO_755,"Chi la usa morde il bersaglio con le dure branchie.
+Se attacca per primo, la potenza della mossa
+raddoppia.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+756,WAZAINFO_756,"Una forza misteriosa inverte gli effetti attivi sul
+campo alleato e sul campo avversario.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+757,WAZAINFO_757,"Un attacco di tipo Fuoco che può essere eseguito
+dai Pokémon dynamaxizzati. Intensifica i raggi
+solari per cinque turni.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+758,WAZAINFO_758,"Un attacco di tipo Coleottero che può essere
+eseguito dai Pokémon dynamaxizzati. Riduce
+l'Attacco Speciale dei nemici intorno.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+759,WAZAINFO_759,"Un attacco di tipo Elettro che può essere eseguito
+dai Pokémon dynamaxizzati. Per cinque turni il
+terreno entra nello stato di Campo Elettrico.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+760,WAZAINFO_760,"Un attacco di tipo Normale che può essere
+eseguito dai Pokémon dynamaxizzati. Riduce la
+Velocità dei nemici intorno.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+761,WAZAINFO_761,"Un attacco di tipo Lotta che può essere eseguito
+dai Pokémon dynamaxizzati. Aumenta l’Attacco
+degli alleati.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+762,WAZAINFO_762,"Un attacco di tipo Spettro che può essere
+eseguito dai Pokémon dynamaxizzati. Riduce la
+Difesa dei nemici intorno.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+763,WAZAINFO_763,"Un attacco di tipo Ghiaccio che può essere
+eseguito dai Pokémon dynamaxizzati. Causa una
+grandinata che dura per cinque turni.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+764,WAZAINFO_764,"Un attacco di tipo Veleno che può essere eseguito
+dai Pokémon dynamaxizzati. Aumenta l’Attacco
+Speciale degli alleati.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+765,WAZAINFO_765,"Un attacco di tipo Acqua che può essere eseguito
+dai Pokémon dynamaxizzati. Provoca una forte
+pioggia per cinque turni.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+766,WAZAINFO_766,"Un attacco di tipo Volante che può essere
+eseguito dai Pokémon dynamaxizzati. Aumenta la
+Velocità degli alleati.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+767,WAZAINFO_767,"Un attacco di tipo Folletto che può essere
+eseguito dai Pokémon dynamaxizzati. Per cinque
+turni il terreno entra nello stato di Campo
+Nebbioso.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+768,WAZAINFO_768,"Un attacco di tipo Drago che può essere eseguito
+dai Pokémon dynamaxizzati. Riduce l’Attacco dei
+nemici intorno.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+769,WAZAINFO_769,"Un attacco di tipo Psico che può essere eseguito
+dai Pokémon dynamaxizzati. Per cinque turni il
+terreno entra nello stato di Campo Psichico.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+770,WAZAINFO_770,"Un attacco di tipo Roccia che può essere eseguito
+dai Pokémon dynamaxizzati. Causa una tempesta
+di sabbia per cinque turni.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+771,WAZAINFO_771,"Un attacco di tipo Terra che può essere eseguito
+dai Pokémon dynamaxizzati. Aumenta la Difesa
+Speciale degli alleati.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+772,WAZAINFO_772,"Un attacco di tipo Buio che può essere eseguito
+dai Pokémon dynamaxizzati. Riduce la Difesa
+Speciale dei nemici intorno.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+773,WAZAINFO_773,"Un attacco di tipo Erba che può essere eseguito
+dai Pokémon dynamaxizzati. Per cinque turni il
+terreno entra nello stato di Campo Erboso.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+774,WAZAINFO_774,"Un attacco di tipo Acciaio che può essere
+eseguito dai Pokémon dynamaxizzati. Aumenta la
+Difesa degli alleati.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+775,WAZAINFO_775,"Chi la usa sacrifica un po’ dei suoi PS per
+aumentare tutte le sue statistiche.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+776,WAZAINFO_776,"Chi la usa schiaccia il bersaglio con il suo corpo.
+Più la sua Difesa è alta, maggiori sono i danni inflitti.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+777,WAZAINFO_777,"Chi la usa agghinda il bersaglio con delle
+decorazioni aumentandone di molto l’Attacco e
+l’Attacco Speciale.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+778,WAZAINFO_778,"Chi la usa percuote il proprio tamburo per
+controllarne le radici e attaccare il bersaglio,
+riducendone la Velocità.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+779,WAZAINFO_779,"Chi la usa intrappola il bersaglio in una tagliola e
+lo attacca per quattro o cinque turni.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+780,WAZAINFO_780,"Chi la usa attacca con una palla creata
+incendiando una piccola pietra. Può anche
+scottare il bersaglio.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+781,WAZAINFO_781,"Chi la usa si trasforma in un’enorme spada e
+attacca. Se il bersaglio è dynamaxizzato, causa il
+doppio dei danni.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+782,WAZAINFO_782,"Chi la usa si trasforma in un enorme scudo e
+attacca. Se il bersaglio è dynamaxizzato, causa il
+doppio dei danni.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+783,WAZAINFO_783,"Chi la usa emette l’energia accumulata nelle
+guance per attaccare e aumentare la propria
+Velocità. Il tipo della mossa cambia in base alla
+forma assunta da Morpeko.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+784,WAZAINFO_784,"Chi la usa attacca i nemici intorno con la sua
+robusta coda riducendone l'Attacco.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+785,WAZAINFO_785,"Chi la usa attacca il bersaglio con un ramo
+incredibilmente appuntito.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+786,WAZAINFO_786,"Chi la usa suona la chitarra o il basso creando
+un’onda sonora potentissima con cui attacca il
+bersaglio.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+787,WAZAINFO_787,"Chi la usa attacca il bersaglio con un liquido acido
+ricavato da mele aspre riducendone la Difesa
+Speciale.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+788,WAZAINFO_788,"Chi la usa fa cadere una mela sul bersaglio da una
+grande altezza, infliggendogli danni e riducendone
+la Difesa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+789,WAZAINFO_789,"Chi la usa attacca il bersaglio con un tale impeto
+da fargli perdere la voglia di lottare e ne riduce
+l'Attacco Speciale",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+790,WAZAINFO_790,"Chi la usa attacca il bersaglio con getti di vapore
+che possono anche confonderlo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+791,WAZAINFO_791,"Chi la usa attacca il bersaglio con getti di vapore
+che possono anche confonderlo.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+792,WAZAINFO_792,"Permette di eludere tutti gli attacchi. Se usata in
+successione può fallire. Se un Pokémon tocca chi
+la usa, la sua Difesa diminuisce di molto.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+793,WAZAINFO_793,"Chi la usa finge di abbassare la testa a mo’ di
+supplica e attacca il bersaglio con i suoi capelli
+scarmigliati. Questa mossa va sempre a segno.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+794,WAZAINFO_794,"Chi la usa attacca il bersaglio brandendo un
+grosso gambo, ma perde l’equilibrio e nel turno
+successivo non può agire.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+795,WAZAINFO_795,"È l’attacco più potente di Eternatus quando
+assume la sua forma originale. Nel turno
+successivo non può agire.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+796,WAZAINFO_796,"Chi la usa utilizza l’acciaio del proprio corpo per
+sparare un violento raggio, ma subisce danni.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+797,WAZAINFO_797,"Chi la usa attacca il bersaglio con energia psichica.
+Se utilizzata quando è attivo un Campo Psichico,
+la mossa aumenta di potenza e danneggia tutti i
+nemici.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+798,WAZAINFO_798,"Chi la usa attacca eliminando lo stato del terreno
+di lotta. La mossa fallisce se nel terreno non è
+attivo alcuno stato.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+799,WAZAINFO_799,"Il Pokémon attacca lanciando delle squame da
+due a cinque volte di fila. Aumenta la Velocità di
+chi la usa, ma ne riduce la Difesa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+800,WAZAINFO_800,"Chi la usa accumula l’energia dello spazio nel
+primo turno per aumentare l’Attacco Speciale,
+quindi attacca nel turno successivo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+801,WAZAINFO_801,"Il Pokémon esegue un attacco fisico o speciale, in
+base a quale causa danni maggiori. Può anche
+avvelenare il bersaglio.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+802,WAZAINFO_802,"Chi la usa attacca tutti i Pokémon che ha intorno,
+ma poi va KO. La potenza delle mosse aumenta
+quando è attivo un Campo Nebbioso.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+803,WAZAINFO_803,"Chi la usa attacca il bersaglio scivolando sul
+terreno. Se utilizzata quando è attivo un Campo
+Erboso, ha priorità alta.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+804,WAZAINFO_804,"Chi la usa attacca con dell’elettricità che si alza
+dal suolo. La potenza della mossa raddoppia
+quando l'avversario si trova in un Campo Elettrico.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+805,WAZAINFO_805,"Chi la usa attacca sfruttando l’energia del terreno
+di lotta. Il tipo e la potenza della mossa variano a
+seconda dello stato del terreno stesso.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+806,WAZAINFO_806,"Chi la usa attacca il bersaglio strisciandogli alle
+spalle e riducendo il suo Attacco Speciale.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+807,WAZAINFO_807,"Chi la usa attacca con la forza dell’invidia,
+causando una scottatura a tutti i Pokémon le cui
+statistiche sono aumentate durante quel turno.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+808,WAZAINFO_808,"Chi la usa attacca il bersaglio con tutta la propria
+ira. Se ha subito riduzioni delle statistiche durante
+quel turno, la potenza della mossa raddoppia.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+809,WAZAINFO_809,"Chi la usa attacca utilizzando lo strumento del
+bersaglio. La mossa fallisce se quest’ultimo non ha
+uno strumento.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+810,WAZAINFO_810,"Chi la usa avvolge tutti i Pokémon che ha intorno
+in un gas altamente acido, dissolvendo i loro
+strumenti.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+811,WAZAINFO_811,"Chi la usa aumenta l’Attacco e la Difesa di tutti gli
+alleati dando loro indicazioni precise.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+812,WAZAINFO_812,"Chi usa questa mossa fa marcia indietro per farsi
+sostituire dopo aver sferrato l'attacco.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+813,WAZAINFO_813,"Chi la usa sferra fino a tre calci consecutivi la cui
+potenza aumenta a ogni colpo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+814,WAZAINFO_814,"Chi la usa colpisce il bersaglio due volte di fila
+urtandolo con le ali.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+815,WAZAINFO_815,"Chi la usa attacca il bersaglio scagliandogli
+addosso della sabbia incandescente. Può anche
+scottarlo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+816,WAZAINFO_816,"Il Pokémon diventa tutt’uno con la giungla,
+ripristinando i PS e curando i problemi di stato per
+sé e per l'alleato in campo.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+817,WAZAINFO_817,"Il Pokémon sferra un singolo colpo potentissimo,
+massima espressione dello stile di tipo Buio. Brutto
+colpo assicurato.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+818,WAZAINFO_818,"Il Pokémon sferra una fluida serie di tre attacchi,
+massima espressione dello stile di tipo Acqua.
+Brutto colpo assicurato.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+819,WAZAINFO_819,"Il Pokémon attacca il bersaglio imprigionandolo in
+una gabbia di elettricità, che sprigiona corrente
+per quattro o cinque turni.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+820,WAZAINFO_820,"Il Pokémon attacca i nemici convertendo la
+propria forza vitale in energia. La potenza della
+mossa cala man mano che i PS diminuiscono.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+821,WAZAINFO_821,"Il Pokémon attacca rilasciando energia psichica
+dagli occhi. Può congelare il bersaglio.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+822,WAZAINFO_822,"Il Pokémon attacca trasformando la sua rabbia in
+un’aura simile a fiamme. Può anche far tentennare
+i nemici.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+823,WAZAINFO_823,"Il Pokémon sferra calci al bersaglio dopo averlo
+distratto con movimenti fulminei, riducendone la
+Difesa.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+824,WAZAINFO_824,"Il Pokémon attacca i nemici scagliando una lancia
+di ghiaccio accompagnata da una tormenta di
+neve.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+825,WAZAINFO_825,"Il Pokémon attacca i nemici scatenandogli contro
+una miriade di piccoli spettri.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+826,WAZAINFO_826,"Il Pokémon attacca con i suoi potenti poteri
+psichici. Sottrae tre PP all’ultima mossa usata dal
+nemico.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"

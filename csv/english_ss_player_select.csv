@@ -1,0 +1,41 @@
+0,SS_player_select_000,Choose your photo from the lineup.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1,SS_player_select_002,{tag:0},37,-1,42,294,0,"-1
+0
+0
+-1
+0",0,1,45,0,0,0,,0
+2,SS_player_select_004,Yes,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+3,SS_player_select_005,No,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+4,SS_player_select_006,<color=#FF5000FF>You can’t change languages after starting your game!</color>,115,-1,32,1088,0,"-1
+0
+0
+-1
+0"
+5,SS_player_select_008,Registration complete!,57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+6,SS_player_select_009,Now saving...,41,-1,42,462,0,"-1
+0
+0
+-1
+0"
+7,SS_player_select_010,"Your progress in this game will automatically be saved
+with the autosave function.",69,-1,42,966,0,"-1
+0
+0
+-1
+0"

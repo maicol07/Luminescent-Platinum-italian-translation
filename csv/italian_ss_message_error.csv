@@ -1,0 +1,96 @@
+0,SS_message_error_001,"Si è verificato un errore con il server di
+autenticazione del codice seriale.
+Riprova più tardi.",26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+1,SS_message_error_003,"Si è verificato un errore con il server di
+autenticazione del codice seriale a causa della
+manutenzione in corso. Riprova più tardi.",26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+2,SS_message_error_005,Questo servizio non è più disponibile.,26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+3,SS_message_error_007,"Si è verificato un errore con il server di
+autenticazione del codice seriale.
+Riprova più tardi.",26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+4,SS_message_error_009,"Si è verificato un errore con il server di
+autenticazione del codice seriale.
+Riprova più tardi.",26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+5,SS_message_error_011,"Il server di autenticazione del codice seriale
+sta registrando un alto volume di traffico.
+Riprova più tardi.",26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+6,SS_message_error_015,La comunicazione con il server è stata interrotta.,26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+7,SS_message_error_017,"La comunicazione con l’altro Allenatore
+è stata interrotta.",26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+8,SS_message_error_031,"La password inserita non corrisponde.
+Riprova dall’inizio.",26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+9,SS_message_error_034,"Impossibile continuare. Il numero di partecipanti
+ha raggiunto il limite.",26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+10,SS_message_error_035,Non è stato trovato alcun avversario.,26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+11,SS_message_error_048,"Si è verificato un errore sul server.
+Riprova.",26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+12,SS_message_error_049,"È in corso la manutenzione del server.
+Riprova più tardi.",26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+13,SS_message_error_081,"Si è verificato un errore di
+comunicazione.
+Tieni premuto il pulsante POWER
+per uscire dal gioco.",26,-1,54,1080,0,"0
+0
+0
+-1
+0"

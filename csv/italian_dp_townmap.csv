@@ -1,0 +1,877 @@
+0,DP_townmap_001,"Vuoi usare Volo per andare
+{tag:0}?",0,-1,54,1080,1,"0
+0
+0
+-1
+0",0,1,71,0,0,0,,0
+1,DP_townmap_003,"Una stradina che attraversa un’area boscosa.
+La fitta vegetazione emana un profumo
+molto intenso.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+2,DP_townmap_004,"Un sentiero tortuoso che si snoda tra campi
+di erba alta. Qui i giovani Allenatori adorano
+mettere alla prova le loro abilità.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+3,DP_townmap_005,"Nonostante sia così vicino alla città, in questo
+sentiero si sente ancora il profumo della natura.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+4,DP_townmap_006,"Una volta attraversato il tunnel, la città
+di Mineropoli è a pochi passi di distanza.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+5,DP_townmap_007,"Un delizioso sentiero naturale che costeggia
+laghetti e aree boscose.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+6,DP_townmap_008,"Il Cammino Roccioso è una scorciatoia che
+attraversa un’altura e conduce direttamente
+a Giardinfiorito.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+7,DP_townmap_009,"Sul largo ponte che attraversa questo grande
+lago, i Pescatori passano il tempo stringendo
+le loro canne da pesca, in attesa.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+8,DP_townmap_010,"Grazie al tranquillo ruscello e a un terreno
+irregolare, quest’area è perfetta per godersi
+appieno l’avventura.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+9,DP_townmap_011,"Accanto all’entrata del Bosco di Evopoli c’è
+una casetta in cui i viaggiatori di passaggio
+possono riposarsi.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+10,DP_townmap_012,"L’asfalto spianato della Pista Ciclabile
+fa di questa strada un paradiso per i ciclisti.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+11,DP_townmap_013,"Sotto la Pista Ciclabile si trova l’entrata
+della Grotta Labirinto.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+12,DP_townmap_014,"Questo sentiero, che si trova ai piedi del
+Monte Corona, è scavato in un terreno
+roccioso e accidentato.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+13,DP_townmap_015,"Ai piedi del brullo Monte Corona si estende
+un verde prato di erba alta che crea
+un piacevole contrasto visivo.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+14,DP_townmap_016,"Qui vive il Signor Bacchini, un anziano
+signore amante della natura, dei Pokémon
+e delle bacche.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+15,DP_townmap_017,"I ruscelli che scorrono accanto a questo sentiero
+costeggiano in maniera sinuosa boschi e prati
+di erba alta, dando un senso di pace e serenità.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+16,DP_townmap_018,"La Torre Memoria è il luogo in cui vengono
+portati i Pokémon quando la loro vita giunge
+al termine.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+17,DP_townmap_019,"Un sentiero creato in una gola naturale che
+si apre tra le montagne. È sempre avvolto
+da una densa nebbia.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+18,DP_townmap_020,"La casa di nonna Elmira è situata in un luogo
+isolato in mezzo alle montagne.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+19,DP_townmap_021,"Questa strada stretta è costeggiata da erba
+così alta e fitta da solleticare il naso a chiunque
+vi si addentri.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+20,DP_townmap_022,"Il Caffè Baita si trova in mezzo al bosco.
+La specialità della casa è il Latte Mumu
+appena munto.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+21,DP_townmap_023,"Un sentiero montano che attraversa il Monte
+Corona, una delle vette più alte della regione
+di Sinnoh.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+22,DP_townmap_024,"Un muro alto e massiccio circonda una tenuta
+che occupa quasi metà del sentiero.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+23,DP_townmap_025,"Oltre il muro è possibile vedere la sontuosa
+Villa Pokémon e il prezioso giardino
+del proprietario.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+24,DP_townmap_026,"Questo sentiero serpeggia tra pozzanghere
+create dalle costanti piogge. Non è l’ideale
+per gli Allenatori che vogliono restare asciutti.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+25,DP_townmap_027,"Qui si trova una casa i cui inquilini barattano
+MT con Cocci Rossi, Gialli, Verdi e Blu.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+26,DP_townmap_028,"I massi in mare aperto fungono da frangiflutti,
+rallentando le onde che si avvicinano a riva.
+Sul promontorio si erge un hotel.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+27,DP_townmap_029,"In una casetta sulla spiaggia vive un uomo
+tutto solo, che si fa chiamare Dottor Impronta.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+28,DP_townmap_030,"Alcuni definiscono il percorso che congiunge
+Rupepoli al lago ""un trionfo di natura selvaggia"".
+Altri, più semplicemente, ""un campo incolto"".",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+29,DP_townmap_031,"Uno Scoprirovine ha aperto un buco nel muro
+roccioso che si trova lungo il ciglio della strada,
+creando un’entrata per la grotta.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+30,DP_townmap_032,"Questa zona è sempre colpita da piogge
+abbondanti. Qui vengono solo gli Allenatori
+più coraggiosi che non hanno paura di bagnarsi.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+31,DP_townmap_033,"Questa strada montana si estende alle pendici
+del Monte Corona. Le costanti nevicate creano
+cumuli di neve che rendono il terreno impervio.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+32,DP_townmap_034,"La neve che proviene dal Monte Corona si
+trasforma qui in tormente rigide e interminabili.
+Bisogna essere pronti al peggio.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+33,DP_townmap_035,"Questo breve percorso è poco noto,
+ma gli amanti della pesca lo considerano
+un luogo ideale per praticare questo sport.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+34,DP_townmap_036,"Una stupenda spiaggia di sabbia candida
+a neppure cinque secondi da Sabbiafine.
+Dal mare soffia una piacevole brezza.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+35,DP_townmap_037,"Il mare qui è perfetto per nuotare, grazie
+alla brezza gentile e alle maree. Ci sono
+anche banchi di sabbia su cui riposare.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+36,DP_townmap_038,"Uno stretto sentiero costeggiato da erba
+verdeggiante e gruppi sparsi di alberi.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+37,DP_townmap_039,"In fondo al sentiero si trova l’entrata del Parco
+Rinnegato.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+38,DP_townmap_040,"Accanto alla strada si stende una spiaggia
+sabbiosa, affollata di Pescatori che si sfidano
+l’un l’altro in accesissime gare di pesca.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+39,DP_townmap_041,"Qui vicino vive un fan di Pikachu, e c’è anche
+un uomo che confronta le dimensioni
+dei Pokémon pescati.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+40,DP_townmap_042,"Un tratto di mare in cui scogli e zone di secca
+ostacolano la via ai nuotatori.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+41,DP_townmap_043,"Prati verdi, affioramenti, mare e zone di secca
+fanno di quest’area una regione di Sinnoh
+in miniatura.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+42,DP_townmap_044,"Un sentiero che sale e scende tra affioramenti
+rocciosi. È una vera e propria sfida.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+43,DP_townmap_045,"Sentiero incerto sul bordo di una scogliera
+a picco sul mare. Conduce fino alla battigia.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+44,DP_townmap_046,"Nella baia c’è un’isoletta, su cui abita uno strano
+tipo che parla lingue straniere.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+45,DP_townmap_047,"Un sentiero montano aspro e scosceso dove
+la visuale è interrotta dalla caduta costante
+di ceneri vulcaniche.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+46,DP_townmap_048,"Su questo aspro sentiero si abbattono
+violentissime tempeste di sabbia
+provenienti dal mare.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+47,DP_townmap_049,"Un sentiero che costeggia il mare, circondato
+da folte piante e alberi cresciuti a dismisura.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+48,DP_townmap_050,"Un tratto di mare che si estende da est a ovest.
+Nel bel mezzo si trova un’isola molto rigogliosa.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+50,DP_townmap_052,"Una cittadina in cui l’aria profuma di foglie
+appena spuntate. Sembra il luogo ideale per
+l’inizio di un’avventura.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+51,DP_townmap_053,"Qui si trovano casa tua e quella del tuo
+migliore amico.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+52,DP_townmap_054,"Una città sabbiosa che si trova proprio di fronte 
+a una spiaggia. Per le sue vie si respira un’aria
+salmastra.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+53,DP_townmap_055,"Il laboratorio del Professor Rowan è il punto
+più importante della città. Qui lui conduce
+le sue ricerche sui Pokémon.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+54,DP_townmap_056,"Sempre pervasa da fragranze profumate,
+Giardinfiorito è una città per gli amanti dei fiori.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+55,DP_townmap_057,"Un breve sentiero fiorito conduce a una vasta
+distesa di fiori.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+56,DP_townmap_058,"Nel centro della città si trova un negozio
+conosciuto come Fiorista Milletinte.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+57,DP_townmap_059,"Il suo clima temperato rende questa città
+il luogo ideale in cui vivere, sia per le persone
+che per i Pokémon.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+58,DP_townmap_060,"Qui ci sono un Ostello Pokémon e un Centro
+Pokémon.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+59,DP_townmap_061,"L’entrata delle Rovine di Flemminia si trova oltre
+un sentiero costeggiato da gruppi di alberi.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+60,DP_townmap_062,"Una città piccola piccola in cui rivive la storia
+della regione di Sinnoh, e che conserva ancora
+il sapore dei tempi andati.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+61,DP_townmap_063,"Al centro della città si trova un piccolo tempio
+che risale a tempi antichi.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+62,DP_townmap_064,"Un luogo in cui gli Allenatori più appassionati
+si riuniscono per allenarsi e affinare
+le proprie tecniche.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+63,DP_townmap_065,"Un’area che attira gli Allenatori che non amano
+solo lottare, ma anche giocare con i Pokémon.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+64,DP_townmap_066,"La città più moderna della regione di Sinnoh.
+Pullula di gente che va e viene.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+65,DP_townmap_067,"Qui si trova la PokéKron S.p.A., l’azienda
+che ha sviluppato e prodotto il PokéKron.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+66,DP_townmap_068,"Qui si trova Giubilo TV, il canale televisivo
+della regione di Sinnoh. In questo posto
+ci si può divertire in molti modi diversi.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+67,DP_townmap_069,"Qui si trova la Stazione Prodigiosa Globale,
+il cui nome è abbreviato in SPG.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+68,DP_townmap_070,"Qui si trova la Scuola per Allenatori.
+Visitala per imparare i rudimenti dell’arte
+di allenare i Pokémon.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+69,DP_townmap_071,"Una città portuale attraversata da un canale.
+Fra le sue vie si respira un’aria esotica che
+ricorda città straniere.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+70,DP_townmap_072,"Se vuoi fare dell’allenamento mentale, vai in
+biblioteca. Se invece vuoi fare dell’allenamento
+fisico, vai in Palestra.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+71,DP_townmap_073,"Presso il molo della città sono spesso attraccate
+grosse navi.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+72,DP_townmap_074,"Una città mineraria piena di brio ed energia,
+che gode di una preziosa risorsa naturale.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+73,DP_townmap_075,"Qui c’è una Palestra in cui i minatori si svagano
+tra un estenuante turno di lavoro e l’altro.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+74,DP_townmap_076,"Qui c’è un museo che organizza mostre
+sulla miniera di carbone della città.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+75,DP_townmap_077,"Qui si trova l’entrata della Cava di Mineropoli,
+nelle cui profondità giacciono ancora vasti
+depositi di carbone.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+76,DP_townmap_078,"Un’antica città che porta i segni ormai quasi
+sbiaditi di una civiltà dimenticata.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+77,DP_townmap_079,"Qui si trova il Negozio di bici. C’è anche
+un grande edificio dall’aria leggermente sinistra.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+78,DP_townmap_080,"Qui è eretta una statua dedicata a un antico
+Pokémon.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+79,DP_townmap_081,"Anche in questa città c’è una Palestra,
+indispensabile in ogni centro in cui ci sono
+molte persone che vanno e vengono.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+80,DP_townmap_082,"Questa città è nata come luogo di incontro
+tra la gente e i Pokémon e poi è diventata
+un centro per il commercio.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+81,DP_townmap_083,"Da qui si accede al Parco Concordia. È un luogo
+in cui Allenatori e Pokémon possono passeggiare
+in tranquillità.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+82,DP_townmap_084,"Se ti interessa l’aspetto dei Pokémon, vai
+all’Arena delle Virtù. Se invece ti interessa
+la loro forza, vai alla Palestra.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+83,DP_townmap_085,"Qui c’è un edificio che simboleggia la città
+in quanto luogo di incontro tra culture diverse.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+84,DP_townmap_086,"Una bella fontana con delle panchine e
+il Pokémon Fan Club sono solo alcune
+delle attrazioni di questa città.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+85,DP_townmap_087,"In origine, questa città era stata fondata
+per proteggere la Gran Palude. Con gli anni
+è cresciuta poco a poco.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+86,DP_townmap_088,"La Palestra è un esempio delle abbondanti
+risorse idriche a disposizione della città.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+87,DP_townmap_089,"L’Osservatorio consente un’ottima visuale
+della Gran Palude. Da qui, inoltre, si può
+accedere al Gioco Safari.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+88,DP_townmap_090,"Questa città è stata scavata tra monti scoscesi,
+e per questo motivo il contatto con gli altri
+centri abitati è abbastanza ridotto.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+89,DP_townmap_091,"Qui ci sono dei magazzini per la conservazione
+di merce di vario genere e un centro
+commerciale molto importante.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+90,DP_townmap_092,"Nel punto più alto della città si trova la Sede
+del Team Galassia.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+91,DP_townmap_093,"Qui c’è un negozio di vestiti gestito da
+un appassionato di giochi, e naturalmente
+non può mancare una Palestra.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+92,DP_townmap_094,"L’Angolo del look Il Metronomo è pieno zeppo
+di vestiti originali scelti personalmente
+dal proprietario.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+93,DP_townmap_095,"Una città costiera costruita attorno alla baia
+del promontorio. È attraversata da passaggi
+sopraelevati.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+94,DP_townmap_096,"La Palestra si trova sulla cima di un affioramento
+roccioso. Sulla spiaggia c’è un allegro bazar.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+95,DP_townmap_097,"Il Faro Panorama illumina la regione di Sinnoh
+con la sua radiosa luce.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+96,DP_townmap_098,"Città dal paesaggio invernale in cui edifici
+e alberi si nascondono sotto una spessa
+coltre di neve.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+97,DP_townmap_099,"La Palestra è nel cuore della città, e a nord
+si trova il Tempio di Nevepoli.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+98,DP_townmap_100,"Qui si riuniscono gli Allenatori giunti al termine
+del lungo ed estenuante viaggio per diventare
+i migliori.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+99,DP_townmap_101,"Qui si trova il banco di accettazione della
+Lega Pokémon. Può entrare solo chi ha sconfitto
+tutte le Palestre.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+100,DP_townmap_102,"Via Vittoria rappresenta la sfida finale per chi
+vuole accedere alla Lega Pokémon.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+101,DP_townmap_103,"Una piccola città portuale in cui si riuniscono
+gli Allenatori che amano lottare più di ogni
+altra cosa.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+102,DP_townmap_104,Al molo è attraccato il traghetto per Nevepoli.,104,-1,32,640,0,"0
+0
+0
+-1
+0"
+103,DP_townmap_105,Da qui si può accedere al Giardino Lotta.,104,-1,32,640,0,"0
+0
+0
+-1
+0"
+104,DP_townmap_106,"Uno dei laghi simbolo della regione di Sinnoh,
+famoso per la sua abbondanza di acqua.
+È associato a una strana leggenda.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+105,DP_townmap_107,"Passando dall’isola al centro del lago si può
+accedere alla grotta sottostante.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+106,DP_townmap_108,"Uno dei laghi simbolo della regione di Sinnoh,
+famoso per la sua abbondanza di acqua.
+È associato a una strana leggenda.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+107,DP_townmap_109,"Passando dall’isola al centro del lago si può
+accedere alla grotta sottostante.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+108,DP_townmap_110,"Su una collina che si affaccia sul lago
+si trova un ristorante di lusso.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+109,DP_townmap_111,"Uno dei laghi simbolo della regione di Sinnoh,
+famoso per la sua abbondanza di acqua.
+È associato a una strana leggenda.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+110,DP_townmap_112,"Passando dall’isola al centro del lago si può
+accedere alla grotta sottostante.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+111,DP_townmap_113,"Il quarto lago della regione di Sinnoh, di cui
+non si conosceva l’esistenza.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+112,DP_townmap_114,"Sotto il lago c’è una grotta in cui le dimensioni
+sono distorte.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+113,DP_townmap_115,"Nei pressi dell’Impianto Turbine ci sono
+numerose turbine a vento.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+114,DP_townmap_116,"Il vento che soffia attraverso il canyon alimenta
+le turbine, che a loro volta generano elettricità.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+115,DP_townmap_117,"Un bosco attraversato da una gelida brezza.
+I fitti gruppi di alberi ne fanno un labirinto
+naturale.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+116,DP_townmap_118,"Nel cuore del bosco si trova l’Antico Château,
+che sta cadendo in rovina da quando
+il proprietario l’ha abbandonato.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+117,DP_townmap_119,"Le caotiche fonderie si trovano di fronte
+al bosco.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+118,DP_townmap_120,"Le fonderie raffinano i minerali di ferro estratti
+dal Monte Corona per produrre una varietà di
+parti meccaniche.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+119,DP_townmap_121,"Una montagna sacra perennemente ricoperta
+di neve. Al suo interno si estende un immenso
+labirinto.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+120,DP_townmap_122,"Qui si trovano delle vecchie rovine note
+con il nome di ""Vetta Lancia"".",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+121,DP_townmap_123,"Su questa piccola isola si trova una fitta foresta,
+nel cui cuore si nasconde un laghetto a forma
+di luna crescente.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+122,DP_townmap_124,"Una montagna di roccia compatta e resistente,
+ricoperta da uno spesso strato di cenere
+vulcanica.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+123,DP_townmap_125,"All’interno della montagna ci sono enormi
+caverne, create dalle fessure formatesi
+nella lava solidificata.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+124,DP_townmap_126,"Un’isola minuscola lontana dalla civiltà.
+È ricoperta da un manto di fiori.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+125,DP_townmap_127,"Una piccola isola ricca di minerali al largo
+di Evopoli.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+126,DP_townmap_128,"All’interno dell’isola ci sono i resti degli scavi
+minerari effettuati in passato.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+127,DP_townmap_129,"Su questa piccola isola si trova una fitta foresta,
+nel cui cuore si nasconde un laghetto a forma
+di luna piena.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+128,DP_townmap_130,"Qui si trova la Torre Lotta, dove si riuniscono
+gli Allenatori migliori della regione per mettere
+alla prova le loro abilità.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+129,DP_townmap_131,Volo,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+130,DP_townmap_132,Posizione attuale,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+131,DP_townmap_133,Info luogo,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+132,DP_townmap_134,Indietro,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+49,DP_townmap_051,"Un sentiero rettilineo costeggiato dal mare
+su entrambi i lati, che conduce al Paradiso Fiore.",104,-1,32,640,0,"0
+0
+0
+-1
+0"
+133,DP_townmap_135,Sì,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+134,DP_townmap_136,No,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+135,DP_townmap_137,Info luogo,39,-1,42,420,0,"0
+0
+0
+-1
+0"

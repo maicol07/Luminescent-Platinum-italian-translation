@@ -1,0 +1,1816 @@
+0,0-Msg_CommErrorNo,Si è verificato un problema... {tag:0},0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,2,4,1,0,0,,0
+1,1-msg_battle_room_01_01,Posizionati e inizia la lotta.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+2,1-msg_battle_room_01_02,"Attendi...
+Premi il pulsante B per annullare.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+241,7-msg_union_info_01_10,"Nella Sala locale puoi divertirti a scambiare
+Pokémon con le persone nelle vicinanze
+usando la comunicazione locale!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+3,1-msg_battle_room_03_01,"La comunicazione verrà interrotta.
+Va bene?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+4,1-msg_battle_room_03_04,"Interruzione della comunicazione...
+Attendi.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+304,8-msg_connect_union_03,Vuoi salvare il gioco?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+256,7-msg_union_info_03_11,Cambia connessione,41,-1,42,462,0,"0
+0
+0
+-1
+0"
+257,7-msg_union_info_03_12,Saluti,41,-1,42,462,0,"0
+0
+0
+-1
+0"
+258,7-msg_union_info_03_13,DecoraBall,41,-1,42,462,0,"0
+0
+0
+-1
+0"
+259,7-msg_union_info_03_14,Cambia regole,41,-1,42,462,0,"0
+0
+0
+-1
+0"
+5,2-mes_dstrade_01_02,{tag:0},37,-1,42,294,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+6,2-mes_dstrade_01_03,{tag:0},37,-1,42,294,0,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+7,2-mes_dstrade_01_04,{tag:0},37,-1,42,294,0,"0
+0
+0
+-1
+0",2,1,2,0,0,0,,0
+8,2-mes_dstrade_01_05,{tag:0},37,-1,42,294,0,"0
+0
+0
+-1
+0",3,1,2,0,0,0,,0
+9,2-mes_dstrade_01_06,{tag:0},37,-1,42,294,0,"0
+0
+0
+-1
+0",4,1,2,0,0,0,,0
+10,2-mes_dstrade_01_07,{tag:0},37,-1,42,294,0,"0
+0
+0
+-1
+0",5,1,2,0,0,0,,0
+11,2-mes_dstrade_01_08,{tag:0},37,-1,42,294,0,"0
+0
+0
+-1
+0",6,1,2,0,0,0,,0
+12,2-mes_dstrade_01_09,{tag:0},37,-1,42,294,0,"0
+0
+0
+-1
+0",7,1,2,0,0,0,,0
+13,2-mes_dstrade_01_10,{tag:0},37,-1,42,294,0,"0
+0
+0
+-1
+0",8,1,2,0,0,0,,0
+14,2-mes_dstrade_01_11,{tag:0},37,-1,42,294,0,"0
+0
+0
+-1
+0",9,1,2,0,0,0,,0
+15,2-mes_dstrade_01_12,{tag:0},37,-1,42,294,0,"0
+0
+0
+-1
+0",10,1,2,0,0,0,,0
+16,2-mes_dstrade_01_13,{tag:0},37,-1,42,294,0,"0
+0
+0
+-1
+0",11,1,2,0,0,0,,0
+17,2-mes_dstrade_01_14,{tag:0},37,-1,42,294,0,"0
+0
+0
+-1
+0",12,1,2,0,0,0,,0
+18,2-mes_dstrade_01_15,{tag:0},37,-1,42,294,0,"0
+0
+0
+-1
+0",13,1,2,0,0,0,,0
+19,2-mes_dstrade_02_01,Scegli un Pokémon.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+20,2-mes_dstrade_02_02,Hai selezionato {tag:0}.,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+21,2-mes_dstrade_03_02,Scambia,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+22,2-mes_dstrade_03_03,Indietro,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+23,2-mes_dstrade_04_02,"Vuoi scambiare il tuo {tag:0} con
+il suo {tag:1}?",0,-1,54,1080,1,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,2,0,0,0,,0
+24,2-mes_dstrade_04_03,Lo scambio è stato annullato.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+25,2-mes_dstrade_04_04,Vuoi annullare lo scambio?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+26,2-mes_dstrade_04_07,Attendi che l’altro giocatore finisca!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+27,2-mes_dstrade_04_08,"L’altro giocatore vuole scambiare un Pokémon
+con te.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+28,2-mes_dstrade_04_09,"{tag:0} sarà inviato
+a {tag:1}.",0,-1,54,1080,1,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,0,0,0,0,,0
+29,2-mes_dstrade_04_10,"Ciao, {tag:0}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+30,2-mes_dstrade_04_12,Abbi cura di {tag:0}!,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+31,2-mes_dstrade_04_13,"Se scambi quel Pokémon, non riuscirai
+a procedere nell’avventura!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+32,2-mes_dstrade_04_14,"Salvataggio in corso.
+Non spegnere la console.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+33,2-mes_dstrade_04_15,"La capsula verrà tolta.
+Va bene?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+34,2-mes_dstrade_05_01,♂,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+35,2-mes_dstrade_05_02,♀,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+36,2-mes_dstrade_05_03,L.,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+37,2-mes_dstrade_05_05,Strumento,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+38,2-mes_dstrade_05_07,{tag:0},39,-1,42,420,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+39,2-mes_dstrade_05_08,{tag:0},39,-1,42,420,0,"0
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+40,2-mes_dstrade_05_09,{tag:0},39,-1,42,420,0,"0
+0
+0
+-1
+0",2,1,9,0,0,0,,0
+41,2-mes_dstrade_05_10,{tag:0},39,-1,42,420,0,"0
+0
+0
+-1
+0",3,1,2,0,0,0,,0
+42,2-mes_dstrade_05_11,{tag:0},39,-1,42,420,0,"0
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+43,2-mes_dstrade_05_12,{tag:0},39,-1,42,420,0,"0
+0
+0
+-1
+0",5,1,9,0,0,0,,0
+44,2-mes_dstrade_05_13,Nessuno,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+45,2-mes_dstrade_endstr,Esci,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+46,3-msg_pcug_01_01,"Oh, ciao!
+Prego, da questa parte!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+47,3-msg_pcug_01_02,"{pageend:Ciao! Felice di conoscerti.}
+Mi chiamo Milena e sarò la tua guida
+nel Club globale Pokémon.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+48,3-msg_pcug_01_03,"Se hai effettuato l’iscrizione a pagamento
+{pageend:a Nintendo Switch Online, in questo club potrai}
+comunicare tramite Internet con Allenatori
+di ogni parte del mondo per lottare, scambiare
+{pageend:Pokémon e altro ancora!}
+Premi il pulsante Y per entrare direttamente
+{pageend:nella Sala contatto!}
+Ricorda però che non puoi farlo mentre ti trovi
+{pageend:all’interno degli edifici o in altri luoghi chiusi.}
+Vuoi che ti spieghi più dettagliatamente?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+50,3-msg_pcug_01_05,Spero che ti divertirai nella Sala globale!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+52,3-msg_pcug_01_06,"{pageend:Questo è il Club globale.}
+Posso esserti d’aiuto?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+53,3-msg_pcug_01_07,"Ti spiegherò come funzionano le cose
+{pageend:al Club globale Pokémon.}
+Dai due banconi a sinistra o premendo
+{pageend:il pulsante Y, puoi entrare nella Sala globale.}
+Una volta entrat{tag:0}, potrai fare scambi in link
+o lotte in link con Allenatori di tutto il mondo.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+55,3-msg_pcug_02_01,"Benvenut{tag:0}{pageend: nella Sala contatto!}
+Questo è il Club globale Pokémon.
+Vuoi usare la Sala globale?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+56,3-msg_pcug_02_02,Torna a trovarci!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+57,3-msg_pcug_02_03,Vuoi collegarti a Internet?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+58,3-msg_pcug_02_04,"Prego, da questa parte!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+59,5-DBCParentWaitSingle,"Lotta in Singolo! In attesa di stabilire un contatto
+con un altro giocatore.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+60,5-DBCParentWaitDouble,"Lotta in Doppio! In attesa di stabilire un contatto
+con un altro giocatore.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+61,5-DBCParentWaitMulti,"Lotta Multipla! In attesa di stabilire un contatto
+con altri giocatori.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+62,5-DBCParentWaitMix,"Lotta Mista! In attesa di stabilire un contatto
+con un altro giocatore.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+63,5-DBCParentWaitNut,"Tutti pronti?
+Pulsante A: Conferma    Pulsante B: Annulla",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+64,5-DBCParentWaitBattleTower,"Torre Lotta! In attesa di stabilire un contatto
+con un altro giocatore.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+65,5-DBCParentChecBT,"{tag:0} ti ha contattato.
+Vuoi metterti alla prova nella Torre Lotta?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+66,5-DBCParentCheckPoro,"{tag:0} ti ha contattato.
+Vuoi che si unisca al gruppo?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+67,5-DBCFinalCheckContest,Una Gara! Va bene questo gruppo?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+68,5-DBCBCancelContest,Vuoi annullare la Gara con questo gruppo?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+69,5-DBCChildSelectSingle,"Scegli la Lotta in Singolo alla quale vuoi
+partecipare.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+70,5-DBCChildSelectDouble,"Scegli la Lotta in Doppio alla quale vuoi
+partecipare.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+71,5-DBCChildSelectMulti,"Scegli la Lotta Multipla alla quale vuoi
+partecipare.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+72,5-DBCChildSelectMix,Scegli la Lotta Mista alla quale vuoi partecipare.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+73,5-DBCNameAndID,"{tag:0}
+ID: {tag:1}",40,-1,42,420,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,0,2,4,1,0,0,,0
+74,5-DBCParentNameList,{tag:0}: {tag:1},39,-1,42,420,0,"0
+0
+0
+-1
+0",0,2,1,1,0,205,,0,1,1,0,0,0,0,,0
+75,5-DBCParentNameList02,{tag:0}:,39,-1,42,420,0,"0
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+76,5-DBCParentIDList,ID: {tag:0},39,-1,42,420,0,"0
+0
+0
+-1
+0",0,2,4,1,0,0,,0
+77,5-DBCChildList,{tag:0},39,-1,42,420,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+78,5-DBCChildRestNum,"Mancano ancora
+{tag:0} {tag:1}.",40,-1,42,420,0,"0
+0
+0
+-1
+0",0,2,0,1,0,205,,0,-1,21,23,5,0,0,"persona
+persone
+persone",0
+79,5-DBCChildPlayNum,Giocatori: {tag:0},39,-1,42,420,0,"0
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+80,5-msg_dbc_rule01,Coppa Standard,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+81,5-msg_dbc_rule02,Coppa Meraviglia,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+82,5-msg_dbc_rule03,Coppa Mini,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+83,5-msg_dbc_rule04,Coppa Leggera,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+84,5-msg_dbc_rule05,Coppa in Doppio,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+85,5-msg_dbc_rule06,Nº di Pokémon:,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+86,5-msg_dbc_rule07,Livello Pokémon:,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+87,5-msg_dbc_rule08,Livelli totali:,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+88,5-msg_dbc_rule09,Altezza:,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+89,5-msg_dbc_rule10,Peso:,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+90,5-msg_dbc_rule11,Pokémon evoluti:,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+91,5-msg_dbc_rule12,Pokémon speciali:,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+92,5-msg_dbc_rule13,Pokémon uguali:,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+93,5-msg_dbc_rule14,Strumenti uguali:,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+94,5-msg_dbc_rule15,{tag:0},42,-1,42,504,0,"0
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+95,5-msg_dbc_rule16,Massimo {tag:0},42,-1,42,504,0,"0
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+242,7-msg_union_info_01_11,Vuoi iniziare a fare scambi in link?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+243,7-msg_union_info_01_12,"Puoi usare la comunicazione locale per
+scambiare Pokémon con altri Allenatori
+{pageend:nelle vicinanze.}
+Potrebbe essere un’ottima occasione per
+scoprire Pokémon rari!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+317,8-msg_connect_colosseum_18,"Mi dispiace, ma al momento il Colosseo
+non è utilizzabile.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+235,7-msg_union_info_01_13,"Benvenut{tag:0}{pageend: nella Sala globale.}
+Se hai bisogno di aiuto, sono a tua disposizione!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+96,5-msg_dbc_rule22,Ammessi,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+97,5-msg_dbc_rule23,Esclusi,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+98,5-msg_dbc_rule24,Ammessi,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+99,5-msg_dbc_rule25,Esclusi,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+100,5-msg_dbc_rule26,{tag:0},42,-1,42,504,0,"0
+0
+0
+-1
+0",0,1,52,0,0,0,,0
+101,5-msg_dbc_rule27,Senza restrizioni,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+102,5-DBC_Contest001,"Gara di Classe! In attesa di stabilire un contatto
+con un altro giocatore.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+103,5-DBC_Contest002,"Gara di Bellezza! In attesa di stabilire
+un contatto con un altro giocatore.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+104,5-DBC_Contest003,"Gara di Grazia! In attesa di stabilire un contatto
+con un altro giocatore.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+105,5-DBC_Contest004,"Gara di Acume! In attesa di stabilire un contatto
+con un altro giocatore.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+106,5-DBC_Contest005,"Gara di Grinta! In attesa di stabilire un contatto
+con un altro giocatore.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+107,5-DBC_Contest006,Gara di Classe! Scegli il capogruppo.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+108,5-DBC_Contest007,Gara di Bellezza! Scegli il capogruppo.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+109,5-DBC_Contest008,Gara di Grazia! Scegli il capogruppo.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+110,5-DBC_Contest009,Gara di Acume! Scegli il capogruppo.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+111,5-DBC_Contest010,Gara di Grinta! Scegli il capogruppo.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+112,5-DBC_Contest011,"Gara di Classe! In attesa di comunicazione.
+Quando siete al completo, premi il pulsante A.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+113,5-DBC_Contest012,"Gara di Bellezza! In attesa di comunicazione.
+Quando siete al completo, premi il pulsante A.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+114,5-DBC_Contest013,"Gara di Grazia! In attesa di comunicazione.
+Quando siete al completo, premi il pulsante A.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+115,5-DBC_Contest014,"Gara di Acume! In attesa di comunicazione.
+Quando siete al completo, premi il pulsante A.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+116,5-DBC_Contest015,"Gara di Grinta! In attesa di comunicazione.
+Quando siete al completo, premi il pulsante A.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+117,5-DBC_Contest016,Gara di Classe! In attesa di altri partecipanti.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+118,5-DBC_Contest017,Gara di Bellezza! In attesa di altri partecipanti.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+119,5-DBC_Contest018,Gara di Grazia! In attesa di altri partecipanti.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+120,5-DBC_Contest019,Gara di Acume! In attesa di altri partecipanti.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+121,5-DBC_Contest020,Gara di Grinta! In attesa di altri partecipanti.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+122,5-DBC_Contest021,"La Gara di Classe con questi partecipanti
+verrà annullata.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+123,5-DBC_Contest022,"La Gara di Bellezza con questi partecipanti
+verrà annullata.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+124,5-DBC_Contest023,"La Gara di Grazia con questi partecipanti
+verrà annullata.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+125,5-DBC_Contest024,"La Gara di Acume con questi partecipanti
+verrà annullata.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+126,5-DBC_Contest025,"La Gara di Grinta con questi partecipanti
+verrà annullata.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+127,6-msg_union_record_name_01,{tag:0},39,-1,42,420,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+128,6-msg_union_record_name_02,ID: {tag:0},39,-1,42,420,0,"0
+0
+0
+-1
+0",0,2,4,1,0,0,,0
+129,6-msg_union_record_01_01,"Tutti pronti?
+Pulsante A: Scambia   Pulsante B: Annulla",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+130,6-msg_union_record_01_02,Vanno bene questi partecipanti?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+131,6-msg_union_record_01_03,Vuoi annullare lo scambio di dati?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+132,6-msg_union_record_01_04,Lo scambio di dati verrà annullato.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+133,6-msg_union_record_01_05,Uno dei partecipanti non è più disponibile.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+134,6-msg_union_record_01_06,"Non ci sono più persone con cui scambiare dati.
+Lo scambio verrà annullato.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+135,6-msg_union_record_01_07,"Attendi.
+Pulsante B: Annulla",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+136,6-msg_union_record_01_08,"Uno dei partecipanti non è più disponibile.
+Lo scambio di dati verrà annullato.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+137,6-msg_union_record_01_09,Vuoi annullare lo scambio di dati?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+138,6-msg_union_record_01_11,"Scambio di dati in corso.
+Non spegnere la console!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+139,6-msg_union_record_01_12,"Scambio di dati completato.
+Tornerai alla Sala contatto.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+140,6-msg_union_record_01_13,"Se chi ha iniziato lo scambio di dati si
+disconnette, il gruppo verrà sciolto. Va bene?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+141,7-msg_union_select_01,Saluta,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+142,7-msg_union_select_03,Lotta,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+143,7-msg_union_select_04,Scambia,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+144,7-msg_union_select_05,Esci,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+145,7-msg_union_select_07,Dati,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+146,7-msg_union_connect_00_02,{wait:0.14999999105930328:}{tag:0} ti ha contattato.,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+147,7-msg_union_connect_00_03,La conversazione è stata interrotta.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+148,7-msg_union_connect_00_04,In attesa di risposta da {tag:0}.,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+149,7-msg_union_connect_00_05,La conversazione è terminata.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+150,7-msg_union_connect_01_01,"{tag:0} ti ha offerto di mostrarti
+{pageend:la sua Scheda Allenatore.}
+Vuoi mostrare anche tu la tua?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+151,7-msg_union_connect_01_02,"Questa è la Scheda Allenatore
+di {tag:0}.",0,-1,54,1080,1,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+152,7-msg_union_connect_01_02_1,"Questa è la Scheda Allenatore
+di {tag:0}.",0,-1,54,1080,1,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+153,7-msg_union_connect_01_02_2,"Questa è la Scheda Allenatore
+di {tag:0}.",0,-1,54,1080,1,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+154,7-msg_union_connect_01_02_3,"Questa è la Scheda Allenatore
+di {tag:0}.",0,-1,54,1080,1,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+155,7-msg_union_connect_01_02_4,Attendi che l’altro giocatore finisca.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+156,7-msg_union_connect_01_03,Hai rifiutato l’offerta.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+157,7-msg_union_connect_03_01,"{tag:0}{pageend: vorrebbe lottare.}
+Accetti la sfida?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+158,7-msg_union_connect_03_02,Ha inizio la lotta.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+159,7-msg_union_connect_04_01,"{tag:0}{pageend: vorrebbe fare uno scambio.}
+Accetti?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+160,7-msg_union_connect_04_02,Ha inizio lo scambio.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+161,7-msg_union_connect_04_04,"Per fare uno scambio, devi avere almeno due
+Pokémon con te.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+162,7-msg_union_connect_05_01,"{tag:0} ti propone uno scambio
+{pageend:di dati.}
+Accetti?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+163,7-msg_union_connect_05_02,Ha inizio lo scambio di dati.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+164,7-msg_union_talkboy_00_02,{wait:0.14999999105930328:}Ehilà! Io sono {tag:0}!,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+165,7-msg_union_talkboy_00_03,"Ah! Scusa, ma ho altro da fare.
+Sarà per la prossima volta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+166,7-msg_union_talkboy_00_04,Vuoi fare qualcos’altro?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+167,7-msg_union_talkboy_00_05,"...
+Sembra che in questo momento sia impegnato...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+168,7-msg_union_talkboy_00_06,{tag:0} non risponde...,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+169,7-msg_union_talkboy_01_01,"Eccoti la mia Scheda Allenatore, a mo’ di saluto!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+170,7-msg_union_talkboy_01_02,"{pageend:Ah! Dov’è finita la mia Scheda Allenatore?!}
+Scusa, te la mostrerò un’altra volta.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+171,7-msg_union_talkboy_01_03,"Per presentarmi, ti faccio vedere la mia
+Scheda Allenatore.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+172,7-msg_union_talkboy_01_04,Spero che faremo amicizia!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+173,7-msg_union_talkboy_03_01,"Una lotta? Va bene!
+Dammi solo un momento!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+174,7-msg_union_talkboy_03_02,"Scusa, t’ho fatto aspettare!
+Diamo inizio alla lotta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+175,7-msg_union_talkboy_03_03,"Scusa, ma i miei Pokémon non si sentono
+molto bene al momento.
+Lotteremo un’altra volta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+176,7-msg_union_talkboy_03_05,Oh! Sei parecchio forte!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+177,7-msg_union_talkboy_03_06,"Ho visto la mossa che hai usato!
+Grande strategia!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+178,7-msg_union_talkboy_03_07,Niente male! Anche quella è una buona strategia!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+179,7-msg_union_talkboy_03_08,"Mandi in campo quel Pokémon in una situazione
+simile?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+181,7-msg_union_talkboy_04_01,"Vuoi fare uno scambio?
+Aspetta solo un attimo.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+182,7-msg_union_talkboy_04_02,"Bene! Facciamo uno scambio, dai!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+183,7-msg_union_talkboy_04_03,"Spiacente, ma al momento non ho Pokémon
+{pageend:da scambiare.}
+Lo faremo un’altra volta.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+184,7-msg_union_talkboy_04_04,Grandioso! Proprio il Pokémon che volevo!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+185,7-msg_union_talkboy_04_05,Era tanto che volevo avere questo Pokémon!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+186,7-msg_union_talkboy_04_06,"Non puoi fare scambi se hai solo un Pokémon
+con te.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+187,7-msg_union_talkboy_05_01,"Quando hai bisogno del mio aiuto,
+fammi un fischio.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+188,7-msg_union_talkboy_06_01,"Vuoi scambiare dati con me?
+Ok, aspetta solo un attimo.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+189,7-msg_union_talkboy_06_02,"Grazie per aver aspettato!
+Scambiamo dati, allora!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+190,7-msg_union_talkboy_06_03,"Oh, mi dispiace, ma ho veramente troppo
+da fare al momento.
+Magari un’altra volta, va bene?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+191,7-msg_union_talkboy_06_05,"{pageend:Stiamo per iniziare uno scambio di dati.}
+Ehi, {tag:0}, ti andrebbe
+di partecipare?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+192,7-msg_union_talkboy_06_06,"Oh, va bene. Torna a trovarmi quando vuoi!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+193,7-msg_union_talkboy_06_07,Ok! Scambiamoci i dati!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+194,7-msg_union_talkboy_06_08,"Oh, spiacente, ma in questo momento proprio
+non posso.
+Magari un’altra volta, va bene?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+195,7-msg_union_talkboy_06_09,Scambiare dati è divertente!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+196,7-msg_union_talkboy_06_10,Voglio scambiare dati con tutti!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+197,7-msg_union_talkboy_06_11,"Scambia i dati! Scambia, scambia!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+198,7-msg_union_talkboy_06_12,Anche tu dovresti scambiare dati!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+199,7-msg_union_talkgirl_00_02,{wait:0.14999999105930328:}Sono {tag:0}!,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+200,7-msg_union_talkgirl_00_03,"Oh, sono spiacente, ma ho altro da fare.
+Magari un’altra volta, ok?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+201,7-msg_union_talkgirl_00_04,Vuoi fare qualcos’altro?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+202,7-msg_union_talkgirl_00_05,"...
+Sembra che in questo momento sia impegnata...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+203,7-msg_union_talkgirl_00_06,{tag:0} non risponde...,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+204,7-msg_union_talkgirl_01_01,"Per presentarmi, ti faccio vedere la mia
+Scheda Allenatore.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+205,7-msg_union_talkgirl_01_02,"{pageend:Ma dove avrò messo la mia Scheda Allenatore?!}
+Scusa, facciamo un’altra volta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+206,7-msg_union_talkgirl_01_03,"Ci stiamo mostrando le rispettive Schede
+Allenatore per conoscerci.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+207,7-msg_union_talkgirl_01_04,"Piacere di conoscerti!
+Dico davvero!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+208,7-msg_union_talkgirl_03_01,"Una lotta? Va bene! Ma ho bisogno di
+un momento per prepararmi.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+209,7-msg_union_talkgirl_03_02,"Scusa se ti ho fatto attendere.
+Dai, iniziamo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+210,7-msg_union_talkgirl_03_03,"Mi spiace, ma i miei Pokémon non si sentono
+{pageend:bene in questo momento.}
+Sarà per un’altra volta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+211,7-msg_union_talkgirl_03_05,Quel Pokémon è davvero notevole!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+212,7-msg_union_talkgirl_03_06,Proprio la mossa giusta!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+213,7-msg_union_talkgirl_03_07,Incredibile! Come fai a lottare in quel modo?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+214,7-msg_union_talkgirl_03_08,Sai perfettamente quando sostituire i Pokémon!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+215,7-msg_union_talkgirl_04_01,"Uno scambio? Perché no! Ma ho bisogno
+di un po’ di tempo per prepararmi.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+216,7-msg_union_talkgirl_04_02,"Scusa se ti ho fatto attendere.
+Dai, iniziamo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+217,7-msg_union_talkgirl_04_03,"Spiacente, ma non ho Pokémon da scambiare
+{pageend:al momento.}
+Lo faremo un’altra volta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+218,7-msg_union_talkgirl_04_04,Adesso sto facendo uno scambio di Pokémon.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+219,7-msg_union_talkgirl_04_05,"Finalmente ho ottenuto il Pokémon che volevo
+con uno scambio!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+220,7-msg_union_talkgirl_04_06,"Non puoi fare uno scambio se hai solo
+un Pokémon con te.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+222,7-msg_union_talkgirl_05_01,"Quando hai bisogno del mio aiuto,
+non esitare a contattarmi!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+223,7-msg_union_talkgirl_06_01,"Vuoi scambiare dati? Certo!
+Ma ho bisogno di un po’ di tempo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+224,7-msg_union_talkgirl_06_02,"Scusa se ti ho fatto attendere.
+Dai, iniziamo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+225,7-msg_union_talkgirl_06_03,"Spiacente!
+Sarà per un’altra volta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+226,7-msg_union_talkgirl_06_05,"{pageend:Ci stiamo scambiando i dati.}
+Ma certo! {tag:0}, vorresti scambiare
+i tuoi dati con noi?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+227,7-msg_union_talkgirl_06_06,"Oh beh, torna quando vuoi!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+228,7-msg_union_talkgirl_06_07,"Grazie per aver aspettato!
+Scambiamoci i dati!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+229,7-msg_union_talkgirl_06_08,"Spiacente!
+Sarà per un’altra volta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+230,7-msg_union_talkgirl_06_09,È divertente scambiare dati!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+231,7-msg_union_talkgirl_06_10,Scambierò dati a volontà!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+232,7-msg_union_talkgirl_06_11,"Scambiamo i dati, dai!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+233,7-msg_union_talkgirl_06_12,Che cosa succederà?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+234,7-msg_union_info_01_01,"Benvenut{tag:0}{pageend: nella Sala locale.}
+Se hai bisogno di aiuto, sono a tua disposizione!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+236,7-msg_union_info_01_02,Cosa posso fare per te?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+237,7-msg_union_info_01_03,Che argomento ti interessa?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+238,7-msg_union_info_01_04,"Puoi sfidare altri giocatori attraverso due tipi
+{pageend:di lotte: Lotta in Singolo e Lotta in Doppio.}
+Ricorda che l’altro giocatore potrà vedere
+il soprannome dei tuoi Pokémon in queste lotte.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+239,7-msg_union_info_01_05,"{pageend:Potrai scambiare Pokémon con gli altri giocatori.}
+Incontrando nuove persone, avrai la possibilità
+di trovare Pokémon rari!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+240,7-msg_union_info_01_06,"Potrai comunicare con altri giocatori e scambiare
+{pageend:i tuoi dati con loro.}
+Vuoi sapere cosa accadrà una volta che avrai
+scambiato i dati? Provare per credere!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+246,7-msg_union_info_02_01,"{pageend:Oh, c’è già qualcuno qui!}
+Invece di parlare con me, perché non vai
+a conoscere nuovi amici?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+247,7-msg_union_info_02_09,"{pageend:Ti do il benvenuto nella Sala locale!}
+Al momento ci sono solo io...
+Perché non porti altri amici?
+Vedrai che ci sarà da divertirsi!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+249,7-msg_union_info_03_01,Info,41,-1,42,462,0,"0
+0
+0
+-1
+0"
+250,7-msg_union_info_03_02,Parla,41,-1,42,462,0,"0
+0
+0
+-1
+0"
+251,7-msg_union_info_03_03,Esci,41,-1,42,462,0,"0
+0
+0
+-1
+0"
+252,7-msg_union_info_03_04,Lotta,41,-1,42,462,0,"0
+0
+0
+-1
+0"
+253,7-msg_union_info_03_05,Scambia,41,-1,42,462,0,"0
+0
+0
+-1
+0"
+254,7-msg_union_info_03_06,Dati,41,-1,42,462,0,"0
+0
+0
+-1
+0"
+255,7-msg_union_info_03_10,Indietro,41,-1,42,462,0,"0
+0
+0
+-1
+0"
+261,7-msg_connect_union_08,Stai parlando con {tag:0}.,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+262,7-msg_union_greeting_01,Konnichiwa!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+263,7-msg_union_greeting_02,Hello!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+264,7-msg_union_greeting_03,Bonjour!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+265,7-msg_union_greeting_04,Ciao!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+266,7-msg_union_greeting_05,Hallo!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+267,7-msg_union_greeting_06,¡Hola!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+268,7-msg_union_greeting_07,Annyeonghaseyo!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+272,8-msg_connect_colosseum_01,"{pageend:Ti do il benvenuto al Colosseo Pokémon.}
+Qui puoi lottare con i tuoi amici.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+273,8-msg_connect_colosseum_02,Quale modalità di lotta scegli?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+274,8-msg_connect_colosseum_03,"{pageend:Esistono due modalità di lotta.}
+Nella Lotta in Singolo, due Allenatori si sfidano
+{pageend:mandando in campo un Pokémon alla volta.}
+Nella Lotta in Doppio, due Allenatori si sfidano
+mandando in campo due Pokémon alla volta.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+276,8-msg_connect_rule_01,Torna quando vuoi!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+277,8-msg_connect_direct2_01,"{pageend:Decidete chi di voi due sarà il capogruppo.}
+L’altro giocatore dovrà selezionare ""Partecipa"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+278,8-msg_connect_direct2_03,In attesa di risposta da {tag:0}.,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+279,8-msg_connect_direct2_05,"{tag:0} ha risposto con un ""ok""!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+280,8-msg_connect_direct2_08,"Hai risposto con un ""ok"" a {tag:0}.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+281,8-msg_connect_direct2_09,"Prego, entra.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+282,8-msg_connect_direct2_16,"{tag:0} ti ha contattato per
+una Lotta in Singolo. Accetti?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+283,8-msg_connect_direct2_17,"{tag:0} ti ha contattato per
+una Lotta in Doppio. Accetti?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+284,8-msg_connect_direct2_18,"{tag:0} ti ha contattato per
+una Lotta Mista. Accetti?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+285,8-msg_connect_direct2_19,Scegli i Pokémon che vuoi far partecipare.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+286,8-msg_connect_direct2_20,In attesa che {tag:0} scelga...,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+287,8-msg_connect_direct2_21,La lotta è stata annullata.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+288,8-msg_connect_direct4_01,"{pageend:Decidete chi di voi quattro sarà il capogruppo.}
+Gli altri giocatori dovranno scegliere ""Partecipa"".",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+289,8-msg_connect_direct4_02,Lotta Multipla! Scegli il capogruppo.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+290,8-msg_connect_direct4_03,"Hai chiesto a {tag:0} di farti entrare
+nel gruppo. Attendi.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+291,8-msg_connect_direct4_04,{tag:0} ha rifiutato la tua richiesta.,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+292,8-msg_connect_direct4_05,"{tag:0} ti ha accettato tra
+i partecipanti.",0,-1,54,1080,1,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+293,8-msg_connect_direct4_06,Lotta Multipla! In attesa di altri partecipanti.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+294,8-msg_connect_direct4_07,"Lotta Multipla! In attesa di stabilire un contatto
+con altri giocatori.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+295,8-msg_connect_direct4_08,"Vuoi annullare la Lotta Multipla con questi
+partecipanti?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+296,8-msg_connect_direct4_09,{tag:0} ti ha contattato.,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+297,8-msg_connect_direct4_10,"Il gruppo è al completo.
+Prego, entra nella stanza.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+298,8-msg_connect_direct4_11,"{pageend:Il gruppo è al completo.}
+Scegli i Pokémon che vuoi far partecipare
+alla lotta.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+299,8-msg_connect_direct4_12,In attesa che gli altri partecipanti scelgano...,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+300,8-msg_connect_union_01,"Benvenut{tag:0} nella Sala contatto!
+{pageend:Questo è il Club locale Pokémon.}
+Qui potrai comunicare con altri Allenatori
+nelle vicinanze.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+302,8-msg_connect_union_02,"Gli Allenatori che incontrerai nella Sala locale
+sono giocatori nelle vicinanze che si trovano
+{pageend:a loro volta nella Sala locale.}
+Potrai affrontarli in una lotta, oppure potrai
+{pageend:scambiare Pokémon e dati con loro.}
+Inoltre, potrai mostrare la tua Scheda Allenatore
+agli altri giocatori e vedere la loro.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+305,8-msg_connect_union_07,Spero che ti divertirai nella Sala locale.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+244,7-msg_union_info_01_14,"Per lottare o fare scambi, parla con le persone
+{pageend:contrassegnate dall’icona corrispondente.}
+O premi il pulsante Y per scegliere cosa vuoi
+fare: apparirà la relativa icona!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+260,7-msg_union_info_03_15,Come giocare,41,-1,42,462,0,"0
+0
+0
+-1
+0"
+306,8-msg_connect_guide_12,Spero che la Sala locale Pokémon ti sia piaciuta.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+307,8-msg_connect_rulebook_01,Quali regole vuoi usare?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+308,8-msg_connect_rulebook_02,"Devi avere almeno {tag:0} Pokémon conform{tag:1}
+alle regole della {tag:2}.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,2,0,1,0,205,,0,-1,21,1,5,0,1,"e
+i",0,0,1,52,0,0,0,,0
+309,8-msg_connect_rulebook_09,Esci,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+310,8-msg_connect_rulebook_11,Regole,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+311,8-msg_connect_rulebook_12,Sembra che le regole scelte non coincidano.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+312,8-msg_connect_rulebook_13,Scegli i Pokémon che vuoi far partecipare.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+313,8-msg_connect_rulebook_16,"È impossibile formare una squadra di Pokémon
+con un livello totale massimo pari a {tag:0}
+rispettando i requisiti delle regole
+della {tag:1}.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,2,2,1,0,205,,0,0,1,52,0,0,0,,0
+314,8-msg_connect_common_01,Verrà attivata la comunicazione locale.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+315,8-msg_connect_colosseum_16,"Per partecipare a una Lotta Multipla, devi avere
+almeno tre Pokémon.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+316,8-msg_connect_colosseum_17,"Per partecipare a una Lotta Mista, devi avere
+almeno tre Pokémon.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+318,8-msg_connect_ng_01,Hai almeno un Pokémon non ammesso.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+248,7-msg_union_info_02_24,"{pageend:Ti do il benvenuto nella Sala globale!}
+Al momento ci sono solo io...
+Perché non porti altri amici?
+Vedrai che ci sarà da divertirsi!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+269,7-msg_union_greeting_08,Ciao!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+270,7-msg_union_greeting_09,Nǐ hǎo!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+271,7-msg_union_greeting_10,Nǐ hǎo!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+180,7-msg_union_talkboy_03_09,"Vuoi cambiare le regole?
+Aspetta solo un attimo.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+221,7-msg_union_talkgirl_04_07,"Vuoi cambiare le regole?
+Bene, aspetta solo un attimo.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+301,8-msg_connect_union_08,"Prima di entrare nella sala dovrai salvare.
+Vuoi entrare?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+51,3-msg_pcug_01_08,Spero che ti divertirai nella Sala globale!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+275,8-msg_connect_colosseum_03_patch3,"{pageend:Esistono tre modalità di lotta.}
+Nella Lotta in Singolo, due Allenatori si sfidano
+{pageend:mandando in campo un Pokémon alla volta.}
+Nella Lotta in Doppio, due Allenatori si sfidano
+{pageend:mandando in campo due Pokémon alla volta.}
+Nella Lotta Multipla, quattro Allenatori si sfidano
+formando due squadre da due Allenatori e
+mandando in campo un Pokémon alla volta.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+49,3-msg_pcug_01_03_patch1,"Se hai effettuato l’iscrizione a pagamento
+{pageend:a Nintendo Switch Online, in questo club potrai}
+comunicare tramite Internet con Allenatori
+{pageend:di ogni parte del mondo per scambiare Pokémon!}
+Premi il pulsante Y per entrare direttamente
+{pageend:nella Sala contatto!}
+Ricorda però che non puoi farlo mentre ti trovi
+{pageend:all’interno degli edifici o in altri luoghi chiusi.}
+Vuoi che ti spieghi più dettagliatamente?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+54,3-msg_pcug_01_07_patch1,"Ti spiegherò come funzionano le cose
+{pageend:al Club globale Pokémon.}
+Dai due banconi a sinistra o premendo
+{pageend:il pulsante Y, puoi entrare nella Sala globale.}
+Una volta entrat{tag:0}, potrai fare scambi in link
+con Allenatori di tutto il mondo.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+245,7-msg_union_info_01_14_patch1,"Per fare scambi, parla con le persone
+{pageend:contrassegnate dall’icona corrispondente.}
+O premi il pulsante Y per scegliere cosa vuoi
+fare: apparirà la relativa icona!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+303,8-msg_connect_union_02_patch1,"Gli Allenatori che incontrerai nella Sala locale
+sono giocatori nelle vicinanze che si trovano
+{pageend:a loro volta nella Sala locale.}
+Con loro potrai divertirti a scambiare Pokémon
+e dati.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"

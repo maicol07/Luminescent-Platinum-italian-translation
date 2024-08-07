@@ -1,0 +1,796 @@
+7,msg_c04r0205_rotom_06,Quale Rotom scegli?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+8,msg_c04r0205_rotom_07,"Un Uovo non può entrare in un apparecchio
+elettrico.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+9,msg_c04r0205_rotom_08,"Questo Pokémon non può entrare
+in un apparecchio elettrico.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+12,msg_c04r0205_rotom_11,"Quale Rotom vuoi riportare alla sua forma
+originale?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+13,msg_c04r0205_rotom_12,"Oh? Sembra che Rotom voglia assumere
+{pageend:di nuovo la sua forma originale.}
+Vuoi farlo uscire dall’apparecchio elettrico?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+14,msg_c04r0205_rotom_13,Fallo uscire,51,-1,42,756,0,"0
+0
+0
+-1
+0"
+18,msg_c04r0205_rotom_13_1,Sì,51,-1,42,756,0,"0
+0
+0
+-1
+0"
+19,msg_c04r0205_rotom_13_2,No,51,-1,42,756,0,"0
+0
+0
+-1
+0"
+20,msg_c04r0205_rotom_13_3,"Questo Rotom non è entrato in
+un apparecchio elettrico.",51,-1,42,756,0,"0
+0
+0
+-1
+0"
+21,msg_c04r0205_rotom_13_4,"C’era un elettrodomestico qui.
+Aveva un motore elettrico con una forma strana.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+22,msg_c04r0205_range_01,"È un forno a microonde. Ha un motore elettrico
+con una forma strana.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+23,msg_c04r0205_range_02,"È un forno a microonde. Ha un motore elettrico
+{pageend:con una forma strana.}
+{pageend:Oh! Sembra che Rotom voglia entrarci.}
+Vuoi accontentarlo?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+24,msg_c04r0205_range_03,"Pur riluttante, Rotom ha rinunciato a entrare
+nel forno a microonde...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+25,msg_c04r0205_range_04,"Il forno a microonde è stato aggiunto
+al Catalogo Rotom!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+26,msg_c04r0205_freezer_01,"È un frigorifero. Ha un motore elettrico
+con una forma strana.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+27,msg_c04r0205_freezer_02,"È un frigorifero. Ha un motore elettrico
+{pageend:con una forma strana.}
+{pageend:Oh! Sembra che Rotom voglia entrarci.}
+Vuoi accontentarlo?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+28,msg_c04r0205_freezer_03,"Pur riluttante, Rotom ha rinunciato a entrare
+nel frigorifero...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+29,msg_c04r0205_freezer_04,Il frigorifero è stato aggiunto al Catalogo Rotom!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+30,msg_c04r0205_washer_01,"È una lavatrice. Ha un motore elettrico
+con una forma strana.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+31,msg_c04r0205_washer_02,"È una lavatrice. Ha un motore elettrico
+{pageend:con una forma strana.}
+{pageend:Oh! Sembra che Rotom voglia entrarci.}
+Vuoi accontentarlo?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+32,msg_c04r0205_washer_03,"Pur riluttante, Rotom ha rinunciato a entrare
+nella lavatrice...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+33,msg_c04r0205_washer_04,La lavatrice è stata aggiunta al Catalogo Rotom!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+34,msg_c04r0205_fan_01,"È un ventilatore. Ha un motore elettrico
+con una forma strana.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+35,msg_c04r0205_fan_02,"È un ventilatore. Ha un motore elettrico
+{pageend:con una forma strana.}
+{pageend:Oh! Sembra che Rotom voglia entrarci.}
+Vuoi accontentarlo?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+36,msg_c04r0205_fan_03,"Pur riluttante, Rotom ha rinunciato a entrare
+nel ventilatore...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+37,msg_c04r0205_fan_04,"Il ventilatore è stato aggiunto al Catalogo
+Rotom!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+38,msg_c04r0205_lawnmower_01,"È una falciatrice. Ha un motore elettrico
+con una forma strana.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+39,msg_c04r0205_lawnmower_02,"È una falciatrice. Ha un motore elettrico
+{pageend:con una forma strana.}
+{pageend:Oh! Sembra che Rotom voglia entrarci.}
+Vuoi accontentarlo?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+40,msg_c04r0205_lawnmower_03,"Pur riluttante, Rotom ha rinunciato a entrare
+nella falciatrice...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+41,msg_c04r0205_lawnmower_04,"La falciatrice è stata aggiunta al Catalogo
+Rotom!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+42,msg_c04r0205_book_01,"C’è un taccuino misterioso qui.
+{pageend:Chissà quando è stato scritto...}
+""Per puro caso ho rinvenuto delle informazioni
+{pageend:sul Pokémon Rotom.}
+Questo Pokémon ha la straordinaria abilità
+{pageend:di entrare nei motori elettrici.}
+Ho potuto accertare che Rotom è in grado
+di entrare in diversi apparecchi elettrici,
+cambiando forma di conseguenza e assumendo
+le caratteristiche dell’elettrodomestico
+{pageend:in cui è entrato.}
+Ho potuto anche constatare che il suo tipo
+e le sue mosse cambiano a seconda della forma
+{pageend:assunta.}
+Si tratta di un Pokémon che richiede analisi
+{pageend:e studi approfonditi.}
+Affinché io possa ottenere il riconoscimento
+che mi spetta, la mia ricerca su Rotom deve
+{pageend:rimanere segreta.}
+Ma un giorno il mondo intero si ricorderà di me,
+{pageend:il genio della scienza Plu...""}
+Gli appunti finiscono qui.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+43,msg_c04r0205_doctor_01,"{pageend:Ah, sapevo di trovarti qui!}
+Devi avere una gran voglia di riempire
+il tuo Pokédex se hai deciso di svolgere
+{pageend:delle ricerche anche in questo posto.}
+{pageend:Mmmh? Vuoi sapere cosa faccio io?}
+Ogni tanto vado a trovare un Professore
+{pageend:mio amico a Evopoli.}
+Mi mette al corrente di voci sulle apparizioni
+di Pokémon rari e altri eventi interessanti.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+44,msg_c04r0205_doctor_02,"Un Pokémon che si infila dentro gli apparecchi
+{pageend:elettrici, dici...}
+{pageend:Mmmh...}
+Differisce un po’ dalla versione che ho sentito io.
+{pageend:Mmmh... Beh, ecco quello che so.}
+Tanto tempo fa, un Pokémon si fuse con un robot
+{pageend:giocattolo.}
+Non saprei dirti se quell’esemplare andasse
+{pageend:riconosciuto come una nuova specie o meno...}
+Quando la questione fu sul punto di suscitare
+un acceso dibattito, si iniziò a dubitare della
+{pageend:sua veridicità.}
+Pare che l’oggetto della discussione, il Pokémon
+fuso con il robot, svanì nel nulla...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+46,msg_01_rotomnote_01,"È un vecchio taccuino. Non si sa quando sia
+{pageend:stato scritto.}
+Vuoi leggerlo?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+47,msg_01_rotomnote_02,"{pageend:""Il nostro fu un incontro improvviso.}
+Accadde quando ritrovai il robot giocattolo
+{pageend:che avevo perso.}
+Improvvisamente, con mia grande sorpresa, dal
+{pageend:motore della falciatrice uscì fuori un Pokémon!}
+Lo fissai esterrefatto mentre stringevo tra le mani
+{pageend:il mio robot...""}
+... Vuoi continuare a leggere?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+48,msg_01_rotomnote_03,"""Il Pokémon fluttuava in aria, come sostenuto
+{pageend:da una forza sconosciuta.}
+Incuriosito e per nulla spaventato dalla mia
+{pageend:presenza, si avvicinò a me.}
+Emetteva dei crepitii, come se l’aria fosse satura
+{pageend:di elettricità statica.}
+Incredibile a dirsi, ma sembrava che questa
+{pageend:energia scaturisse proprio da quel Pokémon!}
+Indietreggiai impaurito, certo che uno shock
+{pageend:elettrico avrebbe colpito il mio volto.}
+Con mia grande sorpresa, il Pokémon sembrò
+{pageend:rivolgermi un sorriso"".}
+... Vuoi continuare a leggere?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+49,msg_01_rotomnote_04,"""Alla fine, capii che quel Pokémon voleva solo
+{pageend:stringere amicizia con me.}
+Decisi di chiamare ’Rotom’ questo esemplare
+{pageend:straordinario.}
+Potrebbe sembrare un nome banale, ma d’altra
+parte Rotom è apparso uscendo dal motore
+{pageend:di una falciatrice.}
+Motore elettrico e Rotom... Il legame è
+{pageend:abbastanza chiaro, no?""}
+... Vuoi continuare a leggere?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+50,msg_01_rotomnote_05,"""Rotom è un Pokémon semplicemente
+{pageend:sensazionale.}
+Può rendersi invisibile, ma questo non è
+{pageend:che l’inizio.}
+Ciò che rende unico Rotom è la sua abilità
+{pageend:di entrare negli apparecchi elettrici e azionarli!""}
+... Sei circa a metà del racconto.
+Vuoi continuare a leggere?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+51,msg_01_rotomnote_06,"""Rotom e io diventammo subito amici e
+{pageend:compagni inseparabili.}
+Ma l’elettricità sprigionata dal suo corpo non
+{pageend:mi permetteva di toccarlo.}
+Non potevamo abbracciarci o tenerci per mano,
+{pageend:ma non ci importava.}
+Perché eravamo uniti da un legame spirituale
+{pageend:molto profondo"".}
+... Vuoi continuare a leggere?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+52,msg_01_rotomnote_07,"{pageend:""Un giorno mi sentivo in vena di scherzi.}
+Mentre Rotom fluttuava, decisi di farlo
+{pageend:sussultare. Normalmente non l’avrei fatto.}
+Forse per via dello spavento, Rotom rilasciò
+una scarica di elettricità molto più potente
+{pageend:del normale.}
+{pageend:Caddi al suolo, stordito, e perdetti i sensi...""}
+... Vuoi continuare a leggere?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+53,msg_01_rotomnote_08,"""Quando tornai in me, mi accorsi con orrore
+{pageend:che Rotom era scomparso.}
+Cercai il mio amico in ogni dove, in preda
+{pageend:alla più profonda amarezza e disperazione.}
+{pageend:’Non sentirti responsabile!’}
+{pageend:’È colpa mia. Tu non hai fatto nulla!’}
+{pageend:’Giochiamo come abbiamo sempre fatto!’}
+Continuavo a gridare queste parole, ma il mio
+{pageend:amico non era lì per sentirle...""}
+... Vuoi continuare a leggere?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+54,msg_01_rotomnote_09,"{pageend:""La ricerca di Rotom mi portò lontano da casa.}
+Giunto alla discarica della città, trovai di nuovo
+{pageend:il mio robot giocattolo.}
+I nostri sguardi si incrociarono, e con mio grande
+{pageend:stupore il robot alzò la mano a mo’ di saluto.}
+{pageend:Capii di aver finalmente ritrovato il mio amico.}
+Corsi verso Rotom e lo abbracciai forte,
+{pageend:continuando a parlargli"".}
+... Vuoi continuare a leggere?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+55,msg_01_rotomnote_10,"""Mentre lo tenevo tra le mie braccia, gli occhi
+{pageend:del robot si illuminarono di felicità.}
+Sono sicuro che al suo interno Rotom stesse
+{pageend:emettendo un’enorme scarica di elettricità.}
+Non so come, ma mi resi conto di capire
+i pensieri di Rotom come non mi era mai
+{pageend:successo prima.}
+E realizzai anche che saremmo rimasti amici
+{pageend:per il resto della nostra vita...""}
+Gli appunti finiscono qui...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+56,msg_01_rotomnote_19,Hai usato {tag:0}{tag:1}!,0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,3,5,0,1,,0,1,1,9,0,0,0,,0
+57,msg_01_rotomnote_20,È l’entrata di una stanza segreta!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+15,msg_c04r0205_rotom_14,Scegli un Rotom.,51,-1,42,756,0,"0
+0
+0
+-1
+0"
+16,msg_c04r0205_rotom_15_1,Selezionabile,51,-1,42,756,0,"0
+0
+0
+-1
+0"
+17,msg_c04r0205_rotom_15_2,Non selezionabile,51,-1,42,756,0,"0
+0
+0
+-1
+0"
+0,msg_c04r0205_rotom_01,"{tag:0}{pageend: è entrato nel motore.}
+{tag:1} vorrebbe imparare
+{tag:2}, ma conosce già
+{pageend:quattro mosse.}
+Vuoi che ne dimentichi una e al suo posto
+impari {tag:3}?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,0,1,2,0,0,0,,0,1,1,7,0,0,0,,0,1,1,7,0,0,0,,0
+1,msg_c04r0205_rotom_02,"Vuoi rinunciare a insegnare la mossa
+{tag:0}?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,7,0,0,0,,0
+2,msg_c04r0205_rotom_03,"{tag:0} non ha imparato la mossa
+{tag:1} ed è uscito dal motore.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,7,0,0,0,,0
+3,msg_c04r0205_rotom_04,"Vuoi davvero fargli dimenticare la mossa
+{tag:0}?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,7,0,0,0,,0
+4,msg_c04r0205_rotom_05,"{wait:0.19999998807907104:Uno,}{wait:0.19999998807907104: due}{wait:0.19999998807907104: e}{wait:0.19999998807907104:...} ta-daaa!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+5,msg_c04r0205_rotom_05_01,"{tag:0} dimentica
+{tag:1}{pageend:!}
+Al suo posto...",0,-1,54,1080,1,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,7,0,0,0,,0
+6,msg_c04r0205_rotom_05_02,"{tag:0} impara
+{tag:1}!",0,-1,54,1080,1,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,7,0,0,0,,0
+10,msg_c04r0205_rotom_09,{tag:0} è entrato nel motore!,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+11,msg_c04r0205_rotom_10,{tag:0} è uscito dal motore!,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+45,msg_c04r0205_doctor_03,"Certo che questo Rotom è un Pokémon
+{pageend:davvero singolare...}
+Entra negli apparecchi elettrici, di fatto
+fondendosi con loro, e così facendo può
+{pageend:anche imparare nuove mosse!}
+In un certo senso, lo si potrebbe considerare
+{pageend:una sorta di Pokémon meccanico.}
+{pageend:Mmmh...}
+Per quanto assolutamente unico, rimane
+{pageend:comunque un Pokémon.}
+{pageend:Interessante, davvero interessante!}
+Quando si studiano i Pokémon, non importa
+quanti anni passino... non si finisce mai di fare
+{pageend:nuove scoperte!}
+A presto, {tag:0}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+46,01-msg_r201_on_starter_choose,"Hai ricevuto
+{tag:0}{pageend:}
+!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+47,01-msg_r201_starter_choose,Scegli uno starter!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+60,msg_d02_zapdos_cry,Gyaoo!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+61,msg_d05r0104_moltres_cry,Gyaoo!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+62,msg_d09r0102_articuno_cry,Gyaoo!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+63,msg_r208_raikou_cry,Gyaoo!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+64,msg_r209r0105_hooh_cry,Gyaoo!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+65,msg_r211b_entei_cry,Gyaoo!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+66,msg_r213_suicune_cry,Gyaoo!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+67,msg_w220_lugia_cry,Gyaoo!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+68,c04r0601_oak_post_distortion00,"Cosa?! Sei andato nel Mondo Distorto e hai
+combattuto con il leggendario GIRATINA?!
+Notevole. Veramente notevole! Questo è
+assolutamente senza precedenti! In ogni caso, sei
+davvero degno di incontrare i Pokémon
+{pageend:Leggendari,}
+{tag:0}{pageend:}
+{pageend:!}
+Sono sicuro che apparirebbero davanti a te se
+andassi nel posto giusto. Chiedimi pure qualsiasi
+cosa tu voglia sapere.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+69,c04r0601_oak_post_distortion01,"A proposito, e questo è un argomento
+{pageend:completamente diverso...}
+Ho sentito che ci sono stati avvistamenti di
+{pageend:Pokémon molto rari.}
+I leggendari Pokémon uccello: ARTICUNO,
+{pageend:ZAPDOS e MOLTRES!}
+Per di più, sono stati avvistati in diverse località
+{pageend:qui a Sinnoh!}
+Potresti addirittura essere abbastanza fortunato da
+vederli tu stesso nei tuoi viaggi!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+70,c04r0601_oak_post_distortion02,"ARTICUNO, ZAPDOS e MOLTRES sono
+estremamente rari anche a Kanto. Ci sono stati
+pochissimi avvistamenti finora. Quindi perché
+dovrebbero essere stati visti qui a Sinnoh, tra tutti
+i posti? Ci sono ancora moltissimi misteri che
+circondano i Pokémon, a quanto pare!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+71,c04r0601_oak_lugia_check,"Dai un'occhiata a queste due ali,
+{tag:0}{pageend:}
+{pageend:.}
+{pageend:Entrambe sono conosciute come Ali Chiare.}
+{pageend:Potresti pensare che sembrino ordinarie...}
+{pageend:Ma queste ali hanno un enigma che}
+{pageend:sto cercando di risolvere.}
+{pageend:Potrebbero avere una connessione con i due}
+{pageend:Pokémon conosciuti come i guardiani del}
+{pageend:mare e del cielo.}
+{pageend:Lugia, il guardiano del mare, si}
+{pageend:dice che faccia da mediatore tra i tre}
+{pageend:uccelli leggendari di Kanto.}
+{pageend:Forse quest'Ala Chiara reagirebbe}
+{pageend:ad Articuno, Zapdos e Moltres?}
+{pageend:Se andassi in un luogo molto freddo,}
+{pageend:un luogo che genera elettricità}
+{pageend:e un luogo dove si riuniscono gli Allenatori...}
+Beh, sarebbe sicuramente un incontro straordinario
+{pageend:}
+vedere uno qualsiasi di loro, questo è certo!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+72,c04r0601_oak_hooh_check,"Ora, quest'altra Ala Chiara...
+{pageend:Forse potrebbe essere l'Ala Arcobaleno?}
+{pageend:Si diceva che il guardiano del cielo}
+{pageend:avesse resuscitato tre Pokémon:}
+{pageend:Raikou, Entei e Suicune.}
+{pageend:Le bestie leggendarie di Johto.}
+{pageend:Sono sicuro che quest'Ala Chiara risponderebbe}
+{pageend:alla presenza di quei Pokémon!}
+{pageend:Immagino che quei Pokémon gradirebbero}
+{pageend:luoghi elevati...}
+{pageend:Forse la tecnica Scalaroccia potrebbe}
+{pageend:aiutarti a trovarli?}
+{pageend:Se in qualche modo riesci a catturarli tutti e tre...}
+Per favore, mostrameli.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+73,c04r0601_oak_lugia_valid00,"Chi sono loro? Nella tua squadra...
+{pageend:Articuno, Zapdos e Moltres?!}
+{pageend:È incredibile!}
+{pageend:Grazie,}
+{tag:0}{pageend:}
+{pageend:.}
+{pageend:Ora, quest'Ala Chiara...}
+Reagirà, mi chiedo?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+74,c04r0601_oak_lugia_valid01,"Ah, splendido! Ha funzionato!
+{pageend:L'Ala Chiara è cambiata.}
+{pageend:Ora è di un colore argento profondo...}
+{pageend:E sta anche scintillando.}
+{pageend:Deve essere l'Ala d'Argento!}
+{pageend:Grazie per il tuo aiuto,}
+{tag:0}{pageend:}
+{pageend:.}
+Vorrei che la tenessi tu.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+75,c04r0601_oak_lugia_valid02,"Conosci un posto nel mare
+{pageend:circondato da piccole isole?}
+{pageend:Forse potresti trovare Lugia lì}
+se porti con te l'Ala d'Argento.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+76,c04r0601_oak_hooh_valid00,"Hai catturato Raikou, Entei e Suicune?! L’hai fatto
+di nuovo! Davvero impressionante! Ora, vediamo
+se quest'Ala Chiara... Oh?!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+77,c04r0601_oak_hooh_valid01,"Eccellente! Quest'Ala Chiara è diventata
+{pageend:di un colore arcobaleno scintillante e vibrante!}
+{pageend:Questa è decisamente l'Ala Arcobaleno!}
+{pageend:}
+{tag:0}{pageend:}
+{pageend:, grazie ancora.}
+Vorrei che tu avessi anche questa.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+78,c04r0601_oak_hooh_valid02,"Un luogo alto dove ai defunti
+{pageend:viene dato il dovuto rispetto...}
+{pageend:C'è un posto così a Sinnoh, vero?}
+{pageend:Portare un'Ala Arcobaleno in un luogo}
+del genere potrebbe permetterti di incontrare
+{pageend:Ho-oh,}
+il guardiano del cielo.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+79,t02r0101_doctor_post_distortion_01,"Oh, sì, c'era qualcosa
+{pageend:che dovevo dirti.}
+{pageend:I tre Pokémon dei laghi sembrano}
+{pageend:essere tornati nelle loro dimore.}
+{pageend:Ho anche sentito rapporti che}
+{pageend:strani Pokémon sono apparsi a Sinnoh.}
+{pageend:È probabile che la loro apparizione sia il}
+{pageend:risultato degli eventi accaduti}
+{pageend:con Dialga e Palkia sul Monte Corona.}
+{pageend:Hmm! Forse quella Catena Rossa che hai}
+{pageend:potrebbe essere la chiave di questo mistero?}
+{pageend:Allora, dimmi.}
+{pageend:Come vanno le cose per te?}
+{pageend:Il Pokédex...?}
+{pageend:Hmm! Un totale di}
+{tag:0}{pageend:}
+{pageend:!}
+{pageend:...E il numero di Medaglie?}
+{pageend:Bene! Ne hai già sette!}
+{pageend:Manca solo la Palestra di Arenipoli.}
+{pageend:Sei arrivato così lontano.}
+{pageend:Perché non ottenere la Medaglia di Arenipoli?}
+{pageend:E perché non sfidare la Lega Pokémon?}
+{pageend:Questo amplierà i tuoi orizzonti}
+{pageend:più che mai.}
+{pageend:Senza contare le opportunità di}
+incontrare ancora più Pokémon.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,2,4,1,0,0,,0
+80,t02r0101_doctor_post_distortion_02,"Oh, quasi scordavo,
+{tag:0}{pageend:}
+{pageend:.}
+{pageend:Se vedi Camilla,}
+salutala da parte mia.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,4,0,0,0,,0
+81,msg_d05r0104_articuno_cry,Gyaoo!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+82,msg_d09r0102_moltres_cry,Gyaoo!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+83,c04r0601_oak_greeting,"Ah, sei tu! È bello vederti! Come posso esserti
+{pageend:utile,}
+{tag:0}{pageend:}
+?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+84,c04r0601_oak_general_01,"Conosci i nomi degli altri
+{pageend:professori Pokémon,}
+{tag:0}{pageend:}
+{pageend:?}
+{pageend:Posso assicurarti che ce ne sono molti}
+{pageend:oltre a me e al Professor Rowan!}
+{pageend:Elm, Birch, Aralia, Platan, Kukui...}
+{pageend:Tutti questi nomi appartengono a colleghi}
+professori Pokémon in tutto il mondo!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+85,c04r0601_oak_general_02,"Dovrei informarti che il mio nome completo è
+{pageend:Professor Samuel Oak.}
+Ho un cugino ad Alola conosciuto come Professor
+{pageend:Samson Oak!}
+La sua ricerca si concentra sulle varianti regionali
+{pageend:trovate ad Alola.}
+Sapevi che i Vulpix ad Alola sono di tipo
+Ghiaccio, invece che di tipo Fuoco?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+86,c04r0601_oak_general_03,"{pageend:Ho un nipote chiamato Blu.}
+È stato il Campione della Lega Pokémon di Kanto,
+{pageend:tra l'altro.}
+{pageend:Anche se solo per un breve periodo.}
+{pageend:Poi ha perso contro il suo rivale, Rosso.}
+Almeno Blu ha trovato un posto come Leader
+{pageend:della Palestra di Verdeazzupoli!}
+{pageend:Anche se è spesso lontano da essa,}
+{pageend:causando problemi ai sfidanti.}
+Quel ragazzo...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+87,c04r0601_oak_general_04,"Ah, si. Una volta ho avuto un protetto che
+{pageend:amava molto la ricerca all'aperto.}
+{pageend:Il suo nome è Professor Willow.}
+{pageend:Da me ha studiato i Pokémon.}
+{pageend:Lui e i suoi assistenti stanno sempre}
+facendo progressi nella ricerca sui Pokémon!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+88,c04r0601_oak_general_05,"Hai mai pensato di diventare
+{pageend:un fotografo,}
+{tag:0}{pageend:}
+{pageend:?}
+{pageend:Una volta ho invitato un giovane talentuoso}
+{pageend:a scattare foto dei Pokémon nel loro}
+{pageend:habitat naturale.}
+{pageend:Era un posto chiamato Isola Pokémon...}
+{pageend:E che bellissimo posto era!}
+{pageend:Il giovane fotografo mi ha aiutato}
+a completare il mio Rapporto sui Pokémon!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+89,c04r0601_oak_cancel,"Non ti ringraziero mai abbastanza per il
+{pageend:tuo aiuto con le mie ricerche,}
+{tag:0}{pageend:}
+.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0

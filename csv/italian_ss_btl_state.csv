@@ -1,0 +1,635 @@
+0,BTR_STATE_01_01,Sole intenso,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+1,BTR_STATE_01_02,"Quando i raggi solari sono intensi, la potenza
+delle mosse di tipo Fuoco aumenta e quella
+delle mosse di tipo Acqua diminuisce.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+2,BTR_STATE_02_01,Pioggia,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+3,BTR_STATE_02_02,"Quando piove, la potenza delle mosse
+di tipo Acqua aumenta e quella delle
+mosse di tipo Fuoco diminuisce.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+4,BTR_STATE_03_01,Tempesta di sabbia,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+5,BTR_STATE_03_02,"Quando infuria una tempesta di sabbia,
+tutti i Pokémon subiscono danni a ogni turno,
+eccetto quelli di tipo Terra, Roccia e Acciaio.
+Inoltre, la Difesa Speciale dei Pokémon di
+tipo Roccia aumenta.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+6,BTR_STATE_04_01,Grandine,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+7,BTR_STATE_04_02,"Quando grandina, tutti i Pokémon subiscono
+danni a ogni turno, eccetto quelli di tipo
+Ghiaccio.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+14,BTR_STATE_08_01,Distortozona,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+15,BTR_STATE_08_02,"Per cinque turni, i Pokémon più lenti agiscono
+per primi.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+20,BTR_STATE_11_01,Brutto colpo ↑,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+21,BTR_STATE_11_02,"La probabilità di sferrare un brutto colpo
+aumenta.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+22,BTR_STATE_12_01,Confusione,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+23,BTR_STATE_12_02,"Il Pokémon rischia di danneggiare se stesso
+per un periodo che va da uno a quattro turni.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+24,BTR_STATE_13_01,Infatuazione,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+25,BTR_STATE_13_02,"Il Pokémon è riluttante ad attaccare
+se il bersaglio è del sesso opposto.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+8,BTR_STATE_05_01,Campo Elettrico,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+9,BTR_STATE_05_02,"Impedisce che i Pokémon a contatto con il
+terreno di lotta si addormentino per cinque turni.
+Potenzia le mosse di tipo Elettro.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+28,BTR_STATE_16_01,Ripeti,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+29,BTR_STATE_16_02,"Obbliga il Pokémon a ripetere la mossa
+{tag:0} per tre volte.",60,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,7,0,0,0,,0
+30,BTR_STATE_17_01,Abilità bloccata,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+31,BTR_STATE_17_02,"L’abilità del Pokémon è stata neutralizzata
+e non ha effetto.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+32,BTR_STATE_18_01,Attaccalite,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+33,BTR_STATE_18_02,"Il Pokémon non può usare la stessa mossa
+due volte di seguito.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+34,BTR_STATE_19_01,Ventoincoda,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+35,BTR_STATE_19_02,"Per quattro turni, la Velocità del Pokémon
+raddoppia.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+36,BTR_STATE_21_01,Rancore,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+37,BTR_STATE_21_02,"Se il Pokémon va KO, i PP della mossa che
+lo ha messo fuori gioco vengono azzerati.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+10,BTR_STATE_06_01,Campo Erboso,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+11,BTR_STATE_06_02,"Fa recuperare PS ai Pokémon a contatto
+con il terreno di lotta per cinque turni.
+Potenzia le mosse di tipo Erba.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+12,BTR_STATE_07_01,Campo Nebbioso,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+13,BTR_STATE_07_02,"Protegge i Pokémon a contatto con il terreno
+di lotta da problemi di stato per cinque turni.
+Dimezza i danni causati da mosse di tipo Drago.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+38,BTR_STATE_24_01,Mossa bloccata,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+39,BTR_STATE_24_02,"Il Pokémon non può usare la mossa
+{tag:0} per quattro turni.",60,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,7,0,0,0,,0
+40,BTR_STATE_25_01,Antifuga,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+41,BTR_STATE_25_02,Il Pokémon non può fuggire o essere sostituito.,60,-1,42,840,0,"0
+0
+0
+-1
+0"
+42,BTR_STATE_26_01,Localizza,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+43,BTR_STATE_26_02,"La prossima mossa usata dal Pokémon andrà
+a segno immancabilmente.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+16,BTR_STATE_09_01,Magicozona,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+17,BTR_STATE_09_02,"Annulla l’effetto degli strumenti di tutti
+i Pokémon per cinque turni.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+44,BTR_STATE_28_01,Sottocarica,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+45,BTR_STATE_28_02,"Raddoppia la potenza della mossa di tipo Elettro
+usata dal Pokémon dopo Sottocarica.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+46,BTR_STATE_29_01,Gravità,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+47,BTR_STATE_29_02,"Per cinque turni, le mosse vanno a segno più
+facilmente, i Pokémon di tipo Volante o con
+l’abilità Levitazione sono vulnerabili alle mosse
+di tipo Terra e le mosse che fanno volare non
+possono essere utilizzate.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+48,BTR_STATE_30_01,Nebbia,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+49,BTR_STATE_30_02,"Impedisce la diminuzione delle statistiche
+per cinque turni.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+50,BTR_STATE_31_01,Salvaguardia,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+51,BTR_STATE_31_02,Protegge dai problemi di stato per cinque turni.,60,-1,42,840,0,"0
+0
+0
+-1
+0"
+52,BTR_STATE_32_01,Levitoroccia,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+53,BTR_STATE_32_02,Danneggia i Pokémon che entrano in campo.,60,-1,42,840,0,"0
+0
+0
+-1
+0"
+54,BTR_STATE_33_01,Accumulo,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+55,BTR_STATE_33_02,"La Difesa e la Difesa Speciale del Pokémon
+aumentano ogni volta che accumula energia.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+56,BTR_STATE_34_01,Provocazione,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+57,BTR_STATE_34_02,"Costringe a usare solo mosse che causano
+danni.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+58,BTR_STATE_36_01,Magnetascesa,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+59,BTR_STATE_36_02,"Il Pokémon non può essere colpito da mosse
+di tipo Terra per cinque turni.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+60,BTR_STATE_37_01,Fielepunte,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+61,BTR_STATE_37_02,"Avvelena i Pokémon che scendono in campo,
+eccetto quelli di tipo Volante o con l’abilità
+Levitazione.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+18,BTR_STATE_10_01,Mirabilzona,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+19,BTR_STATE_10_02,"Scambia la Difesa e la Difesa Speciale
+di tutti i Pokémon per cinque turni.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+62,BTR_STATE_39_01,Desiderio,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+63,BTR_STATE_39_02,"Il Pokémon recupererà metà dei PS totali
+nel turno successivo all’uso della mossa
+Desiderio.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+66,BTR_STATE_41_01,Radicamento,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+67,BTR_STATE_41_02,"Il Pokémon recupera PS alla fine di ogni turno
+e non può essere sostituito perché ha messo
+le radici.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+68,BTR_STATE_42_01,Maledizione,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+69,BTR_STATE_42_02,Fa perdere PS alla fine di ogni turno.,60,-1,42,840,0,"0
+0
+0
+-1
+0"
+26,BTR_STATE_15_01,Sonnolenza,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+27,BTR_STATE_15_02,"Il Pokémon si addormenta alla fine del turno
+successivo a quello in cui ha subito la mossa.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+70,BTR_STATE_44_01,Schermoluce,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+71,BTR_STATE_44_02,"La potenza degli attacchi speciali subiti viene
+dimezzata per cinque turni dall’attivazione
+dell’effetto.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+72,BTR_STATE_45_01,Riflesso,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+73,BTR_STATE_45_02,"La potenza degli attacchi fisici subiti viene
+dimezzata per cinque turni dall’attivazione
+dell’effetto.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+74,BTR_STATE_46_01,Esclusiva,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+75,BTR_STATE_46_02,"I nemici di un Pokémon che ha usato Esclusiva
+non possono usare le mosse conosciute anche
+da lui.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+76,BTR_STATE_47_01,Turni contati,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+77,BTR_STATE_47_02,"I Pokémon che subiscono questo effetto
+vanno KO dopo tre turni.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+78,BTR_STATE_48_01,Punte,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+79,BTR_STATE_48_02,"Infligge danni ai Pokémon quando scendono
+in campo, eccetto quelli di tipo Volante o con
+l’abilità Levitazione.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+80,BTR_STATE_50_01,Destinobbligato,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+81,BTR_STATE_50_02,Chi manda KO questo Pokémon finisce KO.,60,-1,42,840,0,"0
+0
+0
+-1
+0"
+64,BTR_STATE_40_01,Rete Vischiosa,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+65,BTR_STATE_40_02,"La Velocità dei Pokémon che entrano in campo
+diminuisce.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+82,BTR_STATE_52_01,Parassiseme,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+83,BTR_STATE_52_02,"Il Pokémon perde PS alla fine di ogni turno
+e li fa recuperare a chi ha usato la mossa.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+84,BTR_STATE_53_01,Localizza,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+85,BTR_STATE_53_02,"La prossima mossa usata sul Pokémon
+localizzato andrà a segno immancabilmente.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+86,BTR_STATE_54_01,Imprigionamento,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+87,BTR_STATE_54_02,"Il Pokémon è intrappolato e subisce danni
+a ogni turno.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+88,BTR_STATE_56_01,Oltraggio,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+89,BTR_STATE_56_02,"Il Pokémon sfoga la sua ira e attacca per due
+o tre turni prima di essere lasciato in preda
+alla confusione.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+90,BTR_STATE_57_01,Collera,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+91,BTR_STATE_57_02,"Il Pokémon sfoga la sua ira e attacca per due
+o tre turni prima di essere lasciato in preda
+alla confusione.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+92,BTR_STATE_58_01,Petalodanza,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+93,BTR_STATE_58_02,"Il Pokémon sfoga la sua ira e attacca per due
+o tre turni prima di essere lasciato in preda
+alla confusione.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+94,BTR_STATE_59_01,Iperavvelenamento,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+95,BTR_STATE_59_02,"Il Pokémon è iperavvelenato e la quantità di PS
+che perde aumenta a ogni turno.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+96,BTR_STATE_61_01,Baraonda,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+97,BTR_STATE_61_02,"Il Pokémon attacca per tre turni provocando
+un frastuono che non permette a nessuno
+di addormentarsi.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+98,BTR_STATE_62_01,Acquanello,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+99,BTR_STATE_62_02,"Il Pokémon è avvolto in un velo d’acqua
+che gli fa recuperare PS a ogni turno.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+102,BTR_STATE_64_01,Abbattimento,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+103,BTR_STATE_64_02,Il Pokémon viene colpito e cade a terra.,60,-1,42,840,0,"0
+0
+0
+-1
+0"
+100,BTR_STATE_63_01,Sganciapesi,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+101,BTR_STATE_63_02,"Il peso corporeo del Pokémon diminuisce
+e la sua Velocità aumenta di molto.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+104,BTR_STATE_73_01,Colpo Infernale,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+105,BTR_STATE_73_02,"Per due turni impedisce di usare mosse
+basate sul suono.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+108,BTR_STATE_75_01,Concentrazione,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+109,BTR_STATE_75_02,"L’attacco sferrato nel turno successivo a quello
+in cui è stata usata Concentrazione causa
+sempre un brutto colpo.",60,-1,42,840,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+106,BTR_STATE_74_01,Velaurora,124,-1,42,462,0,"0
+0
+0
+-1
+0"
+107,BTR_STATE_74_02,"La potenza degli attacchi speciali e fisici
+subiti viene dimezzata per cinque turni.",60,-1,42,840,0,"0
+0
+0
+-1
+0"

@@ -1,0 +1,449 @@
+0,DLP_stickers_001,CAPSULE DECORATION,38,-1,42,336,0,"-1
+0
+0
+-1
+0"
+1,DLP_stickers_002,Please select a Ball Capsule.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+2,DLP_stickers_003,"What would you like to do with this
+Ball Capsule?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+3,DLP_stickers_004,"Would you like to quit without changing the
+Ball Capsule design?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+4,DLP_stickers_005,You cannot place any more Stickers.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+5,DLP_stickers_006,There are no Stickers left.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+6,DLP_stickers_007,"Would you like to remove all Stickers from
+the Ball Capsule?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+7,DLP_stickers_022,All Stickers have been removed.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+8,DLP_stickers_023,"Which Ball Capsule would you like to swap
+it with?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+21,DLP_stickers_010, Confirm,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+23,DLP_stickers_011, Back,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+24,DLP_stickers_012, Toggle 2D/3D,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+25,DLP_stickers_013, Toggle List,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+26,DLP_stickers_014, Place Sticker,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+27,DLP_stickers_015, Grab Sticker,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+33,DLP_stickers_016,Select Pokémon,95,-1,32,576,0,"-1
+0
+0
+-1
+0"
+34,DLP_stickers_017,Remove Pokémon,95,-1,32,576,0,"-1
+0
+0
+-1
+0"
+35,DLP_stickers_018,Place Sticker,95,-1,32,576,0,"-1
+0
+0
+-1
+0"
+36,DLP_stickers_019,Remove all Stickers,95,-1,32,576,0,"-1
+0
+0
+-1
+0"
+37,DLP_stickers_020,Swap,95,-1,32,576,0,"-1
+0
+0
+-1
+0"
+38,DLP_stickers_021,Quit,95,-1,32,576,0,"-1
+0
+0
+-1
+0"
+9,DLP_stickers_024,The Ball Capsules have been swapped.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+10,DLP_stickers_025,You can’t place any Stickers on this Ball Capsule.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+11,DLP_stickers_027,You don’t have any Stickers that you can place.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+12,DLP_stickers_028,Would you like to copy to this Ball Capsule?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+13,DLP_stickers_029,"You can’t copy to this Ball Capsule because it
+already has Stickers placed on it.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+14,DLP_stickers_030,You can’t copy to the same Ball Capsule.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+15,DLP_stickers_031,You don’t have all the Stickers you need.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+16,DLP_stickers_032,"Would you like to copy just the Stickers that
+you have?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+17,DLP_stickers_033,The Ball Capsule has been copied.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+18,DLP_stickers_034,"You were unable to copy because you don’t have
+the Stickers you need.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+19,DLP_stickers_035,"When you toggle between 2D and 3D mode, all
+the placed Stickers will be removed.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+20,DLP_stickers_036,Would you like to toggle modes?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+28,DLP_stickers_053, Remove Sticker,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+29,DLP_stickers_054, Reset Position,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+30,DLP_stickers_055, Pause,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+31,DLP_stickers_056, Toggle Camera,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+39,DLP_stickers_037,Copy,95,-1,32,576,0,"-1
+0
+0
+-1
+0"
+40,DLP_stickers_038,Yes,95,-1,32,576,0,"-1
+0
+0
+-1
+0"
+41,DLP_stickers_039,No,95,-1,32,576,0,"-1
+0
+0
+-1
+0"
+42,DLP_stickers_040,Preview,82,-1,32,256,0,"-1
+0
+0
+-1
+0"
+44,DLP_stickers_041,Rotate,82,-1,32,256,0,"-1
+0
+0
+-1
+0"
+45,DLP_stickers_042,{tag:0},165,-1,32,96,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+46,DLP_stickers_043,{tag:0},42,-1,42,504,0,"-1
+0
+0
+-1
+0",0,1,77,0,0,0,,0
+47,DLP_stickers_044,X,164,-1,32,64,0,"-1
+0
+0
+-1
+0"
+48,DLP_stickers_045,Y,164,-1,32,64,0,"-1
+0
+0
+-1
+0"
+49,DLP_stickers_046,Z,164,-1,32,64,0,"-1
+0
+0
+-1
+0"
+50,DLP_stickers_047,{tag:0}.{tag:1},168,-1,32,192,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0,1,2,0,1,0,205,,0
+51,DLP_stickers_048,{tag:0}.{tag:1},168,-1,32,192,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0,1,2,0,1,0,205,,0
+52,DLP_stickers_049,{tag:0}.{tag:1},168,-1,32,192,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0,1,2,0,1,0,205,,0
+53,DLP_stickers_050,—,168,-1,32,192,0,"-1
+0
+0
+-1
+0"
+54,DLP_stickers_051,—,168,-1,32,192,0,"-1
+0
+0
+-1
+0"
+55,DLP_stickers_052,—,168,-1,32,192,0,"-1
+0
+0
+-1
+0"
+32,DLP_stickers_057, Return to List,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+56,DLP_stickers_058,Gym Leader,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+58,DLP_stickers_059,Elite Four,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+59,DLP_stickers_060,Champion,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+60,DLP_stickers_061,Tower Tycoon,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+62,DLP_stickers_062,Pokémon Trainer,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+63,DLP_stickers_063,Roark,5,-1,54,378,0,"-1
+0
+0
+-1
+0"
+64,DLP_stickers_064,Gardenia,5,-1,54,378,0,"-1
+0
+0
+-1
+0"
+65,DLP_stickers_065,Maylene,5,-1,54,378,0,"-1
+0
+0
+-1
+0"
+66,DLP_stickers_066,Wake,5,-1,54,378,0,"-1
+0
+0
+-1
+0"
+67,DLP_stickers_067,Fantina,5,-1,54,378,0,"-1
+0
+0
+-1
+0"
+68,DLP_stickers_068,Candice,5,-1,54,378,0,"-1
+0
+0
+-1
+0"
+69,DLP_stickers_069,Byron,5,-1,54,378,0,"-1
+0
+0
+-1
+0"
+70,DLP_stickers_070,Volkner,5,-1,54,378,0,"-1
+0
+0
+-1
+0"
+71,DLP_stickers_071,Aaron,5,-1,54,378,0,"-1
+0
+0
+-1
+0"
+72,DLP_stickers_072,Bertha,5,-1,54,378,0,"-1
+0
+0
+-1
+0"
+73,DLP_stickers_073,Flint,5,-1,54,378,0,"-1
+0
+0
+-1
+0"
+74,DLP_stickers_074,Lucian,5,-1,54,378,0,"-1
+0
+0
+-1
+0"
+75,DLP_stickers_075,Cynthia,5,-1,54,378,0,"-1
+0
+0
+-1
+0"
+76,DLP_stickers_076,Palmer,5,-1,54,378,0,"-1
+0
+0
+-1
+0"
+77,DLP_stickers_077,Cheryl,5,-1,54,378,0,"-1
+0
+0
+-1
+0"
+78,DLP_stickers_078,Mira,5,-1,54,378,0,"-1
+0
+0
+-1
+0"
+79,DLP_stickers_079,Riley,5,-1,54,378,0,"-1
+0
+0
+-1
+0"
+80,DLP_stickers_080,Marley,5,-1,54,378,0,"-1
+0
+0
+-1
+0"
+81,DLP_stickers_081,Buck,5,-1,54,378,0,"-1
+0
+0
+-1
+0"
+82,DLP_stickers_082,{tag:0},5,-1,54,378,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+83,DLP_stickers_083,Stickers Needed,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+84,DLP_stickers_084,×,146,-1,42,84,0,"-1
+0
+0
+-1
+0"
+85,DLP_stickers_085,{tag:0},147,-1,42,126,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+86,DLP_stickers_086,{tag:0}/{tag:1},150,-1,42,252,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0,1,2,1,1,0,205,,0
+87,DLP_stickers_087,Would you like to try this Capsule Decoration?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+57,DLP_stickers_088,Gym Leader,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+61,DLP_stickers_089,Pokémon Trainer,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+22,DLP_stickers_090, Select,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+43,DLP_stickers_091, Preview,82,-1,32,256,0,"-1
+0
+0
+-1
+0"

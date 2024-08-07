@@ -1,0 +1,1466 @@
+0,DP_contest_000,Dummy message,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+239,DP_contest_688,"Oh? It seems you don’t have a Pokémon that can
+{pageend:enter a contest show.}
+Please come back with a Pokémon that knows
+a move that can be used in contest shows.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+1,DP_contest_032,"That’s it, folks! All evaluations have been tallied
+and totaled! Which Pokémon will be crowned the
+Star of the Show? Let’s announce the results!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+2,DP_contest_118,Coolness Contest,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+3,DP_contest_119,Beauty Contest,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+4,DP_contest_120,Cuteness Contest,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+5,DP_contest_121,Cleverness Contest,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+6,DP_contest_122,Toughness Contest,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+9,DP_contest_123,Normal Rank,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+10,DP_contest_124,Great Rank,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+11,DP_contest_125,Ultra Rank,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+12,DP_contest_126,Master Rank,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+13,DP_contest_127,Practice,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+14,DP_contest_128,Link,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+15,DP_contest_129,Contest,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+16,DP_contest_130,Back,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+17,DP_contest_149,Communicating. Please stand by...,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+18,DP_contest_265,"Welcome to the Contest Hall! I can help you with
+registering for a Super Contest Show.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+19,DP_contest_266,"Would you like to enter a Pokémon in a Super
+Contest Show?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+20,DP_contest_267,What would you like to know about?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+21,DP_contest_269,"{pageend:Welcome to the Contest Hall!}
+This is the reception counter for linked
+{pageend:Super Contest Shows.}
+You and your friends may enter your Pokémon in
+the same Super Contest Show together.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+22,DP_contest_270,I’d like to enter a show,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+23,DP_contest_271,Tell me more,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+24,DP_contest_272,"No, thanks",50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+25,DP_contest_273,"We look forward to your participation
+another time!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+26,DP_contest_274,Would you like to enter a Link Contest Show?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+27,DP_contest_280,"There are five Super Contest Shows in all:
+Coolness, Beauty, Cuteness, Cleverness,
+{pageend:and Toughness.}
+Be sure to choose the one that best suits the
+Pokémon you want to enter with.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+28,DP_contest_281,"There are four different ranks for Super Contest
+Shows. The four ranks are Normal, Great, Ultra,
+{pageend:and Master.}
+If you put on a successful show in a Normal Rank
+Coolness Contest, you’ll get to participate in the
+{pageend:Great Rank Coolness Contest, and so on.}
+Likewise, putting on a successful Great Rank
+contest show will qualify you for Ultra Rank,
+and a successful Ultra Rank contest show will
+{pageend:make you eligible for Master Rank contest shows.}
+Reach for the top and try to participate in each
+Master Rank category: Coolness, Beauty,
+Cuteness, Cleverness, and Toughness!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+29,DP_contest_282,Which Pokémon would you like to enter?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+30,DP_contest_283,Please choose a Pokémon.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+31,DP_contest_284,"OK! Your Pokémon has been accepted for entry!
+Your entry number is {tag:0}!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+32,DP_contest_285,"We look forward to your participation
+another time!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+33,DP_contest_286,Enter,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+34,DP_contest_287,Tell me about contest shows,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+35,DP_contest_288,Quit,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+36,DP_contest_289,Which rank would you like to enter?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+37,DP_contest_290,Which contest show would you like to enter?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+38,DP_contest_291,Would you like to cancel your entry?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+39,DP_contest_292,Yes,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+40,DP_contest_293,No,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+48,DP_contest_303,Normal Rank,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+49,DP_contest_304,Great Rank,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+50,DP_contest_305,Ultra Rank,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+51,DP_contest_306,Master Rank,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+52,DP_contest_307,Quit,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+54,DP_contest_308,Coolness Contest,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+55,DP_contest_309,Beauty Contest,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+56,DP_contest_310,Cuteness Contest,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+57,DP_contest_311,Cleverness Contest,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+58,DP_contest_312,Toughness Contest,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+61,DP_contest_313,Quit,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+63,DP_contest_330,"Right this way, please! Good luck!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+64,DP_contest_373,"Hi! This is the registration counter for
+{pageend:practice sessions.}
+Here you can take Contest Show lessons!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+65,DP_contest_374,Would you like to join a practice session?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+66,DP_contest_375,I’d like to practice,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+67,DP_contest_376,Tell me more,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+68,DP_contest_377,"No, thanks",42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+69,DP_contest_378,We look forward to your next visit!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+70,DP_contest_379,What would you like to know about?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+175,DP_contest_611,Select,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+205,DP_contest_648,That Pokémon can’t participate in this contest!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+206,DP_contest_649,X,3,-1,54,108,0,"-1
+0
+0
+-1
+0"
+94,DP_contest_651,There are {tag:0} Stars-of-the-Show pairs this time!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+96,DP_contest_650,{tag:0} and {tag:1}!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,2,0,0,0,,0
+71,DP_contest_428,Quit,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+72,DP_contest_431,Normal,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+73,DP_contest_432,Great,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+74,DP_contest_433,Ultra,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+75,DP_contest_434,Master,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+76,DP_contest_437,Which Pokémon would you like to enter?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+77,DP_contest_438,Please choose a Pokémon.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+78,DP_contest_439,"OK, your Pokémon has been registered for a
+{pageend:practice session.}
+Its entry number is {tag:0}. The practice will start
+right away.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+79,DP_contest_440,"Right this way, please. Good luck!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+81,DP_contest_482,"And now, for the {tag:0}
+{tag:1}!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,32,0,0,0,,0,0,1,31,0,0,0,,0
+82,DP_contest_483,"Entry number 1!
+{tag:0} and {tag:1}!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,2,0,0,0,,0
+83,DP_contest_484,"Entry number 2!
+{tag:0} and {tag:1}!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,2,0,0,0,,0
+84,DP_contest_485,"Entry number 3!
+{tag:0} and {tag:1}!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,2,0,0,0,,0
+85,DP_contest_486,"Entry number 4!
+{tag:0} and {tag:1}!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,2,0,0,0,,0
+86,DP_contest_487,"The audience suddenly grew more enthusiastic
+when {tag:0} arrived!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,2,0,0,0,,0
+87,DP_contest_488,"The audience became excited when
+{tag:0} arrived!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,2,0,0,0,,0
+88,DP_contest_489,"The audience grew a little more animated when
+{tag:0} arrived.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,2,0,0,0,,0
+89,DP_contest_490,"{tag:0} shows off with
+{tag:1}!",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,7,0,0,0,,0
+90,DP_contest_491,"What a successful Super Contest Show!
+You got some hall points!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+92,DP_contest_492,Sorry! This Super Contest Show was a failure.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+93,DP_contest_493,It’s time to announce the Stars of the Show!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+207,DP_contest_652,How would you like to participate?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+208,DP_contest_653,Alone,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+209,DP_contest_654,With my group!,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+95,DP_contest_497,The Stars of the Show are...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+97,DP_contest_498,"Hi! This is the registration counter for
+{pageend:practice sessions.}
+Here you can take Super Contest Show lessons.
+Would you like to practice?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+98,DP_contest_499,"In a Super Contest Show, four performers work
+together, acting in front of a large audience and
+{pageend:doing their best to put on a successful show!}
+While performing, they’ll be evaluated in three
+{pageend:categories: Visual, Dance, and Moves.}
+We offer lessons to anyone who wants to enter a
+Super Contest Show!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+99,DP_contest_500,"The Visual Evaluation will be based on the
+Pokémon’s conditions and the spectacle of
+{pageend:its customized Ball Capsule.}
+There are five types of conditions: Coolness,
+{pageend:Beauty, Cuteness, Cleverness, and Toughness.}
+You can raise each of these by giving your
+{pageend:Pokémon Poffins!}
+Customize your Capsule Decoration by placing
+Stickers onto Ball Capsules. You can access them
+{pageend:through the X menu or by using a PC.}
+Different Stickers pair well with different contest
+shows, so try out a variety of them!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+100,DP_contest_501,"The Dance Evaluation is based on your
+{pageend:rhythm skills!}
+Push the button with the right timing as notes
+{pageend:move along with the music.}
+Scores for each note are divided into categories:
+{pageend:Too Fast/Slow, Nice, Great, and Brilliant!}
+The better your timing, the more your Heart
+Gauge will fill, and when it fills up completely,
+you’ll get a <color=#F01E1EFF>♥</color>{pageend:!}
+A performance that earns a lot of <color=#F01E1EFF>♥</color>s is definitely
+a brilliant one! And that’ll be sure to send your
+{pageend:Dance Evaluation score sky high, too!}
+Collecting <color=#F01E1EFF>♥</color>s will also raise the Hype Meter
+shared by all four performers, pumping up the
+{pageend:audience into a frenzy!}
+Put on successful shows to earn hall points,
+and you can gradually upgrade the stage into
+something truly magnificent!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+101,DP_contest_502,"The Dance Evaluation is based on your
+{pageend:rhythm skills!}
+Push the button with the right timing as notes
+{pageend:move along with the music.}
+Scores for each note are divided into categories:
+{pageend:Too Fast/Slow, Nice, Great, and Shining!}
+The better your timing, the more your Heart
+Gauge will fill, and when it fills up completely,
+you’ll get a <color=#F01E1EFF>♥</color>{pageend:!}
+A performance that earns a lot of <color=#F01E1EFF>♥</color>s is definitely
+a shining one! And that’ll be sure to send your
+{pageend:Dance Evaluation score sky high, too!}
+Collecting <color=#F01E1EFF>♥</color>s will also raise the Hype Meter
+shared by all four performers, pumping up the
+{pageend:audience into a frenzy!}
+Put on successful shows to earn hall points,
+and you can gradually upgrade the stage into
+something truly magnificent!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+102,DP_contest_503,"The Move Evaluation is based on a Pokémon’s
+Contest Move, which the Pokémon can only use
+{pageend:once during the performance!}
+Contest Moves can have a variety of effects
+{pageend:that will help with the Dance Evaluation.}
+Choose the move you’d like in advance at the
+reception desk, then use your Contest Move
+{pageend:when you feel like the moment is right!}
+Based on the success of your move, you may
+receive <color=#F01E1EFF>♥</color>{pageend:s from the audience!}
+Also, if you coordinate with other performers and
+use Contest Moves in succession, you can create
+a Move Chain! Pull it off, and you’ll get more
+<color=#F01E1EFF>♥</color>{pageend:s than if you’d just used a move on your own.}
+If you create a Move Chain with moves that have
+the same type, you’ll get even more <color=#F01E1EFF>♥</color>{pageend:s.}
+The key to success is figuring out the perfect
+time to use your Contest Move!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+103,DP_contest_504,"Please choose a Pokémon to enter, as well as its
+Contest Move.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+104,DP_contest_505,Would you like to cancel your practice session?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+105,DP_contest_506,"Please choose a Ball Capsule to use in
+the Contest Show.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+106,DP_contest_507,Would you like to practice again?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+107,DP_contest_508,Good luck!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+238,DP_contest_687,I’m so sorry. Link Contest Shows aren’t ready yet.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+108,DP_contest_545,And that’s it for this practice session!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+109,DP_contest_546,The Hall Rank is already maxed out.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+110,DP_contest_547,"The Hall Rank went up! The stage will be fancier
+starting with your next Super Contest Show!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+111,DP_contest_548,Hooray! The Hall Rank has reached its max!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+112,DP_contest_549,Contest Move,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+113,DP_contest_550,Visual,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+114,DP_contest_551,Dance,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+115,DP_contest_552,Move,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+116,DP_contest_553,Coolness Contest,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+117,DP_contest_554,Beauty Contest,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+118,DP_contest_555,Cuteness Contest,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+119,DP_contest_556,Cleverness Contest,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+120,DP_contest_557,Toughness Contest,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+121,DP_contest_558,Normal Rank,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+122,DP_contest_559,Great Rank,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+123,DP_contest_560,Ultra Rank,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+124,DP_contest_561,Master Rank,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+125,DP_contest_562,BRILLIANT!,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+126,DP_contest_563,SHINING!,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+127,DP_contest_564,GREAT!,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+128,DP_contest_565,NICE!,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+129,DP_contest_566,TOO FAST!/TOO SLOW!,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+130,DP_contest_567,{tag:0} {tag:1},37,-1,42,294,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0,-1,19,1,5,0,0,"time
+times",0
+131,DP_contest_568,Time left: {tag:0}:{tag:1},46,-1,42,588,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0,1,2,1,1,0,205,,0
+41,DP_contest_294,Super Contest Show basics,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+42,DP_contest_295,Types of Super Contest Shows,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+43,DP_contest_296,Super Contest Show ranks,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+44,DP_contest_298,What’s a Super Contest Show?,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+45,DP_contest_299,Visual Evaluation,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+46,DP_contest_300,Dance Evaluation,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+47,DP_contest_301,Move Evaluation,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+62,DP_contest_318,Practice show basics,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+7,DP_contest_641,Brilliant Contest,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+8,DP_contest_642,Shining Contest,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+132,DP_contest_569,Eligible,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+133,DP_contest_570,Ineligible,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+134,DP_contest_571,Please select a Pokémon.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+135,DP_contest_572,Please select a move.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+136,DP_contest_573,Please select a Ball Capsule.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+137,DP_contest_574,Please select a style.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+138,DP_contest_575,Hall {tag:0},42,-1,42,504,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+139,DP_contest_576,Internet,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+140,DP_contest_577,Local,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+141,DP_contest_578,Tell me about contest shows,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+142,DP_contest_579,Visual Evaluation,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+143,DP_contest_580,Dance Evaluation,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+144,DP_contest_581,Move Evaluation,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+210,DP_contest_655,With a Link Code,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+145,DP_contest_583,Would you like to change your style?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+146,DP_contest_584,Change into Contest Style,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+147,DP_contest_585,Change into something else,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+148,DP_contest_586,Congratulations on becoming Stars of the Show!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+149,DP_contest_587,"Please accept {tag:0}
+as your reward!",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,38,0,0,0,,0
+152,DP_contest_588,"In a Super Contest Show, four performers work
+together, acting in front of a large audience and
+{pageend:aiming to complete a successful show!}
+Meanwhile, they’ll be evaluated in three
+categories: Visual, Dance, and Moves.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+153,DP_contest_589,"There are four different ranks of Link Contest
+{pageend:Shows: Normal, Great, Ultra, and Master.}
+The difficulty level increases as you approach
+{pageend:Master Rank.}
+For Link Contest Shows, all ranks are playable
+right from the start!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+154,DP_contest_590,Leader,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+155,DP_contest_591,Guest,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+156,DP_contest_592,How many players would you like to include?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+157,DP_contest_593,{tag:0} players,37,-1,42,294,0,"-1
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+158,DP_contest_594,Random,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+159,DP_contest_595,At least one support performer will join.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+160,DP_contest_596,Failed to find enough players.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+161,DP_contest_597,Participate via local communication,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+162,DP_contest_598,Participate via internet,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+163,DP_contest_599,"Would you like to switch back to
+local communication?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+164,DP_contest_600,Switch back to local communication,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+165,DP_contest_601,You’ve switched back to local communication.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+166,DP_contest_602,Searching...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+167,DP_contest_603,"Would you like to play again with the
+same rules?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+168,DP_contest_604,"{pageend:Hm?}
+It appears that you can’t participate in Link
+Contest Shows.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+169,DP_contest_605,Would you like to connect to the internet?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+170,DP_contest_606,Connect to the internet,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+171,DP_contest_607,You are now connected to the internet.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+172,DP_contest_608,"Would you like to be the leader or participate as
+a guest?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+173,DP_contest_609,Link Contest Show,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+174,DP_contest_610,Check effects,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+211,DP_contest_656,"You can only communicate with people who are
+in the same group.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+176,DP_contest_612,Brilliant Contest,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+91,DP_contest_685,"What a successful Super Contest Show!
+The audience had a blast!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+201,DP_contest_686,"{pageend:Hm?}
+It appears you don’t have any Pokémon with you
+{pageend:that are able to enter that contest show.}
+Please come back with a Pokémon wearing the
+Contest Star Ribbon.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+177,DP_contest_615,Which would you like to participate in?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+178,DP_contest_616,"Allow me to explain the rules of the Super
+Contest Show!",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+179,DP_contest_617,"The Super Contest Show begins with the
+Visual Evaluation.",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+180,DP_contest_618,"It’s an evaluation of your Pokémon’s conditions,",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+181,DP_contest_619,and the spectacle of its customized Ball Capsule!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+182,DP_contest_620,"Next, the Dance Evaluation will begin.",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+183,DP_contest_621,"Here, your Pokémon’s rhythm will be evaluated!",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+184,DP_contest_622,Notes will flow across the screen from the right.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+185,DP_contest_623,"Press the A Button just as they overlap with the
+scoring area!",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+186,DP_contest_624,"Notes stretched out into a line are called
+long notes.",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+187,DP_contest_625,"Hold the A Button down for as long as the line
+stretches on.",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+188,DP_contest_626,"If your timing is good as you hit the notes, your
+Heart Gauge will fill up.",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+189,DP_contest_627,"Each time the gauge fills up completely, you’ll
+receive one Hype Point (<color=#F01E1EFF>♥</color>).",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+190,DP_contest_628,"Just once during the Dance Evaluation,",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+191,DP_contest_629,"you can press the X Button to use a
+Contest Move.",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+192,DP_contest_630,"Contest Moves can give you Hype Points (<color=#F01E1EFF>♥</color>),",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+193,DP_contest_631,"and if you use yours consecutively with
+other performers,",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+194,DP_contest_632,"you can pull off a Move Chain and receive even
+more Hype Points!",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+195,DP_contest_633,"If the total of all four contestants’ Hype Points
+(<color=#F01E1EFF>♥</color>) reaches a certain quota,",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+196,DP_contest_634,the Super Contest Show will be a success!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+197,DP_contest_635,"Successful shows will earn you hall points,
+and as you collect more of those,",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+198,DP_contest_636,"the Hall Rank will go up, and the stage will
+grow fancier!",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+199,DP_contest_637,"That’s all for the explanation. Would you like
+to try some practice?",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+200,DP_contest_638,"{pageend:Hm?}
+It appears that you can’t enter a contest show
+{pageend:with that rank.}
+Please come back after you’ve successfully
+completed a contest show at one rank below.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+202,DP_contest_639,Shining Contest,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+203,DP_contest_640,"{tag:0} {tag:1}
+{tag:2}’s {tag:3}",72,-1,42,1050,0,"-1
+0
+0
+-1
+0",0,1,31,0,0,0,,0,1,1,32,0,0,0,,0,2,1,0,0,0,0,,0,3,1,2,0,0,0,,0
+59,DP_contest_643,Brilliant Contest,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+60,DP_contest_644,Shining Contest,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+212,DP_contest_657,"Oh? It seems you haven’t joined a group yet.
+Please join a group first.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+213,DP_contest_658,"If you set a Link Code, you can communicate
+only with people who set the same Link Code.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+204,DP_contest_647,Please enter an 8-digit passcode.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+80,DP_contest_456,"Thanks for participating! Your Pokémon danced
+{pageend:quite well! It’s ready for a real Contest Show!}
+Or, would you like to practice dancing again?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+214,DP_contest_659,Are you confident in your contest show mastery?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+215,DP_contest_660,Of course!,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+216,DP_contest_661,Maybe?,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+217,DP_contest_662,Not really,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+218,DP_contest_663,I’m sorry. Your connection seems to be unstable.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+233,DP_contest_680, OK with these members!,91,-1,32,448,0,"-1
+0
+0
+-1
+0"
+234,DP_contest_681, Cancel,81,-1,32,224,0,"-1
+0
+0
+-1
+0"
+219,DP_contest_666,... ... ...,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+220,DP_contest_667,Searching for members...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+221,DP_contest_668,Members couldn’t be found.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+222,DP_contest_669,Would you like to search for members again?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+223,DP_contest_670,Members have been found!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+224,DP_contest_671,"Would you like to decide which contest show to
+put on with these members?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+225,DP_contest_672,Yes,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+226,DP_contest_673,No,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+227,DP_contest_674,Preparing for the contest show...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+228,DP_contest_675,The contest show details have been decided!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+229,DP_contest_676,Members have left. The group will be disbanded.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+230,DP_contest_677,Be sure to select a style before you start!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+231,DP_contest_678,"You don’t have four members. We’ll find some
+other performers to help you out.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+232,DP_contest_679,"And now, let the Link Contest Show begin!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+235,DP_contest_682,The show will start with the current members.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+236,DP_contest_683,Would you like to quit the Link Contest Show?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+237,DP_contest_684,Good luck!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+53,DP_contest_691,Confirm,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+150,DP_contest_692,"Please accept this {tag:0}
+as your reward!",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,77,0,0,0,,0
+151,DP_contest_693,"You’ve become Star of the Show in every
+{pageend:contest show!}
+To commemorate your achievement, I’ll present
+you with this {tag:0}{pageend:!}
+Congratulations!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,38,0,0,0,,0
+309,00_msg_r212ar0101_msg_43,"So far, you’ve taken {tag:0} turns.
+Do you think you’re in good time?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,2,4,1,0,0,,0
+310,00_msg_r212ar0101_msg_44,"You’ve had {tag:0} turns.
+Still think you can do it?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,2,4,1,0,0,,0
+311,00_msg_r212ar0101_msg_33,"You beat all three of us!
+It took you {tag:0} turns in all.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,2,4,1,0,0,,0
+312,00_msg_r212ar0101_msg_35,"{pageend:Oh, hey. Nice job, kiddo.}
+You met the requirement alright.
+{pageend:But who said we have to keep promises!}
+Fwahahaha...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"

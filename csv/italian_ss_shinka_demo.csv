@@ -1,0 +1,59 @@
+0,SS_shinka_demo_01_01,Oh!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+2,SS_shinka_demo_02_01,"L’evoluzione di {tag:0}
+è stata bloccata!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+3,SS_shinka_demo_03_01,"Congratulazioni! {tag:0} si è
+evoluto in {tag:1}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,1,0,0,0,,0
+4,SS_shinka_demo_04_01,{tag:0} impara {tag:1}{callback:4.0:!}{callback:1.0:},0,-1,54,1080,1,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,7,0,0,0,,0
+5,SS_shinka_demo_05_01,"{wait:0.19999998807907104:Uno,}{wait:0.19999998807907104: due}{wait:0.19999998807907104: e}{wait:0.19999998807907104:...}{callback:3.0: ta-daaaa!}{callback:0.0:}{pageend:}
+{tag:0} dimentica {tag:1}{pageend:!}
+{pageend:Al suo posto...}
+{tag:2} impara {tag:3}{callback:4.0:!}{callback:1.0:}",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,7,0,0,0,,0,0,1,2,0,0,0,,0,2,1,7,0,0,0,,0
+6,SS_shinka_demo_06_01,"{tag:0} non ha imparato
+{tag:1}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,7,0,0,0,,0
+7,SS_shinka_demo_07_01,"{tag:0} vorrebbe imparare
+{tag:1}{pageend:.}
+Vuoi che dimentichi una mossa e
+al suo posto impari {tag:2}?",0,-1,54,1080,1,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,7,0,0,0,,0,1,1,7,0,0,0,,0
+8,SS_shinka_demo_10_01,Fai dimenticare,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+9,SS_shinka_demo_10_02,Non far dimenticare,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+1,SS_shinka_demo_01_02,{tag:0} si sta evolvendo!,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0

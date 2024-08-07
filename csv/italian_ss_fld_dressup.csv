@@ -1,0 +1,207 @@
+0,SS_fld_dressup_000,Soldi,80,-1,32,192,0,"0
+0
+0
+-1
+0"
+1,SS_fld_dressup_003,{tag:0},48,-1,42,672,0,"0
+0
+0
+-1
+0",0,1,59,0,0,0,,0
+2,SS_fld_dressup_004,{tag:0},93,-1,32,512,0,"0
+0
+0
+-1
+0",0,1,59,0,0,0,,0
+3,SS_fld_dressup_005,{tag:0},91,-1,32,448,0,"0
+0
+0
+-1
+0",0,1,60,0,0,0,,0
+5,SS_fld_dressup_006,Articolo acquistato,38,-1,42,336,0,"0
+0
+0
+-1
+0"
+6,SS_fld_dressup_007,Nessun articolo disponibile,8,-1,54,648,0,"0
+0
+0
+-1
+0"
+7,SS_fld_dressup_008,Sì,34,-1,42,168,0,"0
+0
+0
+-1
+0"
+8,SS_fld_dressup_009,No,34,-1,42,168,0,"0
+0
+0
+-1
+0"
+9,SS_fld_dressup_010,Fanno {tag:0} . Va bene?,30,-1,42,840,0,"0
+0
+0
+-1
+0",0,2,6,1,0,1,,0
+10,SS_fld_dressup_011,"Fanno {tag:0}{pageend: .}
+Non puoi indossare questo articolo con la tua
+acconciatura. Vuoi comprarlo lo stesso?",30,-1,42,840,0,"0
+0
+0
+-1
+0",0,2,6,1,0,1,,0
+11,SS_fld_dressup_012,Non hai abbastanza soldi.,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+12,SS_fld_dressup_013,Hai già acquistato questo look.,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+13,SS_fld_dressup_016,"Grazie! Vuoi indossare subito i capi che hai
+acquistato?",30,-1,42,840,0,"0
+0
+0
+-1
+0"
+14,SS_fld_dressup_017,Grazie!,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+15,SS_fld_dressup_018,Va bene questo look?,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+16,SS_fld_dressup_020,Hai finito?,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+17,SS_fld_dressup_021,Vuoi uscire con il look attuale?,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+4,SS_fld_dressup_044,{tag:0} ,154,-1,42,462,0,"0
+0
+0
+-1
+0",0,2,6,1,0,1,,0
+20,SS_fld_dressup_023,Ok,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+21,SS_fld_dressup_024,Esci,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+22,SS_fld_dressup_025,Guardati,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+23,SS_fld_dressup_026,Rimuovi,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+24,SS_fld_dressup_027,Indossa,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+25,SS_fld_dressup_028,Zoom avanti,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+26,SS_fld_dressup_029,Zoom indietro,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+27,SS_fld_dressup_030,Indietro,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+28,SS_fld_dressup_031,Rimuovi giacca o felpa,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+29,SS_fld_dressup_033,Indossa giacca o felpa,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+30,SS_fld_dressup_035,Esci senza cambiarti,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+31,SS_fld_dressup_036,Voglio fare acquisti,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+32,SS_fld_dressup_037,Niente,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+33,SS_fld_dressup_038,"Prego, vai nel camerino.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+34,SS_fld_dressup_039,"Voglio darti un omaggio per ringraziarti della
+fiducia che hai riposto nel nostro negozio!
+Eccoti {tag:0} {tag:1}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,77,0,0,0,,0
+35,SS_fld_dressup_040,Grazie mille! Torna a trovarci!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+36,SS_fld_dressup_041,Cambia,91,-1,32,448,0,"0
+0
+0
+-1
+0"
+37,SS_fld_dressup_042,Scegli un look,91,-1,32,448,0,"0
+0
+0
+-1
+0"
+38,SS_fld_dressup_043,Ruota,91,-1,32,448,0,"0
+0
+0
+-1
+0"
+18,SS_fld_dressup_045,"{pageend:Oh, aspetta un momento!}
+Con questo ultimo acquisto hai comprato tutti
+{pageend:i look disponibili!}
+Come segno della mia gratitudine, ti prego
+di accettare questi {tag:0}!",30,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,77,0,0,0,,0
+19,SS_fld_dressup_046,"{tag:0} cliente speciale come te sarà sempre
+{tag:1} all’Angolo del look Il Metronomo!",30,-1,42,840,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"Un
+Una",0,-1,21,0,5,0,255,"il benvenuto
+la benvenuta",0

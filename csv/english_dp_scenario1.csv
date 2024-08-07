@@ -1,0 +1,8194 @@
+0,0-mes_startmenu_01,Continue,45,-1,42,546,0,"-1
+0
+0
+-1
+0"
+1,0-mes_startmenu_02,New Game,45,-1,42,546,0,"-1
+0
+0
+-1
+0"
+377,24-msg_t01r0202_tv_01,The TV is turned off.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+2,7-msg_opening_01,"{pageend:Hello there! It’s so very nice to meet you!}
+Welcome to the world of Pokémon!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+3,7-msg_opening_02_1,"{pageend:My name is Rowan.}
+However, everyone just calls me the
+Pokémon Professor.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+5,7-msg_opening_09_1,"{pageend:We humans live alongside Pokémon as friends.}
+At times we play together, and at other times we
+{pageend:work together.}
+Some people use their Pokémon to battle and
+develop closer bonds with them.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+6,7-msg_opening_09_2,"{pageend:What do I do?}
+I conduct research so that we may learn more
+about Pokémon.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+7,7-msg_opening_36,"Now, why don’t you tell me a little bit
+about yourself?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+8,7-msg_opening_13,"Tell me, what is your name?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+9,7-msg_opening_15,Your name is {tag:0}?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+10,7-msg_opening_16_1,"OK... So, you’re {tag:0}{pageend:?}
+A fine name that is!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+12,7-msg_opening_17,What might his name be?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+13,7-msg_opening_18,"{tag:0}, is it?
+That’s your friend’s name?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+14,7-msg_opening_19_1,"All right, {tag:0}{pageend:, the time has come.}
+Your very own tale of grand adventure is about
+to unfold.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+15,7-msg_opening_19_2,"On your journey, you will meet countless
+{pageend:Pokémon and people.}
+I’m sure that along the way you will discover
+many things, perhaps even something
+about yourself.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+16,7-msg_opening_19_3,"Now, go on, and leap into the world of Pokémon!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+17,7-msg_opening_24,Yes,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+18,7-msg_opening_25,No,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+19,7-msg_opening_26,I’ll tell you...,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+20,7-msg_opening_27,Barry,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+21,7-msg_opening_28,Damion,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+22,7-msg_opening_29,Tyson,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+23,7-msg_opening_30,Markus,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+24,7-msg_opening_31,Clint,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+25,7-msg_opening_32,Ralph,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+26,7-msg_opening_33,Lewis,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+27,7-msg_opening_34,Tommy,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+28,8-EV_POKESELECT_00,"Look! These are Poké Balls! 
+{pageend:There is a Pokémon in each one! }
+Now choose! 
+Which Pokémon will it be? ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+29,8-EV_POKESELECT_02,"Will you choose the <color=#00965AFF>Tiny Leaf Pokémon</color>, <color=#00965AFF>Turtwig</color>?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+30,8-EV_POKESELECT_03,"Will you choose the <color=#F01E1EFF>Chimp Pokémon</color>, <color=#F01E1EFF>Chimchar</color>?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+31,8-EV_POKESELECT_04,"Will you choose the <color=#0064FFFF>Penguin Pokémon</color>, <color=#0064FFFF>Piplup</color>?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+32,8-EV_POKESELECT_08,"Which one do you want, then?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+33,9-msg_r201_rival_a_01_1,Too slow! ,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+34,9-msg_r201_rival_a_01_2,"I’m sick of waiting! I’m going to go see 
+{pageend:Prof. Rowan, so I can thank him properly.}
+So, I had this great idea. ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+35,9-msg_r201_rival_a_01_3,"Listen up, OK? 
+{pageend:You know that lake where we always play at?}
+You know how they say a legendary 
+{pageend:Pokémon lives there?}
+You guessed it!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+36,9-msg_r201_rival_a_01_4,"We're going to catch that Pokémon.
+{pageend:That’ll make Prof. Rowan happy.}
+I’m sure of that! ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+37,9-msg_r201_rival_a_02,"{pageend:Hey! Where are you wandering off to?!}
+That mystery Pokémon! It’s calling out
+{pageend:to me!}
+Forget about going back home!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+38,9-msg_r201stop_01_1,Remember what your mother said?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+39,9-msg_r201stop_01_2,"“{tag:0}! Don’t go into the tall grass.
+{pageend:Wild Pokémon might attack you.}
+“It would be OK if you had your own Pokémon,
+but you don’t, so...”",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+40,9-msg_r201_rival_b_04,"Hey, it’s those people! Is that old guy staring
+at us?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+41,9-msg_r201_doctor_b_01_1,Hmm...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+42,9-msg_r201_doctor_b_01_2,"I heard from {tag:0} that you used our
+{pageend:Pokémon? Let me see them, please.}
+{pageend:Hmm...}
+{tag:1} and {tag:2}...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,1,0,0,0,,0,2,1,1,0,0,0,,0
+43,9-msg_r201_doctor_b_01_3,"{pageend:...}
+Hmm, I see... That’s how it is...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+44,9-msg_r201_doctor_b_02,{tag:0}! I’m going back to my lab!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+45,9-msg_r201_heroine_b_01,"Um... O-OK! Professor, please wait for me!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+46,9-msg_r201_heroine_b_02,"{pageend:I think you should visit our lab later.}
+OK, see you!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+47,9-msg_r201_hero_b_01,"Uh... Yeah, of course! Professor, wait for me!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+48,9-msg_r201_hero_b_02,"{pageend:You should visit us at our lab later, I think.}
+We’ll be seeing you!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+49,9-msg_r201_rival_b_05_1,"{pageend:What was all that craziness about?}
+I mean, if he was angry, he could’ve just yelled
+{pageend:at us, or whatever...}
+And didn’t he want his Pokémon back?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+50,9-msg_r201_rival_b_05_2,"{tag:0}... We should go home, too...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+51,9-msg_r201_boy1_01_1,"Wild Pokémon lurk in tall grass. They can come
+bursting out at any time.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+52,9-msg_r201_boy1_01_2,"So, if you’re wanting to battle wild Pokémon,
+{pageend:just walk in tall grass.}
+If you want to avoid wild Pokémon, then stay out
+of the tall grass.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+53,9-msg_r201_shopwoman_01_1,Hi! I work at a Poké Mart.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+54,9-msg_r201_shopwoman_01_2,"Did you know that a Pokémon’s health is
+{pageend:measured by Hit Points—HP for short?}
+If a Pokémon runs out of HP, it faints and can’t
+{pageend:battle anymore.}
+If a Pokémon’s HP gets low, you should heal it
+with a Potion.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+55,9-msg_r201_shopwoman_01_3,"Here, let me give you some Potions as a sample.
+{pageend:These ones are free!}
+They will automatically go in your Bag’s
+Medicine pocket.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+56,9-msg_r201_shopwoman_02,"You can find a Poké Mart in cities and most
+major towns.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+57,9-msg_r201_boy1a_01,"That ledge is one way. Jump down for a shortcut
+to Twinleaf Town!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+58,9-msg_r201_girl1_01,"If your Pokémon’s health—its HP—is getting low,
+you should go home and get some rest.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+59,9-msg_r201_girl1_02,"If your Pokémon’s health—its HP—is getting low,
+you should go to a Pokémon Center!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+60,9-msg_r201_sign1_01,"Route 201
+Twinleaf Town",187,-1,54,864,0,"-1
+0
+0
+-1
+0"
+61,9-msg_r201_sign2_01,"Route 201
+Sandgem Town",187,-1,54,864,0,"-1
+0
+0
+-1
+0"
+62,9-msg_r201_sign3_01_1,"{pageend:Trainer Tips!}
+Don’t be shy! Talk to anyone and everyone
+you happen to see.",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+63,9-msg_r201_sign3_01_2,"By talking to people, you will get invaluable
+information and advice.",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+64,10-msg_r202_heroine_01_1,"{tag:0}{pageend:?!}
+Did you tell your family that you’re helping
+{pageend:the professor?}
+...You didn’t, did you?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+65,10-msg_r202_heroine_01_2,"I know that you’re really eager to see all kinds of
+Pokémon, but you shouldn’t make your mom
+worry that you’ve disappeared.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+66,10-msg_r202_heroine_04,"You should go tell your family that you’re helping
+the professor. The faster the better, too.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+67,10-msg_r202_heroine_05_1,"{pageend:Oh, that’s right!}
+{tag:0}, I haven’t shown you how to
+catch a Pokémon.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+68,10-msg_r202_heroine_05_2,"I’ll demonstrate how to catch one, so just watch
+me, OK?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+69,10-msg_r202_heroine_02_1,"*giggle*
+{pageend:See? Isn’t it neat?}
+Actually, it’s better to lower your target’s HP
+more than I did.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+70,10-msg_r202_heroine_02_2,"It’s important to get the Pokémon’s HP down as
+{pageend:low as possible.}
+A healthy Pokémon is very difficult to catch.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+71,10-msg_r202_heroine_02_3,"Oh, Pokémon also get easier to catch if you
+make them sleep or something by using a
+Pokémon’s move.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+72,10-msg_r202_heroine_02_4,"OK, {tag:0}, to get you started, I’ll
+give you some Poké Balls!",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+73,10-msg_r202_heroine_03_1,"If you have lots of Pokémon with you, it’ll be
+{pageend:safer on long trips.}
+Plus, it’ll be a lot more fun having your
+Pokémon friends along.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+74,10-msg_r202_heroine_03_2,"OK, I need to get going. Bye, now!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+75,10-msg_r202_hero_01_1,"{tag:0}{pageend:?!}
+Did you tell your family that you’re helping
+{pageend:the professor?}
+...I bet you didn’t, did you?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+76,10-msg_r202_hero_01_2,"I know that you’re eager to see all kinds of
+Pokémon, but you shouldn’t make your mom
+worry that you’ve upped and left.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+77,10-msg_r202_hero_04,"Why don’t you go tell your family that the
+{pageend:professor asked for your help?}
+You should do it right away.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+78,10-msg_r202_hero_05_1,"{tag:0}, do you know how to
+catch a Pokémon?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+79,10-msg_r202_hero_05_2,"I’ll demonstrate how to catch one, so just
+watch, OK?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+80,10-msg_r202_hero_02_1,"{pageend:And that’s how it’s done.}
+Actually, I should have lowered the target’s HP
+some more.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+81,10-msg_r202_hero_02_2,"Yup, the important thing is to lower the
+{pageend:Pokémon’s HP as much as possible.}
+See, a healthy Pokémon isn’t easy to catch.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+82,10-msg_r202_hero_02_3,"Oh, yeah. They also get easier to catch if you
+make one of your Pokémon put them to sleep
+or such.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+83,10-msg_r202_hero_02_4,"Here, {tag:0}, I’ll give you some
+Poké Balls to get you started.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+84,10-msg_r202_hero_03_1,"If you have lots of Pokémon with you, you’ll be
+able to travel farther.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+85,10-msg_r202_hero_03_2,"That way, you’ll have a better shot at meeting
+{pageend:more Pokémon.}
+See you around!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+86,10-msg_r202_boy2_01,"Some Pokémon only appear in the morning.
+{pageend:Some only come out at night.}
+I’m going to keep waiting right here till I’ve
+seen every last one of ’em!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+87,10-msg_r202_sign1_01,"Route 202
+Sandgem Town",187,-1,54,864,0,"-1
+0
+0
+-1
+0"
+88,10-msg_r202_sign2_01,"Route 202
+Jubilife City",187,-1,54,864,0,"-1
+0
+0
+-1
+0"
+89,10-msg_r202_sign3_01_1,"{pageend:Trainer Tips!}
+The Pokémon that are involved in a battle earn
+more Exp. Points than the Pokémon on your team
+that are not involved in the battle!",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+90,10-msg_r202_sign3_01_2,"The more your Pokémon battle,
+the stronger they will become.",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+91,11-msg_heroine_01,"Hey, {tag:0}? The professor told
+{pageend:me something.}
+He thinks {tag:1} may have
+reappeared at the Spear Pillar...",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,1,0,0,0,,0
+92,11-msg_heroine_02,"Hi, {tag:0}{pageend:!}
+You’re friends with the elder of Celestic Town,
+{pageend:aren’t you?}
+She told me that she had something she wanted
+to show you.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+93,11-msg_heroine_03_1,"Hi, {tag:0}{pageend:! May I see your Pokédex?}
+...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+94,11-msg_heroine_03_2,"Oh my gosh! You’ve seen every kind of Pokémon
+{pageend:in Sinnoh!}
+Have you shown your Pokédex to
+Professor Rowan yet?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+95,11-msg_heroine_04,"Hey, {tag:0}, have you ever chatted
+with my kid sister?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+96,11-msg_heroine_05_1,"Oh, {tag:0}, are you acquainted
+with Bebe?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+97,11-msg_heroine_05_2,"{pageend:She lives in Hearthome City.}
+Every Trainer should make it a point to pay Bebe
+a visit.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+98,11-msg_heroine_06_1,"Hey! {tag:0}, you’ve got a Poké Radar?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+99,11-msg_heroine_06_2,"Watch for tall grass to rustle wildly when you use
+{pageend:your Poké Radar.}
+That could be a sign that a rare Pokémon is
+hiding in there.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+100,11-msg_heroine_07_1,"Hi, {tag:0}! How’s your Poké Radar?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+101,11-msg_heroine_07_2,"When you use it, do you sometimes see more
+{pageend:than one patch of tall grass rustling?}
+The patch farther away gives you a better chance
+{pageend:of seeing the same kind of Pokémon in a row.}
+That’s the feeling I get, anyway.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+102,11-msg_heroine_08,"Sometimes a patch of grass sparkles when a
+{pageend:Poké Radar is used.}
+People say a Shiny Pokémon is hiding there!
+Could that be true?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+105,11-msg_heroine_10_1,"{tag:0}{pageend:!}
+{tag:1}, {tag:2},
+{tag:3}!",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,0,1,0,0,0,0,,0,0,1,0,0,0,0,,0,0,1,0,0,0,0,,0
+106,11-msg_heroine_10_2,"Congratulations for completing
+the National Pokédex!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+107,11-msg_heroine_11,"Is today maybe...
+your birthday, {tag:0}?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+108,11-msg_heroine_12,"*giggle*
+Congratulations, {tag:0}!
+And many more happy returns!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+109,11-msg_heroine_13,"{pageend:Oh, it isn’t?}
+I wonder what made me think that today was
+your birthday.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+110,11-msg_heroine_14,"{tag:0}{pageend:! I heard from the professor!}
+Congratulations, Champ!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+111,11-msg_hero_01,"Hey, {tag:0}! The prof told me
+{pageend:something cool.}
+He thinks {tag:1} has reappeared at
+the Spear Pillar!",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,1,0,0,0,,0
+112,11-msg_hero_02,"Hi, {tag:0}{pageend:!}
+{pageend:You know the elder of Celestic Town, right?}
+She told me she wanted to show you something.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+113,11-msg_hero_03_1,"Hey, {tag:0}!
+{pageend:Let me take a look at your Pokédex.}
+...",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+114,11-msg_hero_03_2,"Awesome! You’ve seen every kind of Pokémon
+{pageend:in Sinnoh!}
+Have you shown this Pokédex to
+Professor Rowan yet?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+115,11-msg_hero_04,"Hey, {tag:0}, have you ever seen my
+kid sister?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+116,11-msg_hero_05_1,"Hey, {tag:0}, have you met Bebe?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+117,11-msg_hero_05_2,"{pageend:She lives out in Hearthome City.}
+If you’re a Trainer, you owe it to yourself to
+visit her.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+118,11-msg_hero_06_1,"Hey, {tag:0}! You’ve got yourself a
+Poké Radar, too?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+119,11-msg_hero_06_2,"Watch for tall grass to rustle wildly when you use
+{pageend:that Poké Radar.}
+That’s a sign that rare Pokémon may be
+hiding there.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+120,11-msg_hero_07_1,"Hi, {tag:0}! How’s your Poké Radar
+working out?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+121,11-msg_hero_07_2,"When you use it, do you sometimes see more
+{pageend:than one patch of tall grass rustling?}
+The patch farther away gives you a better chance
+{pageend:of seeing the same kind of Pokémon in a row.}
+I think that’s how it goes.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+122,11-msg_hero_08,"Sometimes, a patch of grass sparkles when a
+{pageend:Poké Radar is used.}
+{pageend:They say a Shiny Pokémon is hiding there!}
+I wonder if that’s true.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+125,11-msg_hero_10_1,"{tag:0}{pageend:!}
+Wow! I don’t know what to say! I mean, it’s so
+awesome and all.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+126,11-msg_hero_10_2,"Congratulations on completing the
+National Pokédex!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+127,11-msg_hero_11,"Hey, {tag:0}! Is it maybe your
+birthday today?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+128,11-msg_hero_12,"I thought so! Congratulations, {tag:0}!
+You know, I’m glad we’re friends!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+129,11-msg_hero_13,"{pageend:Huh? It isn’t?}
+Now, what made me think it was your birthday?
+Freaky weird.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+130,11-msg_hero_14,"{tag:0}, the professor told me the
+news! Congratulations, Champ!",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+139,12-msg_t02_heroine_01,"Oh! There you are! Please, come with me!
+The professor is waiting!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+140,12-msg_t02_heroine_02,"This is it—our Pokémon Research Lab!
+Let’s go...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+141,12-msg_t02_hero_01,"Hi! I’ve been waiting for you! Please, come with
+me. The prof’s waiting to see you.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+142,12-msg_t02_hero_02,"See? This is our Pokémon Research Lab.
+We’ll just go ahead and...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+143,12-msg_t02_rival_01,<size=250%>*thud*</size>,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+144,12-msg_t02_rival_02,"What the... Oh, it’s you, {tag:0}{pageend:!}
+That old guy... He’s not scary so much as he is
+{pageend:totally out there!}
+Aww, it doesn’t matter, {tag:1}.
+I’m out of here. See you later!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+145,12-msg_t02_heroine_03_1,"Wow, what was that?
+Your friend sure seems to be really impatient.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+146,12-msg_t02_heroine_03_2,"Well, anyway... Let’s go inside.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+147,12-msg_t02_hero_03_1,"What was that?!
+Your friend always seems to be in such a rush.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+148,12-msg_t02_hero_03_2,Anyway... Let’s go in.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+149,12-msg_t02_heroine_04_1,"OK, {tag:0}, I’ll act as your mentor.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+150,12-msg_t02_heroine_04_2,"I’ve got a bit more experience than you as a
+{pageend:Trainer and as the professor’s assistant.}
+OK, follow me!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+151,12-msg_t02_heroine_05_1,"This building with the red roof is the
+{pageend:Pokémon Center.}
+It’s the place that heals Pokémon that have been
+hurt in battle.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+152,12-msg_t02_heroine_05_2,You can find a Pokémon Center in most towns.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+153,12-msg_t02_heroine_06_1,"The building with the blue roof over here is the
+{pageend:Poké Mart.}
+It’s a shop where you can buy and sell items
+and medicine.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+154,12-msg_t02_heroine_06_2,"{tag:0}, since you’re a novice Trainer,
+you won’t be able to buy many kinds of merchandise.
+Don’t let it bother you!",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+155,12-msg_t02_heroine_07_1,"Oh, that’s right! {tag:0}{pageend:...}
+Don’t you need to let your family know that
+you’re going to be helping Professor Rowan
+with the Pokédex?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+156,12-msg_t02_heroine_07_2,"You may need to travel pretty far, so I think you
+should let someone know.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+157,12-msg_t02_heroine_07_3,"Oh, but before you go, heal up your Pokémon at
+{pageend:the Pokémon Center.}
+It will be a lot less scary that way. OK, bye now!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+158,12-msg_t02_hero_04_1,"Hey, {tag:0}!
+I want to show you a few things.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+159,12-msg_t02_hero_04_2,"So, follow me!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+160,12-msg_t02_hero_05_1,"This building with the red roof is the
+{pageend:Pokémon Center.}
+You can get your Pokémon healed if it’s been
+hurt in battle.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+161,12-msg_t02_hero_05_2,You’ll find a Pokémon Center in most towns.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+162,12-msg_t02_hero_06_1,"Over here, the building with the blue roof is the
+{pageend:Poké Mart.}
+It’s a shop where you can buy and sell all sorts
+of items.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+163,12-msg_t02_hero_06_2,"{tag:0}, since you’re a rookie Trainer,
+{pageend:you won’t be able to buy very much stuff.}
+Don’t worry about it, OK?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+164,12-msg_t02_hero_07_1,"Oh, yeah, right! {tag:0}{pageend:...}
+You should let your family know you’re helping
+Professor Rowan put together his Pokédex.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+165,12-msg_t02_hero_07_2,"You may have to travel pretty far, so you should
+let someone know.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+166,12-msg_t02_hero_07_3,"Oh, but first, go heal up your Pokémon at the
+{pageend:Pokémon Center.}
+You’ll be safe, then. OK, be seeing you!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+167,12-msg_t02_boy1_01,"Oh, wow! Pokémon are so cool!
+{pageend:I wish I had some!}
+You can help yours get stronger by having
+them battle!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+168,12-msg_t02_man1_01,"{pageend:That thing you have—it’s a Pokédex, isn’t it?!}
+Now you’re off to see all kinds of Pokémon!
+Lucky you!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+169,12-msg_t02_woman1_01,"So I don’t forget what’s happened till now,
+{pageend:I’d better save this...}
+There! Now I can take a break.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+172,12-msg_t02_sign1_01,"Sandgem Town
+Town of Sand",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+173,12-msg_t02_sign2_01,Pokémon Research Lab,183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+174,12-msg_t02_sign3_01,{tag:0}’s House,183,10,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+175,12-msg_t02_fssign_01,"Poké Mart
+Fulfill All Your Item Needs!",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+176,12-msg_t02_pcsign_01,"Pokémon Center
+Heal Your Pokémon!",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+177,13-msg_t02fs0101_man1a_01,"If a Pokémon loses all its HP, it can’t
+{pageend:battle anymore.}
+I’m buying lots of Potions to avoid having
+that happen!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+178,13-msg_t02fs0101_boy1a_01,"If you come across a Pokémon you’ve just gotta
+{pageend:have, throw a Poké Ball!}
+Never leave home without one!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+179,14-msg_t02pc0101_man1a_01,"Talk to that nice lady at the counter and hand
+{pageend:her your Pokémon.}
+She’ll restore your Pokémon to perfect health in
+no time at all!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+180,14-msg_t02pc0101_oldman1a_01,"Do you see that PC over there?
+{pageend:That fancy blue one?}
+If you’ve got Pokémon with you, it’s free to use.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+181,14-msg_t02pc0101_girl1a_01,"The Local Club is located at the top floor of
+{pageend:any Pokémon Center.}
+There, you can have all sorts of fun with
+your friends.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+182,15-msg_t02pc0102_girl1_01,I feel nervous about going into the Local Room.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+183,16-msg_t02r0101_doctor_01_1,...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+184,16-msg_t02r0101_doctor_01_2,"Finally, you’ve come. {tag:0}, was it?
+Let me see that Pokémon again.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+185,16-msg_t02r0101_doctor_02_1,...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+186,16-msg_t02r0101_doctor_02_2,"Hmm... I see.
+This Pokémon seems to be rather happy.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+187,16-msg_t02r0101_doctor_03,"Well well!
+You’ve made your Pokémon evolve already?!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+188,16-msg_t02r0101_doctor_04,"All righty then!
+I’ll give that {tag:0} to you as a gift.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+189,16-msg_t02r0101_doctor_05,"Now that it’s yours, would you like to give it
+a nickname?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+190,16-msg_t02r0101_doctor_14,"Hmm, OK, I see.
+And you’re happy with that nickname?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+191,16-msg_t02r0101_doctor_06_1,"Your friend {tag:0} told me the two of you had 
+{pageend:a battle.}
+I heard you battled very well, despite it being
+your first time.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+192,16-msg_t02r0101_doctor_06_2,"And, from what I can see, there is a growing
+bond between you and that Pokémon, though it
+is still young.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+193,16-msg_t02r0101_doctor_06_3,"That’s why I would like to entrust you
+with {tag:0}.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+194,16-msg_t02r0101_heroine_01,"{pageend:I’m so glad that you’re kind toward Pokémon!}
+If you weren’t, I’d have to... Oh, I just can’t
+say it.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+195,16-msg_t02r0101_hero_01,"{pageend:Am I ever glad you’re kind toward Pokémon!}
+If you weren’t, well...I don’t even want to think
+about it.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+196,16-msg_t02r0101_doctor_07,"Er-hem! Let’s move on to the main topic.
+There is something I want you to do for me.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+197,16-msg_t02r0101_doctor_07_01_1,My name is Rowan. I study Pokémon.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+198,16-msg_t02r0101_doctor_07_01_2,"First of all, I want to know exactly what kinds of
+{pageend:Pokémon live in the Sinnoh region.}
+To do so, it is necessary to collect data using
+the Pokédex.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+199,16-msg_t02r0101_doctor_07_01_3,"This is what I wish to ask of you.
+{pageend:I want to entrust you with this Pokédex.}
+Will you use it to record data on all the Pokémon
+in Sinnoh for me?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+200,16-msg_t02r0101_doctor_08_1,"{pageend:...}
+{pageend:...}
+{pageend:...}
+...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+201,16-msg_t02r0101_doctor_08_2,"I can stand here without speaking for hours.
+I’m a very patient man.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+202,16-msg_t02r0101_doctor_08_3,"Let me ask you again, {tag:0}.
+{pageend:I want to entrust you with this Pokédex.}
+Will you use it to record data on all the Pokémon
+in Sinnoh for me?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+203,16-msg_t02r0101_doctor_09,Hm! Good answer!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+204,16-msg_t02r0101_doctor_10,You obtained the <color=#F01E1EFF>Pokédex</color>!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+205,16-msg_t02r0101_doctor_11_1,"{pageend:That Pokédex is a very high-tech device.}
+It will automatically record data on every kind of
+Pokémon you encounter.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+206,16-msg_t02r0101_doctor_11_2,"{tag:0}, I ask that you go everywhere
+and meet every kind of Pokémon in this region!",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+207,16-msg_t02r0101_heroine_02,"I’ve got one, too!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+208,16-msg_t02r0101_hero_02,I’ve got the same kind of Pokédex as you.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+209,16-msg_t02r0101_doctor_12_1,"When you walked up Route 201 with your
+Pokémon, what did you feel?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+210,16-msg_t02r0101_doctor_12_2,"I’ve lived for 60 long years. Even now, I get a
+thrill when I’m with a Pokémon.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+211,16-msg_t02r0101_doctor_12_3,"Now, you should know that there are countless
+{pageend:Pokémon in this world.}
+That means there are just as many thrills waiting
+for you out there!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+212,16-msg_t02r0101_doctor_12_4,"{pageend:Now go!}
+{tag:0}, your grand adventure begins
+right now!",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+213,16-msg_t02r0101_doctor_13,"{pageend:Go on!}
+{tag:0}, your grand adventure
+awaits you!",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+214,16-msg_t02r0101_heroine_03_1,"The Pokémon that I used for the first time
+was {tag:0}{pageend:!}
+If you would have chosen {tag:1} at
+the lake, we’d have the same Pokémon now!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,1,0,0,0,,0,1,1,1,0,0,0,,0
+215,16-msg_t02r0101_heroine_03_2,"{pageend:Not that it matters, but...}
+{pageend:Anyways, I’m Dawn.}
+I also help the professor add pages to
+the Pokédex.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+216,16-msg_t02r0101_heroine_03_3,"{pageend:So, in a sense, I’m just like you.}
+I just got a little head start on you, that’s all.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+217,16-msg_t02r0101_heroine_03_4,"I’ll be happy to teach you things. Glad to meet
+you, {tag:0}!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+218,16-msg_t02r0101_hero_03_1,"The professor asked me to help, so I’m going to
+go out and fill the Pokédex pages, too.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+219,16-msg_t02r0101_hero_03_2,"That makes us comrades working toward the
+{pageend:same goal.}
+I’ll teach you stuff later, OK?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+220,16-msg_t02r0101_assistm1_01,"I’m {tag:0}{pageend:’s father.}
+I’ll be happy to assist you on your quest for
+{pageend:the professor.}
+Hahaha. Eh... I’m sure we can count on you!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+221,16-msg_t02r0101_assistw1_01,"Professor Rowan invented a new Pokédex
+while working alongside a professor from
+the Kanto region!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+222,16-msg_t02r0101_bookshelf1_01,"Adventure Rule No. 1
+The X Button opens the menu.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+223,16-msg_t02r0101_bookshelf2_01,"Adventure Rule No. 2
+Record your progress with Save.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+224,16-msg_t02r0101_bookshelf3_01,"It’s crammed full of books with all sorts of
+Pokémon information.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+225,16-msg_t02r0101_bookshelf4_01,"There’s a lot of reference material and research
+reports on Pokémon.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+226,16-msg_hyouka_doctor_01,"Ah, {tag:0}{pageend:!}
+You’ve come to show me your progress on
+the Pokédex?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+227,16-msg_hyouka_doctor_02,"{pageend:Hmm...}
+So, you’ve seen {tag:0} Pokémon.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+228,16-msg_hyouka_doctor_03,"What’s wrong? You’re not going to tell me
+you’ve seen too few to bother showing me?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+229,16-msg_hyouka_s09_1,"Bravo, {tag:0}{pageend:!}
+You’ve recorded all the Pokémon of Sinnoh in
+your Pokédex!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+230,16-msg_hyouka_s09_2,"This will help immeasurably with my studies on
+Pokémon Evolution...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+231,16-msg_t02r0101_doctor_a_01_1,"Hm! {tag:0}, I’ve been waiting to
+see you!",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+232,16-msg_t02r0101_doctor_a_01_2,"You’ve met every kind of Pokémon there is in the
+{pageend:Sinnoh region!}
+This will help immensely with my studies on
+Pokémon Evolution...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+233,16-msg_t02r0101_ookido_a_01_1,"Greetings, Professor Rowan! It’s been a very
+long time!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+234,16-msg_t02r0101_ookido_a_01_2,"I’ll tell you, Sinnoh certainly is a long trip
+{pageend:from Kanto.}
+Of course, if it means meeting new Pokémon,
+there’s no distance too great for the likes of us
+to travel.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+235,16-msg_t02r0101_doctor_a_02_1,"{pageend:Oh! If it isn’t my old colleague, Professor Oak!}
+I should have expected as much from the world’s
+authority on Pokémon!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+236,16-msg_t02r0101_doctor_a_02_2,"We always used to joke, “Where there are
+{pageend:Pokémon, you’ll find Oak!”}
+It’s good to see that hasn’t changed one bit!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+237,16-msg_t02r0101_doctor_a_03,"Professor Oak, let me introduce you to my
+{pageend:young assistant.}
+This youngster has filled every page of the
+Sinnoh Pokédex for me.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+238,16-msg_t02r0101_ookido_a_02_1,"Ah, well, very glad to meet you! As you’ve heard,
+{pageend:my name is Oak.}
+I’ve been hearing a great deal about you from
+Professor Rowan lately.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+239,16-msg_t02r0101_ookido_a_02_2,"He’s been exuberant in praise about a fantastic
+{pageend:young Trainer.}
+I see that you live up to—no—that you’ve
+{pageend:surpassed his praise.}
+You’ve also got an impeccable sense of timing.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+240,16-msg_t02r0101_ookido_a_02_3,"You see, I had an errand to run for Professor
+Rowan on my visit here. He’d asked me to bring
+the data for the National Pokédex.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+241,16-msg_t02r0101_ookido_a_02_4,"So, since you’re here, let me upgrade your
+{pageend:Pokédex with the National Mode.}
+After all, there are many kinds of Pokémon in this
+world of ours!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+242,16-msg_t02r0101_ookido_a_03,"Your Pokédex was upgraded with the
+National Mode!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+243,16-msg_t02r0101_ookido_a_04,"I’m afraid it won’t be easy to complete the
+National Pokédex. However, I’m sure you will
+make an honest attempt on our behalf!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+244,16-msg_t02r0101_doctor_a_04,"Have no fear. {tag:0} will get the
+{pageend:job done.}
+By the way, Professor Oak, what compelled you
+to visit this region?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+245,16-msg_t02r0101_ookido_a_05_1,"Ah, yes. I’ve heard that Renegade Park is now
+open. If I remember correctly, it’s at the end
+of Route 221.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+246,16-msg_t02r0101_ookido_a_05_2,"Renegade Park has a special system that
+attracts every imaginable kind of Pokémon
+from every region.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+247,16-msg_t02r0101_ookido_a_05_3,"I’ve come to make certain that system is
+operating properly.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+248,16-msg_t02r0101_ookido_a_06_1,"{tag:0}, you should make an effort to
+visit Renegade Park, too.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+249,16-msg_t02r0101_ookido_a_06_2,"Oops! I’ll be late for my meeting if I don’t
+get going!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+250,16-msg_t02r0101_ookido_a_06_3,"OK, it was a pleasure seeing the both of you!
+Bye now!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+251,16-msg_t02r0101_ookido_a_07_1,"{tag:0}, you should make an effort to
+visit Renegade Park, too.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+252,16-msg_t02r0101_ookido_a_07_2,"Oops! I’ll be late for my meeting if I don’t
+get going!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+253,16-msg_t02r0101_ookido_a_07_3,"OK, it was a pleasure seeing the both of you!
+Bye now!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+254,16-msg_t02r0101_doctor_a_05,"Off he goes, as busy as ever...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+255,16-msg_t02r0101_doctor_a_06,"Now, {tag:0}{pageend:...}
+I have a gift here as your reward for completing
+the Sinnoh Pokédex.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+256,16-msg_t02r0101_doctor_a_07_1,"That’s the Pokémon Radar—or just Poké Radar
+{pageend:for short.}
+Use it, and it will indicate grass patches where
+Pokémon are lurking.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+257,16-msg_t02r0101_doctor_a_07_2,"I’d prepared that to help my field assistants put
+together the Sinnoh Pokédex, but you took care
+{pageend:of that!}
+I’m sure it will be useful for your goal of filling
+the National Pokédex.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+258,16-msg_t02r0101_doctor_a_08,"The world is immense. There are many
+{pageend:more Pokémon.}
+That means there are many more thrills for you to
+seek and enjoy!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+259,16-msg_t02r0101_pc_01,"{pageend:You checked the PC.}
+The screen is filled with special terms and
+academic writing that is impossible to figure out.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+260,16-msg_t02r0101_freezer_01,"The refrigerator is filled with tasty
+sweets! Mmm...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+261,16-msg_t02r0101_assistm1_02_1,"It’s really quite something! Imagine... Cataloging
+every kind of Pokémon in the Sinnoh region!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+262,16-msg_t02r0101_assistm1_02_2,"And in complete contrast,
+there’s {tag:0}{pageend:...}
+Anyway, you’ve been great for the prof’s
+Pokémon Evolution research!",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+263,16-msg_t02r0101_assistw1_02,"{pageend:Yes, that’s correct.}
+Professor Rowan has been studying Pokédex
+systems with Professor Oak.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+264,17-msg_t02r0201_oldman1a_01_1,"Ah, so that Rowan fellow is back?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+265,17-msg_t02r0201_oldman1a_01_2,"He’s quite the remarkable man. He’s been
+{pageend:studying Pokémon since way, way back.}
+My son and grandchild help Rowan with his
+studies now.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+266,17-msg_t02r0201_oldman1a_02_1,Oh my! You’ve got a National Pokédex?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+267,17-msg_t02r0201_oldman1a_02_2,"{pageend:How fantastic is that?!}
+Rowan should be delighted. It will greatly help
+his research.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+268,17-msg_t02r0201_oldman1a_02_3,"{pageend:But, young Trainer...you should know this.}
+In this world, there are three hundred...
+No, four hundred... No, no, no! There’re a lot
+more kinds of Pokémon than that!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+269,17-msg_t02r0201_babygirl_01_1,"{pageend:Who are you?}
+{pageend:...}
+Oh... You’re {tag:0}?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+270,17-msg_t02r0201_babygirl_01_2,"Hey, you’re doing that Pokédex thingy for
+{pageend:the professor!}
+Wow! That’s the same as my big sister! Go for it!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+271,17-msg_t02r0201_babygirl_02_1,"{pageend:Who are you?}
+{pageend:...}
+Oh... You’re {tag:0}?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+272,17-msg_t02r0201_babygirl_02_2,"You’re doing that Pokédex thingy for
+{pageend:the professor!}
+Wow! That’s the same as my big brother!
+Go for it!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+273,17-msg_t02r0201_babygirl_03_1,"Oh, hi, {tag:0}{pageend:!}
+There was news on TV saying there is a massive
+outbreak of Pokémon!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+274,17-msg_t02r0201_babygirl_03_2,That’d be great for filling up your Pokédex!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+275,17-msg_t02r0201_babygirl_04,"{pageend:Let me see... What did that news say now...?}
+{tag:0}! They said there’s
+a whole bunch of {tag:1}{pageend: there!}
+{tag:2}{pageend:, you have to hurry!}
+I want you to do better than my sister Dawn!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,5,0,0,0,,0,2,1,1,0,0,0,,0,0,1,0,0,0,0,,0
+276,17-msg_t02r0201_babygirl_05,"{pageend:Let me see... What did that news say now...?}
+{tag:0}! They said there’s
+a whole bunch of {tag:1}{pageend: there!}
+{tag:2}{pageend:, you have to hurry!}
+I want you to do better than my brother Lucas!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,5,0,0,0,,0,2,1,1,0,0,0,,0,0,1,0,0,0,0,,0
+277,18-msg_t02r0202_game_01,It’s the latest game console—a Nintendo Switch!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+278,18-msg_t02r0202_pc_01_1,"{pageend:You checked the PC screen.}
+Adventure Rule No. 1
+The X Button opens the menu!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+279,18-msg_t02r0202_pc_01_2,"Adventure Rule No. 2
+{pageend:Record your progress with Save.}
+There is nothing else on here...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+280,19-msg_t02r0301_man1a_01,"Pokémon grow steadily stronger from battling
+{pageend:against other Pokémon.}
+At first, you should heal your Pokémon
+regularly at Pokémon Centers while you’re
+leveling them up.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+281,19-msg_t02r0301_woman1a_01,"A good Trainer is one that takes care not to let
+their Pokémon faint from losing HP.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+282,20-msg_t01_rival_01,<size=250%>*thud*</size>,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+283,20-msg_t01_rival_02,"{pageend:What was that about?!}
+Oh, hey, {tag:0}{pageend:!}
+{pageend:I’m going to see Prof. Rowan! }
+You should come, too!
+{pageend:And be quick about it!}
+OK, {tag:1}? I’m fining you 10 million
+if you’re late!",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+284,20-msg_t01_rival_03,"Oh, jeez! Forgot something!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+285,20-msg_t01_stop_01,"Hiya, {tag:0}.
+{tag:1}{pageend: was looking for you.}
+I think he’s home now. Why don’t you go check
+it out?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+286,20-msg_t01_stop_04,"Hiya, {tag:0}.
+{tag:1}{pageend: was looking for you.}
+I think he’s home now. Why don’t you go check
+it out?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+287,20-msg_t01_stop_02,"Hiya, {tag:0}.
+You’re looking for {tag:1}{pageend:?}
+{pageend:He just went tearing off a little while ago.}
+He’s probably not gone too far. Why not go
+chase after him?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+288,20-msg_t01_stop_03,"{tag:0}? He went tearing off in a huge
+rush a while ago.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+289,20-msg_t01_stop_05,"Everyone goes off on adventures, and then they
+gradually grow up...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+290,20-msg_t01_woman1_01,"It’s true that wild Pokémon do attack
+{pageend:people sometimes...}
+However, Pokémon also let you become friends
+with them.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+291,20-msg_t01_woman1_02,Oh! A Pokémon! You look good together!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+292,20-msg_t01_woman1_03,"{pageend:Oh, you’re helping put together a Pokédex?}
+That means you’re going to travel all over the
+{pageend:region with Pokémon!}
+That sounds like a lot of fun! I’m a little envious,
+to be honest!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+293,20-msg_t01_bigman_01,"{pageend:Technology just blows me away!}
+I mean, now you can play with people around
+the world...wirelessly!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+294,20-msg_t01_sign1_01,"Twinleaf Town
+Fresh and Free!",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+295,20-msg_t01_sign2_01,{tag:0}’s House,183,10,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+296,20-msg_t01_sign3_01,{tag:0}’s House,183,10,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+297,21-msg_t01r0101_rivalmama_01_1,"Oh, hi, {tag:0}. Are you looking
+for {tag:1}?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+298,21-msg_t01r0101_rivalmama_01_2,"My husband, Palmer, is home for once. 
+{pageend:Have you spoken to him? }
+{tag:1} and him are so alike. 
+Neither of them can ever sit still... ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+299,21-msg_t01r0101_rivalmama_04_1,"Oh, hi, {tag:0}. Did you come calling
+on {tag:1}?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+300,21-msg_t01r0101_rivalmama_04_2,"He was gone for a second, but then he came
+{pageend:running right back home.}
+He just can’t sit still, that boy. I wonder who he
+takes after.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+301,21-msg_t01r0101_rivalmama_05_1,That kid rocketed off again like usual.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+302,21-msg_t01r0101_rivalmama_05_2,"{pageend:I’d guess he would be out on Route 201 by now?}
+He just can’t sit still, that boy. I wonder who he
+takes after.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+303,21-msg_t01r0101_rivalmama_02_1,"{tag:0} should be out on Route 201
+by now.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+304,21-msg_t01r0101_rivalmama_02_2,"He just can’t sit still, that boy. I wonder who he
+takes after.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+305,21-msg_t01r0101_rivalmama_03,"Oh, you’ve become friends with a Pokémon, too.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+306,21-msg_t01r0101_rivalmama_06_1,"{tag:0}{pageend: took off like a rocket as usual.}
+He was shouting something about becoming the
+greatest Trainer ever...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+307,21-msg_t01r0101_rivalmama_06_2,"He just can’t sit still, that boy. I wonder who he
+takes after.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+308,22-msg_t01r0102_rival_01,"I’d better take my Bag and Guidebook, too...
+And say bye to Daddy before he leaves...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+309,22-msg_t01r0102_rival_02,"Oh, hey, {tag:0}{pageend:!}
+I’ll be waiting on the
+road! It’s a 10 million fine if you’re late!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+310,22-msg_t01r0102_game_01,It’s the latest game console—a Nintendo Switch!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+311,22-msg_t01r0102_pc_01_1,You checked the PC screen.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+312,22-msg_t01r0102_pc_01_2,"Adventure Rule No. 1
+The X Button opens the menu!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+313,22-msg_t01r0102_pc_01_3,"Adventure Rule No. 2
+{pageend:Record your progress with Save.}
+There is nothing else on here...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+314,23-msg_t01r0201_mama_01,"{tag:0}! {tag:1}{pageend: already left. }
+I don’t know what it was about, but 
+he sure was in a hurry! ",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+315,23-msg_t01r0201_mama_02,"You know how impatient {tag:0}{pageend: is.}
+He took off before I could even ask what it
+was about.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+316,23-msg_t01r0201_mama_24,"Bye-bye, {tag:0}! You take care now!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+317,23-msg_t01r0201_mama_03_1,"Oh, yes! {tag:0}! Don’t go into the tall
+grass. Wild Pokémon might attack you.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+318,23-msg_t01r0201_mama_03_2,"It would be OK if you had your own Pokémon,
+but you don’t, so...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+319,23-msg_t01r0201_mama_04,"What is it, dear? Isn’t {tag:0} waiting
+for you?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+320,23-msg_t01r0201_mama_05_1,"{pageend:What’s up, dear?}
+{pageend:...}
+Wow. I can’t believe that happened to you.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+321,23-msg_t01r0201_mama_05_2,"Am I ever glad that both you and
+{tag:0}{pageend: are unharmed.}
+The professor you mentioned is most likely
+Professor Rowan of Sandgem Town.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+322,23-msg_t01r0201_mama_05_3,"I’ve heard that he is well known for his studies
+on Pokémon. I hear he’s also quite intimidating...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+323,23-msg_t01r0201_mama_05_4,"{tag:0}, I think you need to visit him in
+{pageend:Sandgem Town.}
+You need to properly thank him for giving 
+you one of his Pokémon.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+324,23-msg_t01r0201_mama_05_5,I’m sure he will be grateful you did.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+325,23-msg_t01r0201_mama_06,"Oh, I know! {tag:0}, put these on.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+326,23-msg_t01r0201_mama_07,You received a pair of <color=#F01E1EFF>Running Shoes</color>!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+327,23-msg_t01r0201_mama_08_1,"Going to Sandgem Town is like an adventure in
+{pageend:itself, right?}
+With those Running Shoes, you can get to
+faraway places much faster.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+328,23-msg_t01r0201_mama_08_2,"{pageend:OK, let me read the instructions...}
+“Tilt the Left Stick firmly and dash about faster
+than ever before!”",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+329,23-msg_t01r0201_mama_08_3,"“Put on the Running Shoes and blaze new trails
+{pageend:of adventure!”}
+Well, isn’t that just nifty!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+330,23-msg_t01r0201_mama_09_1,"I’ll read you the instructions for the
+Running Shoes...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+331,23-msg_t01r0201_mama_09_2,"“Tilt the Left Stick firmly and dash about faster
+than ever before!”",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+332,23-msg_t01r0201_mama_09_3,"“Put on the Running Shoes and blaze new trails
+{pageend:of adventure!”}
+Well, isn’t that just nifty!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+333,23-msg_t01r0201_mama_10,"Welcome home, {tag:0}. Are you and your
+{pageend:Pokémon healthy?}
+It’s still early in the morning. Take a quick
+rest, dear.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+334,23-msg_t01r0201_mama_18,"Welcome home, {tag:0}. Are you and your
+Pokémon healthy?
+Take a quick rest, dear.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+335,23-msg_t01r0201_mama_19,"Welcome home, {tag:0}. Are you and your
+{pageend:Pokémon healthy?}
+I just made dinner. Take a quick rest, dear.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+336,23-msg_t01r0201_mama_20,"Welcome home, {tag:0}. Are you and your
+{pageend:Pokémon healthy?}
+It’s so late right now... Take a quick rest, dear.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+337,23-msg_t01r0201_mama_12_1,"What’s up, {tag:0}{pageend:?}
+...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+338,23-msg_t01r0201_mama_12_2,"Wow. Professor Rowan asked you to do
+{pageend:something that big?}
+OK, dear, go for it! Your mom’s got your back!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+339,23-msg_t01r0201_mama_12_3,"Oh, I know! {tag:0}, I’ve got something
+that you’ll find useful.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+340,23-msg_t01r0201_mama_13,"That’s a Guidebook. Take a look at it if you
+want to find out what new features Luminescent
+has in store for you during you adventure.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+341,23-msg_t01r0201_mama_14,"Gee, a journey full of adventure...
+{pageend:I envy you, kiddo.}
+Plus, you’re not alone. You have your Pokémon
+with you. I wish I could go instead!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+342,23-msg_t01r0201_mama_15_1,"I’m just joking, {tag:0}{pageend:!}
+I’ll be all right by myself, dear, so you go and
+enjoy your adventure!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+343,23-msg_t01r0201_mama_15_2,"When you’re exposed to new things and
+experience new sensations...it makes your
+mother happy, too.
+Oh, yes—there’s one more thing I wanted
+to ask of you, dear.
+That Pokémon by the window is an Eevee that
+I’ve been looking after. It’s very young,
+but I think it deserves to see the world.
+Why don’t you take it with you on your journey?
+Just talk to it when you’re ready.
+",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+344,23-msg_t01r0201_mama_15_3,"But please come back sometimes. I would like to
+see the kinds of Pokémon you’ve caught, dear.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+345,23-msg_t01r0201_rivalmama_01,Excuse me. Is my little {tag:0} here?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+346,23-msg_t01r0201_mama_21,"Oh? No, he’s not...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+347,23-msg_t01r0201_rivalmama_02_1,"Oh... Then he must have left already...
+What to do...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+348,23-msg_t01r0201_rivalmama_02_2,"That boy shouted about going on an adventure,
+{pageend:then he bolted.}
+He’s so headstrong and reckless... I at least
+wanted him to take this...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+349,23-msg_t01r0201_mama_22,"Not to worry. {tag:0} will deliver that
+to him.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+350,23-msg_t01r0201_mama_23,"Won’t you, {tag:0}?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+351,23-msg_t01r0201_rivalmama_03,"{pageend:Oh, really? You’d do that for me?}
+{tag:0}, please take this to
+{tag:1} for me.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+352,23-msg_t01r0201_rivalmama_04,"{pageend:Oh, really? You’d do that for me?}
+{tag:0}, please take this to
+{tag:1} for me.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+353,23-msg_t01r0201_rivalmama_05,"Let me think... Knowing my boy, he would
+{pageend:probably head straight to Jubilife City...}
+OK, please take that to my {tag:0}.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+354,23-msg_t01r0201_mama_16,"Bye-bye, {tag:0}!
+Enjoy your adventure!",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+355,23-msg_t01r0201_mama_26,"Bye-bye, {tag:0}!
+Enjoy your adventure!",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+356,23-msg_t01r0201_tv_01_1,"{pageend:Here we are! It’s the Contest Digest!}
+The Star of the Show in today’s Normal Rank
+Cuteness Contest is...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+357,23-msg_t01r0201_tv_01_2,"Brooke, who entered a breathtakingly
+{pageend:agile Pokémon!}
+That’s all the time we have today!
+Until next time!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+358,23-msg_t01r0201_tv_02_1,"{pageend:Here we are! It’s the Contest Digest!}
+The Star of the Show in today’s Normal Rank
+Cleverness Contest is...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+359,23-msg_t01r0201_tv_02_2,"Westley, who won with his particularly well-
+{pageend:groomed Pokémon!}
+That’s all the time we have today!
+Let’s meet again!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+360,23-msg_t01r0201_tv_03_1,"{pageend:Here we are! It’s the Contest Digest!}
+The Star of the Show in today’s Normal Rank
+Toughness Contest is...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+361,23-msg_t01r0201_tv_03_2,"Dominic, who overwhelmed with his eerily
+{pageend:vocal Pokémon!}
+That’s all the time we have today!
+Let’s meet again!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+362,23-msg_t01r0201_freezer_01,Mom’s favorite dessert is in the refrigerator.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+363,23-msg_t01r0201_sink_01,"Mom’s kitchen is spotless! You can see your face
+on the floor!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+364,23-msg_t01r0201_counter_01,"This is where Mom does all her
+delicious cooking.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+365,23-msg_t01r0201_mama_25_1,"{tag:0}! {tag:1} came
+looking for you a little while ago.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+366,23-msg_t01r0201_mama_25_2,"I don’t know what it was about, but he was
+shouting about you needing to get on a ship at
+{pageend:Snowpoint City.}
+You know how impatient he is. He was gone
+before I could ask.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+367,23-msg_t01r0201_mama_27_1,"{tag:0}! {tag:1} came
+looking for you a little while ago.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+368,23-msg_t01r0201_mama_27_2,"I don’t know what it was about, but he was
+shouting about you needing to get on a ship at
+{pageend:Snowpoint City.}
+You know how impatient he is. He was gone
+before I could ask.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+369,23-msg_t01r0201_mama_27_3,"Anyway, how’s it going, kid? Is your project with
+Professor Rowan coming along?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+714,59-msg_d14r0101_mount_02_1_2,"{pageend:It’s the Hidden Moves app!}
+Use Rock Smash from your Pokétch, and a wild
+Pokémon will get rid of boulders on your path!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+372,24-msg_opening_20,"That concludes our special program, 
+{pageend:“Let’s Ask Prof. Rowan!” }
+Brought to you by Jubilife TV on 
+Nationwide Net! ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+373,24-msg_opening_21,"See you next week—same time, same channel!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+374,24-msg_tv_01,"The TV is showing the title screen of a
+video game.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+375,24-msg_t01r0102_sign_01,The X Button opens the menu!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+376,24-msg_t01r0202_game_01,It’s the latest game console—a Nintendo Switch!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+378,24-msg_t01r0202_pc_01_1,"{pageend:You checked the PC.}
+Pokémon Basics...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+379,24-msg_t01r0202_pc_01_2,"{pageend:People live alongside Pokémon in this world.}
+The people that battle Pokémon are called
+Pokémon Trainers.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+380,25-msg_t01r0301_man2a_01,"You’re off to hang with {tag:0} again,
+right? You two sure are tight!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+381,25-msg_t01r0301_man2a_02,"I went on an adventure with some Pokémon a
+{pageend:long time ago.}
+It was only to the next town, though.
+Yeah, good times...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+382,26-msg_t01r0401_oldwoman1_01,"Did you hear? The Pokémon Professor returned
+{pageend:to the next town over.}
+{pageend:They say he was gone for four long years.}
+I wonder if he found some amazing Pokémon
+while he was gone?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+383,26-msg_t01r0401_oldwoman1_02,"Well! Professor Rowan gave you a Pokédex,
+did he?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+384,26-msg_t01r0401_babygirl1_01,"Listen, listen, {tag:0}. I want a
+cute Pokémon!",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+385,26-msg_t01r0401_babygirl1_02,"Listen, listen, {tag:0}{pageend:.}
+Do you think I can be friends with Pokémon like
+you are?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+386,27-msg_c01_heroine_01,"Hi, {tag:0}! Are you catching Pokémon?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+387,27-msg_c01_heroine_02,"Wow! You’ve already got {tag:0}{pageend: Pokémon with you!}
+At that pace, your Pokédex should be full in no
+time at all!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+388,27-msg_c01_heroine_03,"{pageend:Um...}
+I think you’d feel a lot safer if you were to catch
+some more.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+389,27-msg_c01_heroine_07_1,"In Jubilife City, there’s the Trainers’ School,
+which... Well, you know.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+390,27-msg_c01_heroine_07_2,"{tag:0}, you should visit it. You’ll get
+{pageend:some tips on Pokémon.}
+Oh yes, {tag:1} went to the Trainers’
+School earlier. OK, bye now!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+391,27-msg_c01_hero_01,"Hey, {tag:0}! How many Pokémon have
+you caught?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+392,27-msg_c01_hero_02,Whoa! You already have {tag:0} Pokémon with you!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+393,27-msg_c01_hero_03,"{pageend:Huh? I think you should catch some more.}
+It might be more of a challenge raising a lot
+{pageend:of Pokémon...}
+But it’s worth it. The more Pokémon you have,
+the happier you’ll be.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+394,27-msg_c01_hero_07_1,"In Jubilife City, there’s the Trainers’ School.
+Check it out, {tag:0}{pageend:.}
+Oh yeah, {tag:1} went to the Trainers’
+School earlier.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+395,27-msg_c01_hero_07_2,"OK, see you around! Work hard on your Pokédex!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+396,27-msg_c01_sunglasses_01,"Jubilife City is built on land carved out of a
+mountain. The people and Pokémon of
+Oreburgh City helped out with that undertaking.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+397,27-msg_c01_sunglasses_02_1,"Hello! Let me ask you, have you paid a visit to
+{pageend:the TV station?}
+If you’ve never been, you owe it to yourself to
+make the trip.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+398,27-msg_c01_sunglasses_02_2,"And, if you’ve been there before, it never hurts
+{pageend:to visit again.}
+After all, you can be a star!
+Or at least dream of being one!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+399,27-msg_c01_assistantm_02,"By the way, have you visited the
+{pageend:Trainers’ School?}
+Not yet, right? You really must visit there!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+400,27-msg_c01_assistantm_04,"By the way, have you participated in the
+{pageend:Pokétch campaign?}
+Not yet, right? You really must try!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+401,27-msg_c01_assistantm_05,"{pageend:Hey, you! Yes, you with that cool scarf!}
+You should have seen the boy who came running
+by earlier. He ran past me so quickly that I
+couldn’t even manage a hello.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+402,27-msg_c01_assistantm_06,"Jubilife City is a big place.
+Take your time sightseeing.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+403,27-msg_c01_assistantm_08,"By the way, have you visited the
+{pageend:Trainers’ School?}
+Not yet, right? You really must visit there!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+404,27-msg_c01_assistantm_09,"By the way, have you participated in the
+{pageend:Pokétch campaign?}
+Not yet, right? You really must try!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+405,27-msg_c01_pokecth_01_1,"{pageend:Oh? You are a Pokémon Trainer?}
+But you don’t have a Pokétch yet?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+406,27-msg_c01_pokecth_01_2,"{pageend:Pokétch is short for Pokémon Watch!}
+Oh my, you are a rare case indeed!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+407,27-msg_c01_pokecth_02_1,"You see, I invented, and now manufacture,
+Pokétches. Not only that, I’m now conducting
+the Pokétch promotional campaign!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+408,27-msg_c01_pokecth_02_2,"All you have to do is find three clowns in
+{pageend:Jubilife City. If you can find them...}
+I’ll give you your very own Pokétch!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+409,27-msg_c01_pokecth_03_1,"The three clowns will each ask you a
+simple question.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+410,27-msg_c01_pokecth_03_2,"The questions will all have to do with Pokémon—
+After all, a Pokétch is a tool designed for
+{pageend:devoted Pokémon Trainers!}
+Collect a Coupon from each clown,
+then come see me, OK?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+411,27-msg_c01_pokecth_04_1,"OK, let me count your Coupons! I’ll just pull out
+{pageend:my Pokétch here and...}
+One...two...three! Bravo! I say, bravo!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+412,27-msg_c01_pokecth_04_2,"In return for these Coupons, I present you with
+this Pokémon Watch, or Pokétch for short!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+413,27-msg_c01_pokecth_05,You received a <color=#F01E1EFF>Pokétch</color>!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+414,27-msg_c01_pokecth_06,"You can add apps to your Pokétch to make it
+{pageend:even more versatile!}
+Please press the R Button and try it out!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+415,27-msg_c01_crown1_01,"Hi! I’m a Pokétch campaign clown!
+{pageend:Let’s “rollout” my question!}
+Does a Pokémon grow by defeating others and
+gaining Exp. Points?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+416,27-msg_c01_crown1_02,"Ding-ding!
+You’re absolutely correct!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+417,27-msg_c01_crown1_03,"Bzzzzt!
+That’s the wrong answer...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+418,27-msg_c01_crown1_04,"Pokémon grow stronger by defeating other
+{pageend:Pokémon in battle.}
+Some Pokémon even change into a different
+Pokémon through a process known as Evolution.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+419,27-msg_c01_crown1_05,Here you go! Your Pokétch Coupon!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+420,27-msg_c01_crown1_06,"{pageend:Pokémon grow stronger through battling.}
+Some Pokémon even change into a different
+Pokémon through a process known as Evolution.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+421,27-msg_c01_crown2_01,"Hi! I’m a Pokétch campaign clown!
+{pageend:Let’s “rollout” my question!}
+Just like Pokémon, do the moves of Pokémon
+also have types?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+422,27-msg_c01_crown2_02,"Ding-ding!
+You’re absolutely correct!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+423,27-msg_c01_crown2_03,"Bzzzzt!
+That’s the wrong answer...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+424,27-msg_c01_crown2_04,"If a Pokémon’s type matches the type of a move
+it uses, that move is made much more powerful!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+425,27-msg_c01_crown2_05,Here you go! Your Pokétch Coupon!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+426,27-msg_c01_crown2_06,"If a Pokémon’s type matches the type of a move
+it uses, that move is made much more powerful!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+427,27-msg_c01_crown_01,"Hi! I’m a Pokétch campaign clown!
+{pageend:Let’s “rollout” my question!}
+Can a Pokémon hold an item?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+428,27-msg_c01_crown_02,"Ding-ding!
+You’re absolutely correct!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+429,27-msg_c01_crown_03,"Bzzzzt!
+That’s the wrong answer...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+430,27-msg_c01_crown_04_1,A Pokémon may hold a single item.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+431,27-msg_c01_crown_04_2,"Some items become effective as soon as they are
+{pageend:held by a Pokémon.}
+Berries are eaten by Pokémon as necessary
+during battle.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+432,27-msg_c01_crown_05,Here you go! Your Pokétch Coupon!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+433,27-msg_c01_crown_06,"Hi there. You should stick around.
+{pageend:We’re doing a Pokétch campaign soon.}
+Before it starts, I think you should brush up
+at the Trainers’ School.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+434,27-msg_c01_crown_07_1,A Pokémon may hold a single item.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+435,27-msg_c01_crown_07_2,"Some items become effective as soon as they are
+{pageend:held by a Pokémon.}
+Berries are eaten by Pokémon as necessary
+during battle.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+436,27-msg_c01_doctor_01,"Ah, {tag:0}.
+{pageend:Impeccable timing, as always.}
+These miscreants are babbling utter nonsense
+{pageend:that I just can’t stomach.}
+Show them some manners, if you will.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+437,27-msg_c01_gingam_01_1,"Oh, Professor, must you be so difficult?
+We are approaching you strictly as businessmen.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+438,27-msg_c01_gingam_01_2,"All you must do is provide us with all your
+{pageend:research findings.}
+In return, we’ll see to it that your assistant
+doesn’t become collateral damage.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+439,27-msg_c01_heroine_05,"{tag:0}, let’s battle together and
+teach these losers a lesson!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+440,27-msg_c01_hero_05,"{tag:0}, let’s battle together and
+teach these losers a lesson!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+441,27-msg_c01_gingam_02,"{pageend:You leave us no option. We will retreat for now.}
+Because Team Galactic is benevolent to all,
+we shall leave.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+442,27-msg_c01_doctor_02_1,"So...
+{pageend:They call themselves Team Galactic, do they?}
+When Pokémon evolve, they seem to release
+some sort of energy.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+443,27-msg_c01_doctor_02_2,"I believe it’s a mystic power far beyond our
+control. But Team Galactic seems to be trying
+to harness that power for something...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+444,27-msg_c01_doctor_02_3,"Anyway, {tag:0}, well done!
+You battle quite capably.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+445,27-msg_c01_doctor_02_4,"Seeing you Trainers battle side by side with
+your Pokémon only makes me more confident
+in my decision to entrust you with a Pokédex!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+446,27-msg_c01_heroine_06_1,"{tag:0}{pageend:, did you know?}
+The professor studies the Evolution of
+Pokémon, too.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+447,27-msg_c01_heroine_06_2,"According to his research, 90% of all Pokémon
+{pageend:are somehow tied to Evolution!}
+I guess that means some Pokémon must undergo
+startling Evolutions.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+448,27-msg_c01_heroine_06_3,"So, {tag:0}, let’s keep working on our
+Pokédex project for the professor!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+449,27-msg_c01_hero_06_1,"{tag:0}, did you know that the
+professor studies the Evolution of Pokémon, too?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+450,27-msg_c01_hero_06_2,"According to his research, 90% of all Pokémon
+{pageend:are somehow tied to Evolution!}
+I guess that means some unexpected Pokémon
+must undergo Evolution, too...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+451,27-msg_c01_hero_06_3,"So, {tag:0}, let’s keep working on our
+Pokédex project for the professor!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+452,27-msg_c01_accesse_01_1,"Oh, that was very good! Nicely done!
+Truly excellent!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+453,27-msg_c01_accesse_01_2,"{pageend:Oh, I beg your pardon! I’m from Jubilife TV.}
+I’d like you to have something for letting me see
+that smashing battle!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+454,27-msg_c01_boy1_01,"That look... You’re obviously a Trainer!
+Will you tell me what type of Pokémon you like?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+455,27-msg_c01_boy1_02,"Fire-type Pokémon?
+You must have a fiery personality.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+456,27-msg_c01_boy1_03,"A person who likes Water-type Pokémon must
+be pretty cool.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+457,27-msg_c01_boy1_04,"You chose Grass-type Pokémon?
+No wonder you look so calm.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+458,27-msg_c01_babygirl1_01,Did you see me on TV? I was in an interview!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+459,27-msg_c01_woman3_01,"When you walk with your Pokémon,
+they gradually grow friendlier.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+460,27-msg_c01_boy1b_01,"One, two, three, four, five...six!
+{pageend:That should do it.}
+You can only have six Pokémon in your party
+at a time.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+461,27-msg_c01_man3a_01_1,"{pageend:Hiya, where’d you come from?}
+...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+462,27-msg_c01_man3a_01_2,"Twinleaf Town, huh...
+{pageend:It’s a nice place—quiet and all.}
+Jubilife City is a big place, so it might be a bit of
+a shock to you.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+463,27-msg_c01_oldman1a_01,"Hello, Trainer!
+Do you know much about Pokémon?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+464,27-msg_c01_oldman1a_02,"{pageend:Ah, I see! You’re quite well versed indeed!}
+I imagine you wouldn’t see the need to visit the
+{pageend:Trainers’ School, then.}
+But do visit if you have the time. You may
+discover something new!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+465,27-msg_c01_oldman1a_03,"Oh, so you’re not very familiar with Pokémon...
+{pageend:Well, don’t worry!}
+You can go visit the Trainers’ School, where
+you’ll learn all about the basics of Pokémon.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+472,27-msg_c01_shopwoman_01_1,"Just past here is the GWS, which stands for
+Global Wonder Station.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+473,27-msg_c01_shopwoman_01_2,"{pageend:Oh, you don’t have any Gym Badges.}
+The GWS is off-limits if you haven’t earned a
+Gym Badge yet. Sorry!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+474,27-msg_c01_shopwoman_02_1,"Just past here is the GWS, which stands for
+Global Wonder Station.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+475,27-msg_c01_shopwoman_02_2,"Trading Pokémon means connecting with friends,
+both old and new. That’s awesome!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+477,27-msg_c01_boy1_a_01,I’m trading Pokémon with my buddy!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+478,27-msg_c01_boy1_b_01,"I gave my Pokémon an item to hold before
+{pageend:trading it.}
+That will make the other Trainer double happy!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+479,27-msg_c01_sign1_01,"Jubilife City
+City of Joy",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+480,27-msg_c01_sign2_01,"Jubilife Condominiums
+Tenants Wanted!",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+481,27-msg_c01_sign3_01,"The Pokétch Company
+Pokémon Watches for the World!",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+482,27-msg_c01_sign4_01,"Trainers’ School
+The First Step for Trainers!",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+483,27-msg_c01_sign5_01,"Jubilife TV
+The Fun-and-Games TV Station!",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+484,27-msg_c01_sign6_01,"Global Wonder Station
+Worldwide Pokémon Trading!",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+485,27-msg_c01_mizuki_01_1,"Whoooa, what was that just now?
+{pageend:That was amazing!}
+Those guys looked awfully scary, but you sure
+{pageend:showed ’em!}
+Whew, that was like a breath of fresh air!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+486,27-msg_c01_mizuki_01_2,"Anyway, my name’s Bebe, and I work as a system
+{pageend:administrator in Hearthome City east of here.}
+Now, as thanks for putting on such a good show,
+I’ll let you access Pokémon Boxes from anywhere!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+11,7-msg_opening_16_2,"Now, this boy here... I believe he’s your friend.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+489,27-msg_c01_mizuki_01_4,"You can customize your own Capsule Decoration
+{pageend:by placing Stickers on Ball Capsules.}
+Put Stickers on your favorite Pokémon’s Ball
+Capsule, and it’ll look really pretty when it
+bursts open!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+490,27-msg_c01_mizuki_01_5,"Stickers will also give you an edge in the Super
+Contest Shows where I live in Hearthome City,
+{pageend:so try to collect a bunch!}
+Anyway, see ya later!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+504,28-mes_shop_01_01,Welcome! How may I serve you?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+505,28-mes_shop_01_02,Please come again!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+506,28-mes_shop_01_03,Is there anything else I can do for you?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+507,28-mes_shop_02_01,You don’t have enough money.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+508,28-mes_shop_02_02,"Certainly. So how many {tag:0}
+would you like?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,2
+509,28-mes_shop_02_03,"So you want {tag:0} {tag:1}?
+It’ll be {tag:2}. All right?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,2,1,1,0,205,,0,0,1,10,0,0,0,,0,2,2,5,1,0,2,,0
+510,28-mes_shop_02_04,Here you are! Thank you!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+512,28-mes_shop_02_05,You have no room in your Bag.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+514,28-mes_shop_02_06,Cancel,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+515,28-mes_shop_02_07,{tag:0},10,-1,54,702,0,"-1
+0
+0
+-1
+0",0,2,3,1,0,2,,0
+516,28-mes_shop_02_08,You also get a Premier Ball as an added bonus.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+998,95-mes_accessory_01_11,"How many {tag:0}
+would you like?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,77,0,0,0,,2
+517,28-mes_shop_03_02,"Your PC is full. You have no more room
+to transfer goods.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+519,28-mes_shop_03_03,You obtained {tag:0} {tag:1}!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,77,0,0,0,,0
+520,28-mes_shop_03_04,You can’t carry any more Stickers.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+521,30-msg_c01fc0101_man2a_01,"If you want to catch a Pokémon, you should try
+{pageend:to lower its HP first.}
+If you don’t, Poké Balls won’t be very effective.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+522,30-msg_c01fc0101_middlewoman1a_01,"{pageend:I need Potions most of all!}
+If all my Pokémon faint, I completely black out!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+523,31-msg_c01pc0101_babygirl1a_01,"You know how Pokémon have types, like Water,
+{pageend:Fire, and Grass?}
+They say that types have strengths and
+weaknesses against other types.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+524,31-msg_c01pc0101_boy1a_01,"In the Local Room upstairs, you can battle and
+trade with other people.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+525,31-msg_c01pc0101_woman3a_01_1,"You can still catch Pokémon if you already have
+{pageend:six traveling with you.}
+A new Pokémon can be sent to a Pokémon Box!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+526,31-msg_c01pc0101_woman3a_01_2,"Knowing that, I can keep on catching more and
+{pageend:more Pokémon!}
+It’ll make it more fun to check my Boxes!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+527,32-msg_c01r0101_middlem_01,"{pageend:Hi, hi!}
+I’m the president of the Pokétch Company!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+528,32-msg_c01r0101_middlem_02,"I’m developing a new Pokétch app, but it’s not
+{pageend:quite done.}
+My guess is that it will be ready after you earn
+a Gym Badge.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+529,32-msg_c01r0101_middlem_03,"Hi, hi!
+{pageend:Your patience is rewarded!}
+I’ve developed a new Pokétch app!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+530,32-msg_c01r0101_middlem_04,"That’s the Memo Pad!
+It’s—well, it is what it is!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+531,32-msg_c01r0101_middlem_05,"I’m developing a new Pokétch app, but it’s not
+{pageend:quite done.}
+My guess is that it will be ready after you’ve
+earned three Gym Badges.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+532,32-msg_c01r0101_middlem_06,"Hi, hi!
+{pageend:Your patience is rewarded!}
+I’ve developed another new Pokétch app!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+533,32-msg_c01r0101_middlem_07,"Having a map constantly displayed is
+{pageend:convenient, no?}
+You can also mark things, so it’s that much
+more useful.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+658,51-msg_c01r0601_receptionist_01,"Welcome! This is the Global Wonder Station,
+or GWS for short.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+659,51-msg_c01r0601_receptionist_02,"We enable the trading of Pokémon with Trainers
+worldwide over the internet.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+660,51-msg_c01r0601_receptionist_03,"Would you like to use the Global Wonder Station
+via the internet?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+661,51-msg_c01r0601_receptionist_04,"{pageend:Hello! Welcome to the Global Wonder Station!}
+Would you like to use the Global Wonder Station
+via the internet?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+131,11-msg_heroine_17_01,"Hey, {tag:0}{pageend:! Do you have a minute?}
+Since you’re really tough, I was hoping you could
+teach me about Pokémon battles. Is that OK?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+132,11-msg_heroine_17_02,"{pageend:Thanks!}
+I sure am lucky, getting to learn from a Trainer
+{pageend:who’s made it into the Hall of Fame!}
+All right, here goes!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+534,32-msg_c01r0101_middlem_14,"Yup, all sorts of people will give you
+{pageend:Pokétch apps.}
+Everyone loves surprises!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+535,32-msg_c01r0101_middlem_15,"So, yup, what to do? Do you think I should solicit
+new Pokétch ideas?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+536,32-msg_c01r0101_assistantm_01,"Oh, you can be sure I’ll keep developing
+{pageend:Pokétch apps.}
+Just like Pokémon, my Pokétch is something
+that evolves!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+537,32-msg_c01r0101_woman6_01,"{pageend:Welcome to the Pokétch Company.}
+We’re actually a family-run business, so we’re not
+very impressive.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+538,33-msg_c01r0102_middleman1_01,"We try to think like Trainers when we develop
+{pageend:new Pokétch apps.}
+The user’s satisfaction is what we’re after.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+539,33-msg_c01r0102_oldman2_01,"Pokémon Watch! Or Pokétch for short.
+{pageend:Say it the long way, and...}
+{pageend:What does Pokémon stand for again?}
+Anyway, I’m the father of the president of the
+Pokétch Company!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+540,33-msg_c01r0102_pippi_01,Cleffy?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+541,33-msg_c01r0102_purin_01,Patchii?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+542,34-msg_c01r0103_babyboy1_01,"{pageend:Do you have a Pokétch?}
+There are two models, each in a different color.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+543,34-msg_c01r0103_middlewoman1_01_1,"{pageend:My husband is the president.}
+We started out in a small workshop where he
+made whatever he liked.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+544,34-msg_c01r0103_middlewoman1_01_2,"Now we’re making something that makes the
+world happy. Imagine that!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+545,34-msg_c01r0103_oldwoman1_01,"{pageend:People everywhere make Pokétch apps.}
+You’ll be able to get new apps from
+{pageend:surprising sources.}
+The PCs here have guides on the various
+Pokétch apps.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+546,34-msg_poketch_pc1_01,There are descriptions of Pokétch apps.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+547,34-msg_poketch_pc1_02,"Which Pokétch app would you like to
+read about?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+548,34-msg_poketch_pc2_01,There are descriptions of Pokétch apps.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+549,34-msg_poketch_pc2_02,"Which Pokétch app would you like to
+read about?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+550,34-msg_poketch_pc3_01,There are descriptions of Pokétch apps.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+551,34-msg_poketch_pc3_02,"Which Pokétch app would you like to
+read about?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+552,34-msg_poketch_pc4_01,There are descriptions of Pokétch apps.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+553,34-msg_poketch_pc4_02,"Which Pokétch app would you like to
+read about?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+554,34-msg_poketch_guide_01,"The Digital Watch app displays the current time.
+Don’t be late for meetings with your friends!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+555,34-msg_poketch_guide_02,"{pageend:The Analog Watch app displays the current time.}
+The short hand indicates the hour, and the long
+hand shows the minute!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+556,34-msg_poketch_guide_05,"The Kitchen Timer app can count down from up
+{pageend:to 99 minutes but not precisely.}
+Set the time with the center button, then start
+the countdown.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+557,34-msg_poketch_guide_06,"Use the monthly Calendar app to make a note of
+{pageend:important dates.}
+Touch any date to change its color. Touch it
+again to turn it back.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+558,34-msg_poketch_guide_07,"{pageend:The Calculator app can handle up to 10 digits.}
+It’s perfect for figuring out math questions that
+might pop up.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+559,34-msg_poketch_guide_08,"The Pokémon List app indicates the statuses of
+{pageend:your team’s Pokémon.}
+Touch them to hear their cries. Their HP bars are
+also displayed.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+560,34-msg_poketch_guide_09,"The Friendship Checker indicates how friendly
+{pageend:your Pokémon are to you.}
+Touch the screen. The Pokémon that like you will
+come closer.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+561,34-msg_poketch_guide_10,"The Egg Monitor app shows the Pokémon you
+{pageend:have in the Pokémon Nursery.}
+You can check and see how your Pokémon are
+doing without visiting the Pokémon Nursery.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+562,34-msg_poketch_guide_12,"The Pokémon History app keeps track of the
+{pageend:Pokémon you have obtained.}
+It records and displays up to 12 Pokémon
+at a time.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+563,34-msg_poketch_guide_14,"The Memo Pad app is useful for jotting down a
+{pageend:note or just doodling.}
+There’s an eraser, too, just in case you make
+a mistake.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+564,34-msg_poketch_guide_15,"The Dot Artist app lets you draw pictures in
+{pageend:a mosaic style.}
+Touching the same dot makes its color
+turn darker.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+565,34-msg_poketch_guide_16,"The Color Changer app changes the Pokétch’s
+{pageend:display color.}
+Slide the switch to select one of eight colors.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+566,34-msg_poketch_guide_17,"The Marking Map app lets you mark
+{pageend:intriguing locations.}
+Drag marks to places on the map that you want
+to remember.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+567,34-msg_poketch_guide_18,"The Spinner app features a wheel that can be
+{pageend:written on.}
+Draw numbers, items, or whatever on the wheel
+and give it a spin!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+568,34-msg_poketch_guide_19,"The Coin Toss app flips a coin that comes up
+{pageend:heads or tails.}
+If you’re having trouble making a decision, a coin
+toss might be handy.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+569,34-msg_poketch_guide_20,"The Pedometer app keeps a count of the number
+{pageend:of steps traveled.}
+It automatically counts steps. Touch the button
+to reset it.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+570,34-msg_poketch_guide_21,"The Dowsing Machine app searches for hidden
+{pageend:or obscured items.}
+Touch the radar screen. If there is an item nearby,
+the radar will respond.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+571,34-msg_poketch_guide_22,"The Counter app is used for counting things one
+{pageend:at a time.}
+Touch the button and count whatever
+needs counting.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+572,34-msg_poketch_guide_23,"The Chain Counter app tracks the performance
+{pageend:of the Poké Radar.}
+It shows how many times you’ve met the same
+kind of Pokémon in a row.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+573,34-msg_poketch_guide_26,"The Hidden Moves app is used for calling wild
+Pokémon to help out, such as by removing
+obstacles in the field.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+574,35-msg_c01r0201_sunglasses_01_1,Do you use Stickers to decorate Ball Capsules?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+575,35-msg_c01r0201_sunglasses_01_2,"Go to the gallery on the second floor, and you
+can see various Ball Capsules burst open.
+They were customized by Gym Leaders.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+576,35-msg_c01r0201_kuji_01_1,This is the Pokémon Lottery Corner.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+577,35-msg_c01r0201_kuji_01_2,"If your drawn number matches the ID No. of any
+of your Pokémon, starting with the far right digit,
+{pageend:you will receive a fabulous gift!}
+Would you like to save and draw a Pokémon
+Loto Ticket?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+578,35-msg_c01r0201_kuji_02,"You’ve already drawn a Loto Ticket today.
+Please come back tomorrow.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+579,35-msg_c01r0201_kuji_03,Oh. I see. Please do visit us again.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+580,35-msg_c01r0201_kuji_04,"{pageend:Please draw a Loto Ticket.}
+...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+581,35-msg_c01r0201_kuji_05,"Your Loto Ticket number is {tag:0}{pageend:.}
+Now, let’s see if it matches the ID No. of any of
+your Pokémon.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,2,4,1,0,0,,0
+582,35-msg_c01r0201_kuji_06,"{pageend:Congratulations!}
+The ID No. of {tag:0} in your party
+matches your Loto Ticket number!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+583,35-msg_c01r0201_kuji_07,"{pageend:Congratulations!}
+The ID No. of {tag:0} in your Pokémon
+Boxes matches your Loto Ticket number!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+584,35-msg_c01r0201_kuji_08,I’m sorry. You didn’t get a match...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+585,35-msg_c01r0201_kuji_16,"The last digit matched, so you win prize
+number four!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+586,35-msg_c01r0201_kuji_09,"The last two digits matched, so you win prize
+number three!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+587,35-msg_c01r0201_kuji_10,"The last three digits matched, so you win prize
+number two!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+588,35-msg_c01r0201_kuji_11,"The last four digits matched, so you win prize
+number one!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+589,35-msg_c01r0201_kuji_12,"Oh my goodness, all five digits matched!
+{pageend:This is just so incredible!}
+...Oh, right! Your prize! I’m sorry—I got carried
+{pageend:away there.}
+Here you go!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+590,35-msg_c01r0201_kuji_13,"{pageend:...Oh? You seem to have no room for this.}
+Please make room in your Bag and then let
+me know.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+591,35-msg_c01r0201_kuji_14,"{tag:0}{pageend:? Yes, we’ve been expecting you.}
+This is the prize we’ve been holding for you.
+Here you go!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+592,35-msg_c01r0201_kuji_15,Please do visit again.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+593,35-msg_c01r0201woman2_01,"They keep records of things like how many
+battles you’ve won in a row or how many
+{pageend:Pokémon you’ve caught.}
+You can check everyone’s records up on the
+third floor.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+594,35-msg_c01r0201_middleman2_01,"{pageend:I’m going to get commercials shown on TV.}
+They’ll attract more customers to the
+department store.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+595,35-msg_c01r0201_man3_01,"The Trainers that gather over there are looking
+{pageend:for battles.}
+That area used to be for karaoke, but now it’s
+all battling!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+596,36-msg_c01r0202_idol_01,"{pageend:I don’t know what to do...}
+What accessories will go well with my
+dress today?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+597,36-msg_c01r0202_sunglasses_01,"The star of tomorrow is...you! Your Pokémon has
+{pageend:a glow about it!}
+So, a gift for our future star!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+599,37-msg_c01r0203_woman2a_01_1,"The Group Ranking Room is the one closest to
+the stairs.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+600,37-msg_c01r0203_woman2a_01_2,The other room is the Global Ranking Room.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+601,37-msg_c01r0203_woman2b_01,"{pageend:I just realized something! It’s going to be great!}
+If I trade lots of Pokémon, I’ll have a better
+chance at winning the Pokémon Lottery!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+602,37-msg_c01r0203_sunglasses_01,"Records are fine things. They tell you the history
+{pageend:of stuff.}
+You can really sense the dramatic stories behind
+all those numbers!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+603,37-msg_c01r0203_sunglassesb_01,"Hey there! How’s it going?
+{pageend:I’m a TV producer here.}
+Can I get your opinion about something, to help
+improve our future programming?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+604,37-msg_c01r0203_sunglassesb_02,"Thanks! Just trying to get a feel for our viewers’
+{pageend:preferences, you know!}
+So, what kind of TV programs do you like?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+605,37-msg_c01r0203_sunglassesb_05_1,"{pageend:Oh, yeah? That’s interesting.}
+Thanks for answering my question.
+{pageend:I’ll file that away for reference.}
+And here, have a Sticker as thanks for your time!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+606,37-msg_c01r0203_sunglassesb_03,"{pageend:Oh, all right.}
+{pageend:I can understand how busy it must get for you.}
+It’d be cool if you could give me an answer when
+you’ve got time. See you again!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+607,37-msg_c01r0203_sunglassesb_05_2,"{pageend:Oh?}
+The fact that you like such a program tells me
+{pageend:you’re someone in the know!}
+In fact, I’m gonna go ahead and give you
+extra Stickers!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+610,37-msg_c01r0203_sunglassesb_04,"Make sure you keep your channel tuned to
+Jubilife TV.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+611,38-msg_c01r0204_middleman2_01,"{pageend:Your exploits are fantastic!}
+With our TV station, we can tell the whole world
+{pageend:about you!}
+It’s merely one of many possibilities! Harrumph!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+612,38-msg_c01r0204_woman6_01,“Participation for all” is our TV network’s motto.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+613,39-msg_c01r0205_clip_01,"Here, you can see the experienced Gym Leaders’
+Capsule Decorations!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+614,39-msg_c01r0205_clip_05,"{pageend:Huh! I didn’t expect him to place a Sticker there.}
+When it comes to decorating Ball Capsules,
+{pageend:each person’s originality shines through.}
+{pageend:His creativity makes my heart pound!}
+Say, you should try creating a one-of-a-kind
+Poké Ball for yourself!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+615,39-msg_c01r0205_clip_gaku_a,"It looks like the Sinnoh Gym Leaders’ Stickers
+will be displayed here!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+617,39-msg_c01r0205_man1_01,"{pageend:Gym Leaders are so cool...}
+But you won’t be able to see them here unless
+you defeat them.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+618,39-msg_c01r0205_babygirl1_01,"I won a Lucky Egg from the Pokémon
+Lottery downstairs.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+624,40-msg_c01r0206_woman3_01,"{pageend:Someone broke my Pokémon-catching record!}
+I’ll reclaim my record and regain my place in
+the standings!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+625,40-msg_c01r0206_bigman_01_1,"My name isn’t in the rankings? What kind of
+{pageend:nonsense is that?!}
+It’s because I’ve never taken part in a
+Super Contest Show.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+626,40-msg_c01r0206_bigman_01_2,"I bet it’d feel great if I could be number
+one here!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+627,40-msg_c01r0206_fishing_01,"I really don’t win many battles. But it doesn’t
+{pageend:get me down.}
+I’m trying for the world record at
+Pokémon fishing!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+628,40-msg_c01r0206_stop_01,"Sorry, I’m still fine-tuning this thingy here.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+629,41-msg_c01r0207_boy2_01,"You can see the rankings of people in your
+{pageend:group here.}
+It makes me try even harder ’cause I can’t stand
+losing to my friends!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+630,41-msg_c01r0207_girl2_01,"{pageend:These rankings are nifty!}
+I’m going to make a group and compete with all
+my best friends!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+631,41-msg_c01r0207_stop_01,"Sorry, I’m still fine-tuning this thingy here.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+632,42-msg_c01r0208_counterw_01_1,"Hello. Thank you for visiting us today. To which
+floor may I take you?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+633,42-msg_c01r0208_counterw_01_2,"1F
+2F
+3F
+4F
+Never mind",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+634,42-msg_c01r0208_counterw_02,I look forward to serving you again.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+635,42-msg_c01r0208_counterw_03,Certainly. Elevator going up.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+636,42-msg_c01r0208_counterw_04,Certainly. Elevator going down.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+637,42-msg_c01r0208_counterw_05,"Sorry, we are already on that floor.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+638,42-msg_c01r0208_counterw_06,Here we are!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+639,43-msg_c01r0301_man3_01,"Pokémon are wonderful, deeply
+{pageend:mysterious creatures.}
+But to Trainers, it seems the only thing that
+matters is battling!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+640,43-msg_c01r0301_girl1_01_1,"{pageend:Hello there, Trainer!}
+If you get stumped and don’t know what to do...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+641,43-msg_c01r0301_girl1_01_2,"{pageend:Talk to people! Talk to everyone you see!}
+{pageend:Go places! Go wherever you can!}
+You’ll find many new places by doing just that.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+642,44-msg_c01r0302_boy2_01,"{pageend:Did you know?}
+Some kinds of Pokémon evolve when they get
+{pageend:stronger from battling!}
+When they evolve, they can take on completely
+different appearances!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+643,44-msg_c01r0302_middlewoman1_01,"Evolution makes Pokémon just that much
+more fascinating.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+644,45-msg_c01r0303_middleman1_01,"When I give my Pokémon nicknames, it’s like
+{pageend:they’re my very own.}
+It gives me a warm and fuzzy feeling!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+645,47-msg_c01r0501_oldwoman1_01,"{pageend:Isn’t my Pokétch quite fetching?}
+A Trainer would be simply lost without a Pokétch,
+after all.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+646,47-msg_c01r0501_pikachu_01,Piika pi!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+647,47-msg_c01r0501_eneco_01,Pachipachii?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+648,47-msg_c01r0501_woman2_01,"{pageend:Oh, your Pokémon is quite adorable!}
+Here, try making it hold this
+{tag:0}.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+649,47-msg_c01r0501_woman2_02_1,"A Pokémon holding that Quick Claw can
+sometimes attack first, even if it is normally a
+little bit slow.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+650,47-msg_c01r0501_woman2_02_2,"There are other items that are only useful when
+{pageend:given to a Pokémon.}
+Try finding other items that you can make your
+Pokémon hold.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+651,47-msg_c01r0501_woman2_02_3,I sound like I’m a teacher or something.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+652,48-msg_c01r0502_boy3_01_1,"{pageend:I like making my Pokémon use their attacks.}
+Sometimes, when Pokémon get stronger, they
+learn new moves.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+653,48-msg_c01r0502_boy3_01_2,"Those new moves keep things fresh and are a fun
+distraction for me!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+654,48-msg_c01r0502_man1_01_1,"{pageend:Did you buy some Heal Balls at the Poké Mart?}
+A Heal Ball completely heals the Pokémon it
+catches on the spot.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+655,48-msg_c01r0502_man1_01_2,"That means you can catch a Pokémon and have
+{pageend:it battle ready right away.}
+I wonder what kind of healing space it is inside
+a Heal Ball...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+669,51-msg_c01r0601_bigman_01,"{pageend:That’s a big globe, eh?}
+Where do I live on it now? Let’s see if I can
+point it out...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+670,51-msg_c01r0601_man3_01,"Global Wond...
+Global Wonde...
+...
+Global
+Wonder
+{pageend:Station!}
+Phew...
+What a long and difficult name!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+671,51-msg_c01r0601_boy3_01,"If I keep doing Wonder Trades many many times,
+{pageend:someday I’ll complete my one-and-only globe.}
+It’s my dream to gaze upon it!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+672,51-msg_c01r0601_oldman1_01,"You can easily trade Pokémon with Pokémon fans
+{pageend:around the world.}
+Isn’t that something?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+673,51-msg_c01r0601_man2_01,"When I imagine that the Pokémon I’ve raised
+will be recorded on another person’s globe,
+my eyes tear up...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+674,51-msg_c01r0601_woman2_01,"It makes me a bit nervous to trade Pokémon with
+strangers, but it makes me excited to think that
+I can meet Pokémon I’ve never seen before.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+662,51-msg_c01r0601_receptionist_06,Please do visit again.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+663,51-msg_c01r0601_receptionist_07,"I hope you enjoy your visit to the Global
+Wonder Station!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+675,53-mes_earth_01_01,"Welcome to Geonet, the high-tech globe!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+676,53-mes_earth_01_02,What would you like to do?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+677,54-msg_c01r0701_rival_01_1,"Hey, {tag:0}! Did you come to
+{pageend:study, too?}
+I went ahead and memorized everything that was
+up on the blackboard.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+678,54-msg_c01r0701_rival_01_2,"After all, it’s the Trainer’s job to avoid having
+their precious Pokémon hurt in battle, right?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+679,54-msg_c01r0701_rival_01_3,"So, {tag:0}, what brings you here?
+You’ve got something for me?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+680,54-msg_c01r0701_rival_02,You delivered the Parcel.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+681,54-msg_c01r0701_rival_03_1,"{pageend:So, what is this?}
+Score! It’s a Town Map!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+682,54-msg_c01r0701_rival_03_2,"{pageend:Huh?! Why are there two in here?}
+I like it a lot, but I don’t need two.
+Here, {tag:0}, you take one!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+683,54-msg_c01r0701_rival_03_3,You obtained a <color=#F01E1EFF>Town Map</color>!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+684,54-msg_c01r0701_rival_04_1,"{pageend:Hmm...}
+Well, according to the Town Map, I guess
+Oreburgh City is where I should be going next.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+685,54-msg_c01r0701_rival_04_2,"There’s a Gym, so it’d be perfect for raising the
+Pokémon I just caught.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+686,54-msg_c01r0701_rival_04_3,"Well, I’m on the road to becoming the greatest
+{pageend:Trainer of all time!}
+See you around!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+687,54-msg_c01r0701_woman3_01,"{pageend:You just became a Trainer, did you?}
+You should look up topics that you’re not
+familiar with.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+688,54-msg_c01r0701_boy2_01_1,We learned about Pokémon types today. Umm...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+689,54-msg_c01r0701_boy2_01_2,"Grass is weak to Fire, Fire is weak to Water, and
+Water is weak to Grass! I think that’s how it goes!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+690,54-msg_c01r0701_girl1_01,"Pokémon are smart enough to use items
+{pageend:they’re holding.}
+But they won’t know what to do with
+human-made items like Potions and Antidotes.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+691,54-msg_c01r0701_boy2a_01,"I wrote an essay in my notebook on what makes
+a true Pokémon Trainer.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+692,54-msg_c01r0701_board_01,"The blackboard lists status changes that may
+affect Pokémon in battle.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+693,54-msg_c01r0701_board_02,Which status would you like to read about?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+694,54-msg_c01r0701_board_03,"If a Pokémon is poisoned, it will steadily lose HP.
+{pageend:The effects of poison remain after a battle.}
+Heal a poisoning using an Antidote.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+695,54-msg_c01r0701_board_04,"Paralysis reduces Speed and may prevent
+{pageend:Pokémon from using any moves.}
+Paralysis also lingers after battle, so use a
+Paralyze Heal to clear up its nasty effects.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+696,54-msg_c01r0701_board_05,"If a Pokémon falls asleep, it will be unable to
+{pageend:attack till it wakes.}
+The Pokémon may wake up on its own, but if
+{pageend:the battle ends first, then it will stay asleep.}
+You can wake it up using an Awakening.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+697,54-msg_c01r0701_board_06,"Burns lower a Pokémon’s Attack and steadily
+{pageend:reduce its HP. They linger even after battle.}
+You can cure burns using a Burn Heal.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+698,54-msg_c01r0701_board_07,"If a Pokémon is frozen, it becomes
+{pageend:completely helpless.}
+It may thaw out on its own, but if the battle
+{pageend:ends first, it will remain frozen afterward.}
+You can thaw it out using an Ice Heal.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+699,54-msg_c01r0701_notebook_01_1,It’s a notebook filled with writing. Let’s see...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+700,54-msg_c01r0701_notebook_01_2,"{pageend:Pokémon are to be caught using Poké Balls.}
+Up to six Pokémon can accompany a Trainer.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+701,54-msg_c01r0701_notebook_01_3,"A Trainer is someone who catches Pokémon,
+raises them, and battles with them.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+702,54-msg_c01r0701_notebook_01_4,"A Trainer’s mission is to defeat the strong
+Trainers who await challengers in Pokémon Gyms.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+703,55-msg_c01r0801_boy2_01_1,I got my Pikachu by trading from a distant land.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+704,55-msg_c01r0801_boy2_01_2,"He grows quickly and his level’s high, but he
+{pageend:doesn’t listen to me.}
+It’s not always easy, but Pikachu is still my
+irreplaceable partner!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+705,55-msg_c01r0801_pikachu_01,Pikapikapikaaah!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+706,55-msg_c01r0801_middleman2_01,"{pageend:If everyone around the world had Pokémon...}
+then everyone around the world
+could communicate!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+707,56-msg_c01r0802_man3_01,"We came here because I wanted to see the place
+where the Pokémon I got from a trade grew up.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+708,56-msg_c01r0802_woman2_01,"I think about my friends every time I see the
+Pokémon I traded with them!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+709,56-msg_c01r0802_bigman_01,"You can trade Pokémon with people around the
+{pageend:world using the Global Wonder Station, right?}
+Just hearing that gets my heart racing.
+Such exciting times!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+710,56-msg_c01r0802_girl1_01,"When you connect with people on the internet,
+it’s hard to tell if the world’s big or small.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+711,59-msg_d14r0101_mount_01_1,"{pageend:Oh, lookie there! You’ve got a Pokétch!}
+Hmm... You’re still a pretty new Trainer,
+aren’t you?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+712,59-msg_d14r0101_mount_01_2,"But it’s all good! You’re a new fellow friend
+{pageend:of Pokémon!}
+So, let me make a gift of this Technical
+Machine to you!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+713,59-msg_d14r0101_mount_02_1,"This TM contains the move
+{pageend:Rock Smash.}
+FYI, Technical Machines are used to teach your
+{pageend:Pokémon a move, and TMs will not break.}
+So no need to worry when you use it.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+715,59-msg_d14r0101_mount_02_2,"But to use this hidden move in the field, you’ll
+{pageend:first need the Gym Badge from Oreburgh City.}
+I’m looking forward to seeing your growth!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+716,59-msg_d14r0101_mount_03,"Oh! Good golly!
+{pageend:That’s Oreburgh City’s Gym Badge!}
+All right! Now you can use the hidden move
+Rock Smash on small boulders!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+717,60-msg_d14r0102_cyclew_01,"{pageend:Do you see those slanted rocks on the ground?}
+It feels awesome taking those fast on a bike.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+718,61-msg_group_01,"{pageend:Hi! How’s it going?}
+You’re in the {tag:0} group with
+{tag:1}{pageend: as the leader, right?}
+Would you like to leave that group and join
+another one?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",1,1,35,0,0,0,,0,0,1,0,0,0,0,,0
+719,61-msg_group_11,"{pageend:Hi! How’s it going?}
+You’re in the {tag:0} group with
+{tag:1}{pageend: as the leader, right?}
+Would you like to leave that group and make
+a new one?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",1,1,35,0,0,0,,0,0,1,0,0,0,0,,0
+720,61-msg_group_02,"Hi! I know it’s a little sudden, but would you like
+{pageend:to join a group?}
+If you join a group, you can compete or
+{pageend:cooperate with fellow members. It’s a lot of fun.}
+Want to join?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+721,61-msg_group_03,Which group would you like to join?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+722,61-msg_group_04,Oh. That’s too bad.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+723,61-msg_group_05,"{pageend:Oh, you want to make a new group? Sure thing!}
+The group you made before will be disbanded,
+though. Is that OK?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+724,61-msg_group_06,Cool! What do you want to name your group?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+725,61-msg_group_07,"The {tag:0} group, huh?
+{pageend:That’s a great name!}
+You lead this group.
+I hope they get more members!",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,35,0,0,0,,0
+726,61-msg_group_08,"The {tag:0} group?
+{tag:1} is the leader.
+Would you like to join this group?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,35,0,0,0,,0,1,1,0,0,0,0,,0
+727,61-msg_group_09,"OK! You are now a member of the
+{tag:0} group.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",1,1,35,0,0,0,,0
+728,61-msg_group_10_1,"Mix your records in any Local Room, and you’ll
+be able to join a group of friends you met there.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+729,61-msg_group_10_2,"When you’re in the same group, events can
+{pageend:happen simultaneously.}
+It makes things a lot more fun playing in a group!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+730,61-msg_group_10_3,"{pageend:Anyone can make a group, and anyone can join.}
+I hope you recruit lots of friends so everyone
+can have fun!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+731,61-msg_group_select_01,I want to make a group,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+732,61-msg_group_select_02,I want to join a group,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+733,61-msg_group_select_03,Tell me about groups,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+734,61-msg_group_select_04,"No, thanks",50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+735,61-msg_group_select_05,{tag:0} Group,50,-1,42,756,0,"-1
+0
+0
+-1
+0",0,1,35,0,0,0,,0
+736,61-msg_group_select_06,{tag:0} Group,50,-1,42,756,0,"-1
+0
+0
+-1
+0",1,1,35,0,0,0,,0
+737,61-msg_group_select_07,{tag:0} Group,50,-1,42,756,0,"-1
+0
+0
+-1
+0",2,1,35,0,0,0,,0
+738,61-msg_group_select_08,{tag:0} Group,50,-1,42,756,0,"-1
+0
+0
+-1
+0",3,1,35,0,0,0,,0
+739,61-msg_group_select_09,{tag:0} Group,50,-1,42,756,0,"-1
+0
+0
+-1
+0",4,1,35,0,0,0,,0
+740,61-msg_group_select_10,I changed my mind,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+747,61-msg_group_13,Isn’t there already another group with that name?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+748,62-msg_r218_sign1_01,"Route 218
+Canalave City",187,-1,54,864,0,"-1
+0
+0
+-1
+0"
+749,62-msg_r218_sign2_01,"Route 218
+Jubilife City",187,-1,54,864,0,"-1
+0
+0
+-1
+0"
+757,63-msg_r218r0101_policeman_01,"Route 218 up ahead is a great fishing hole that’s
+almost unknown to people.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+758,63-msg_r218r0101_fishing_01,"Yes, sir! An Old Rod is a good thing! You think so
+too, am I right?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+759,63-msg_r218r0101_fishing_02,"{pageend:Yes! Good answer! We can be friends!}
+Here you go. That’s my {tag:0}!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+760,63-msg_r218r0101_fishing_03,"You should fish wherever there is a body
+{pageend:of water.}
+Oh, and by the way, did you need any tips on
+using that fishing rod?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+761,63-msg_r218r0101_fishing_04,"Oh, really? You don’t like to fish?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+762,63-msg_r218r0101_fishing_05,"First, you face any body of water. Then you use
+{pageend:your fishing rod. Next, you focus!}
+If a Pokémon bites, an “!” appears. That’s your cue
+to reel it in!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+763,63-msg_r218r0101_fishing_06,"The first hurdle when you’re fishing for Pokémon
+{pageend:is getting a bite.}
+Then you’ve got to battle the Pokémon after you
+reel it in. So, fishing gives you twice as much fun!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+764,64-msg_r218r0201_policeman_01,"Gee, I sure am thirsty...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+765,64-msg_r218r0201_assistantm_01_1,"{tag:0}{pageend:, long time no see!}
+Oh? You look puzzled. You’re wondering who
+I am.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+766,64-msg_r218r0201_assistantm_01_2,"I’m Professor Rowan’s assistant and
+{tag:0}{pageend:’s father.}
+The professor asked that I upgrade your
+Pokédex, you see. So I’d chosen this spot on a
+hunch that you’d pass through.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+767,64-msg_r218r0201_assistantm_01_3,"{tag:0}, may I have your Pokédex
+for a moment?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+768,64-msg_r218r0201_assistantm_02_1,"{tag:0}{pageend:, long time no see!}
+Oh? You look puzzled. You’re wondering who
+I am.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+769,64-msg_r218r0201_assistantm_02_2,"I’m Professor Rowan’s assistant and
+{tag:0}{pageend:’s father.}
+The professor asked that I upgrade your
+Pokédex, you see. So I’d chosen this spot on a
+hunch that you’d pass through.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+770,64-msg_r218r0201_assistantm_02_3,"{tag:0}, may I have your Pokédex
+for a moment?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+771,64-msg_r218r0201_assistantm_03_1,"Let’s see... Was I supposed to put in the
+{pageend:software here...?}
+*ka-chunk*
+*ka-chunk*",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+772,64-msg_r218r0201_assistantm_03_2,"...Hm? It looks like your Pokédex doesn’t need
+upgrading. It already lets you toggle between
+{pageend:images of male and female Pokémon.}
+Technology sure has improved lately!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+773,64-msg_r218r0201_assistantm_03_3,"OK, I’ll leave you to carry on with your project
+{pageend:for the professor.}
+...May I also ask you to keep an eye on
+Team Galactic?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+774,64-msg_r218r0201_assistantm_03_4,"The professor is concerned about what happened
+{pageend:in Jubilife City...}
+It’s probably nothing to worry over! I’ll be on my
+way now.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+775,65-msg_r203_rival_01,"Hey! {tag:0}! Tell me you got a
+{pageend:little tougher!}
+Me? Do you even need to ask? Of course I
+{pageend:got tougher!}
+Come on! Let’s battle it out!",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+776,65-msg_r203_rival_02_1,"{pageend:Waaah! What do you mean I lost?!}
+Well, that’s it! That’s the last time I’ll ever lose!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+777,65-msg_r203_rival_02_2,"I’m going to be the world’s toughest Trainer,
+and you know it!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+778,65-msg_r203_rival_02_3,"The first thing to do is take on the Oreburgh
+City Pokémon Gym! I’m gonna toughen up for
+that, totally!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+779,65-msg_r203_girl2_01,"{pageend:Did you know?}
+The first Pokémon to appear in a battle is the
+one at the top of your team list.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+780,65-msg_r203_sign1_01,"Route 203
+Jubilife City",187,-1,54,864,0,"-1
+0
+0
+-1
+0"
+781,65-msg_r203_sign2_01,"Route 203
+Oreburgh City",187,-1,54,864,0,"-1
+0
+0
+-1
+0"
+782,65-msg_r203_sign3_01,"{pageend:Trainer Tips!}
+If a Pokémon is about to evolve, it can be
+{pageend:instantly stopped.}
+Press the B Button during Evolution to startle the
+{pageend:Pokémon into stopping.}
+That is how Evolution can be canceled.",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+783,65-msg_r203_sign4_01,"{pageend:Trainer Tips!}
+Pokémon moves use energy called Power Points—
+{pageend:or PP for short.}
+To replenish PP, head for any Pokémon Center.",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+784,66-msg_c03_rival_01_1,"{pageend:Hunh?}
+Oh, it’s you, {tag:0}! You finally got
+here? You’re slow like always.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+785,66-msg_c03_rival_01_2,"{pageend:You’re so slow, the Gym Leader’s long gone now.}
+He said he had to go to... Uh... Oh yeah—
+to Oreburgh Mine!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+786,66-msg_c03_rival_01_3,"I got my Badge already, so it’s no big deal to
+me, but...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+787,66-msg_c03_rival_02_1,"{pageend:I told you—the Gym Leader isn’t here.}
+If you want to challenge the Gym, you’d better
+go down to the mine and ask him.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+788,66-msg_c03_rival_02_2,"But, wow, a Gym Leader is in a different class of
+toughness. Even I’m feeling run down.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+789,66-msg_c03_rival_03,<size=250%>*thud*</size>,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+790,66-msg_c03_rival_04,"Whoops! {tag:0}! You got the Gym
+{pageend:Badge, huh?}
+Eterna City is the next place with a Gym that
+gives away Badges, right?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+791,66-msg_c03_rival_05,"So, yeah, I went to Route 207, but you can’t go
+{pageend:through it without a bike.}
+I made my team battle and toughened them up,
+so it wasn’t a waste.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+792,66-msg_c03_rival_06,"So, I’m going back to Jubilife City. Next stop,
+{pageend:the Eterna Gym Badge!}
+{pageend:Ten seconds before I dash!}
+{pageend:Nine...}
+Bah! Who’s got time to count?!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+793,66-msg_c03_boy2_01,"{pageend:Howdy, Trainer!}
+If you don’t have a single Gym Badge, other
+Trainers will look down on you like you’re a
+{pageend:total noob, right?}
+So, I’ll show you where the town’s
+Pokémon Gym is.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+794,66-msg_c03_boy2_02,Huh? There’s someone there.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+795,66-msg_c03_boy2_03,"Is that guy in front of the Gym your friend?
+He’s sort of twitchy and impatient.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+796,66-msg_c03_boy2_04,"Oh, hi—you’re back! The Gym Leader’s waiting
+for you.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+797,66-msg_c03_boy2_05,"Can I see your Trainer Case?
+The Gym Badge you just won is in it, right?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+798,66-msg_c03_girl3_01,The Gym Leader went off to work in the mine.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+799,66-msg_c03_girl3_02,"The Gym Leader is young, but he’s the safety
+{pageend:supervisor of the mine.}
+He’s an expert in more than just one field!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+800,66-msg_c03_middlewoman_01,"{pageend:Everyone’s proud of the mine.}
+They’re digging for coal under the sea as we
+speak... It’s amazing how they do it!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+801,66-msg_c03_mount_01,"Up ahead there’s a huge mountain that towers
+{pageend:above everything.}
+It divides Sinnoh into two distinct halves.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+802,66-msg_c03_man2_01,"Have you seen the vents? They release steam
+from down below.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+803,66-msg_c03_workman_a_01,"These vents exchange the hot air down below
+{pageend:with fresh air from outside.}
+Looking down them gives me the urge to start
+yelling into ’em! Hello!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+804,66-msg_c03_workman_b_01,"There’s no question that this is hard, hard work.
+But working alongside Pokémon... It gives me a
+boost somehow. Here, take one of these.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+805,66-msg_c03_workman_b_02,"Feeling hale and hearty puts a smile on my face.
+And that makes me happy.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+806,66-msg_c03_workman_c_01_1,This pile of dirty sand is called a slag heap.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+807,66-msg_c03_workman_c_01_2,It’s the waste from sorting coal.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+808,66-msg_c03_workman_d_01,"Chop, chop, Machop!
+Chop, chop away on rocks! ♪",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+809,66-msg_c03_girl2_01,"{pageend:There are a lot of different TMs.}
+It’s tricky trying to decide which Pokémon should
+learn what moves.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+810,66-msg_c03_campboy_01,"When I run around with my Running Shoes on,
+it feels like I’m the center of attention!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+811,66-msg_c03_poke_01,Macho! Chopo!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+812,66-msg_c03_sign1_01,"Oreburgh City
+City of Energy",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+813,66-msg_c03_sign2_01,"Oreburgh Pokémon Gym
+Gym Leader: Roark
+“Call me Roark the Rock!”",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+814,66-msg_c03_sign3_01,"Oreburgh Mining Museum
+“Coal Mining and You!”",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+815,66-msg_c03_sign4_01,"Oreburgh Coal Mine
+Beware of Busy Pokémon!",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+816,67-msg_c03fs0101_mount_01,"The Badges that Pokémon Gyms give you are a
+{pageend:measure of a Trainer’s worth.}
+By getting more Badges, you get to buy more
+items in Poké Marts.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+817,67-msg_c03fs0101_bigman_01,"The Poké Mart girls are so pretty! They leave
+me tongue-tied...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+818,68-bg_msg_book1_01,It’s lined with colorful binders.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+819,68-bg_msg_bookrack1_01,"It’s chock-full of Pokémon books and
+photo collections.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+820,68-bg_msg_bookrack2_01,"{pageend:Pokémon magazines!}
+Pokémon Pal... Pokémon Handbook...
+Adorable Pokémon...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+821,68-bg_msg_scrap_01,The trash can is empty.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+822,68-bg_msg_shoprack1_01,"The shelves are jammed with colorful
+Pokémon goods.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+823,69-msg_c03r0101_man1_01,"There are eight Gym Leaders in the
+{pageend:Sinnoh region.}
+The objective for Trainers is to get Gym Badges
+from them all.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+824,69-msg_c03r0101_boy2_01,"A Gym Leader isn’t just like any Trainer
+{pageend:you meet.}
+I’d take as many Pokémon as possible if I
+were you.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+825,69-msg_c03r0101_middlewoman1_01,Roark lets us train our Pokémon in the mine.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+826,70-msg_c03r0102_workman_01,"Giving nicknames to Pokémon is the way to go.
+It makes you feel as if they’re your very own.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+827,70-msg_c03r0102_girl3_01,"He named our Psyduck “Yellow” just because of
+{pageend:its color...}
+I don’t understand the logic behind that at all.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+828,70-msg_c03r0102_girl1_01,"Are you catching Pokémon? Here, take this if
+you’d like.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+829,70-msg_c03r0102_girl1_02,"The Dusk Ball is a Poké Ball designed for use
+{pageend:in darkness.}
+It works better if you use it at night or in a cave.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+830,70-msg_c03r0102_koduck_01,Duuuck?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+831,71-msg_c03r0103_girl1_01,"Do you have your Pokémon hold items? If you’d
+like, let one hold this {tag:0}.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+832,71-msg_c03r0103_girl1_02,"That {tag:0} intensifies the
+{pageend:power of Rock-type moves.}
+Unfortunately, none of my Pokémon can use
+Rock-type moves, so...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+833,71-msg_c03r0103_koduck_01,Duuuck?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+834,72-msg_c03r0104_middlewoman1_01,"Thanks to the Gym Leader, we can
+play underground.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+835,73-msg_c03r0201_girl3_01,"Listen, listen—do you have a Pokémon
+{pageend:called Machop?}
+Would you be willing to trade your Machop for
+my Abra?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+836,73-msg_c03r0201_girl3_02,"Be nice to my Abra! I’ll be sure to look after your
+Machop in return!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+837,73-msg_c03r0201_girl3_03,What I asked for was a Ponyta...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+838,73-msg_c03r0201_girl3_04,"{pageend:Oh, OK... Well, I can’t make you trade me.}
+But if you change your mind, I’ll be right
+here waiting!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+839,73-msg_c03r0201_girl3_05,"Thanks to Pokémon, I got to be friends with you!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+840,73-msg_c03r0201_oldwoman1_01_1,"{pageend:A Pokémon obtained in a trade grows quickly.}
+But if a Pokémon grows too much, it will often
+ignore the Trainer.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+841,73-msg_c03r0201_oldwoman1_01_2,"Of course, that won’t matter if you have a lot
+of Gym Badges.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+842,74-msg_c03r0202_man2_01,"All Pokémon have a special power called
+an Ability.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+843,74-msg_c03r0202_woman1_01,"{pageend:How my Pokémon and I are alike...}
+It’s not anything I can explain easily.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+844,74-msg_c03r0202_bigman_01,"The view is good from up here, but it’s a pain
+{pageend:going out.}
+If you don’t mind, how about showing me a
+Pokémon called Zubat?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+845,74-msg_c03r0202_bigman_02_1,"The view is good from up here, but it’s a pain
+{pageend:going out.}
+If you don’t mind, how about showing me a
+Pokémon called Zubat?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+846,74-msg_c03r0202_bigman_02_2,"Oh! That Pokémon! That’s a Zubat!
+Wow, that’s cool... It’s so cute...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+847,74-msg_c03r0202_bigman_02_3,"{pageend:That does it! I’ll go out and catch Pokémon, too!}
+Thank you, my friend! This is a token of
+my thanks!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+848,74-msg_c03r0202_bigman_03,"Yeah, there are so many kinds of Pokémon out in
+the world. I want to see them all now!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+849,75-msg_c03r0203_middlewoman1_01,"During the daytime, everyone goes off to
+{pageend:the mine.}
+At night, everyone’s at home getting some
+well-deserved rest.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+850,75-msg_c03r0203_workman_01,We’ll keep digging coal. The world needs energy!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+851,75-msg_c03r0203_babygirl1_01,"Everyone, including lots of Pokémon, dug the big
+underground maze!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+852,77-msg_c03r0301_girl3_01,"{pageend:Roark is a user of Rock-type Pokémon.}
+Don’t you think Rock-type Pokémon are nice?
+I like how lumpy they are!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+853,77-msg_c03r0301_mount_01,"Roark is our town’s Gym Leader. He may be
+young, but he keeps the mine running safely
+and efficiently.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+854,78-msg_c03r0401_woman6_01,"Hello! Welcome to the Oreburgh
+Mining Museum!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+855,78-msg_c03r0401_assistantm_01,"Hello, hello! How are you?
+I study Pokémon Fossils! Me! Right here and now!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+856,78-msg_c03r0401_assistantm_02,"You have a Fossil for me, yes? Shall I turn it into
+a Pokémon?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+857,78-msg_c03r0401_assistantm_03,"Which Fossil should I turn back into a Pokémon?
+Choose! Now!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+858,78-msg_c03r0401_assistantm_04,"OK, I will do that! Turn that Fossil back into a
+Pokémon, surely I will!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+859,78-msg_c03r0401_assistantm_05,"You don’t wish that I extract any Pokémon from a
+Fossil. Fine, then!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+860,78-msg_c03r0401_assistantm_06,"I am in the process of extracting your Pokémon
+{pageend:from a Fossil.}
+You go outside, yes, please. Now! Time alone is
+what I now need. NOW!!!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+861,78-msg_c03r0401_assistantm_07,"You were gone too long! You kept us
+{pageend:waiting! Unacceptable!}
+This is your {tag:0}! You be good to
+it! OK!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+862,78-msg_c03r0401_assistantm_11,You received {tag:0}!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,1,0,0,0,,0
+863,78-msg_c03r0401_assistantm_12,"Would you like to give a nickname to the
+{tag:0} you received?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,1,0,0,0,,0
+864,78-msg_c03r0401_assistantm_08,"But, no, I cannot do this! You have too many
+{pageend:Pokémon with you!}
+I must hold this Pokémon for you, so come back,
+you, and take it away, please.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+865,78-msg_c03r0401_assistantm_09,"If it is a Fossil that you obtain, bring it to me if
+you must.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+866,78-msg_c03r0401_assistantm_10,"On the verge of a breakthrough, I am, to achieve
+{pageend:extraction from Fossils.}
+From Fossils I can extract Pokémon, but not yet,
+not yet.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+867,78-msg_c03r0401_mount_01,"Whoa! So this is coal? I never expected
+something this big!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+868,78-msg_c03r0401_babygirl1_01,"Wow! The Pokémon that carried this must be
+terribly strong!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+869,78-msg_c03r0401_boy1_01,"Well, how about that! Oreburgh Mine extends
+under the seafloor!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+870,78-msg_c03r0401_rack1_01,"{pageend:How Coal Is Made: Part 1}
+“In a time long before history, vegetative matter
+was swept along by rain and rivers. It came to be
+buried under the ground.”",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+871,78-msg_c03r0401_rack2_01,"{pageend:How Coal Is Made: Part 2}
+“The buried plant matter was forced ever deeper
+underground due to tremors and fissures
+caused by the shifting landmasses.”",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+872,78-msg_c03r0401_rack3_01,"{pageend:How Coal Is Made: Part 3}
+“Deep underground, the plant matter was
+subjected to heavy pressure and the heat
+of magma. It gradually turned into coal.”",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+873,78-msg_c03r0401_case1_01,"Samples of coal from different regions
+are displayed.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+874,78-msg_c03r0401_case2_01,The box contains categorized samples of coal.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+875,78-msg_c03r0401_case3_01,"{pageend:Different kinds of lamps are displayed.}
+They appear to have been worn on someone’s
+head while the person was underground.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+876,78-msg_c03r0401_case4_01,"{pageend:Badly scarred wooden tools are displayed.}
+They apparently dug out coal using these tools in
+the olden days.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+877,78-msg_c03r0401_case5_01,"The everyday items and tools of past mine
+workers are displayed.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+878,79-msg_c03r0501_boy2_01,"Have you ever seen or heard about Shiny
+{pageend:Pokémon? They have different colors than usual.}
+{pageend:For instance, Pikachu is usually yellow, correct?}
+Well, Shiny Pikachu is sort of orange.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+879,79-msg_c03r0501_middlewoman1_01,"You know how Pokémon have different Natures
+{pageend:like we have personalities?}
+I don’t think it’s surprising to see Pokémon in
+different colors.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+880,79-msg_c03r0501_purin_01,Pikaaah!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+881,80-msg_c03r0601_middleman1_01,"Hiya! Your Pokémon could use some
+{pageend:toughening up.}
+Why not try training in Oreburgh Mine?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+882,80-msg_c03r0601_mount_01,"I always have a rotten time trying to decide
+which moves my Pokémon should learn.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+883,80-msg_c03r0601_man3_01,"You remind me so much of the time I got my
+first Pokémon.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+884,81-msg_c03r0602_gentleman_01,"{pageend:Oreburgh Mine is operated with the utmost care.}
+We avoid causing any damage to the natural
+habitats of Pokémon.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+885,81-msg_c03r0602_boy2_01,"{pageend:Wow, your Pokémon’s eyes are twinkling brightly!}
+Seeing that makes me happy! Here, I want you to
+have this!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+886,81-msg_c03r0602_boy2_02,"You know how Pokémon stay inside their
+{pageend:Poké Balls?}
+I try to think about what would be the best
+Poké Balls for them.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+887,81-msg_c03r0602_assistantm_01,"The whole system of taking the coal out of the
+{pageend:mine is automated.}
+There’s nothing backbreaking about it!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+888,82-msg_c03r0603_assistantm_01,"{pageend:The coal mine here’s fully automated.}
+Coal mining was brutally hard in the old days,
+but not anymore!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+889,82-msg_c03r0603_man3_01,"You remind me so much of the time I got my
+first Pokémon.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+890,83-msg_c03r0701_workman_01,"You’re taking a tour of our coal mine?
+{pageend:Wonderful! That’s excellent of you.}
+It’s always good to learn about new things and
+broaden your horizons!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+891,84-msg_c03gym0101_leader_01_1,"{pageend:Welcome! This is the Oreburgh Pokémon Gym!}
+{pageend:I’m Roark, the Gym Leader!}
+I’m but one Trainer who decided to walk proudly
+with Rock-type Pokémon!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+892,84-msg_c03gym0101_leader_01_2,"As the Gym Leader, I need to see your potential
+{pageend:as a Trainer.}
+And I’ll need to see the toughness of the
+Pokémon that battle with you!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+893,84-msg_c03gym0101_leader_02_1,"{pageend:This is embarrassing...}
+I went and lost to a Trainer who didn’t have a
+single Gym Badge...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+894,84-msg_c03gym0101_leader_02_2,"But that’s the story. You were strong,
+and I was weak. That’s all there is.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+895,84-msg_c03gym0101_leader_02_3,"According to Pokémon League rules, I have to
+give you our Gym Badge since you’ve beaten me,
+the Gym Leader.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+896,84-msg_c03gym0101_leader_02_4,"Here’s your official Pokémon League
+Coal Badge.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+897,84-msg_c03gym0101_leader_03,You received the Coal Badge from Roark!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+898,84-msg_c03gym0101_leader_04,"Having that Coal Badge means you can now use
+{pageend:the hidden move Rock Smash from your Pokétch.}
+You should also take these, too.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+899,84-msg_c03gym0101_leader_05_1,"Each {tag:0} contains the move
+{pageend:Stealth Rock.}
+It’s a move that inflicts damage on opponents
+that switch into battle.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+902,84-msg_c03gym0101_leader_05_2,"Incidentally, a TM will teach its move to a
+{pageend:Pokémon instantly.}
+TMs will not break when you use them, so
+you can use them as often as you'd like.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+903,84-msg_c03gym0101_leader_06,"In this region of Sinnoh, there are seven other
+{pageend:Gym Leaders.}
+I should warn you—they’re a lot tougher than
+I am!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+910,84-msg_c03gym0101_sunglasses_01_1,"I’m the Gym Guide and it’s my job
+to make sure up-and-coming trainers
+{pageend:are ready for their Gym Challenges!}
+Our tough Leaders here in Sinnoh have
+{pageend:been learning some new tricks.}
+So make sure to talk me when
+you want to some interesting info!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+911,84-msg_c03gym0101_sunglasses_01_2,"The Gym Leader is a user
+{pageend:of Rock-type Pokémon.}
+He’s taken to setting up Sandstorms to
+{pageend:boost their Special Defenses,}
+and gave his Pokémon some fancy goggles
+{pageend:to protect them from spore moves!}
+I hear if you can get your hands on
+{pageend:them in the fight,}
+those goggles can protect you
+from the effects of weather, too... ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+912,84-msg_c03gym0101_sunglasses_01_3,"That’s all the advice I can give.
+Thanks for listening!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+913,84-msg_c03gym0101_sunglasses_01_4,"Going after a Rock-type Pokémon with a
+{pageend:Fire-type Pokémon won’t be easy, either.}
+That’s all the advice I can give.
+Thanks for listening!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+914,84-msg_c03gym0101_sunglasses_02,"Oh! {tag:0}! You’ve taken care of the
+{pageend:Gym Leader!}
+{pageend:So, did my advice come in handy or what?}
+If my advice was useful, it’d be great if you’d
+become my fan!",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+915,84-msg_c03gym0101_statue_01,"Oreburgh Pokémon Gym
+Gym Leader: Roark
+Certified Trainers: {tag:0}",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+916,84-msg_c03gym0101_statue_02,"Oreburgh Pokémon Gym
+{pageend:Gym Leader: Roark}
+Certified Trainers: {tag:0}
+{tag:1}",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+917,85-msg_d01r0101_workman_01,"Everyone who works in the coal mine keeps their
+{pageend:own Pokémon with them.}
+You may be challenged to battles! Hahaha!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+918,85-msg_d01r0101_babygirl1_01,"There were Pokémon that looked just like rocks!
+They sure surprised me!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+919,86-msg_d01r0102_leader_01,"{pageend:OK, stand back and watch this.}
+Using the hidden move Rock Smash, get rid of
+the boulder blocking your way...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+920,86-msg_d01r0102_leader_02_1,"Fallen boulders need to be smashed
+{pageend:so they’re out of the way.}
+If you could get the Badge from
+the Gym in town, you’d be able
+{pageend:to do this too.}
+Of course, you’d have to beat the
+Gym Leader first. That’d be me!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+921,86-msg_d01r0102_leader_02_2,"Of course, you’d have to beat the Gym Leader
+first. That’d be me!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+922,86-msg_d01r0102_wanriky1_01,Maaacho!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+923,86-msg_d01r0102_wanriky2_01,Chopchop!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+924,86-msg_d01r0102_wanriky3_01,Chopmacho!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+925,86-msg_d01r0102_workman_01,"I met these Machop on Route 207. They’ve now
+become my most trusted partners!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+926,87-msg_c03pc0101_babyboy1_01,"{pageend:Yay!}
+I traded Pokémon at the Global Club downstairs!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+927,87-msg_c03pc0101_woman3_01,"Switch on the PC at any Pokémon Center and
+{pageend:connect to the Pokémon Boxes.}
+That’s all you need to do to store or bring out
+{pageend:your Pokémon.}
+You may be able to access the Pokémon Boxes
+from the menu screen!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+928,87-msg_character_select_01,"Welcome! I’m here to help you with your
+{pageend:appearance for the Union Room.}
+Would you like to select a Trainer appearance?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+929,87-msg_character_select_02,"Which kind of Trainer would you like to
+appear as?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+930,87-msg_character_select_03,Is the {tag:0} look OK?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,14,0,0,0,,0
+931,87-msg_character_select_04,"Thanks! I’ll make sure you’re set up with the
+{tag:0}{pageend: look.}
+I hope you enjoy your time in the Union Room!",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,14,0,0,0,,0
+932,87-msg_character_select_05,"{pageend:Understood.}
+Please enjoy your time in the Union Room!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+934,87-msg_c03pc0101_mystery_01,"If you’d like to change your appearance for the
+Union Room, talk to the receptionist to the left
+on the second floor.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+513,28-mes_shop_02_10,You have no room in your Explorer Kit.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+935,88-msg_c03pc0103_girl2_01,"Before I enter the Global Room, I take a deep
+breath and ask myself: do I want to battle today?
+Or do I want to trade?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+936,89-msg_r204a_boy2_01,"There are boulders blocking the way inside
+{pageend:the cavern...}
+I think a hidden move in the Pokétch would be
+able to break those boulders, though.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+937,89-msg_r204a_sign1_01,"Route 204
+Jubilife City",187,-1,54,864,0,"-1
+0
+0
+-1
+0"
+938,89-msg_r204a_sign2_01,Ravaged Path,183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+939,90-msg_r204b_boy2_01,"{pageend:Are you raising different kinds of Pokémon?}
+If you only have one type of Pokémon, you’ll
+have a hard time against types it’s weak to.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+940,90-msg_r204b_woman3_01,"Hi! I teach at the Trainers’ School, and I’d like to
+{pageend:give you a special lesson.}
+But before I do, I want you to have this TM.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+941,90-msg_r204b_woman3_02_1,"When you get snarled at, you wince a bit.
+{pageend:It’s the same for Pokémon.}
+The move Snarl lowers the target’s
+Special Attack, or Sp. Atk for short.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+942,90-msg_r204b_woman3_02_2,"You also probably know this, but a TM is good
+{pageend:for multiple uses.}
+Choose the Pokémon wisely if you do decide to
+use it.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+943,90-msg_r204b_sign1_01,"Route 204
+Floaroma Town",187,-1,54,864,0,"-1
+0
+0
+-1
+0"
+944,91-msg_d02r0101_gingam_a_01,"{pageend:What?! No way! You have the key?}
+Locking the door was meaningless! I am the loser
+{pageend:in this after all!}
+This is no time for self pity! I’ve got to alert
+the commander!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+945,91-msg_d02r0101_gingam_a_02,"{pageend:My Pokémon can’t battle anymore.}
+They’re gonna take away my Pokémon for
+{pageend:messing this one up...}
+Humph! Just you wait! Our commander will
+smoosh you!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+946,91-msg_d02r0101_gingaleader1_01_1,I’m one of Team Galactic’s three commanders.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+947,91-msg_d02r0101_gingaleader1_01_2,"We’ve been trying to create a new world that’s
+{pageend:better than this one...}
+But people have shown little understanding
+about what we do.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+948,91-msg_d02r0101_gingaleader1_01_3,"You don’t understand either, do you? It’s a
+{pageend:little saddening...}
+So, let’s have a battle to decide what we should
+do next.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+949,91-msg_d02r0101_gingaleader1_01_4,"If I win, you leave. If you win, we, Team Galactic,
+will leave!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+950,91-msg_d02r0101_gingaleader1_02_1,"{pageend:Oops! I messed that one up!}
+That’s all right, though. I quite enjoyed
+our battle.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+951,91-msg_d02r0101_gingaleader1_02_2,"I guess it’s time to say good-bye and leave for
+the time being!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+952,91-msg_d02r0101_assistantm_01_1,"{pageend:Team Galactic...}
+They were saying they had to gather Pokémon
+{pageend:and energy no matter what.}
+It was for creating a new universe, or so
+{pageend:they claimed.}
+Nothing they said made any sort of sense to me.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+953,91-msg_d02r0101_assistantm_01_2,"Anyway, I can’t tell you how grateful I am to you
+{pageend:for saving me.}
+I can finally see my little daughter again!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+954,91-msg_d02r0101_babygirl1_01,"{pageend:Papa!}
+Yuck! Papa, you’re stinky! Go shower now, stinky!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+955,91-msg_d02r0101_assistantm_02,"Oh, sorry! Ahaha! They had me working nonstop!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+956,91-msg_d02r0101_babygirl1_02,"Thank you, Trainer! You made those bad people
+{pageend:go away!}
+I think the balloon Pokémon will come
+visiting again!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+957,91-msg_d02r0101_assistantm_03_1,"Oh, yes, a balloon Pokémon appears in front of
+{pageend:the Valley Windworks.}
+It used to only appear on a certain day of the week,
+but we’ve started seeing it around more often.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+958,91-msg_d02r0101_assistantm_03_2,"Could its appearance have something to do with
+this windworks using wind-generated energy?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+959,91-msg_d02r0101_assistantm_04,"The Valley Windworks uses turbines to capture
+energy from winds blown from the mountains
+{pageend:down to this canyon.}
+We produce energy from the power of nature
+itself. It’s quite wonderful.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+960,91-msg_d02r0101_babygirl1_03,"If the balloon Pokémon came, the wind would
+blow it away!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+961,92-msg_t03_gingam_a_01,"Aren’t we Team Galactic? And we’re
+{pageend:assigned here?}
+Standing around among flowers... This doesn’t
+seem all that cool.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+962,92-msg_t03_gingam_b_01,"Hey now! Don’t complain. This is a pretty decent
+assignment. But Bug- and Grass-type Pokémon
+{pageend:so creep me out...}
+I don’t like being here, either.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+963,92-msg_t03_boy1_01,"I wanted to get some flowers from
+{pageend:Floaroma Meadow...}
+But some Team Galactic guys in snazzy outfits
+came along...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+964,92-msg_t03_boy1_02,"Those Galactic guys went to the meadow past
+these flowers here...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+965,92-msg_t03_boy1_03,"Being surrounded by flowers puts me in an oddly
+pleasant mood.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+966,92-msg_t03_girl1_01,"I simply love it here... The atmosphere is
+{pageend:so uplifting.}
+You came to get emotionally healed too,
+didn’t you?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+967,92-msg_t03_woman1_01,"Welcome to Floaroma, the town of flowers,
+{pageend:flowers, and more flowers!}
+You should plant some flowers of your own, too.
+Yay for flowers!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+968,92-msg_t03_oldwoman2_01,"Berry trees are profoundly interesting.
+If you grow them with care, they will bear
+great Berries.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+969,92-msg_t03_campboy_01,"{pageend:I got drawn here by the sweet scent of Honey...}
+Seriously, what’s that? What am I? A Pokémon or
+something? Mmm... Honey.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+984,92-msg_t03_sign1_01,"Floaroma Town
+Vivid & Scented",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+985,92-msg_t03_sign2_01,"Pick a Peck of Colors Flower Shop
+Free Berries Available",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+986,92-msg_t03_sign3_01,"Floaroma Meadow Ahead
+Honey Available",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+987,93-msg_t03fs0101_woman2_01,"If I dress up and go to the TV station in Jubilife
+City with my Pokémon, can everyone in the
+region see my Pokémon?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+988,93-msg_t03fs0101_girl3_01,You can’t buy Berries or Ribbons at Poké Marts.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+989,94-msg_t03pc0101_middleman1_01,"If you’ve got Pokémon with you, it’s safe for even
+a kid like you to go off traveling alone.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+990,94-msg_t03pc0101_girl2_01,"I had a battle the other day, and my Pokémon’s
+{pageend:HP got low. I thought we were done for...}
+But then, all of a sudden, my Pokémon ate the
+Berry it was holding! Whew!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+991,94-msg_t03pc0101_woman3_01,"We’re kinda close to Eterna City, but it’s still
+{pageend:quite far away.}
+You should be prepared for a long journey.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+992,95-msg_t03r0101_woman1_01,"A single Berry will grow into a plant that makes
+{pageend:several Berries.}
+By planting one, there will be more and more
+{pageend:Berries in the world.}
+I hope you will help us spread more
+Berries everywhere!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+993,95-msg_t03r0101_woman1_02,"Please come by again tomorrow. I’ll pick a
+{pageend:different Berry for you.}
+Please plant that Berry in soft, earthy soil!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+994,95-msg_t03r0101_girl1_01,"Trainer, please water Berries using this Sprayduck
+watering can.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+995,95-msg_t03r0101_girl1_02,"Use that Sprayduck to water the soil where
+{pageend:you’ve planted Berries.}
+You should also water Berry plants while they
+are growing.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+996,95-mes_accessory_01_01,"Hello! Would you like to exchange your Berries
+for some Stickers?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1011,96-msg_t03r0201_middleman1_01,"Some kinds of Pokémon appear only if they’re
+attracted by the sweet scent of Honey.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1012,96-msg_t03r0201_middlewoman1_01,"{pageend:Pokémon must have an acute sense of smell.}
+They can sense the aroma of Honey from very
+far away.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1013,97-msg_t03r0301_woman1_01_1,"Floaroma Town was a barren, desolate hill
+{pageend:long ago.}
+People started planting flowers on it because it
+was such a sad place.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1014,97-msg_t03r0301_woman1_01_2,"But nothing would grow... People didn’t know
+{pageend:what to do...}
+And then one day, someone expressed thanks for
+{pageend:the blessings of nature.}
+Then, the whole hill burst into bloom. Isn’t that
+strange and wonderful?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1015,97-msg_t03r0301_babygirl1_01,"Do you think it’s cute how Pokémon
+pluck Berries?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1016,97-msg_t03r0301_babygirl1_02,"Yes! You agreed! Here is a TM for the
+move Pluck!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1017,97-msg_t03r0301_babygirl1_03,"Oh...
+I guess I just like weird things...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1018,97-msg_t03r0301_babygirl1_04,"When a Pokémon uses Pluck, it eats a Berry held
+{pageend:by its opponent in battle.}
+I like how it steals a Berry. It’s so cute!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1019,97-msg_t03r0301_eneco_01,Rii?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1020,99-msg_d13r0101_gingam_a_01,Enough arguing! Hand over that sweet Honey!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1021,99-msg_d13r0101_gingam_b_01,"Do as we say!
+{pageend:Team Galactic will have that Honey!}
+We must have it to attract Pokémon in
+great numbers!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1022,99-msg_d13r0101_gingam_a_02,Hey! This kid is a witness! What’ll we do?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1023,99-msg_d13r0101_gingam_b_02,"{pageend:We can’t have the brat running off to get help.}
+The solution’s simple... We must ensure the brat
+stays quiet!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1024,99-msg_d13r0101_gingam_a_03,"This is so lame...
+They’re going to dock my pay!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1025,99-msg_d13r0101_gingam_a_04,"{pageend:I’m up next! Heheheh...}
+Battling you right after my cohort has weakened
+you gives me the edge!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1026,99-msg_d13r0101_gingam_a_05,"This brat’s tough! Like, really, really tough!
+Tougher than I can put into words, and I know
+{pageend:a lot of words!}
+We’re done for now... Let’s get back to the
+Valley Windworks.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1027,99-msg_d13r0101_middleman1_01,"Oh, what’s this thing? They seem to have
+{pageend:forgotten it...}
+It’s a Works Key... It must be for the
+{pageend:Valley Windworks!}
+It’s of no use to me. You may as well have it.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1028,99-msg_d13r0101_middleman1_08_1,"{pageend:Thank you! You surely saved me.}
+Those goons were trying to rob me of my sweet,
+sweet Honey.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1029,99-msg_d13r0101_middleman1_08_2,"They sure were weird, though. You saw how they
+{pageend:were dressed.}
+What they were saying didn’t make a whole lot
+{pageend:of sense, either.}
+Oh! I need to thank you! Will you take this as
+my thanks?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1030,99-msg_d13r0101_middleman1_02,"If you slather that Honey on a sweet-smelling
+tree, it might attract Pokémon.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1031,99-msg_d13r0101_middleman1_03,"Honey can attract Pokémon if it’s slathered on a
+{pageend:tree and left a while.}
+Would you like to buy some Honey for a
+mere 100?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1032,99-msg_d13r0101_middleman1_05,Oopsy! You can’t hold any more.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1033,99-msg_d13r0101_middleman1_06,Oopsy! You don’t have enough money.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1034,99-msg_d13r0101_middleman1_07,"Oopsy! Well, come again.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1035,100-msg_d13r0102_mount_01,"The flowers that grow in the fields here
+{pageend:are special.}
+Do you see how they’re more vivid than flowers
+{pageend:elsewhere in Sinnoh?}
+You can thank Pokémon for that.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1036,100-msg_d13r0102_babyboy1_01,"If you put Honey on a tree, check back later to
+{pageend:see if the tree is rustling.}
+If I see rustling, it gets my hopes up because
+there’s a good chance there is a rare Pokémon.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1037,101-msg_d02_gingam_01_1,"{pageend:Don’t you dare go into the Valley Windworks.}
+I got orders to keep everyone out if they’re not
+part of Team Galactic.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1038,101-msg_d02_gingam_01_2,"You’re giving me a look that makes me think
+{pageend:you’re gonna try to get in.}
+OK, then. You’ll have to battle me for it!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1039,101-msg_d02_gingam_02_1,"{pageend:Isn’t that just great. Getting owned by some kid.}
+But you can’t do a thing if I lock myself in with
+{pageend:my Works Key!}
+That’s right, the other Works Key’s not here!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1040,101-msg_d02_gingam_02_2,"My cohorts in the flower patch have the only
+{pageend:other one!}
+Hahaha! In that sense, I’m no longer the loser!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1041,101-msg_d02_door_01,*ker-chunk*,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1042,101-msg_d02_door_02,It’s locked from inside!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1043,101-msg_d02_door_03,"{pageend:It’s locked from inside!}
+Would you like to use the Works Key?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1044,101-msg_d02_door_04,"{pageend:*ker-chunk*}
+The door to the Valley Windworks opened!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1045,101-msg_d02_balloon_01,Floooooon!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1046,101-msg_d02_sign1_01,"Valley Windworks
+Ecological, Wind-Driven Energy",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+1047,102-msg_r205a_babygirl1_01_1,"{pageend:Help, help, Trainer!}
+Please, can you get my papa for me?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1048,102-msg_r205a_babygirl1_01_2,"{pageend:He works at the Valley Windworks.}
+But the people dressed like space aliens are
+mean and won’t let me in...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1049,102-msg_r205a_babygirl1_02,"Please, Trainer! Get my papa from the
+Valley Windworks!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1050,102-msg_r205a_gingam_a_01,"We, Team Galactic, are conducting research in
+Eterna Forest! This is as far as you will go!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1051,102-msg_r205a_gingam_b_01_1,"Our research involves catching Pokémon in the
+flowery meadows of Floaroma Town.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1052,102-msg_r205a_gingam_b_01_2,"We are also using the energy of the
+{pageend:Valley Windworks for something.}
+But that is of no concern to you!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1053,102-msg_r205a_gingam_b_02_1,"Our research involves catching Pokémon in the
+flowery meadows of Floaroma Town.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1054,102-msg_r205a_gingam_b_02_2,"We are also using the energy of the
+{pageend:Valley Windworks for something.}
+But that is of no concern to you!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1055,102-msg_r205a_boy1_01,"Many Poison-type Pokémon make Eterna Forest
+{pageend:their home.}
+But I didn’t buy any Antidotes. What should I do?
+Do I press on, or do I go back?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1056,102-msg_r205a_boy2_01,"If you slather Honey on a sweet-smelling tree...
+Pokémon may be attracted by that sweet scent.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1057,102-msg_r205a_sign1_01,"Route 205
+Floaroma Town",187,-1,54,864,0,"-1
+0
+0
+-1
+0"
+1058,102-msg_r205a_sign2_01,"Route 205
+Eterna Forest",187,-1,54,864,0,"-1
+0
+0
+-1
+0"
+1059,102-msg_r205a_sign3_01,"{pageend:Trainer Tips!}
+The items placed in your Bag are automatically
+{pageend:sorted to the appropriate pockets.}
+It’s very convenient! It’s a Trainer’s best friend!",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+1060,103-msg_r205ar0101_middlewoman1_01,"You seem to be tired...
+Rest a while.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1061,103-msg_r205ar0101_middlewoman1_02,"You and your Pokémon look
+completely refreshed!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1062,103-msg_r205ar0101_middlewoman1_03,"Just because you’re young doesn’t mean you
+should push yourself.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1063,103-msg_r205ar0101_seven1_04,"You think you can get through Eterna Forest
+by yourself?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1064,104-msg_r205b_fishing_01,"To sit back and fish casually...
+It’s a grown-up’s hobby.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1065,104-msg_r205b_sign1_01,"Route 205
+Eterna Forest",187,-1,54,864,0,"-1
+0
+0
+-1
+0"
+1066,104-msg_r205b_sign2_01,"Route 205
+Eterna City",187,-1,54,864,0,"-1
+0
+0
+-1
+0"
+1069,106-msg_d03r0101_seven1_01_1,"Hello, my name’s Cheryl.
+And you are...?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1070,106-msg_d03r0101_seven1_01_2,"OK, so your name is {tag:0}.
+{pageend:I’m sincerely glad to meet you.}
+{tag:1}, may I ask you a big favor?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,0,1,0,0,0,0,,0
+1071,106-msg_d03r0101_seven1_01_3,"I want to get through this forest, but I’m afraid
+{pageend:of doing it alone.}
+I’ve heard that there is a sinister group of people
+called Team Galactic about.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1072,106-msg_d03r0101_seven1_01_4,"I think there’ll be safety in numbers.
+Please, may I go through with you?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1073,106-msg_d03r0101_pair_01,You decided to go with Cheryl!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1074,106-msg_d03r0101_pair_02,I’ll keep your Pokémon in perfect health.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1075,106-msg_d03r0101_seven1_02,"Oh, hi, {tag:0}!
+{pageend:I’ve been waiting like I said.}
+Let’s go through this forest together.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+1076,106-msg_d03r0101_seven1_03,"Oh? Are you going back?
+I’ll wait here for you, then.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1077,106-msg_d03r0101_seven1_04,"Oh! There’s the exit! I’m so relieved...
+{pageend:We finally got here.}
+I would’ve never been able to get through this
+by myself. Thank you so much, {tag:0}!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+1078,106-msg_d03r0101_boy3_01,"My Pokémon got poisoned, and now it
+{pageend:can’t battle.}
+I knew I should’ve loaded up on Antidotes at the
+Poké Mart!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1079,106-msg_d03r0101_stone_01,"The rock is covered in moss.
+It feels pleasantly cool.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1080,106-msg_d03r0101_leader_01,"Hiya! Were you intrigued by the rumors going
+around, too?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1081,106-msg_d03r0101_leader_02,"You know, people’ve been talking about the
+{pageend:ghost Pokémon of the Old Chateau.}
+I’ve been hearing rumors about sinister
+shadows, too.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1082,106-msg_d03r0101_leader_03_1,"I should check it out myself, but going in
+{pageend:there is...}
+Well, you know, being that I’m a Gym Leader,
+I’m always busy.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1083,106-msg_d03r0101_leader_03_2,"So, since I’m so busy, I can’t go in.
+{pageend:It’s not because I’m s-scared!}
+S-so, good luck with your investigation!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1084,106-msg_d03r0101_sign1_01,"Eterna Forest
+Where Time Stands Still",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+1085,106-msg_d03r0101_sign2_01,"{pageend:Trainer Tips!}
+In forests and caves, there are many items on the
+{pageend:ground that can’t be seen in the murky darkness.}
+Take the time to search carefully!",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+1086,107-msg_d25r0101_01_01,It appears as if it is glaring...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1087,108-msg_d25r0106_tv_01,"The TV has an oddly malevolent feel...
+It’s as if it is staring.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1088,108-msg_d25r0106_tv_02,"Inside the TV...there appears to be a Pokémon.
+{pageend:The Pokémon looks like it could come out.}
+Would you like to thump the TV?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1089,108-msg_d25r0106_tv_03,You thumped the TV set!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1090,108-msg_d25r0106_tv_04,Rotom disappeared into the TV set...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1091,108-msg_d25r0106_tv_05,Oh? Something is on the ground.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1092,108-msg_d25r0106_tv_06,"You obtained
+{tag:0}<color=#F01E1EFF>{tag:1}</color>!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",-1,19,5,5,0,1,,0,1,1,10,0,0,0,,0
+1093,109-msg_d04_sign1_01,"Fuego Ironworks
+Home to Molten Foundries",183,10,54,1080,0,"-1
+0
+0
+-1
+0"
+1094,110-msg_d04r0101_middleman2_01_1,"Well, hello! It’s not often I get a visitor here.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1095,110-msg_d04r0101_middleman2_01_2,"I tried to make the ironworks run better with the
+{pageend:moving floor tiles.}
+But no one was happy about it! They said the
+moving floor made them dizzy!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1096,110-msg_d04r0101_middleman2_01_3,"But you don’t want to listen to me whine.
+Here’s a souvenir!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1097,110-msg_d04r0101_middleman2_02,"My ironworks would be nothing if there were
+{pageend:no iron.}
+That’s why I’m always thankful for nature
+supplying me with iron.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+666,51-msg_c01r0601_receptionist_10,Uh-oh!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+667,51-msg_c01r0601_receptionist_11,"You only have one Pokémon. If you wish to use
+the Global Wonder Station, you must have at
+least two Pokémon—including those in Boxes.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+668,51-msg_c01r0601_receptionist_12,"Please come back when you have at least
+two Pokémon.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+997,95-mes_accessory_01_03,Which Sticker would you like?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+999,95-mes_accessory_01_04,"You want {tag:0} {tag:1}{pageend:, right?}
+Would you like to trade
+{tag:2} {tag:3} for {tag:4}?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,77,0,0,0,,0,4,2,2,1,0,205,,0,3,1,9,0,0,0,,0,-1,19,1,5,0,0,"it
+them",0
+1000,95-mes_accessory_01_05,Thank you! Here you go.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1001,95-mes_accessory_01_06,You don’t have enough Berries.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1002,95-mes_accessory_01_07,"Oh, you can’t carry any more than that.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1003,95-mes_accessory_01_08,Please come again!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1004,95-mes_accessory_01_09,You obtained {tag:0} {tag:1}!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,77,0,0,0,,0
+1005,95-mes_accessory_02_01,Yes,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+1006,95-mes_accessory_02_02,No,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+1007,95-mes_accessory_03_01,{tag:0},50,-1,42,756,0,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+1008,95-mes_accessory_03_02,Needed: {tag:0},50,-1,42,756,0,"-1
+0
+0
+-1
+0",1,2,2,1,0,205,,0
+1009,95-mes_accessory_03_03,In Bag: {tag:0},50,-1,42,756,0,"-1
+0
+0
+-1
+0",2,2,2,1,0,205,,0
+1010,95-mes_accessory_04_01,Exit,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+1067,105-msg_d03_woman1_01,"Oh, so you know about Capsule Decoration, too.
+Then I’ll give you these Stickers.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1068,105-msg_d03_woman1_02,"I collect Berries and trade them for Stickers in
+{pageend:Floaroma Town.}
+A single Sticker can create a totally different
+{pageend:impression depending on where you place it.}
+Sometimes I’ll spend all day worrying about
+exactly how to decorate my Ball Capsules!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+476,27-msg_c01_shopwoman_03,I’m so sorry. The GWS isn’t ready yet.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+598,36-msg_c01r0202_sunglasses_02,"{tag:0} {tag:1}{tag:2}!
+I hope you get into collecting a lot of Stickers!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",-1,19,1,5,0,0,"What I gave you is
+What I gave you are",0,-1,19,5,5,0,0,,0,0,1,77,0,0,0,,0
+616,39-msg_c01r0205_clip_gaku_b,"This is a display of the Stickers used by
+{tag:0}’s Leader {tag:1}{pageend:.}
+Would you like to try the same Capsule
+Decoration as {tag:2}?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,29,0,0,0,,0,1,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+466,27-msg_c01_woman3_iro_01,"I went to the Trainers’ School around here.
+Study there, and you may come out stronger.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+467,27-msg_c01_woman3_iro_02,"{pageend:Oh! You know about Capsule Decoration, too?}
+As a Trainer who studied in the Trainers’ School,
+I’ll give these to you.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+468,27-msg_c01_woman3_iro_03,"{pageend:Yes, yes. You do look a bit stronger.}
+Keep working toward that dream of becoming
+an Ace Trainer!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+469,27-msg_c01_woman1_iro_01,"{pageend:The GWS connects people all over the world.}
+I told that to my Budew, and now it looks
+so happy!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+470,27-msg_c01_korinku,Roarink!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+471,27-msg_c01_subomi,Dewfff!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+750,62-msg_r218_girl1_iro_01,"I asked my boyfriend to meet me here on
+Route 218, but he’s nowhere to be seen.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+751,62-msg_r218_girl1_iro_02,"What? He’s waiting for me across the water?
+{pageend:He can be so absent-minded...}
+Thank you for letting me know. Please take these.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+752,62-msg_r218_girl1_iro_03,"Honestly, I really don’t mind waiting here alone
+for my boyfriend to show up.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+753,62-msg_r218_campboy_iro_01,"My girlfriend asked me to meet up with her on
+Route 218, but I can’t find her...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+754,62-msg_r218_campboy_iro_02,"{pageend:Whaaat? So my girlfriend is on the other side...}
+You saved me. Thanks. Please take these.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+755,62-msg_r218_campboy_iro_03,"Any relationship is bound to run into troubles.
+{pageend:If something goes wrong, don’t panic. Just chill.}
+I’ll patiently wait for my girlfriend right here.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+756,62-msg_r218_kyamome,Gullooo!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+518,28-mes_shop_03_05,OK. Here you go. Thank you very much.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+511,28-mes_shop_02_09,"You put {tag:0} {tag:1}
+in your Bag’s {tag:2} pocket.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,10,0,0,0,,0,5,1,24,0,0,0,,0
+133,11-msg_heroine_17_03,"Aww, that’s too bad. Well, let me know if you’ve
+got a moment some other time!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+134,11-msg_heroine_17_04,"Wow, I should have known I didn’t stand a
+chance against you, {tag:0}{pageend:...}
+Thanks so much for teaching me more about
+{pageend:Pokémon battles today!}
+I hope we can battle again sometime!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+135,11-msg_hero_17_01,"Hey, {tag:0}{pageend:! Do you have a minute?}
+Since you’re really tough, I was hoping you could
+teach me about Pokémon battles. Is that OK?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+136,11-msg_hero_17_02,"{pageend:Thanks!}
+I sure am lucky, getting to learn from a Trainer
+{pageend:who’s made it into the Hall of Fame!}
+All right, here goes!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+137,11-msg_hero_17_03,"Aww, that’s too bad. Well, let me know if you’ve
+got a moment some other day!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+138,11-msg_hero_17_04,"Wow, I should have known I didn’t stand a
+chance against you, {tag:0}{pageend:...}
+Thanks so much for teaching me more about
+{pageend:Pokémon battles today!}
+I hope we can battle again sometime!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+170,12-msg_t02_hyota_01,"{pageend:Hi there! It’s been a while!}
+When I heard that you’d defeated the Elite Four
+and entered the Hall of Fame, I rushed straight
+{pageend:here to congratulate you! I mean it—great job!}
+All the other Gym Leaders are really happy for
+you too.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+171,12-msg_t02_hyota_02,"But you know, we Gym Leaders aren’t going to
+{pageend:take this lying down.}
+Losing to you was rough on all of us, yet we still
+{pageend:have our pride as Sinnoh’s eight Gym Leaders.}
+{pageend:Now we’re all determined to beat you this time!}
+So if you don’t mind, could you give us all
+{pageend:another chance with a Pokémon battle?}
+We’ll each be waiting for you at our own Gyms.
+You know where to find me—Oreburgh Gym!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+904,84-msg_c03gym0101_leader_07_01,"{pageend:Hey, you actually came!}
+{pageend:Welcome once more to Oreburgh Gym.}
+Ever since the day I lost to you, I’ve been
+rethinking everything I know about the strengths
+{pageend:and weaknesses of Rock-type Pokémon...}
+Over and over and over... And then it hit me—
+Rock-type Pokémon are simply the best!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+905,84-msg_c03gym0101_leader_08_01,"{pageend:Thanks for coming to see me!}
+Let me show you again just how strong Rock-type
+Pokémon are!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+906,84-msg_c03gym0101_leader_07_02,"I’ve gotta hand it to you... I gave that battle all
+{pageend:I had, but you still beat me fair and square.}
+I can see how you made it into the Hall of Fame.
+You really are a top Trainer!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+907,84-msg_c03gym0101_leader_08_02,"I’ve gotta hand it to you... I gave that battle all
+I had, but you still beat me fair and square.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+908,84-msg_c03gym0101_leader_07_03,"Here’s the Sticker I always use. Now you can use
+it too, if you want!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+909,84-msg_c03gym0101_leader_07_04,"Nothing will ever weaken the bond between me
+{pageend:and Rock-type Pokémon!}
+I hope you come visit again sometime!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+4,7-msg_opening_06,"This world is widely inhabited by creatures
+known as Pokémon.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+608,37-msg_c01r0203_sunglassesb_05_3,"{pageend:...Oh?}
+The fact that you know that phrase tells me
+{pageend:you’re someone in the know.}
+You’re a Trainer, right? I’ll pull some strings
+{pageend:for you.}
+I think I can swing a deal so you’ll be able to get
+a Mystery Gift.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+609,37-msg_c01r0203_sunglassesb_05_4,Now you can use <color=#F01E1EFF>Mystery Gift</color>.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+970,92-msg_t03_madam_01,"Why, hello there...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+971,92-msg_t03_madam_01_02,"I see you’re adventuring with Pokémon. I’m sure
+you’re making many lovely memories together.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+972,92-msg_t03_madam_02,"It looks like you’ve played Let’s Go in
+Kanto before.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+973,92-msg_t03_madam_03,"Would you like to ”go” on an adventure in
+Sinnoh with this Pokémon?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+974,92-msg_t03_madam_03_02,"Oh dear. It appears you can’t accept any
+more Pokémon.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+975,92-msg_t03_madam_04,I’m sure it will be a good partner to you.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+976,92-msg_t03_madam_05,"Please try to take very good care of Mew,
+the New Species Pokémon!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+977,92-msg_t03_gentleman_01,"Oh, you there...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+978,92-msg_t03_gentleman_01_02,"You seem to be really enjoying your adventure
+with your Pokémon!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+979,92-msg_t03_gentleman_02,And I gather you’ve seen a Wishing Star before.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+980,92-msg_t03_gentleman_03,"Would you mind taking this Pokémon? I think it
+would be perfect for you.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+981,92-msg_t03_gentleman_03_02,"Oh my. Apparently you don’t have room for any
+more Pokémon.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+982,92-msg_t03_gentleman_04,"I wish you and this Pokémon the grandest of
+adventures together!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+983,92-msg_t03_gentleman_05,"Take good care of Jirachi, the Wish Pokémon.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+370,23-msg_t01r0201_mama_28,"Oh, {tag:0}{pageend:!}
+You’re forgetting something important.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+371,23-msg_t01r0201_mama_29,"I hope you enjoy your adventure,
+{tag:0}{pageend:.}
+You should let your Pokémon walk with you.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+491,27-msg_c01_aroma1_01,"{pageend:It’s another great day for fortune-telling, Budew!}
+I’m a fortune-teller who can read the future in
+{pageend:the shape of Budew’s bud.}
+Would you like to have your fortune told?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+492,27-msg_c01_aroma1_02,"To begin, could you please tell me the month
+you were born in?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+493,SS_strinput_021,In what month were you born?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+494,SS_strinput_037,Please enter a number between 1 and 12.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+495,27-msg_c01_aroma1_03,"{pageend:I see...}
+And next, what day you were born on?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+496,SS_strinput_022,On what day were you born?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+497,SS_strinput_040,Please enter a number between 1 and {tag:0}.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,2,1,1,0,205,,0
+498,27-msg_c01_aroma1_04,"{pageend:I see...}
+So your birthday is {tag:0}/{tag:1}, yes?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0,1,2,1,1,0,205,,0
+499,27-msg_c01_aroma1_05,"{pageend:Oh dear... It’s not?}
+Perhaps you accidentally told me a loved one’s
+{pageend:birthday instead?}
+Please tell me your own birthday.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+500,27-msg_c01_aroma1_06,"Now then, Budew, let me have a little look at
+{pageend:your bud...}
+The fortune for someone born on {tag:0}/{tag:1}{pageend: is...}
+Hmm, I see...
+Such distinctive swirls...
+And the petals are just barely visible...
+Twitching like it might bloom at any second...
+Right, then your fortune should be...
+{pageend:very happy!}
+Your flowery future will burst into bloom,
+{pageend:wrapping you in its joyful fragrance.}
+If you continue to blossom just as you are now,
+something good is sure to come your way!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0,1,2,1,1,0,205,,0
+501,27-msg_c01_aroma1_07,All right. Let me know if you change your mind.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+502,27-msg_c01_aroma1_08,"You’d rather not, after all? Well then, just let me
+know if you change your mind.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+503,27-msg_c01_aroma1_09,"{pageend:You’d like your fortune told again?}
+Given your birthday of {tag:0}/{tag:1}{pageend:...}
+{pageend:Aha! Today’s fortune is once again a happy one!}
+Please enjoy your fresh and floral day!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0,1,2,1,1,0,205,,0
+619,39-msg_c01r0205_clip_01_3,"Past here are our displays of the Stickers used by
+the Sinnoh region’s Elite Four and Champion.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+621,39-msg_c01r0209_clip_gaku_a,"This is a display of the Stickers used by
+{tag:0}{pageend: of the Elite Four.}
+Would you like to try the same Capsule
+Decoration as {tag:1}?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,0,1,0,0,0,0,,0
+622,39-msg_c01r0209_clip_gaku_b,"This is a display of the Stickers used by
+{pageend:Champion Cynthia.}
+Would you like to try the same Capsule
+Decoration as Cynthia?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+623,39-msg_d31r0201_clip_pc,"The screen is showing Stickers used by Trainers
+{pageend:who fought in the Battle Tower.}
+Would you like to try the same Capsule
+Decoration as one of them?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+620,39-msg_c01r0205_clip_01_4,"Hee hee! You can see the Stickers from that
+{pageend:really fiery guy, and that intellectual guy, too!}
+The Stickers really show their plans and
+{pageend:passion—I found them quite moving!}
+You now have the right to enter this room,
+so please take your time and enjoy the exhibit!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+488,27-msg_c01_mizuki_01_7,"{pageend:You got Ball Capsules!}
+Now you can use the <color=#F01E1EFF>Capsule Decoration</color> feature
+from the <color=#F01E1EFF>Ball Capsules</color> menu!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+933,87-msg_character_select_07,"I’m sorry. The reception desk for changing your
+appearance in the Union Room isn’t open yet.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+900,84-msg_c03gym0101_leader_05_3,"And these are the Stickers I use.
+Here, take some!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+901,84-msg_c03gym0101_leader_05_4,"You obtained the Stickers that
+{tag:0} uses!",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+487,27-msg_c01_mizuki_01_3,I’ll also give these Ball Capsules to you!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+741,61-msg_group_select_11,{tag:0} Group,50,-1,42,756,0,"-1
+0
+0
+-1
+0",5,1,35,0,0,0,,0
+742,61-msg_group_select_12,{tag:0} Group,50,-1,42,756,0,"-1
+0
+0
+-1
+0",6,1,35,0,0,0,,0
+743,61-msg_group_select_13,{tag:0} Group,50,-1,42,756,0,"-1
+0
+0
+-1
+0",7,1,35,0,0,0,,0
+744,61-msg_group_select_14,{tag:0} Group,50,-1,42,756,0,"-1
+0
+0
+-1
+0",8,1,35,0,0,0,,0
+745,61-msg_group_select_15,{tag:0} Group,50,-1,42,756,0,"-1
+0
+0
+-1
+0",9,1,35,0,0,0,,0
+746,61-msg_group_select_16,{tag:0} Group,50,-1,42,756,0,"-1
+0
+0
+-1
+0",10,1,35,0,0,0,,0
+103,11-msg_heroine_09_1,"So, {tag:0}{pageend:.}
+I’m also helping the professor put together the
+National Pokédex.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+104,11-msg_heroine_09_2,"Catching Pokémon can be really challenging,
+{pageend:can’t it?}
+But, it’s also so much fun!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+123,11-msg_hero_09_1,"So, {tag:0}{pageend:.}
+I’m also helping the professor out with the
+National Pokédex.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+124,11-msg_hero_09_2,"Catching Pokémon can be really challenging,
+{pageend:can’t it?}
+But I also have a ton of fun doing it!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1098,23-msg_t01r0201_mama_eevee,It’s an Eevee! Will you take it with you?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1099,23-msg_t01r0201_mama_eevee_get,You obtained an Eevee!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1100,86-msg_d01r0102_leader_03,"Oh, what do you know? There was a valuable
+{pageend:stone inside the rubble.}
+You don’t normally find treasure from fallen
+{pageend:boulders in this region...}
+In fact, this is an Evolution stone! It must
+{pageend:be our lucky day.}
+This stone is very pretty, isn’t it? Do you
+recognize what stone it is?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1101,23-msg_t01r0201_mama_eevee_care,It’s an Eevee! Mom is taking care of it.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1102,83-msg_t01r0202_RIVAL_01,There you are! ,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1103,83-msg_t01r0202_RIVAL_02,"Hey, {tag:0}!
+{pageend: Did you just see the TV?}
+{pageend:Sure you did!}
+Prof. Rowan’s that really important guy who 
+{pageend:studies Pokémon, right? }
+That means he must have lots and lots of 
+{pageend:Pokémon. }
+So— ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+1104,83-msg_t01r0202_RIVAL_03,"Oh, hey! Is this a new PC?!
+So cool! ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1105,83-msg_t01r0202_RIVAL_04,"{pageend:Uh... }
+Where was I? ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1106,83-msg_t01r0202_RIVAL_05,"Oh, right, right! We’re going to go see Prof. 
+{pageend:Rowan and get some Pokémon. }
+{pageend:I’ll be waiting outside. }
+OK, {tag:0}! If you’re late, I’m fining you 
+1 million! ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+1107,21-msg_t01r0101_rivaldad_01_1,"You came over here to play with my son, 
+right, {tag:0}{pageend:?}
+Great! Enjoy yourselves! 
+Don’t get into too much trouble! ",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+1108,83-msg_r0201_RIVAL_01,Too slow! ,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1109,83-msg_r0201_RIVAL_02,"All right! Let’s get moving to Prof. Rowan’s 
+lab. ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1110,83-msg_r0201_RIVAL_03,"What? 
+{pageend:Don’t go into the grass, right? }
+{pageend:No worries! No problem! }
+It doesn’t matter that we don’t have any 
+{pageend:Pokémon. }
+Trust me on this one. 
+{pageend:I’ve got an idea! }
+Now listen. You know how wild Pokémon 
+jump out when you go into tall grass? ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1111,83-msg_r0201_RIVAL_04,"So, what you do is, you scoot to the next patch 
+{pageend:of grass before any wild Pokémon can appear. }
+If we just keep dashing, we can get to Sandgem 
+{pageend:Town without running into wild Pokémon! }
+OK, stick with me! ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1112,83-msg_r0201_RIVAL_05,"{pageend:OK, here goes! }
+On your marks... ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1113,83-msg_r0201_DOCTOR_01,<size=250%>Hold it! </size>,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1114,83-msg_r0201_DOCTOR_02,"You two don’t seem to have any Pokémon 
+{pageend:between you? }
+Then, what is the meaning of going into the 
+tall grass?! ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1115,83-msg_r0201_RIVAL_06,"...
+{pageend:...}
+...
+{pageend:...}
+...
+{pageend:...}
+Hey, 
+{tag:0}{pageend:.}
+This old guy... 
+{pageend:It’s Prof. Rowan, isn’t it? }
+What’s he doing here...? ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+1116,83-msg_r0201_DOCTOR_03,"...
+{pageend:...}
+They tried to go into the tall grass because 
+{pageend:they wanted Pokémon... }
+Hmm... 
+{pageend:What to do...? }
+Their world would surely change if they 
+{pageend:were to meet Pokémon... }
+Is it right for me to put them on that 
+path...? ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1117,83-msg_r0201_DOCTOR_04,"You two. You truly love Pokémon, do you 
+not? ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1118,83-msg_r0201_RIVAL_07,"Whoa, hold up! 
+You’re not making any sense here! ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1119,83-msg_r0201_DOCTOR_05,"Er-hem! 
+{pageend:I didn’t quite catch that, so I will ask again. }
+You two. 
+You truly love Pokémon, do you not? ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1120,83-msg_r0201_RIVAL_08,"Me, too! 
+I love Pokémon, too! ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1121,83-msg_r0201_DOCTOR_06,"I will ask you once again. 
+{pageend:You two. }
+You truly love Pokémon, do you not? ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1122,83-msg_r0201_RIVAL_09,"What?! 
+{pageend:You can ask a hundred times! }
+The answer will never change! We’ll both 
+answer a hundred times, yes!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1123,83-msg_r0201_RIVAL_10,"Right, {tag:0}?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+1124,83-msg_r0201_RIVAL_11,"... 
+That joke’s getting old! ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1125,83-msg_r0201_DOCTOR_07,"...A pair of reckless kids who foolishly try 
+{pageend:to enter tall grass without Pokémon of }
+their own...? It worries me what people 
+like that would do with Pokémon. ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1126,83-msg_r0201_RIVAL_12," ...Uh... 
+{pageend:Well, I, uh... }
+... 
+{pageend:... }
+Well, then forget about me, but give 
+{pageend:a Pokémon to my friend here! }
+I mean, it was me who tried to go into 
+the tall grass and all... ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1127,83-msg_r0201_DOCTOR_08,"Oh?! 
+{pageend:How big of you... }
+Very well, then! 
+{pageend:I will entrust you two with Pokémon! }
+I apologize for putting you through 
+{pageend:that exercise. }
+{pageend:However! }
+You must promise me that you will never 
+{pageend:recklessly endanger yourselves again. }
+{pageend:Now, then... }
+Hm? 
+Now, where...? ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1128,83-msg_r0201_SUPP_01,"Professor Rowan. 
+{pageend:You left your briefcase at the lake! }
+Oh? 
+Is something wrong here? ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1129,83-msg_r0201_DOCTOR_09,"Ah! There it is! 
+{pageend:Nice work. }
+What I was about to do was to entrust 
+these two with their own Pokémon. ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1130,83-msg_r0201_SUPP_02,"{pageend:Wha...?! }
+{pageend:Those Pokémon are crucial. }
+You’re giving them away? ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1131,83-msg_r0201_DOCTOR_10,"Hm! 
+{pageend:We exist side by side with Pokémon. }
+There comes a time when people should 
+{pageend:meet Pokémon. }
+There is a world that should be explored 
+{pageend:together. }
+For them, today is that time. 
+The place, right here. ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1132,83-msg_r0201_DOCTOR_11,"Go on! Open the briefcase and 
+choose a Pokémon! ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1133,83-msg_r0201_RIVAL_13,"Really?! 
+{pageend:Prof. Rowan! }
+I can’t believe it! I’m so happy now 
+that I can’t keep a straight face! ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1134,83-msg_r0201_RIVAL_14,"Hey, {tag:0}. 
+{pageend:You can choose first. }
+Hey, I’m practically a grown-up. 
+I have to show some class here. ",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+1135,83-msg_r0201_DOCTOR_12,"Very well! Both of you have chosen a good 
+{pageend:Pokémon, it seems. }
+{pageend:Now, listen well! }
+The Pokémon you have been entrusted with 
+{pageend:are unfamiliar with the world. }
+{pageend:In that regard, they’re much like you. }
+As fellow newcomers to the world, I hope 
+{pageend:you’ll do well together. }
+If you have any trouble, come see me at my 
+{pageend:lab in Sandgem Town. }
+And now, we’ll be on our way. ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1136,83-msg_r0201_SUPP_03,"Professor! 
+Wait for me! ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1137,83-msg_r0201_SUPP_04,"Uh, sorry, folks. ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1138,83-msg_r0201_RIVAL_15,"How do you like that? 
+Prof. Rowan’s really nice. 
+On TV, he seems so stern and scary. ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1139,83-msg_r0201_RIVAL_16,"Heheh, {tag:1}{pageend:. }
+We’ve both got Pokémon now. 
+{pageend:There’s only one thing to do, right? }
+Are you up for this? ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+1140,83-msg_r0201_RIVAL_17,"What’s with that attitude? 
+Don’t be that way! ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1141,83-msg_r0201_RIVAL_18,"I’ve always wanted to 
+{pageend:say this... }
+The time has finally come! 
+{tag:1}, I challenge you to a battle! ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+1142,31-msg-c01pc0101_cameraman1_01,"We’re filming a contest. Talk to my partner
+if you'd like to participate.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1143,31-msg-c01pc0101_cameraman1_02,Thank you for participating!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1144,31-msg-c01pc0101_reporter1_01,"Oh! You’re a Trainer! 
+{pageend:You’re just who we need! }
+Ah, excuse me. I’m with Jubilife TV. 
+{pageend:We’re the Fun-and-Games TV station, }
+operating straight from this city! 
+{pageend:We’re running a little promotion }
+right now in south west Sinnoh. 
+{pageend:Just answer five questions correctly, }
+and you can receive a fantastic prize! 
+Do you want to have a go? ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1145,31-msg-c01pc0101_reporter1_02,"Alright! Brilliant! 
+Let’s get these cameras rolling! ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1146,31-msg-c01pc0101_reporter1_03,"I understand. We’ll be rolling for a 
+while if you change your mind! ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1147,31-msg-c01pc0101_reporter1_04,"I’m sorry, but that’s not correct... 
+But you’re welcome to try again! ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1148,31-msg-c01pc0101_reporter1_q1,"Here we go! 
+{pageend:It’s the first question! }
+Is Pikachu an Electric-type Pokémon? ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1149,31-msg-c01pc0101_reporter1_q2,"That is correct! 
+{pageend:How about this second question? }
+Does the Kanto region’s Saffron City 
+have an active Fighting-type Gym? ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1150,31-msg-c01pc0101_reporter1_q3,"Keep it going! 
+{pageend:Question number three! }
+Professor Oak is a well-known Pokémon 
+{pageend:researcher based in the Kanto region. }
+Is his full name Samson Oak? ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1151,31-msg-c01pc0101_reporter1_q4,"Right you are! 
+{pageend:The semifinal question! }
+On the Sevii Islands, is it true that 
+the Trainer Tower is on Seven Island? ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1152,31-msg-c01pc0101_reporter1_q5,"Excellent! Fantastic! 
+{pageend:The last question! }
+Do you think you can beat me 
+in a Pokémon battle? ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1153,31-msg-c01pc0101_reporter1_btl,We’ll see if your answer is correct! ,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1154,31-msg-c01pc0101_reporter1_prize1,"You’ve won the grand prize! 
+{pageend:Stupendous work, young Trainer. }
+The grand prize of this quiz is the 
+{pageend:three Pokémon I just battled you with! }
+The Pokémon for Trainers in Kanto. ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1155,31-msg-c01pc0101_reporter1_prize2,"Alright, the Seed Pokémon. 
+It’s Bulbasaur! ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1156,31-msg-c01pc0101_reporter1_prize3,"Alright, the Lizard Pokémon. 
+It’s Charmander! ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1157,31-msg-c01pc0101_reporter1_prize4,"Alright, the Tiny Turtle Pokémon. 
+It’s Squirtle! ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1158,31-msg-c01pc0101_reporter1_prize5,"Thanks a bunch for playing! 
+{pageend:Keep an eye out for our colleagues }
+in Oreburgh and Floaroma. ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1159,31-msg-c01pc0101_reporter1_m,You received {tag:0}!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,1,0,0,0,,0
+1160,31-msg-c03pc0101_reporter1_m,You received {tag:0}!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,1,0,0,0,,0
+1161,31-msg-c03pc0101_cameraman1_01,"We’re filming a contest. Talk to my partner
+if you'd like to participate.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1162,31-msg-c03pc0101_cameraman1_02,Thank you for participating!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1163,31-msg-c03pc0101_reporter1_01,"{pageend:Hello there, young Trainer!}
+I’m with Jubilife TV.
+{pageend:The Fun-and-Games TV Station!}
+We’re running a special promotion all
+{pageend:over the Sinnoh region right now.}
+We’re challenging Trainers to take
+{pageend:a short quiz of five questions.}
+There’s a great reward if you win!
+Do you want to have a go?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1164,31-msg-c03pc0101_reporter1_02,Fantastic! Roll camera! ,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1165,31-msg-c03pc0101_reporter1_q1,Is there a place in Hoenn called Fallarbor Town? ,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1166,31-msg-c03pc0101_reporter1_q2,"Well done!
+{pageend:Now for the second question!}
+Is it true there are reporters in Hoenn 
+known as Tabby and Gai? ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1167,31-msg-c03pc0101_reporter1_q3,"Wow! 
+{pageend:Time for the third question!}
+Is Lisia, the Contest Spectactular idol,
+also the sister of Gym Leader Wallace? ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1168,31-msg-c03pc0101_reporter1_q4,"Incredible! It’s the fourth question! Tell me, 
+Trainer... Where do you come from? ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1169,31-msg-c03pc0101_reporter1_q4_yes,"Yes? Yes Town? I’ve never heard of a place like 
+that. ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1170,31-msg-c03pc0101_reporter1_q4_no,No? No Town? I've never heard of a place like that. ,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1171,31-msg-c03pc0101_reporter1_q5,"Fascinating! Now, for the last question! Can you 
+beat me in a battle? ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1172,31-msg-c03pc0101_reporter1_04,"I’m sorry... That was the wrong answer. But you’re 
+welcome to try again to score the big prize. ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1173,31-msg-c03pc0101_reporter1_prize1,"We have a winner! Congratulations, Trainer! The 
+{pageend:grand prize is these three lovely Pokémon that I }
+battled you with! ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1174,31-msg-c03pc0101_reporter1_prize2,"The rare Pokémon from Hoenn...Treecko, Torchic, and 
+Mudkip! ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1175,31-msg-c03pc0101_reporter1_prize3,"Okay, the Wood Gecko Pokémon. It's Treecko! ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1176,31-msg-c03pc0101_reporter1_prize4,"Okay, the Chick Pokémon. It's Torchic! ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1177,31-msg-c03pc0101_reporter1_prize5,"Okay, the Mud Fish Pokémon. It's Mudkip! ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1178,31-msg-c03pc0101_reporter1_prize6,"Thanks for playing!
+Look for our colleagues in Floarama and Jubilife!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1179,31-msg-c03pc0101_reporter1_03,"I understand. We’ll be rolling for a 
+while if you change your mind! ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1180,31-msg-c03pc0101_reporter1_btl,Let’s find out if you’re correct! ,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1181,94-msg-t03pc0101_cameraman1_01,"We’re filming a contest. Talk to my partner
+if you'd like to participate.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1182,94-msg-t03pc0101_cameraman1_02,Thank you for participating!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1183,94-msg-t03pc0101_reporter1_01,"Oh, you’re a Trainer. I’m with Jubilife TV. The 
+{pageend:Fun-and-Games TV Station... Do you want to }
+answer five questions to get a reward? ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1184,94-msg-t03pc0101_reporter1_02,"I guess you wouldn’t say no. OK, roll the camera... 
+Here’s the first question... ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1185,94-msg-t03pc0101_reporter1_q1,"Is there a cave called Tohjo Falls within the Johto 
+region? ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1186,94-msg-t03pc0101_reporter1_q1_right,"Yes, that’s right. Second question, then. ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1187,94-msg-t03pc0101_reporter1_q2,"Does the Gym in Violet City give out the Feather 
+Badge to Trainers? ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1188,94-msg-t03pc0101_reporter1_q2_right,Mhm. Third question. ,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1189,94-msg-t03pc0101_reporter1_q3,"Can an Orange Apricorn be found within the Johto 
+region? ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1190,94-msg-t03pc0101_reporter1_q3_right,Well done. Fourth question... ,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1191,94-msg-t03pc0101_reporter1_q4,"Actually, you know what? This is really boring. Let’s 
+just cut to the battle. ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1192,94-msg-t03pc0101_reporter1_wrong,"Yeah, sorry, that was wrong. Try again if you must. ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1193,94-msg-t03pc0101_reporter1_cancel,Great. I don’t need to bother then. ,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1194,94-msg-t03pc0101_reporter1_prize1,Yawn... You’ve won. Well done. ,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1195,94-msg-t03pc0101_reporter1_prize2,"Yawn...
+{pageend:You’ve won. Well done.}
+Your prize is those three Pokémon
+{pageend:I just battled you with.}
+Talk to me when you want them.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1196,94-msg-t03pc0101_reporter1_prize3,"The Leaf Pokémon. Yay, it’s Chikorita... ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1197,94-msg-t03pc0101_reporter1_prize4,The Fire Mouse. It’s Cyndaquil. ,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1198,94-msg-t03pc0101_reporter1_prize5,"The Big Jaw Pokémon,
+Totodile!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1199,94-msg-t03pc0101_reporter1_sadge,"OK, bye. I need a new job... ",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1200,94-msg-t03pc0101_reporter1_m,You received {tag:0}!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,1,0,0,0,,0
+1201,18-msg_c04r0101_middlem_3_1,"Thanks for rescuing me. I can’t thank you enough! I
+{pageend: would offer you a bike, but I see you already }
+have one.
+Please take this instead as a token of my gratitude!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1202,18-msg_c04r0101_middlemla_04,"That beautiful stone shines like the rising sun, and 
+can make certain species of Pokémon evolve!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1203,18-msg_c06r0301_oldlady_01,"Oh, hello there! Would you like to hear a story 
+from a weary, old soul?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1204,18-msg_c06r0301_oldlady_02,"Oh... That’s alright. It is quite a long story. Do let 
+me know if you change your mind.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1205,18-msg_c06r0301_oldlady_03,"Oh, wonderful! Well, it all started when I was 
+{pageend:about your age. I’d just started my own Pokémon }
+journey and encountered the most beautiful 
+Pokémon...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1206,18-msg_c06r0301_oldlady_04,"...and finally, you showed up! So you see, you’re 
+{pageend:the perfect trainer to show my Lapras a brand new }
+adventure. I know you'll take great care of them.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1207,18-msg_c06r0301_oldlady_05,Please be kind to my Lapras.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1208,18-msg_c06_lapras_01,Laaaa!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1209,18-msg_allpurpose_poke_rcv,You received {tag:0}!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,1,0,0,0,,0
+1210,18-msg_c03r0701_steven_01,"Hi! My name is Steven Stone. The Champion from 
+{pageend:the Hoenn Region.}
+I’m interested in rare stones, so I travel here and 
+{pageend:there.}
+The Oreburgh Mine sometimes discovers rare 
+stones while they mine for coal.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1211,18-msg_c03r0701_steven_02,This is my favorite Pokémon. Its name is Beldum. ,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1212,18-msg_c03r0701_steven_03,"Would you be willing to raise it? It’ll be useful for 
+your Pokédex.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1213,18-msg_c03r0701_steven_04,Please take good care of that Beldum!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1214,18-msg_c03r0701_steven_05,"If you change your mind, just give me a shout.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1215,106-msg_d03r0101_seven1_05_tm,"This is my token of appreciation.
+Please accept it!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1216,00_msg_c03r0201_girl3_01,"Listen, listen. Do you have a Pokémon
+{pageend:called Ponyta?}
+Would you be willing to trade your
+Ponyta for my Spheal?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1217,00_msg_c03r0201_girl3_02,"{pageend:Be nice to my Spheal!}
+I’ll be sure to look after your Ponyta
+in return!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1218,00_msg_c03pc0101_reporter1_prize2,"We have a winner!
+{pageend:Congratulations, Trainer!}
+The grand prize is these three lovely
+{pageend:Pokémon that I battled you with!}
+The rare Pokémon from Hoenn...
+Treecko, Torchic, and Mudkip!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1219,00_msg_c01_pokecth_ds_sounds,Oh yes! And a special item!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1220,00_msg_r201_no_leave,"What’s up with you?
+Open the briefcase and pick a Pokémon!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1221,00_msg-c01pc0101_reporter1_prizes,"Come back to me when you want
+your prizes.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1222,00_msg_c01pc0101_reporter1_done_list,Which would you like?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1223,00_msg_t03pc0101_reporter1_done_list,Which would you like?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1224,00_msg_c03pc0101_reporter1_done_list,Which would you like?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1225,00_msg_c04r0204_pory_1,You received a Porygon!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1226,31-msg-c03pc0101_reporter_reminder_0,The others will be here when you are ready to get them.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1227,00_msg_t02r0101_incense_00,"Hm?
+{pageend:What is that?!}
+Where did you find that object on your bag?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1228,00_msg_t02r0101_incense_01,"{pageend:...}
+...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1229,00_msg_t02r0101_incense_02,"{pageend:A Pokémon shaped like the object gave it to you?}
+{pageend:Well! Let me tell you something.}
+That item you have there is called an
+{pageend:Incense Burner!}
+It was used in ancient times to
+{pageend:draw Pokémon in from faraway places.}
+It is believed to be shaped after
+the Gratitude Pokémon, Shaymin.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1230,00_msg_t02r0101_incense_03,"The scent produced by burning special plants
+that Shaymin can grow brings out all sorts
+of new Pokémon.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1231,00_msg_t02r0101_incense_04,"My assistant and I have been researching this
+{pageend:Incense Burner.}
+It must have been left behind in our haste to
+leave Lake Verity...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1232,00_msg_t02r0101_incense_05,"The fact that Shaymin itself saw fit to
+return it to you, {tag:0},
+could not be a mere coincidence.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+1233,00_msg_t02r0101_incense_06,"Please keep it and use it to expand your knowledge
+of Pokémon that visit Sinnoh!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+665,51-msg_c01r0601_receptionist_14,What would you like to know about?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"

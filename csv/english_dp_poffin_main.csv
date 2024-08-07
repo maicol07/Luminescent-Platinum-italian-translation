@@ -1,0 +1,699 @@
+0,DP_poffin_main_001,Berry Tag,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+1,DP_poffin_main_002,Spicy,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+2,DP_poffin_main_003,Dry,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+3,DP_poffin_main_004,Sweet,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+4,DP_poffin_main_005,Bitter,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+5,DP_poffin_main_006,Sour,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+6,DP_poffin_main_007,No.,166,-1,32,128,0,"-1
+0
+0
+-1
+0"
+8,DP_poffin_main_008,{tag:0},37,-1,42,294,0,"-1
+0
+0
+-1
+0",0,1,79,0,0,0,,0
+9,DP_poffin_main_009,Size,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+10,DP_poffin_main_010,"{tag:0}.{tag:1}""",37,-1,42,294,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0,1,2,0,1,0,205,,0
+11,DP_poffin_main_011,Firmness,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+12,DP_poffin_main_012,Very soft,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+13,DP_poffin_main_013,Soft,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+14,DP_poffin_main_014,Hard,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+15,DP_poffin_main_015,Very hard,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+16,DP_poffin_main_016,Super hard,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+17,DP_poffin_main_017,"It’s soft, earthy soil.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+18,DP_poffin_main_020,Plant Berry,51,-1,42,756,0,"-1
+0
+0
+-1
+0"
+19,DP_poffin_main_021,Quit,51,-1,42,756,0,"-1
+0
+0
+-1
+0"
+20,DP_poffin_main_025,Would you like to plant a Berry?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+21,DP_poffin_main_026,Yes,51,-1,42,756,0,"-1
+0
+0
+-1
+0"
+22,DP_poffin_main_027,No,51,-1,42,756,0,"-1
+0
+0
+-1
+0"
+23,DP_poffin_main_029,"The {tag:0} was planted in the
+soft, earthy soil.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+24,DP_poffin_main_030,The {tag:0} was planted here.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+25,DP_poffin_main_031,The {tag:0} plant has sprouted.,0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,1
+26,DP_poffin_main_032,"This {tag:0} plant is
+growing bigger.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,1
+27,DP_poffin_main_033,This {tag:0} plant is in bloom!,0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,1
+28,DP_poffin_main_034,Would you like to sprinkle some water?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+29,DP_poffin_main_035,Yes,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+30,DP_poffin_main_036,No,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+31,DP_poffin_main_037,There! All happy!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+32,DP_poffin_main_038,"There {tag:0} {tag:1} {tag:2}!
+Would you like to pick {tag:3}?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",-1,19,1,5,0,0,"is
+are",0,1,2,1,1,0,205,,0,0,1,9,0,0,0,,0,-1,19,1,5,0,0,"it
+them",0
+33,DP_poffin_main_039,Yes,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+34,DP_poffin_main_040,No,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+35,DP_poffin_main_041,You left the {tag:0} plant as is.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,9,0,0,0,,1
+36,DP_poffin_main_042,You picked the {tag:0} {tag:1}.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,2,1,1,0,205,,0,0,1,9,0,0,0,,0
+37,DP_poffin_main_043,"Your Bag is full.
+The {tag:0} couldn’t be taken.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+38,DP_poffin_main_044,"You put the {tag:0} in your
+Bag’s {tag:1}{pageend: pocket.}
+The soil returned to its soft and earthy state.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,9,0,0,0,,0,3,1,24,0,0,0,,0
+39,DP_poffin_main_045,"It’s soft, earthy soil.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+40,DP_poffin_main_048,The {tag:0} was planted here.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+41,DP_poffin_main_049,The {tag:0} plant has sprouted.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,1
+42,DP_poffin_main_050,"The {tag:0} plant is
+growing bigger.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,1
+43,DP_poffin_main_051,This {tag:0} plant is in bloom!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,1
+116,DP_poffin_main_189,Please select a Poffin.,74,-1,42,1344,0,"-1
+0
+0
+-1
+0"
+64,DP_poffin_main_190,{tag:0},147,-1,42,126,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+117,DP_poffin_main_191,Toggle,36,-1,42,252,0,"-1
+0
+0
+-1
+0"
+118,DP_poffin_main_192, Confirm,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+119,DP_poffin_main_193,Empty,7,-1,54,540,0,"-1
+0
+0
+-1
+0"
+44,DP_poffin_main_060,{tag:0} happily ate the Poffin!,0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+45,DP_poffin_main_061,{tag:0} disdainfully ate the Poffin...,0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+46,DP_poffin_main_062,{tag:0} ate the Poffin.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+120,DP_poffin_main_194,Coolness was enhanced!,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+121,DP_poffin_main_195,Toughness was enhanced!,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+122,DP_poffin_main_196,Beauty was enhanced!,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+123,DP_poffin_main_197,Cuteness was enhanced!,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+124,DP_poffin_main_198,Cleverness was enhanced!,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+125,DP_poffin_main_199,Nothing changed!,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+126,DP_poffin_main_200,It won’t eat any more...,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+65,DP_poffin_main_201,{tag:0},46,-1,42,588,0,"-1
+0
+0
+-1
+0",0,1,15,0,0,0,,0
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+47,DP_poffin_main_092,"Hello! Here you may cook Berries and turn them
+into Poffins.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+107,DP_poffin_main_179b,"OK, all your other Pokémon can go on ahead to
+the square and play!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+48,DP_poffin_main_098,There isn’t a Berry to cook!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+49,DP_poffin_main_099,The Poffin Case is full.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+50,DP_poffin_main_100,"Sorry, you must have a Poffin Case if you want to
+cook some Berries.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+51,DP_poffin_main_101,I’d like to cook,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+52,DP_poffin_main_103,Tell me about cooking,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+53,DP_poffin_main_104,"No, thanks",39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+54,DP_poffin_main_123,"OK! Let’s get cooking! Please choose the Berry
+you want to cook from your Bag.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+56,DP_poffin_main_125,"Please visit again whenever you get the urge
+to cook!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+57,DP_poffin_main_126,{tag:0},39,-1,42,420,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+58,DP_poffin_main_127,ID {tag:0},39,-1,42,420,0,"-1
+0
+0
+-1
+0",0,2,4,1,0,0,,0
+59,DP_poffin_main_128,Poffin Case,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+60,DP_poffin_main_129,Give,36,-1,42,252,0,"-1
+0
+0
+-1
+0"
+61,DP_poffin_main_130,Trash,36,-1,42,252,0,"-1
+0
+0
+-1
+0"
+62,DP_poffin_main_131,Back,36,-1,42,252,0,"-1
+0
+0
+-1
+0"
+63,DP_poffin_main_132,Smoothness,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+66,DP_poffin_main_133,Lv. {tag:0},39,-1,42,420,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+67,DP_poffin_main_134, Close,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+68,DP_poffin_main_135,"Would you like to discard this
+{tag:0}?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,15,0,0,0,,0
+69,DP_poffin_main_136,"The {tag:0} was
+thrown out.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,15,0,0,0,,0
+70,DP_poffin_main_137,Yes,40,-1,42,420,0,"-1
+0
+0
+-1
+0"
+71,DP_poffin_main_138,No,40,-1,42,420,0,"-1
+0
+0
+-1
+0"
+72,DP_poffin_main_139,Spicy,36,-1,42,252,0,"-1
+0
+0
+-1
+0"
+73,DP_poffin_main_140,Dry,36,-1,42,252,0,"-1
+0
+0
+-1
+0"
+74,DP_poffin_main_141,Sweet,36,-1,42,252,0,"-1
+0
+0
+-1
+0"
+75,DP_poffin_main_142,Bitter,36,-1,42,252,0,"-1
+0
+0
+-1
+0"
+76,DP_poffin_main_143,Sour,36,-1,42,252,0,"-1
+0
+0
+-1
+0"
+77,DP_poffin_main_144,All,36,-1,42,252,0,"-1
+0
+0
+-1
+0"
+78,DP_poffin_main_145,Eating a spicy Poffin raises coolness.,74,-1,42,1344,0,"-1
+0
+0
+-1
+0"
+79,DP_poffin_main_146,Eating a dry Poffin raises beauty.,74,-1,42,1344,0,"-1
+0
+0
+-1
+0"
+80,DP_poffin_main_147,Eating a sweet Poffin raises cuteness.,74,-1,42,1344,0,"-1
+0
+0
+-1
+0"
+81,DP_poffin_main_148,Eating a bitter Poffin raises cleverness.,74,-1,42,1344,0,"-1
+0
+0
+-1
+0"
+82,DP_poffin_main_149,Eating a sour Poffin raises toughness.,74,-1,42,1344,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+83,DP_poffin_main_152,The {tag:0} went in!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+84,DP_poffin_main_153,{tag:0},39,-1,42,420,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+85,DP_poffin_main_154,It’ll burn! Stir it!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+86,DP_poffin_main_155,Too fast! Overflow!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+87,DP_poffin_main_156,It’ll burn! Hurry!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+88,DP_poffin_main_157,Slow down a little!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+89,DP_poffin_main_158,Quick! Quick!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+90,DP_poffin_main_159,That’s it!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+91,DP_poffin_main_160,Summary,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+92,DP_poffin_main_161,Time,65,-1,42,924,0,"-1
+0
+0
+-1
+0"
+93,DP_poffin_main_162,{tag:0}:{tag:1}.{tag:2},65,-1,42,924,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0,1,2,1,1,0,205,,0,2,2,1,1,0,205,,0
+94,DP_poffin_main_163,Overflowed,65,-1,42,924,0,"-1
+0
+0
+-1
+0"
+95,DP_poffin_main_164,{tag:0} {tag:1},65,-1,42,924,0,"-1
+0
+0
+-1
+0",0,2,3,1,0,2,,0,-1,19,1,5,0,0,"time
+times",0
+96,DP_poffin_main_165,Burned,65,-1,42,924,0,"-1
+0
+0
+-1
+0"
+97,DP_poffin_main_166,{tag:0} {tag:1},65,-1,42,924,0,"-1
+0
+0
+-1
+0",0,2,3,1,0,2,,0,-1,19,1,5,0,0,"time
+times",0
+98,DP_poffin_main_167,Poffins made:,65,-1,42,924,0,"-1
+0
+0
+-1
+0"
+99,DP_poffin_main_168,{tag:0} Lv. {tag:1} × {tag:2},65,-1,42,924,0,"-1
+0
+0
+-1
+0",3,1,15,0,0,0,,1,1,2,1,1,0,205,,0,2,2,1,1,0,205,,0
+100,DP_poffin_main_171,"You put away the {tag:0} in the
+Poffin Case.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",3,1,15,0,0,0,,0
+101,DP_poffin_main_172,Would you like to keep cooking Poffins?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+102,DP_poffin_main_174,"Please choose the Berry you want to cook from
+your Bag.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+103,DP_poffin_main_175,The Poffin Case is full.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+104,DP_poffin_main_176,There isn’t a Berry to cook.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+55,DP_poffin_main_124,"{pageend:Throw the Berry into the pot and get stirring!}
+Watch for an arrow to show you which direction
+{pageend:to stir.}
+Be quick! If you stir too slowly, you’ll burn the
+batter. But not too quick! If you stir too fast,
+{pageend:the batter will overflow.}
+{pageend:If you do well, you’ll cook up a delicious Poffin!}
+By the way, you can also make Poffins at
+Amity Square!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+105,DP_poffin_main_178,"Which Pokémon would you like to take a stroll
+together with?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+106,DP_poffin_main_179a,"OK, your other Pokémon can go on ahead to the
+square and play!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+108,DP_poffin_main_180a,"It’ll be waiting for you in the square.
+Have a great time!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+110,DP_poffin_main_182,You can’t take that Pokémon on a stroll with you.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+111,DP_poffin_main_183,"Would you like to return the selected Berry to
+your Bag?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+112,DP_poffin_main_184,"Would you like to start cooking with this
+Berry selection?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+113,DP_poffin_main_185,"{pageend:Throw the Berry into the pot and get stirring!}
+Watch for an arrow to show you which direction
+{pageend:to stir.}
+Be quick! If you stir too slowly, you’ll burn the
+batter. But not too quick! If you stir too fast,
+{pageend:the batter will overflow.}
+If you do well, you’ll cook up a delicious Poffin!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+7,DP_poffin_main_186,{tag:0},147,-1,42,126,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+114,DP_poffin_main_187,Ready,81,-1,32,224,0,"-1
+0
+0
+-1
+0"
+115,DP_poffin_main_188, Put back Berries,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+109,DP_poffin_main_180b,"They’ll be waiting for you in the square.
+Have a great time!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"

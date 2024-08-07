@@ -1,0 +1,525 @@
+0,DP_Trainers_Type_TR_NONE, -,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+1,DP_Trainers_Type_TR_TANPAN_01,Youngster,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+2,DP_Trainers_Type_TR_MINI_01,Lass,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+3,DP_Trainers_Type_TR_CAMPB_01,Camper,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+4,DP_Trainers_Type_TR_PICNICG_01,Picnicker,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+5,DP_Trainers_Type_TR_MUSHI_01,Bug Catcher,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+6,DP_Trainers_Type_TR_AROMA_01,Aroma Lady,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+7,DP_Trainers_Type_TR_FUTAGO_01,Twins,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+8,DP_Trainers_Type_TR_MOUNT_01,Hiker,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+9,DP_Trainers_Type_TR_BATTLEG_01,Battle Girl,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+10,DP_Trainers_Type_TR_FISHING_01,Fisher,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+11,DP_Trainers_Type_TR_CYCLINGM_01,Cyclist,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+12,DP_Trainers_Type_TR_CYCLINGW_01,Cyclist,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+13,DP_Trainers_Type_TR_KARATE_01,Black Belt,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+14,DP_Trainers_Type_TR_ARTIST_01,Artist,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+15,DP_Trainers_Type_TR_BREEDERM_01,Pokémon Breeder,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+16,DP_Trainers_Type_TR_BREEDERW_01,Pokémon Breeder,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+17,DP_Trainers_Type_TR_COWGIRL_01,Cowgirl,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+18,DP_Trainers_Type_TR_JOGGER_01,Jogger,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+19,DP_Trainers_Type_TR_DAISUKIM_01,Poké Fan,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+20,DP_Trainers_Type_TR_DAISUKIW_01,Poké Fan,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+21,DP_Trainers_Type_TR_POKEGIRL_01,Poké Kid,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+22,DP_Trainers_Type_TR_LOVELOVE_01,Young Couple,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+23,DP_Trainers_Type_TR_ELITEM_01,Ace Trainer,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+24,DP_Trainers_Type_TR_ELITEW_01,Ace Trainer,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+25,DP_Trainers_Type_TR_WAITRESS_01,Waitress,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+26,DP_Trainers_Type_TR_VETERAN_01,Veteran,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+27,DP_Trainers_Type_TR_SHINOBI_01,Ninja Boy,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+28,DP_Trainers_Type_TR_DRAGON_01,Dragon Tamer,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+29,DP_Trainers_Type_TR_BIRD_01,Bird Keeper,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+30,DP_Trainers_Type_TR_DOUBLETEAM_01,Double Team,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+31,DP_Trainers_Type_TR_PRINCE_01,Rich Boy,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+32,DP_Trainers_Type_TR_PRINCESS_01,Lady,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+33,DP_Trainers_Type_TR_GENTLE_01,Gentleman,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+34,DP_Trainers_Type_TR_MADAM_01,Madame,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+35,DP_Trainers_Type_TR_SISTER_01,Beauty,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+36,DP_Trainers_Type_TR_COLLECTOR_01,Collector,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+37,DP_Trainers_Type_TR_POLICE_01,Police Officer,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+38,DP_Trainers_Type_TR_RANGERM_01,Pokémon Ranger,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+39,DP_Trainers_Type_TR_RANGERW_01,Pokémon Ranger,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+40,DP_Trainers_Type_TR_SCIENTIST_01,Scientist,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+41,DP_Trainers_Type_TR_SWIMMERM_01,Swimmer,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+42,DP_Trainers_Type_TR_SWIMMERW_01,Swimmer,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+43,DP_Trainers_Type_TR_UKIWAB_01,Tuber,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+44,DP_Trainers_Type_TR_UKIWAG_01,Tuber,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+45,DP_Trainers_Type_TR_SAILOR_01,Sailor,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+46,DP_Trainers_Type_TR_ISEKI_01,Ruin Maniac,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+47,DP_Trainers_Type_TR_ESPM_01,Psychic,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+48,DP_Trainers_Type_TR_ESPW_01,Psychic,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+49,DP_Trainers_Type_TR_GAMBLER_01,PI,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+50,DP_Trainers_Type_TR_GUITARIST_01,Guitarist,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+51,DP_Trainers_Type_TR_COLDELITEM_01,Ace Trainer,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+52,DP_Trainers_Type_TR_COLDELITEW_01,Ace Trainer,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+53,DP_Trainers_Type_TR_SKIERM_01,Skier,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+54,DP_Trainers_Type_TR_SKIERW_01,Skier,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+55,DP_Trainers_Type_TR_HEADS_01,Roughneck,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+56,DP_Trainers_Type_TR_PIERROT_01,Clown,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+57,DP_Trainers_Type_TR_WORKER_01,Worker,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+58,DP_Trainers_Type_TR_SCHOOLB_01,School Kid,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+59,DP_Trainers_Type_TR_SCHOOLG_01,School Kid,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+60,DP_Trainers_Type_TR_LEADER1_01,Gym Leader,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+61,DP_Trainers_Type_TR_RIVAL_01,Pokémon Trainer,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+62,DP_Trainers_Type_TR_LEADER7_01,Gym Leader,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+63,DP_Trainers_Type_TR_BIGFOUR1_01,Elite Four,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+64,DP_Trainers_Type_TR_BIGFOUR2_01,Elite Four,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+65,DP_Trainers_Type_TR_BIGFOUR3_01,Elite Four,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+66,DP_Trainers_Type_TR_BIGFOUR4_01,Elite Four,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+67,DP_Trainers_Type_TR_CHAMPION_01,Champion,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+68,DP_Trainers_Type_TR_FAMILY_01,Ranchers,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+69,DP_Trainers_Type_TR_FARMER_01,Rancher,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+70,DP_Trainers_Type_TR_GINGALEADER1_01,Commander,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+71,DP_Trainers_Type_TR_GINGAM_01,Team Galactic,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+72,DP_Trainers_Type_TR_LEADER2_01,Gym Leader,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+73,DP_Trainers_Type_TR_LEADER3_01,Gym Leader,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+74,DP_Trainers_Type_TR_LEADER4_01,Gym Leader,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+75,DP_Trainers_Type_TR_LEADER5_01,Gym Leader,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+76,DP_Trainers_Type_TR_LEADER6_01,Gym Leader,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+77,DP_Trainers_Type_TR_LEADER8_01,Gym Leader,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+78,DP_Trainers_Type_TR_PARASOL_01,Parasol Lady,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+79,DP_Trainers_Type_TR_WAITER_01,Waiter,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+80,DP_Trainers_Type_TR_INTERVIEW_01,Interviewers,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+81,DP_Trainers_Type_TR_CAMERAMAN_01,Cameraman,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+82,DP_Trainers_Type_TR_REPORTER_01,Reporter,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+83,DP_Trainers_Type_TR_IDOL_01,Idol,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+84,DP_Trainers_Type_TR_GINGALBOSS_01,Team Galactic Boss,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+85,DP_Trainers_Type_TR_GINGALEADER2_01,Commander,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+86,DP_Trainers_Type_TR_GINGALEADER3_01,Commander,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+87,DP_Trainers_Type_TR_GINGAW_01,Team Galactic,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+88,DP_Trainers_Type_TR_BTFIVE1_01,Pokémon Trainer,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+89,DP_Trainers_Type_TR_BTFIVE2_01,Pokémon Trainer,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+90,DP_Trainers_Type_TR_BTFIVE3_01,Pokémon Trainer,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+91,DP_Trainers_Type_TR_BTFIVE4_01,Pokémon Trainer,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+92,DP_Trainers_Type_TR_BTFIVE5_01,Pokémon Trainer,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+93,DP_Trainers_Type_TR_HERO_01,Pokémon Trainer,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+94,DP_Trainers_Type_TR_HEROINE_01,Pokémon Trainer,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+95,DP_Trainers_Type_TR_KUROTUGU_01,Tower Tycoon,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+96,DP_Trainers_Type_TR_BOY_01,Pokémon Trainer,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+97,DP_Trainers_Type_TR_GIRL_01,Pokémon Trainer,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+98,DP_Trainers_Type_TR_MORIMOTO_01,GAME FREAK’s,42,-1,42,504,0,"-1
+0
+0
+-1
+1"
+99,DP_Trainers_Type_TR_LOVELOVE_98,Young Couple (Boyfriend),48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+100,DP_Trainers_Type_TR_LOVELOVE_99,Young Couple (Girlfriend),48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+101,DP_Trainers_Type_TR_CASTLE_VALET,Castle Valet,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+102,DP_Trainers_Type_TR_CONTEST_QUEEN,Contest Queen,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+103,DP_Trainers_Type_TR_MYSTERIOUS_GIRL,Mysterious Girl,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+104,DP_Trainers_Type_TR_ARCADE_STAR,Arcade Star,48,-1,42,672,0,"-1
+0
+0
+-1
+0"

@@ -1,0 +1,694 @@
+0,SS_net_net_btl_001,Lotta in Singolo,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+1,SS_net_net_btl_002,Lotta in Doppio,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+2,SS_net_net_btl_004,{tag:0},37,-1,42,294,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+7,SS_net_net_btl_009,"Comunicazione in corso.
+Attendi...",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+8,SS_net_net_btl_010,Vuoi uscire dalle lotte?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+9,SS_net_net_btl_011,"Un partecipante ha interrotto la comunicazione.
+Lotta terminata.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+10,SS_net_net_btl_012,Interruzione del collegamento in corso.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+12,SS_net_net_btl_015,"Sarai tu a scegliere le regole della lotta.
+Vuoi continuare?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+13,SS_net_net_btl_016,"Selezione del giocatore che deciderà le regole
+in corso. Attendi...",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+14,SS_net_net_btl_017,"{tag:0} ha interrotto la scelta
+delle regole della lotta.",57,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+15,SS_net_net_btl_018,"{tag:0} sta scegliendo le regole
+della lotta.",20,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+16,SS_net_net_btl_019,Scegli le regole della lotta.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+17,SS_net_net_btl_021,"Vuoi che sia un altro giocatore a scegliere
+le regole della lotta?",57,-1,42,840,0,"0
+0
+0
+-1
+0"
+18,SS_net_net_btl_022,"Comunicazione delle regole in corso.
+Attendi...",57,-1,42,840,0,"0
+0
+0
+-1
+0"
+19,SS_net_net_btl_024,"Vuoi tornare indietro e scegliere delle regole
+diverse?",57,-1,42,840,0,"0
+0
+0
+-1
+0"
+20,SS_net_net_btl_025,Invio dell’informazione in corso.,57,-1,42,840,0,"0
+0
+0
+-1
+0"
+21,SS_net_net_btl_026,"Almeno uno dei giocatori non può partecipare.
+Verranno scelte delle nuove regole della lotta.",30,-1,42,840,0,"0
+0
+0
+-1
+0"
+22,SS_net_net_btl_027,"Se le regole attuali non ti consentono di
+partecipare, scegli ""Cambia le regole"".",30,-1,42,840,0,"0
+0
+0
+-1
+0"
+23,SS_net_net_btl_028,"Gli altri giocatori non sono ancora pronti.
+Attendi...",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+24,SS_net_net_btl_029,Scegli i Pokémon con cui partecipare.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+25,SS_net_net_btl_030,Chi sarà il {tag:0}º?,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+26,SS_net_net_btl_031,"Formazione delle squadre in corso.
+Attendi...",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+27,SS_net_net_btl_032,Vuoi continuare a giocare?,57,-1,42,840,0,"0
+0
+0
+-1
+0"
+28,SS_net_net_btl_033,In attesa degli altri giocatori...,57,-1,42,840,0,"0
+0
+0
+-1
+0"
+29,SS_net_net_btl_034,Lotta di nuovo con le stesse regole.,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+30,SS_net_net_btl_035,Lotta di nuovo con regole diverse.,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+31,SS_net_net_btl_036,Sì,49,-1,42,714,0,"0
+0
+0
+-1
+0"
+32,SS_net_net_btl_037,No,49,-1,42,714,0,"0
+0
+0
+-1
+0"
+33,SS_net_net_btl_038,Sì,49,-1,42,714,0,"0
+0
+0
+-1
+0"
+34,SS_net_net_btl_039,No,49,-1,42,714,0,"0
+0
+0
+-1
+0"
+35,SS_net_net_btl_041,Indietro,49,-1,42,714,0,"0
+0
+0
+-1
+0"
+36,SS_net_net_btl_044,Via alla lotta!,49,-1,42,714,0,"0
+0
+0
+-1
+0"
+37,SS_net_net_btl_045,Gioca con le stesse regole,49,-1,42,714,0,"0
+0
+0
+-1
+0"
+38,SS_net_net_btl_046,Gioca con regole diverse,49,-1,42,714,0,"0
+0
+0
+-1
+0"
+40,SS_net_net_btl_051,Scelta automatica,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+41,SS_net_net_btl_052,{tag:0},39,-1,42,420,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+42,SS_net_net_btl_054,Esci,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+43,SS_net_net_btl_056,Ok,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+45,SS_net_net_btl_058,Indietro,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+47,SS_net_net_btl_062,Scelta in corso.,38,-1,42,336,0,"0
+0
+0
+-1
+0"
+48,SS_net_net_btl_063,Tutto pronto!,38,-1,42,336,0,"0
+0
+0
+-1
+0"
+49,SS_net_net_btl_064,Normale,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+50,SS_net_net_btl_065,Regole della Torre Lotta,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+51,SS_net_net_btl_066,Senza restrizioni,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+52,SS_net_net_btl_067,Squadra partecipante,87,-1,32,384,0,"0
+0
+0
+-1
+0"
+53,SS_net_net_btl_069,{tag:0},87,-1,32,384,0,"0
+0
+0
+-1
+0",0,1,57,0,0,0,,0
+54,SS_net_net_btl_070,Musica,87,-1,32,384,0,"0
+0
+0
+-1
+0"
+55,SS_net_net_btl_071,{tag:0},87,-1,32,384,0,"0
+0
+0
+-1
+0",0,1,61,0,0,0,,0
+56,SS_net_net_btl_073,"Si è verificato un problema con i dati delle regole
+ricevuti. Attendi la ricezione di nuovi dati.",30,-1,42,840,0,"0
+0
+0
+-1
+0"
+57,SS_net_net_btl_075,"Vuoi che sia un altro giocatore a scegliere
+le regole della lotta?",57,-1,42,840,0,"0
+0
+0
+-1
+0"
+58,SS_net_net_btl_076,"Comunicazione delle regole in corso.
+Attendi...",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+59,SS_net_net_btl_077,"Si è verificato un problema con i dati delle regole
+inviati. Scegli nuovamente le regole della lotta.",30,-1,42,840,0,"0
+0
+0
+-1
+0"
+60,SS_net_net_btl_079,Verranno scelte delle nuove regole della lotta.,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+61,SS_net_net_btl_080,C’è un problema con la Squadra Lotta.,57,-1,42,840,0,"0
+0
+0
+-1
+0"
+62,SS_net_net_btl_081,"C’è un problema con la Squadra Lotta
+di un altro giocatore.",57,-1,42,840,0,"0
+0
+0
+-1
+0"
+63,SS_net_net_btl_090,"Non potrai giocare tramite le funzioni di
+{pageend:comunicazione con gli utenti bloccati.}
+Vuoi davvero bloccare questo utente?
+(È possibile sbloccarlo in seguito)",30,-1,42,840,0,"0
+0
+0
+-1
+0"
+64,SS_net_net_btl_092,"Chi vuoi aggiungere alla lista degli utenti
+bloccati?",30,-1,42,840,0,"0
+0
+0
+-1
+0"
+65,SS_net_net_btl_094,Scegli la squadra con cui desideri lottare.,110,-1,32,768,0,"0
+0
+0
+-1
+0"
+66,SS_net_net_btl_095,Scegli la formazione delle squadre.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+67,SS_net_net_btl_096,{tag:0},46,-1,42,588,0,"0
+0
+0
+-1
+0",0,1,73,0,0,0,,0
+68,SS_net_net_btl_097,Cambia le regole,87,-1,32,384,0,"0
+0
+0
+-1
+0"
+69,SS_net_net_btl_098,"Durante questa lotta gli altri giocatori potranno
+vedere il soprannome dei tuoi Pokémon.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+70,SS_net_net_btl_099,Esci,34,-1,42,168,0,"0
+0
+0
+-1
+0"
+71,SS_net_net_btl_100,Formazione squadre,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+72,SS_net_net_btl_101,Le squadre per la Lotta Mista sono pronte.,57,-1,42,840,0,"0
+0
+0
+-1
+0"
+3,SS_net_net_btl_005,Squadra A1,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+4,SS_net_net_btl_006,Squadra A2,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+73,SS_net_net_btl_104,{tag:0},35,-1,42,210,0,"0
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+74,SS_net_net_btl_105,{tag:0},39,-1,42,420,0,"0
+0
+0
+-1
+0",1,2,1,1,0,205,,0
+5,SS_net_net_btl_007,Squadra B1,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+6,SS_net_net_btl_008,Squadra B2,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+11,SS_net_net_btl_013,Scegli chi deciderà le regole della lotta.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+44,SS_net_net_btl_057,Termina,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+75,SS_net_net_btl_106,Che tipo di connessione vuoi usare per lottare?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+76,SS_net_net_btl_107,Internet,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+77,SS_net_net_btl_108,Comunicazione locale,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+78,SS_net_net_btl_109,Annulla,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+79,SS_net_net_btl_110,Vuoi entrare nel Colosseo?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+80,SS_net_net_btl_111,"Buon divertimento, allora!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+81,SS_net_net_btl_112,"Uscirai dal Colosseo.
+Va bene?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+82,SS_net_net_btl_113,"Interruzione della comunicazione.
+Attendi.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+84,SS_net_net_btl_114,"Attendi che i preparativi vengano ultimati.
+Pulsante B: Annulla",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+85,SS_net_net_btl_115,Annulla,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+86,SS_net_net_btl_116,"L’altro giocatore propone di cambiare le regole
+{pageend:della lotta.}
+Va bene?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+87,SS_net_net_btl_117,"Nuove regole:
+{tag:0}",43,-1,42,504,0,"0
+0
+0
+-1
+0",0,1,85,0,0,0,,0
+88,SS_net_net_btl_118,"Preparativi ultimati!
+La lotta in link avrà inizio!",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+89,SS_net_net_btl_119,"Benvenut{tag:0}{pageend: nel Colosseo!}
+Se c’è qualcosa che non ti è chiaro, chiedi pure.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+83,SS_net_net_btl_124,"Un giocatore è uscito dal Colosseo.
+La connessione verrà interrotta.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+90,SS_net_net_btl_121,"Nel Colosseo puoi lottare usando diversi
+{pageend:tipi di regole.}
+La lotta ha inizio quando tutti i giocatori
+si sono posizionati nella loro postazione.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+91,SS_net_net_btl_122,"Le regole verranno cambiate.
+Va bene?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+92,SS_net_net_btl_123,"Le regole della Lotta Multipla non possono
+{pageend:essere cambiate in questo modo.}
+Per farlo, esci dal Colosseo e scegli di nuovo
+le regole.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+93,SS_net_net_btl_125,Ricerca di un avversario in corso...,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+94,SS_net_net_btl_126,"La ricerca ha avuto successo!
+La lotta in link sta per iniziare.",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+95,SS_net_net_btl_127,Annulla,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+96,SS_net_net_btl_128,Conferma,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+97,SS_net_net_btl_129,Registra squadra,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+98,SS_net_net_btl_130,Indietro,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+99,SS_net_net_btl_131,Squadra non registrata.,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+100,SS_net_net_btl_132,Va bene questa squadra?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+101,SS_net_net_btl_133,Hai più Pokémon della stessa specie.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+102,SS_net_net_btl_134,Non hai abbastanza Pokémon partecipanti.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+108,SS_net_net_btl_135,Vanno bene queste regole?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+109,SS_net_net_btl_136,Avversario,35,-1,42,210,0,"0
+0
+0
+-1
+0"
+110,SS_net_net_btl_137,I Pokémon verranno mischiati!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+103,SS_net_net_btl_141,Le Uova non possono partecipare.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+104,SS_net_net_btl_142,C’è almeno un Pokémon non ammesso.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+105,SS_net_net_btl_143,"Ci sono almeno due Pokémon con lo stesso
+strumento.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+106,SS_net_net_btl_144,"C’è un problema con almeno un Pokémon
+della tua Squadra Lotta.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+107,SS_net_net_btl_145,"C’è un problema con almeno uno dei Pokémon
+partecipanti.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+111,SS_net_net_btl_138,Scelta squadra,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+112,SS_net_net_btl_139,Scelta regole,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+113,SS_net_net_btl_140,Conferma,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+115,SS_net_net_btl_146,Numero di Pokémon,87,-1,32,384,0,"0
+0
+0
+-1
+0"
+116,SS_net_net_btl_147,Livello dei Pokémon,87,-1,32,384,0,"0
+0
+0
+-1
+0"
+117,SS_net_net_btl_148,Pokémon speciali,87,-1,32,384,0,"0
+0
+0
+-1
+0"
+118,SS_net_net_btl_149,Pokémon uguali,87,-1,32,384,0,"0
+0
+0
+-1
+0"
+119,SS_net_net_btl_150,Strumenti uguali,87,-1,32,384,0,"0
+0
+0
+-1
+0"
+120,SS_net_net_btl_151,{tag:0},87,-1,32,384,0,"0
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+121,SS_net_net_btl_152,Almeno al L. {tag:0},87,-1,32,384,0,"0
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+122,SS_net_net_btl_153,{tag:0}-{tag:1},87,-1,32,384,0,"0
+0
+0
+-1
+0",0,2,0,1,0,205,,0,1,2,0,1,0,205,,0
+123,SS_net_net_btl_154,Tutti al L. {tag:0},87,-1,32,384,0,"0
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+124,SS_net_net_btl_155,Fino al L. {tag:0},87,-1,32,384,0,"0
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+125,SS_net_net_btl_156,Ammessi,87,-1,32,384,0,"0
+0
+0
+-1
+0"
+126,SS_net_net_btl_157,Non ammessi,87,-1,32,384,0,"0
+0
+0
+-1
+0"
+127,SS_net_net_btl_158,Ammessi,87,-1,32,384,0,"0
+0
+0
+-1
+0"
+128,SS_net_net_btl_159,Non ammessi,87,-1,32,384,0,"0
+0
+0
+-1
+0"
+129,SS_net_net_btl_160,Senza restrizioni,87,-1,32,384,0,"0
+0
+0
+-1
+0"
+114,SS_net_net_btl_161,Regole,7,-1,54,540,0,"0
+0
+0
+-1
+0"
+46,SS_net_net_btl_061,Guarda le regole,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+39,SS_net_net_btl_162,Annulla,49,-1,42,714,0,"0
+0
+0
+-1
+0"

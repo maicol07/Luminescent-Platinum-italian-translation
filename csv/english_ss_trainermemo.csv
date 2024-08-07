@@ -1,0 +1,576 @@
+0,SS_trainermemo_001,This Pokémon is pretty <color=#F01E1EFF>Hardy</color> by nature.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+1,SS_trainermemo_002,This Pokémon is pretty <color=#F01E1EFF>Lonely</color> by nature.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+2,SS_trainermemo_003,This Pokémon is pretty <color=#F01E1EFF>Brave</color> by nature.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+3,SS_trainermemo_004,This Pokémon is pretty <color=#F01E1EFF>Adamant</color> by nature.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+4,SS_trainermemo_005,This Pokémon is pretty <color=#F01E1EFF>Naughty</color> by nature.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+5,SS_trainermemo_006,This Pokémon is pretty <color=#F01E1EFF>Bold</color> by nature.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+6,SS_trainermemo_007,This Pokémon is pretty <color=#F01E1EFF>Docile</color> by nature.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+7,SS_trainermemo_008,This Pokémon is pretty <color=#F01E1EFF>Relaxed</color> by nature.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+8,SS_trainermemo_009,This Pokémon is pretty <color=#F01E1EFF>Impish</color> by nature.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+9,SS_trainermemo_010,This Pokémon is pretty <color=#F01E1EFF>Lax</color> by nature.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+10,SS_trainermemo_011,This Pokémon is pretty <color=#F01E1EFF>Timid</color> by nature.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+11,SS_trainermemo_012,This Pokémon is pretty <color=#F01E1EFF>Hasty</color> by nature.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+12,SS_trainermemo_013,This Pokémon is pretty <color=#F01E1EFF>Serious</color> by nature.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+13,SS_trainermemo_014,This Pokémon is pretty <color=#F01E1EFF>Jolly</color> by nature.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+14,SS_trainermemo_015,This Pokémon is pretty <color=#F01E1EFF>Naive</color> by nature.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+15,SS_trainermemo_016,This Pokémon is pretty <color=#F01E1EFF>Modest</color> by nature.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+16,SS_trainermemo_017,This Pokémon is pretty <color=#F01E1EFF>Mild</color> by nature.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+17,SS_trainermemo_018,This Pokémon is pretty <color=#F01E1EFF>Quiet</color> by nature.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+18,SS_trainermemo_019,This Pokémon is pretty <color=#F01E1EFF>Bashful</color> by nature.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+19,SS_trainermemo_020,This Pokémon is pretty <color=#F01E1EFF>Rash</color> by nature.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+20,SS_trainermemo_021,This Pokémon is pretty <color=#F01E1EFF>Calm</color> by nature.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+21,SS_trainermemo_022,This Pokémon is pretty <color=#F01E1EFF>Gentle</color> by nature.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+22,SS_trainermemo_023,This Pokémon is pretty <color=#F01E1EFF>Sassy</color> by nature.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+23,SS_trainermemo_024,This Pokémon is pretty <color=#F01E1EFF>Careful</color> by nature.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+24,SS_trainermemo_025,This Pokémon is pretty <color=#F01E1EFF>Quirky</color> by nature.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+25,SS_trainermemo_026,"We first met one another on {tag:0}/{tag:1}/20{tag:2},
+and it was <color=#F01E1EFF>{tag:3}</color>!
+At the time, this Pokémon was Lv. {tag:4}.",54,-1,42,756,0,"-1
+0
+0
+-1
+0",1,2,1,1,0,205,,0,2,2,1,1,0,205,,0,0,2,1,1,0,205,,0,4,1,71,0,0,0,,0,3,2,2,1,0,205,,0
+26,SS_trainermemo_027,"It seems it was first met on {tag:0}/{tag:1}/20{tag:2}
+<color=#F01E1EFF>{tag:3}</color>.
+From what I can tell, the Pokémon was
+Lv. {tag:4} at the time.",54,-1,42,756,0,"-1
+0
+0
+-1
+0",1,2,1,1,0,205,,0,2,2,1,1,0,205,,0,0,2,1,1,0,205,,0,4,1,71,0,0,0,,0,3,2,2,1,0,205,,0
+27,SS_trainermemo_028,"I got this Pokémon on {tag:0}/{tag:1}/20{tag:2},
+from <color=#F01E1EFF>{tag:3}{tag:4}</color>.
+When I got it, it was Lv. {tag:5}.",54,-1,42,756,0,"-1
+0
+0
+-1
+0",1,2,1,1,0,205,,0,2,2,1,1,0,205,,0,0,2,1,1,0,205,,0,-1,19,3,5,0,4,,0,4,1,5,0,0,0,,0,3,2,2,1,0,205,,0
+28,SS_trainermemo_029,"It seems it came to its original Trainer on
+{tag:0}/{tag:1}/20{tag:2} and that it came from
+<color=#F01E1EFF>{tag:3}{tag:4}</color>.
+From what I can tell, the Pokémon was
+Lv. {tag:5} at the time.",54,-1,42,756,0,"-1
+0
+0
+-1
+0",1,2,1,1,0,205,,0,2,2,1,1,0,205,,0,0,2,1,1,0,205,,0,-1,19,3,5,0,4,,0,4,1,5,0,0,0,,0,3,2,2,1,0,205,,0
+29,SS_trainermemo_030,"I first met it when it hatched from an Egg.
+I’d received the Egg on {tag:0}/{tag:1}/20{tag:2}
+from <color=#F01E1EFF>{tag:3}</color>.
+It hatched on {tag:4}/{tag:5}/20{tag:6} when I was
+<color=#F01E1EFF>{tag:7}</color>!",54,-1,42,756,0,"-1
+0
+0
+-1
+0",6,2,1,1,0,205,,0,7,2,1,1,0,205,,0,5,2,1,1,0,205,,0,8,1,5,0,0,0,,0,1,2,1,1,0,205,,0,2,2,1,1,0,205,,0,0,2,1,1,0,205,,0,4,1,71,0,0,0,,0
+30,SS_trainermemo_031,"It seems it hatched from an Egg that was
+received {tag:0}/{tag:1}/20{tag:2}, which its original
+Trainer got from <color=#F01E1EFF>{tag:3}</color>.
+It hatched on {tag:4}/{tag:5}/20{tag:6}, apparently,
+while <color=#F01E1EFF>{tag:7}</color>!",54,-1,42,756,0,"-1
+0
+0
+-1
+0",6,2,1,1,0,205,,0,7,2,1,1,0,205,,0,5,2,1,1,0,205,,0,8,1,5,0,0,0,,0,1,2,1,1,0,205,,0,2,2,1,1,0,205,,0,0,2,1,1,0,205,,0,4,1,71,0,0,0,,0
+31,SS_trainermemo_032,"I first met it when it hatched from an Egg.
+I received the Egg on {tag:0}/{tag:1}/20{tag:2}
+from <color=#F01E1EFF>{tag:3}</color>.
+It hatched on {tag:4}/{tag:5}/20{tag:6} when I was
+<color=#F01E1EFF>{tag:7}</color>!",54,-1,42,756,0,"-1
+0
+0
+-1
+0",6,2,1,1,0,205,,0,7,2,1,1,0,205,,0,5,2,1,1,0,205,,0,8,1,71,0,0,0,,0,1,2,1,1,0,205,,0,2,2,1,1,0,205,,0,0,2,1,1,0,205,,0,4,1,71,0,0,0,,0
+32,SS_trainermemo_033,"It seems it hatched from an Egg that was
+found on {tag:0}/{tag:1}/20{tag:2}, which its original
+Trainer got from <color=#F01E1EFF>{tag:3}</color>.
+It hatched on {tag:4}/{tag:5}/20{tag:6}, apparently,
+while <color=#F01E1EFF>{tag:7}</color>!",54,-1,42,756,0,"-1
+0
+0
+-1
+0",6,2,1,1,0,205,,0,7,2,1,1,0,205,,0,5,2,1,1,0,205,,0,8,1,71,0,0,0,,0,1,2,1,1,0,205,,0,2,2,1,1,0,205,,0,0,2,1,1,0,205,,0,4,1,71,0,0,0,,0
+33,SS_trainermemo_034,"We first met in a fateful encounter when it
+was Lv. {tag:0}.
+It came from <color=#F01E1EFF>{tag:1}</color>,
+and the date was {tag:2}/{tag:3}/20{tag:4}.",54,-1,42,756,0,"-1
+0
+0
+-1
+0",3,2,2,1,0,205,,0,4,1,5,0,0,0,,0,1,2,1,1,0,205,,0,2,2,1,1,0,205,,0,0,2,1,1,0,205,,0
+34,SS_trainermemo_035,"It seems to have met its original Trainer in a
+fateful encounter when it was Lv. {tag:0}.
+The date was {tag:1}/{tag:2}/20{tag:3}, and it seems it
+came from <color=#F01E1EFF>{tag:4}</color>.",54,-1,42,756,0,"-1
+0
+0
+-1
+0",3,2,2,1,0,205,,0,1,2,1,1,0,205,,0,2,2,1,1,0,205,,0,0,2,1,1,0,205,,0,4,1,5,0,0,0,,0
+35,SS_trainermemo_036,"We first met in a fateful encounter when it
+hatched from an Egg I got on {tag:0}/{tag:1}/20{tag:2},
+from <color=#F01E1EFF>{tag:3}</color>.
+The Egg hatched on {tag:4}/{tag:5}/20{tag:6}, while
+I was <color=#F01E1EFF>{tag:7}</color>!",54,-1,42,756,0,"-1
+0
+0
+-1
+0",6,2,1,1,0,205,,0,7,2,1,1,0,205,,0,5,2,1,1,0,205,,0,8,1,5,0,0,0,,0,1,2,1,1,0,205,,0,2,2,1,1,0,205,,0,0,2,1,1,0,205,,0,4,1,71,0,0,0,,0
+36,SS_trainermemo_037,"It apparently met its original Trainer in a
+fateful encounter when it hatched from an
+Egg that was received on {tag:0}/{tag:1}/20{tag:2},
+from <color=#F01E1EFF>{tag:3}</color>.
+It seems the Egg hatched on {tag:4}/{tag:5}/20{tag:6}
+<color=#F01E1EFF>{tag:7}</color>!",54,-1,42,756,0,"-1
+0
+0
+-1
+0",6,2,1,1,0,205,,0,7,2,1,1,0,205,,0,5,2,1,1,0,205,,0,8,1,5,0,0,0,,0,1,2,1,1,0,205,,0,2,2,1,1,0,205,,0,0,2,1,1,0,205,,0,4,1,71,0,0,0,,0
+37,SS_trainermemo_038,"It traveled across space and time to rejoin
+me from <color=#F01E1EFF>{tag:0}</color>.",54,-1,42,756,0,"-1
+0
+0
+-1
+0",4,1,5,0,0,0,,0
+38,SS_trainermemo_039,"It seems to have traveled all the way across
+space and time itself to join me
+from <color=#F01E1EFF>{tag:0}</color>.",54,-1,42,756,0,"-1
+0
+0
+-1
+0",4,1,5,0,0,0,,0
+39,SS_trainermemo_040,"It traveled across space and time to rejoin
+me from <color=#F01E1EFF>{tag:0}</color>,
+where we met in a fateful encounter!",54,-1,42,756,0,"-1
+0
+0
+-1
+0",4,1,5,0,0,0,,0
+40,SS_trainermemo_041,"It seems to have traveled all the way across
+space and time itself to join me from
+<color=#F01E1EFF>{tag:0}</color>, where it met
+its original Trainer in a fateful encounter.",54,-1,42,756,0,"-1
+0
+0
+-1
+0",4,1,5,0,0,0,,0
+41,SS_trainermemo_042,"It traveled across space and time to rejoin
+me from <color=#F01E1EFF>{tag:0}</color>.
+How nostalgic!",54,-1,42,756,0,"-1
+0
+0
+-1
+0",4,1,5,0,0,0,,0
+42,SS_trainermemo_043,"It seems to have traveled all the way across
+space and time itself to join me from
+<color=#F01E1EFF>{tag:0}</color>.
+How nostalgic!",54,-1,42,756,0,"-1
+0
+0
+-1
+0",4,1,5,0,0,0,,0
+43,SS_trainermemo_044,"It traveled across space and time to rejoin
+me from <color=#F01E1EFF>{tag:0}</color>,
+where we met in a fateful encounter!
+How nostalgic!",54,-1,42,756,0,"-1
+0
+0
+-1
+0",4,1,5,0,0,0,,0
+44,SS_trainermemo_045,"It seems to have traveled all the way across
+space and time itself to join me from
+<color=#F01E1EFF>{tag:0}</color>, where it met
+its original Trainer in a fateful encounter.
+How nostalgic!",54,-1,42,756,0,"-1
+0
+0
+-1
+0",4,1,5,0,0,0,,0
+49,SS_trainermemo_048,"I first met it when it hatched from an Egg.
+I received the Egg on {tag:0}/{tag:1}/20{tag:2} from
+<color=#F01E1EFF>{tag:3}</color>, and it
+hatched on {tag:4}/{tag:5}/20{tag:6}. The place
+was <color=#F01E1EFF>{tag:7}</color>!",54,-1,42,756,0,"-1
+0
+0
+-1
+0",6,2,1,1,0,205,,0,7,2,1,1,0,205,,0,5,2,1,1,0,205,,0,8,1,5,0,0,0,,0,1,2,1,1,0,205,,0,2,2,1,1,0,205,,0,0,2,1,1,0,205,,0,4,1,5,0,0,0,,0
+50,SS_trainermemo_049,"It seems it hatched from an Egg that was
+received {tag:0}/{tag:1}/20{tag:2}, which its original
+Trainer got from <color=#F01E1EFF>{tag:3}</color>.
+It hatched on {tag:4}/{tag:5}/20{tag:6}, apparently,
+while <color=#F01E1EFF>{tag:7}</color>!",54,-1,42,756,0,"-1
+0
+0
+-1
+0",6,2,1,1,0,205,,0,7,2,1,1,0,205,,0,5,2,1,1,0,205,,0,8,1,5,0,0,0,,0,1,2,1,1,0,205,,0,2,2,1,1,0,205,,0,0,2,1,1,0,205,,0,4,1,71,0,0,0,,0
+51,SS_trainermemo_050,It loves to eat!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+52,SS_trainermemo_051,It takes plenty of siestas!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+53,SS_trainermemo_052,It nods off a lot!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+54,SS_trainermemo_053,It scatters things often!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+55,SS_trainermemo_054,It likes to relax!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+56,SS_trainermemo_055,It’s proud of its power!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+57,SS_trainermemo_056,It likes to thrash about!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+58,SS_trainermemo_057,It’s a little quick tempered!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+59,SS_trainermemo_058,It likes to fight!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+60,SS_trainermemo_059,It’s quick tempered!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+61,SS_trainermemo_060,It has a sturdy body!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+62,SS_trainermemo_061,It’s capable of taking hits!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+63,SS_trainermemo_062,It’s highly persistent!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+64,SS_trainermemo_063,It has good endurance!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+65,SS_trainermemo_064,It has good perseverance!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+66,SS_trainermemo_065,It likes to run!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+67,SS_trainermemo_066,It’s alert to sounds!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+68,SS_trainermemo_067,It’s impetuous and silly!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+69,SS_trainermemo_068,It’s somewhat of a clown!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+70,SS_trainermemo_069,It’s quick to flee!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+71,SS_trainermemo_070,It’s highly curious!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+72,SS_trainermemo_071,It’s mischievous!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+73,SS_trainermemo_072,It’s thoroughly cunning!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+74,SS_trainermemo_073,It’s often lost in thought!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+75,SS_trainermemo_074,It’s very finicky!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+76,SS_trainermemo_075,It’s strong willed!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+77,SS_trainermemo_076,It’s somewhat vain!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+78,SS_trainermemo_077,It’s strongly defiant!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+79,SS_trainermemo_078,It hates to lose!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+80,SS_trainermemo_079,It’s somewhat stubborn!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+81,SS_trainermemo_080,"A mysterious Pokémon Egg that I was
+given by <color=#F01E1EFF>{tag:0}{tag:1}</color>
+on {tag:2}/{tag:3}/20{tag:4}.",53,-1,42,756,0,"-1
+0
+0
+-1
+0",-1,19,3,5,0,8,,0,8,1,5,0,0,0,,0,6,2,1,1,0,205,,0,7,2,1,1,0,205,,0,5,2,1,1,0,205,,0
+82,SS_trainermemo_081,"A mysterious Pokémon Egg that I received
+from <color=#F01E1EFF>{tag:0}</color>.
+That was on {tag:1}/{tag:2}/20{tag:3}!",53,-1,42,756,0,"-1
+0
+0
+-1
+0",4,1,5,0,0,0,,0,1,2,1,1,0,205,,0,2,2,1,1,0,205,,0,0,2,1,1,0,205,,0
+83,SS_trainermemo_082,"A very mysterious Pokémon Egg I received
+from <color=#F01E1EFF>{tag:0}</color>.
+That was on {tag:1}/{tag:2}/20{tag:3}!",53,-1,42,756,0,"-1
+0
+0
+-1
+0",8,1,5,0,0,0,,0,6,2,1,1,0,205,,0,7,2,1,1,0,205,,0,5,2,1,1,0,205,,0
+84,SS_trainermemo_083,"A very mysterious Pokémon Egg I received
+from <color=#F01E1EFF>{tag:0}</color>.
+That was on {tag:1}/{tag:2}/20{tag:3}!",53,-1,42,756,0,"-1
+0
+0
+-1
+0",4,1,5,0,0,0,,0,1,2,1,1,0,205,,0,2,2,1,1,0,205,,0,0,2,1,1,0,205,,0
+85,SS_trainermemo_084,"A mysterious Pokémon Egg that I received
+from <color=#F01E1EFF>{tag:0}</color>.
+That was on {tag:1}/{tag:2}/20{tag:3}!",53,-1,42,756,0,"-1
+0
+0
+-1
+0",8,1,5,0,0,0,,0,6,2,1,1,0,205,,0,7,2,1,1,0,205,,0,5,2,1,1,0,205,,0
+86,SS_trainermemo_085,"“The Egg Watch”
+Sounds can be heard coming from inside!
+This Egg will hatch soon!",52,-1,42,756,0,"-1
+0
+0
+-1
+0"
+87,SS_trainermemo_086,"“The Egg Watch”
+It appears to move occasionally.
+It may be close to hatching.",52,-1,42,756,0,"-1
+0
+0
+-1
+0"
+88,SS_trainermemo_087,"“The Egg Watch”
+What Pokémon will hatch from this Egg?
+It doesn’t seem close to hatching.",52,-1,42,756,0,"-1
+0
+0
+-1
+0"
+89,SS_trainermemo_088,"“The Egg Watch”
+It looks as though this Egg will take
+a long time yet to hatch.",52,-1,42,756,0,"-1
+0
+0
+-1
+0"
+90,SS_trainermemo_089,It likes <color=#F01E1EFF>spicy</color> food.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+91,SS_trainermemo_090,It likes <color=#F01E1EFF>dry</color> food.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+92,SS_trainermemo_091,It likes <color=#F01E1EFF>sweet</color> food.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+93,SS_trainermemo_092,It likes <color=#F01E1EFF>bitter</color> food.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+94,SS_trainermemo_093,It likes <color=#F01E1EFF>sour</color> food.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+95,SS_trainermemo_094,It happily eats anything.,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+45,SS_trainermemo_095,"It traveled across space and time to rejoin
+me from the <color=#F01E1EFF>Sinnoh region of old</color>.",54,-1,42,756,0,"-1
+0
+0
+-1
+0"
+46,SS_trainermemo_096,"It seems to have traveled all the way across
+space and time itself to join me from the
+<color=#F01E1EFF>Sinnoh region of old</color>.",54,-1,42,756,0,"-1
+0
+0
+-1
+0"
+47,SS_trainermemo_097,"It traveled across space and time to rejoin
+me from the <color=#F01E1EFF>Sinnoh region of old</color>, where
+we met in a fateful encounter!",54,-1,42,756,0,"-1
+0
+0
+-1
+0"
+48,SS_trainermemo_098,"It seems to have traveled all the way across
+space and time itself to join me from the
+<color=#F01E1EFF>Sinnoh region of old</color>, where it met its
+original Trainer in a fateful encounter.",54,-1,42,756,0,"-1
+0
+0
+-1
+0"

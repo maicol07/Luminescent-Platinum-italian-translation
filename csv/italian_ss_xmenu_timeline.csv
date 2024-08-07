@@ -1,0 +1,517 @@
+0,ui_msg_xmenu_timeline_info_00,Vedi mappa,36,-1,42,252,0,"0
+0
+0
+-1
+0"
+1,ui_msg_xmenu_timeline_guide_01,Benvenut{tag:0} nel mondo dei Pokémon!,20,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+2,ui_msg_xmenu_timeline_guide_02,Che ne dici di guardare un po’ di TV?,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+3,ui_msg_xmenu_timeline_guide_03,Vai al piano terra.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+4,ui_msg_xmenu_timeline_guide_04,Vai da {tag:0}.,20,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+5,ui_msg_xmenu_timeline_guide_05,Vai a vedere cosa fa {tag:0}.,20,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+6,ui_msg_xmenu_timeline_guide_06,Vai a dare un’occhiata al Lago Verità.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+7,ui_msg_xmenu_timeline_guide_07,Vai a restituire il Pokémon.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+8,ui_msg_xmenu_timeline_guide_08,Vai al laboratorio di ricerca Pokémon.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+9,ui_msg_xmenu_timeline_guide_09,Di’ alla mamma che parti all’avventura.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+10,ui_msg_xmenu_timeline_guide_10,Vai a Giubilopoli.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+11,ui_msg_xmenu_timeline_guide_11,Visita la Scuola per Allenatori.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+12,ui_msg_xmenu_timeline_guide_12,Esplora Giubilopoli.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+13,ui_msg_xmenu_timeline_guide_13,"Rispondi ai quesiti della campagna promozionale
+per il PokéKron proposti dai tre Clown.",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+14,ui_msg_xmenu_timeline_guide_14,Vai a ritirare il PokéKron.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+15,ui_msg_xmenu_timeline_guide_15,Vai a Mineropoli.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+16,ui_msg_xmenu_timeline_guide_16,Cerca il Capopalestra di Mineropoli.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+17,ui_msg_xmenu_timeline_guide_17,"Sconfiggi Pedro, il Capopalestra di Mineropoli.",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+18,ui_msg_xmenu_timeline_guide_18,Parti in cerca di altre avventure.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+19,ui_msg_xmenu_timeline_guide_19,Torna a Giubilopoli.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+20,ui_msg_xmenu_timeline_guide_20,UNUSED,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+21,ui_msg_xmenu_timeline_guide_21,"{tag:0} è andato a Evopoli.
+Raggiungilo!",20,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+22,ui_msg_xmenu_timeline_guide_22,Vai a dare un’occhiata all’Impianto Turbine.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+23,ui_msg_xmenu_timeline_guide_23,Cerca la Chiave dell’impianto.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+24,ui_msg_xmenu_timeline_guide_24,Entra nell’Impianto Turbine.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+25,ui_msg_xmenu_timeline_guide_25,"Sconfiggi i membri del Team Galassia che
+si trovano nell’impianto.",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+26,ui_msg_xmenu_timeline_guide_27,Attraversa il bosco con Demetra.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+27,ui_msg_xmenu_timeline_guide_80,Esplora Evopoli.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+28,ui_msg_xmenu_timeline_guide_29,"Sconfiggi Gardenia, la Capopalestra di Evopoli.",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+29,ui_msg_xmenu_timeline_guide_30,"Cerca le Allenatrici che si nascondono
+nella Palestra.",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+31,ui_msg_xmenu_timeline_guide_31,Vai a fermare il Team Galassia.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+32,ui_msg_xmenu_timeline_guide_81,"Parla con il signore che si trova nella Sede
+del Team Galassia di Evopoli.",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+33,ui_msg_xmenu_timeline_guide_32,Parla con il proprietario del Negozio di Biciclette!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+34,ui_msg_xmenu_timeline_guide_33,Fai una visita all’Esperto dei Sotterranei.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+35,ui_msg_xmenu_timeline_guide_34,Dirigiti verso sud passando per la Pista Ciclabile.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+36,ui_msg_xmenu_timeline_guide_35,Vai a Cuoripoli.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+37,ui_msg_xmenu_timeline_guide_36,Vai all’Arena delle Virtù.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+38,ui_msg_xmenu_timeline_guide_37,Esplora Cuoripoli.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+39,ui_msg_xmenu_timeline_guide_38,Aiuta la signora in difficoltà!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+40,ui_msg_xmenu_timeline_guide_82,Esplora Rupepoli.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+41,ui_msg_xmenu_timeline_guide_39,Sconfiggi la Capopalestra di Rupepoli.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+42,ui_msg_xmenu_timeline_guide_40,Go to Route 209.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+43,ui_msg_xmenu_timeline_guide_41,Vai a recuperare il Pokédex di {tag:0}.,20,-1,54,1080,0,"0
+0
+0
+-1
+0",2,1,0,0,0,0,,0
+44,ui_msg_xmenu_timeline_guide_83,Vai a Pratopoli.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+45,ui_msg_xmenu_timeline_guide_42,Sconfiggi il Capopalestra di Pratopoli.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+46,ui_msg_xmenu_timeline_guide_43,Esplora Pratopoli.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+47,ui_msg_xmenu_timeline_guide_44,"La Recluta si è diretta a est di Pratopoli.
+Inseguila!",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+49,ui_msg_xmenu_timeline_guide_46,Aiuta il gruppo di Psyduck sul Percorso 210.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+50,ui_msg_xmenu_timeline_guide_47,Vai a Memoride e consegna l’Amuleto antico.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+51,ui_msg_xmenu_timeline_guide_84,"Il Team Galassia si trova davanti alle rovine.
+Fermalo!",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+52,ui_msg_xmenu_timeline_guide_85,Perlustra le rovine.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+53,ui_msg_xmenu_timeline_guide_48,Sconfiggi Fannie alla Palestra di Cuoripoli.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+54,ui_msg_xmenu_timeline_guide_49,Vai a Canalipoli.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+55,ui_msg_xmenu_timeline_guide_86,Esplora Canalipoli.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+56,ui_msg_xmenu_timeline_guide_50,Sconfiggi il Capopalestra di Canalipoli.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+57,ui_msg_xmenu_timeline_guide_51,"Segui {tag:0} fino alla Biblioteca
+di Canalipoli.",20,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+58,ui_msg_xmenu_timeline_guide_52,Esci dalla biblioteca.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+59,ui_msg_xmenu_timeline_guide_53,Vai a scoprire che succede al Lago Valore.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+60,ui_msg_xmenu_timeline_guide_54,Vai a dare un’occhiata al Lago Verità.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+61,ui_msg_xmenu_timeline_guide_87,Ferma il Team Galassia al Lago Verità.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+62,ui_msg_xmenu_timeline_guide_55,Vai a dare un’occhiata al Lago Arguzia.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+63,ui_msg_xmenu_timeline_guide_88,Ottieni la TM Forza all'Isola Ferrosa!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+64,ui_msg_xmenu_timeline_guide_56,Vai alla Palestra di Nevepoli.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+66,ui_msg_xmenu_timeline_guide_89,Dirigiti al Covo del Team Galassia.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+67,ui_msg_xmenu_timeline_guide_58,"Trova un modo per intrufolarti nel Covo
+del Team Galassia.",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+68,ui_msg_xmenu_timeline_guide_59,"Vai ad aprire la porta del magazzino
+del Team Galassia.",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+69,ui_msg_xmenu_timeline_guide_90,Esplora il Covo del Team Galassia.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+70,ui_msg_xmenu_timeline_guide_60,"Torna dentro alla Sede del Team Galassia
+di Rupepoli.",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+71,ui_msg_xmenu_timeline_guide_61,Salva i Pokémon rapiti.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+72,ui_msg_xmenu_timeline_guide_62,Premi il pulsante per liberare i Pokémon rapiti.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+73,ui_msg_xmenu_timeline_guide_63,"Raggiungi la cima del Monte Corona e ferma
+il Team Galassia.",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+74,ui_msg_xmenu_timeline_guide_91,Trova la MT Scalaroccia sul Percorso 217.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+75,ui_msg_xmenu_timeline_guide_64,Placa l’animo del Pokémon leggendario.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+76,ui_msg_xmenu_timeline_guide_65,Vai ad Arenipoli per controllare la situazione.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+77,ui_msg_xmenu_timeline_guide_66,Cerca il Capopalestra di Arenipoli.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+78,ui_msg_xmenu_timeline_guide_67,Sconfiggi il Capopalestra di Arenipoli.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+79,ui_msg_xmenu_timeline_guide_68,Dirigiti alla Lega Pokémon.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+80,ui_msg_xmenu_timeline_guide_92,Supera le sfide della Lega Pokémon.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+81,ui_msg_xmenu_timeline_guide_74,Vai al piano terra.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+82,ui_msg_xmenu_timeline_guide_75,Raggiungi {tag:0}.,20,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+83,ui_msg_xmenu_timeline_guide_76,Sconfiggi Vulcano e Corrado!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+84,ui_msg_xmenu_timeline_guide_77,Fai un salto alla Torre Lotta.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+85,ui_msg_xmenu_timeline_guide_78,"Completa il Pokédex e fai rapporto
+al Professore.",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+86,ui_msg_xmenu_timeline_guide_79,Esplora Sinnoh in cerca di avventure!,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+87,ui_msg_xmenu_timeline_communication_01,"Sembra che nelle vicinanze ci siano persone
+con cui giocare tramite comunicazione locale.",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+88,ui_msg_xmenu_timeline_pokeoutbreak_00,"Numerosi {tag:0} sono stati avvistati
+{tag:1}.",20,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,1,0,0,0,,0,0,1,71,0,0,0,,0
+30,ui_msg_xmenu_timeline_guide_93,"Indaga all’interno della Sede del Team Galassia
+di Evopoli!",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+48,ui_msg_xmenu_timeline_guide_94,Controlla l’entrata del Lago Valore.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+65,ui_msg_xmenu_timeline_guide_95,Sconfiggi la Capopalestra di Nevepoli!,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+89,ui_msg_xmenu_timeline_guide_49_1,Raggiungi il Parco Ribelle.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+90,ui_msg_xmenu_timeline_guide_86_1,Allenati all'Isola Ferrosa!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+91,ui_msg_xmenu_timeline_guide_86_2,Esplora l'Isola Ferrosa!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+92,ui_msg_xmenu_timeline_guide_48_1,Visita Canalipoli!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+93,ui_msg_xmenu_timeline_guide_64_1,Fai un salto dal Professor Rowan!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+94,ui_msg_xmenu_timeline_guide_38_1,Visita Rupepoli!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+95,ui_msg_xmenu_timeline_guide_34_1,Raggiungi il Segnale Psichico!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+96,ui_msg_xmenu_timeline_guide_80_1,Trova Gardenia al Percorso 216!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+97,ui_msg_xmenu_timeline_guide_post_riley,Parla a Ferruccio sull'Isola Ferrosa!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+98,1-msg_,Raggiungi Canalipoli!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+99,1-msg_,Raggiungi Canalipoli!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"

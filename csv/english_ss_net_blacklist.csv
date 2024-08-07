@@ -1,0 +1,125 @@
+0,SS_net_blacklist_00, Confirm,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+1,SS_net_blacklist_01, Back,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+2,SS_net_blacklist_02,Yes,34,-1,42,168,0,"-1
+0
+0
+-1
+0"
+3,SS_net_blacklist_03,No,34,-1,42,168,0,"-1
+0
+0
+-1
+0"
+4,SS_net_blacklist_04,{tag:0},37,-1,42,294,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+5,SS_net_blacklist_05,{tag:0},37,-1,42,294,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+6,SS_net_blacklist_06,{tag:0},37,-1,42,294,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+7,SS_net_blacklist_07,All,35,-1,42,210,0,"-1
+0
+0
+-1
+0"
+8,SS_net_blacklist_09,Remove from the list,41,-1,42,462,0,"-1
+0
+0
+-1
+0"
+9,SS_net_blacklist_10,Cancel,34,-1,42,168,0,"-1
+0
+0
+-1
+0"
+10,SS_net_blacklist_11,"Would you like to add {tag:0} to your
+block list?",57,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+11,SS_net_blacklist_12,Who would you like to add to your block list?,57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+12,SS_net_blacklist_14,"You won’t be able to connect again with any
+{pageend:player you add to your block list.}
+Are you sure you want to block this player?
+(It’s possible to unblock the player again.)",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+13,SS_net_blacklist_15,"What do you want to do
+with {tag:0}?",57,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+14,SS_net_blacklist_16,No one has been added to your block list.,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+15,SS_net_blacklist_17,"{tag:0} has been added to your
+{pageend:block list.}
+You can check your block list from the Profile
+option in the Y-Comm menu.",30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+16,SS_net_blacklist_18,"You’ve added {tag:0} and
+{tag:1}{pageend: to your block list.}
+To view your block list, go to Y-Comm and
+select Profile.",30,-1,42,840,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+17,SS_net_blacklist_19,"You’ve already added this person to your
+block list.",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+18,SS_net_blacklist_20,You can’t add yourself to your block list!,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+19,SS_net_blacklist_21,"You’ve added {tag:0}, {tag:1},
+and {tag:2}{pageend: to your block list.}
+To view your block list, go to Y-Comm and
+select Profile.",30,-1,42,840,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0,2,1,0,0,0,0,,0
+20,SS_net_blacklist_22,{tag:0},37,-1,42,294,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+21,SS_net_blacklist_23,{tag:0}/{tag:1}/{tag:2},155,-1,42,504,0,"-1
+0
+0
+-1
+0",1,2,1,1,0,205,,0,2,2,1,1,0,205,,0,0,2,3,1,0,0,,0

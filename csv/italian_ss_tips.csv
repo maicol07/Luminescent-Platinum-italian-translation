@@ -1,0 +1,498 @@
+0,SS_tips_002,Chiudi,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+1,SS_tips_003,Avanti,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+2,SS_tips_004,{tag:0}/{tag:1},168,-1,32,192,0,"0
+0
+0
+-1
+0",0,2,1,1,0,205,,0,1,2,1,1,0,205,,0
+3,SS_tips_005,Guida Avventura,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+4,SS_tips_007,"Premi il <color=#FF5000FF>pulsante X</color> per aprire il menu!
+Se selezioni <color=#FF5000FF>Salva</color>, potrai salvare i tuoi progressi
+di gioco!
+Scegliendo <color=#FF5000FF>Mappa città</color>, invece, potrai controllare la tua
+posizione o quella della tua prossima destinazione.
+Puoi consultare la Guida Avventura in qualsiasi
+momento. La trovi nella Borsa, tra gli strumenti base.",67,-1,42,924,0,"0
+0
+0
+-1
+0"
+5,SS_tips_009,Funzioni Y-Comm,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+6,SS_tips_010,"Le Funzioni Y-Comm ti permettono di comunicare
+con altri giocatori. Puoi lottare, fare degli scambi
+di Pokémon e tanto altro.
+Scopri nuovi modi di divertirti!",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+7,SS_tips_012,"Normalmente le Funzioni Y-Comm ti permettono
+di comunicare con giocatori che si trovano nelle
+vicinanze, ma se premi il pulsante + potrai connetterti
+con giocatori di tutto il mondo tramite Internet!",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+8,SS_tips_013,"Se durante la tua avventura vedi comparire uno sticker
+sullo schermo, significa che c’è un altro giocatore
+nelle vicinanze che sta cercando qualcuno con cui
+connettersi!
+Premi il pulsante Y per vedere chi è disponibile!",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+9,SS_tips_014,"Seleziona uno sticker con la silhouette di un Pokémon
+e potrai affrontare dei Pokémon insieme
+ad altri Allenatori!",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+10,SS_tips_015,Card della Lega Pokémon,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+11,SS_tips_016,"Rendi speciale il tuo profilo con la Card della Lega
+Pokémon! Personalizza la tua card tramite
+il CreaCard che trovi in tutti i Centri Pokémon
+e aggiornala con le informazioni più recenti.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+12,SS_tips_017,"Ogni Allenatore ha delle Card della Lega Pokémon
+che può scambiare con gli altri tramite le funzioni
+di comunicazione.
+Puoi vedere le card che hai ottenuto aprendo il
+menu principale con il pulsante X e accedendo
+al tuo album in ""Card della Lega Pokémon"".",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+13,SS_tips_019,Lo Stadio Lotta,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+14,SS_tips_020,"Allo Stadio Lotta puoi divertirti a lottare in link con
+Allenatori di tutto il mondo e partecipare a varie gare.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+15,SS_tips_021,"La modalità Lotta Amichevole ti permette
+di affrontare altri Allenatori senza preoccuparti
+dell’esito delle sfide. Chissà, potresti vedere
+Pokémon particolari o mosse inconsuete!",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+16,SS_tips_022,"La modalità Lotta Competitiva ti permette di
+affrontare altri giocatori seriamente per migliorare
+il tuo grado.
+Il grado indica quanto forte è la tua squadra e può
+aumentare o diminuire in base ai risultati delle lotte.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+17,SS_tips_023,"Le Gare Online sono una modalità di lotta in cui
+ci si affronta per un periodo di tempo prestabilito
+per ottenere il punteggio più alto.
+A differenza delle altre modalità, per partecipare a una
+gara devi cercarne una e iscriverti autonomamente.",67,-1,42,924,0,"0
+0
+0
+-1
+0"
+18,SS_tips_024,Il fenomeno Dynamax,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+19,SS_tips_025,"I Pokémon di Galar possono diventare giganteschi
+in determinati luoghi. Questo fenomeno prende
+il nome di ""Dynamax"".
+Quando il Polsino Dynamax brilla, seleziona
+l’<color=#FF5000FF>icona ""Dynamax""</color> per far dynamaxizzare
+il tuo Pokémon.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+20,SS_tips_026,"Un Pokémon Dynamax può restare tale per <color=#FF5000FF>tre turni</color>,
+durante i quali può sferrare mosse potentissime chiamate
+<color=#FF5000FF>mosse Dynamax</color>. Queste mosse hanno effetti particolari
+che variano a seconda del tipo.
+Attiva il fenomeno Dynamax al momento giusto
+e la vittoria sarà tua!",67,-1,42,924,0,"0
+0
+0
+-1
+0"
+21,SS_tips_027,Il Pokécampeggio,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+22,SS_tips_028,"Nel Pokécampeggio puoi rafforzare l’amicizia
+con i tuoi Pokémon giocando o cucinando con loro!
+Inoltre, così facendo li motiverai a impegnarsi
+ancora di più durante la lotta!",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+23,SS_tips_029,"Puoi giocare anche con i controller Joy-Con!
+Scollegali e agitali per lanciare la palla o scuotere
+il Pokégingillo!
+Se scuoterai il Pokégingillo come si deve potrai
+attirare l’attenzione dei Pokémon!",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+24,SS_tips_030,"Quando ti accampi nelle Terre Selvagge puoi giocare
+con un massimo di altri tre Allenatori.
+Al campeggio potrebbero farti visita persone
+o Pokémon che non hai mai incontrato...
+Preparati a stringere nuove amicizie!",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+25,SS_tips_031,Cucinare,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+26,SS_tips_032,"Prepara piatti deliziosi usando le bacche e i tuoi
+ingredienti preferiti!
+Se userai ingredienti di prima scelta o aggiungerai
+molte bacche otterrai piatti particolarmente gustosi.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+27,SS_tips_033,"Mentre stai cucinando, attizza il fuoco con il ventaglio
+e mescola gli ingredienti in pentola con il mestolo
+facendo attenzione a non farli fuoriuscire.
+Infine, aggiungi tutto il tuo amore per i Pokémon
+con il giusto tempismo e il gioco è fatto!",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+28,SS_tips_034,"Un piatto appena preparato va condiviso!
+Mangiare insieme ha un sacco di benefici: ad esempio
+può rimettere in forze i Pokémon che partecipano al
+campeggio o rafforzare i rapporti d’amicizia
+che hai con loro.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+29,SS_tips_036,Le tane di Pokémon,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+30,SS_tips_037,"Nelle Terre Selvagge ci sono dei punti dai quali
+si innalza una colonna di luce rossa: quelle sono
+tane di Pokémon.
+Se le esamini, potrai affrontare i Pokémon Dynamax
+che si nascondono al loro interno, da sol{tag:0} o insieme
+ad altri tre Allenatori!",66,-1,42,924,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+31,SS_tips_040,I Raid Dynamax,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+32,SS_tips_041,"Se riesci a sconfiggere un Pokémon Dynamax
+avrai l’opportunità di catturarlo.
+Potresti anche ottenere strumenti rari che non si
+trovano altrove.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+33,SS_tips_042,"I Pokémon Dynamax sono incredibilmente forti
+e agiscono in modo particolare, ad esempio
+sferrando raffiche di mosse.
+È importante che tutti e quattro gli Allenatori
+coinvolti collaborino per sconfiggerli!",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+34,SS_tips_043,Il Volotaxi,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+35,SS_tips_044,"Grazie al Volotaxi avrai la possibilità di andare
+in un battibaleno in qualsiasi posto di Galar,
+trasportat{tag:0} da un Corviknight!
+Apri il menu e seleziona ""Mappa città"" per
+approfittare di questo comodissimo servizio!",66,-1,42,924,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+36,SS_tips_046,I Box del PC,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+37,SS_tips_047,"Puoi depositare i tuoi Pokémon nei Box dei PC
+presenti in ogni Centro Pokémon.
+Puoi ritirare i Pokémon depositati da qualsiasi PC.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+38,SS_tips_053,Il Poké Job,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+39,SS_tips_054,"A Galar l’aiuto dei Pokémon è molto richiesto.
+Invia i tuoi Pokémon per aiutare le aziende e gli
+esercizi commerciali che ne hanno bisogno,
+e quando torneranno saranno un po’ più forti!",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+40,SS_tips_055,"Le offerte di lavoro vengono aggiornate una volta
+al giorno. Più richieste accetti e più Pokémon invii,
+più vantaggi avrai, perciò cerca di renderti utile
+alla gente di Galar!",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+41,SS_tips_058,La Sfida delle Palestre,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+42,SS_tips_059,"La Sfida delle Palestre consiste nell’affrontare
+le otto Palestre di Galar per ottenere le Medaglie.
+Le Medaglie si ottengono completando le missioni
+e sconfiggendo i Capipalestra.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+43,SS_tips_060,Le Gare in Diretta,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+44,SS_tips_061,"Con la modalità Gara in Diretta potrai partecipare
+a una gara insieme ad altri giocatori.
+Puoi partecipare a Gare Ufficiali oppure organizzare
+una Gara Privata tra amici.
+Per altre informazioni sulle Gare Ufficiali in corso
+o future, puoi consultare il sito Pokémon ufficiale.",67,-1,42,924,0,"0
+0
+0
+-1
+0"
+45,SS_tips_062,Organizzare una gara,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+46,SS_tips_063,"Puoi organizzare delle Gare in Diretta autonomamente.
+Decidi le regole con cui vuoi lottare e distribuiscile a
+tutti i partecipanti tramite le funzioni di comunicazione!
+Per altre informazioni puoi consultare il sito
+Pokémon ufficiale.",67,-1,42,924,0,"0
+0
+0
+-1
+0"
+47,SS_tips_064,Le Lotte Amichevoli,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+48,SS_tips_065,"Queste sono le regole delle Lotte Amichevoli:
+- La tua Squadra Lotta deve essere formata da
+<color=#FF5000FF>sei Pokémon di specie diverse</color>.
+- <color=#FF5000FF>Non puoi dare lo stesso strumento</color> a più Pokémon.",67,-1,42,924,0,"0
+0
+0
+-1
+0"
+49,SS_tips_066,"Alle Lotte Amichevoli sono ammessi i Pokémon speciali.
+Divertiti a lottare con i tuoi Pokémon preferiti!",67,-1,42,924,0,"0
+0
+0
+-1
+0"
+50,SS_tips_067,Le Lotte Competitive,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+51,SS_tips_068,"Queste sono le regole delle Lotte Competitive:
+- La tua Squadra Lotta deve essere formata da
+<color=#FF5000FF>sei Pokémon di specie diverse</color>.
+- <color=#FF5000FF>Non puoi dare lo stesso strumento</color> a più Pokémon.
+- <color=#FF5000FF>Non sono ammessi i Pokémon speciali</color>.<color=#FF5000FF></color>",67,-1,42,924,0,"0
+0
+0
+-1
+0"
+52,SS_tips_069,"Nelle Lotte Competitive ti viene assegnato un punteggio
+che può aumentare o diminuire in base al risultato delle
+lotte.
+Superare una certa soglia di punti ti farà salire di grado;
+perdere un certo numero di punti ti farà scendere.",67,-1,42,924,0,"0
+0
+0
+-1
+0"
+53,SS_tips_070,"I gradi sono divisi in classi. Anche se riporti delle
+sconfitte nelle Lotte Competitive, la tua classe
+non scenderà.
+Per esempio, se hai raggiunto la Classe Ultra Ball,
+non potrai scendere alla Classe Mega Ball.",67,-1,42,924,0,"0
+0
+0
+-1
+0"
+54,SS_tips_071,"Per ""stagione"" si intende il periodo durante il quale
+si disputano le Lotte Competitive.
+Quando una stagione finisce, ha inizio la successiva
+e il grado di tutti i partecipanti diminuisce. In questo
+caso anche la classe potrebbe diminuire.",67,-1,42,924,0,"0
+0
+0
+-1
+0"
+55,SS_tips_072,"Gli Allenatori che hanno già raggiunto il grado più alto
+nelle Lotte Competitive non saliranno più di grado ma
+si sfideranno fra loro per scalare la classifica.
+La posizione in classifica varia in base ai risultati delle
+lotte.",67,-1,42,924,0,"0
+0
+0
+-1
+0"
+56,SS_tips_073,Le Gare Online,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+57,SS_tips_074,"Esistono due tipi di Gare Online:
+Gare Ufficiali e Gare Private.",67,-1,42,924,0,"0
+0
+0
+-1
+0"
+58,SS_tips_075,"Nelle Gare Ufficiali, che possono avere varie regole, i
+partecipanti puntano alla migliore posizione in classifica.
+Le informazioni sulle gare in programma e i Pokémon
+ammessi vengono comunicati sul sito Pokémon ufficiale.",67,-1,42,924,0,"0
+0
+0
+-1
+0"
+59,SS_tips_076,"Le Gare Private sono gare non ufficiali organizzate
+dai giocatori stessi per poter lottare con altri Allenatori.
+Puoi metterti alla prova in tutte le Gare Private
+che desideri!",67,-1,42,924,0,"0
+0
+0
+-1
+0"
+60,SS_tips_077,"Cerca una Gara Ufficiale o una Gara Privata e iscriviti
+per partecipare quando inizierà.
+Ti consigliamo di pensare alle regole che vorresti seguire
+e ai Pokémon con cui vorresti partecipare per trovare
+la gara adatta a te.",67,-1,42,924,0,"0
+0
+0
+-1
+0"
+61,SS_tips_078,I Box Pokémon,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+62,SS_tips_079,"Grazie ai Box Pokémon puoi spostare liberamente
+i Pokémon in squadra e quelli che hai affidato ai PC
+dei Centri Pokémon.
+Per usarli, visualizza la lista dei Pokémon dal menu
+principale e premi il pulsante R.",67,-1,42,924,0,"0
+0
+0
+-1
+0"
+63,SS_tips_080,Partecipare alle Lotte Competitive,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+64,SS_tips_082,La pesca,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+65,SS_tips_083,"Quando vedi l’ombra di un Pokémon sulla superficie
+dell’acqua, voltati verso di essa e premi il pulsante A
+per iniziare a pescare!
+Quando la canna da pesca si muove, premi di nuovo
+il pulsante A per tirare su il Pokémon!
+Pesca in tutti i luoghi che trovi, non te ne pentirai!",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+66,SS_tips_085,Le Squadre a nolo,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+67,SS_tips_086,"Questa funzione ti permette di prendere in prestito
+delle Squadre Lotta rese pubbliche da altri Allenatori
+tramite Internet, o di mettere a disposizione di altri
+giocatori le squadre create da te.
+A ogni Squadra Lotta resa pubblica viene associato
+un ID che gli altri giocatori alla ricerca di una Squadra
+a nolo dovranno usare per prenderla in prestito.",67,-1,42,924,0,"0
+0
+0
+-1
+0"

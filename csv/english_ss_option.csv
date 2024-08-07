@@ -1,0 +1,485 @@
+0,SS_option_000,Confirm,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+1,SS_option_001,Text Speed,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+2,SS_option_002,Slow,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+3,SS_option_003,Normal,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+4,SS_option_004,Fast,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+5,SS_option_005,"You can choose from different text-scrolling
+speeds to control how quickly messages appear.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+6,SS_option_006,Battle Effects,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+7,SS_option_007,On,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+8,SS_option_008,Off,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+9,SS_option_009,"You can choose whether you wish to see move
+animations during battles or not.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+10,SS_option_010,Battle Style,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+11,SS_option_011,Switch,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+12,SS_option_012,Set,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+13,SS_option_013,"You can choose if you want to switch Pokémon
+after an opponent faints or not.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+14,SS_option_014,Characters,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+15,SS_option_015,Hiragana,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+16,SS_option_016,Kanji,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+17,SS_option_017,"You can change the way that Japanese text
+is displayed.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+18,SS_option_022,Send to Boxes,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+19,SS_option_023,Manual,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+20,SS_option_024,Automatic,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+21,SS_option_025,"You can choose to have Pokémon automatically
+sent to your Boxes or not when your party is full.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+22,SS_option_026,Would like to save these settings?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+23,SS_option_027,Yes,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+24,SS_option_028,No,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+25,SS_option_029,OPTIONS,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+26,SS_option_030,Gyroscope,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+27,SS_option_031,Use,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+28,SS_option_032,Don’t use,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+29,SS_option_033,"You can choose whether you wish to tilt your
+Joy-Con for controls in certain locations.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+30,SS_option_034,Autosave,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+31,SS_option_035,"You can choose to have your game saved
+automatically or not.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+64,SS_option_079,Change Window,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+65,SS_option_080,Type 1,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+32,SS_option_040,Background Music,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+33,SS_option_041,You can adjust the volume of background music.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+34,SS_option_042,Sound Effects,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+35,SS_option_043,You can adjust the volume of sound effects.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+36,SS_option_044,Pokémon Cries,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+37,SS_option_045,You can adjust the volume of Pokémon cries.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+38,SS_option_047,"Would you like to reset the settings to
+their defaults?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+39,SS_option_048,On,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+40,SS_option_049,Off,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+41,SS_option_050, Confirm,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+42,SS_option_051, Set and End,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+43,SS_option_052,Yes,81,-1,32,224,0,"-1
+0
+0
+-1
+0"
+44,SS_option_053,No,81,-1,32,224,0,"-1
+0
+0
+-1
+0"
+45,SS_option_054, Reset,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+46,SS_option_055,Would you like to save these settings?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+47,SS_option_056,{callback:10.0:Your settings have been saved.}{callback:0.0:},0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+48,SS_option_060,{tag:0},148,-1,42,168,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+49,SS_option_061,Vertical Camera,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+50,SS_option_062,Regular,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+51,SS_option_063,Inverted,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+52,SS_option_064,"You can choose regular or inverted for vertical
+camera controls.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+53,SS_option_065,Horizontal Camera,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+54,SS_option_066,"You can choose regular or inverted for horizontal
+camera controls.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+55,SS_option_067,Show Nicknames,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+56,SS_option_068,Show,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+57,SS_option_069,Don’t show,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+58,SS_option_070,"You can select if you want to show your
+Pokémon’s nickname during Link Battles.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+59,SS_option_071,Give Nicknames,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+60,SS_option_072,Give,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+61,SS_option_073,Don’t give,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+62,SS_option_074,"You can choose whether you wish to give a
+nickname to a Pokémon when you obtain it.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+63,SS_option_077,The attempt has failed. Please try again.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+66,SS_option_081,Type 2,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+67,SS_option_082,Type 3,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+68,SS_option_083,Type 4,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+69,SS_option_084,Type 5,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+70,SS_option_085,Type 6,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+71,SS_option_086,Type 7,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+72,SS_option_087,Type 8,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+73,SS_option_088,Type 9,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+74,SS_option_089,Type 10,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+75,SS_option_090,Type 11,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+76,SS_option_091,Type 12,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+77,SS_option_092,Type 13,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+78,SS_option_093,Type 14,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+79,SS_option_094,Type 15,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+80,SS_option_095,Type 16,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+81,SS_option_096,Type 17,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+82,SS_option_097,Type 18,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+83,SS_option_098,Type 19,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+84,SS_option_099,Type 20,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+89,SS_option_100,You can change your window type.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+85,SS_option_101,Type 21,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+86,SS_option_102,Type 22,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+87,SS_option_103,Type 23,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+88,SS_option_104,Type 24,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+90,SS_option_105,Fossil Digging Screen,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+91,SS_option_106,Shake,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+92,SS_option_107,Don’t shake,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+93,SS_option_108,"You can select whether or not you’d like the
+screen to shake while you’re digging for Fossils.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"

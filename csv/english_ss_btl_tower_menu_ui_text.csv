@@ -1,0 +1,307 @@
+0,msg_tower_receptionist_14,"Please select a battle format and the Pokémon
+you’d like to take part.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1,msg_tower_receptionist_15,Then in you go!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+2,msg_tower_receptionist_00,Thank you for coming. This is the Battle Tower!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+3,msg_tower_receptionist_01,Can I help you with something?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+4,msg_tower_receptionist_02,Would you like to continue battling?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+5,msg_tower_receptionist_03,"Good work in there!
+The Battle Tower is ready whenever you are!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+6,msg_tower_receptionist_04,"Oh, that’s a shame to see...
+We look forward to your next challenge.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+7,msg_tower_receptionist_05,"Congratulations! You’ve moved up in the ranks!
+You’re now Rank {tag:0}!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+8,msg_tower_receptionist_06,"You’ve earned a reward for moving up through
+the ranks!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+9,msg_tower_receptionist_07,"The Judge function has been unlocked!
+You can now use it in your Boxes!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+10,msg_tower_receptionist_08,"You can now choose which background music
+you’d like to listen to in the Battle Tower!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+11,msg_tower_description_00,"The Battle Tower is exactly what it sounds like.
+{pageend:It’s a place where you can have Pokémon battles.}
+You can try Single Battles and Double Battles,
+{pageend:and then their Master Classes.}
+{pageend:If you win, you can earn Rare Candies and BP.}
+Feel free to battle to hone your skill as a Trainer.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+12,msg_tower_choice_00,I want to battle,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+13,msg_tower_choice_01,Tell me about this place,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+14,msg_tower_choice_02,"No, thanks",39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+15,msg_tower_choice_03,Keep battling,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+18,msg_tower_info_01,You earned {tag:0} BP!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",3,2,1,1,0,205,,0
+19,msg_tower_rental_choice_00,Lend me a team!,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+20,msg_tower_rental_choice_01,Never mind,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+21,msg_tower_rental_choice_02,Lend me this team!,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+22,msg_tower_rental_choice_03,Tell me about this team!,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+23,msg_tower_rental_choice_04,Show me another team!,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+24,msg_tower_rental_talk_00,You want to borrow one of my Battle Teams?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+25,msg_tower_rental_talk_01,"Come talk to me whenever you want to borrow
+a proper team of Pokémon.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+26,msg_tower_rental_talk_02,"What sort of team would you like to take
+for a spin?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+27,msg_tower_rental_talk_03,"Ah... Looks like you’ve rented all the teams
+you can right now.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+28,msg_tower_rental_talk_04,You’re interested in this Battle Team?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+29,msg_tower_rental_talk_05,Put ’em through their paces!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+30,msg_tower_rental_talk_06,You’re already borrowing this team.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+31,msg_tower_rental_team_00,Basic Team,36,-1,42,252,0,"-1
+0
+0
+-1
+0"
+32,msg_tower_rental_team_01,Skill Team,36,-1,42,252,0,"-1
+0
+0
+-1
+0"
+33,msg_tower_rental_team_02,Tough Team,36,-1,42,252,0,"-1
+0
+0
+-1
+0"
+34,msg_tower_rental_team_03,Rain Team,36,-1,42,252,0,"-1
+0
+0
+-1
+0"
+35,msg_tower_rental_team_04,Slow Team,36,-1,42,252,0,"-1
+0
+0
+-1
+0"
+36,msg_tower_rental_team_05,Never mind,36,-1,42,252,0,"-1
+0
+0
+-1
+0"
+37,msg_tower_receptionist_10,And that’s not all! You’ve reached Rank {tag:0}!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+38,msg_tower_receptionist_12,"That drops you down a rank, I’m afraid...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+39,mes_tower_rental_system,You rented {tag:0}!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,57,0,0,0,,0
+16,msg_tower_choice_04,Rest,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+17,msg_tower_choice_05,Take a break,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+40,58-msg_t06pc0101_pc_mewtwo_01,"Greetings, Pokémon Trainer.
+{pageend:I bare an invitation.}
+You have been invited to a battle by
+{pageend:the world's greatest Pokémon.}
+Please accept this invitation and
+attend me at the Gate.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+41,58-msg_t06pc0101_pc_mewtwo_02,I shall await your arrival.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+42,58-msg_t06pc0101_pc_mewtwo_03,"Hm? Where am I..?
+{pageend:This is the Battleground?}
+I don’t understand what happened...
+{pageend:But your Pokémon need healing, right?}
+A true Pokémon nurse never rests!
+Speak to me if your team needs help.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+43,58-msg_t06pc0101_pc_mewtwo_getinvitation,{tag:0} received the Odd Invitation! ,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+44,58-msg_d14r0102_Mewtwo_teleport_01,A mysterious voice calls out to you.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+45,58-msg_d14r0102_Mewtwo_teleport_02,It seems you've accepted my invitation.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+46,58-msg_d10r0601_mewtwo_leave,A mysterious force stops you from leaving,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+47,58-msg_d10r0601_mewtwo_win,...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+48,58-msg_d10r0601_mewtwo_last_pokemon,You may be strong enough after all.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+49,58-msg_d10r0601_mewtwo_trainer_lose,"What a shame, not even Sinnoh’s champion can 
+match my strength",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+50,58-msg_d10r0601_mewtwo_trainer_start_01,"For years I have traveled the world to test my 
+{pageend:strength against any who dare face me.}
+Only one has proven any challenge at all.
+But now, I have cloned his Pokémon.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+51,58-msg_d10r0601_mewtwo_trainer_start_02,Do you truly think you stand a chance?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+52,58-msg_d10r0601_mewtwo_capture,"Fine, I'll do it myself.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+53,58-msg_d10r0601_mewtwo_capture_retry,Back again?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+54,58-msg_d10r0601_mewtwo_trainer_start_01_alt,"For years I have traveled the world in this form to 
+{pageend:test my strength against any who dare face me. }
+Only one has proven any challenge at all. But now,
+I have cloned his Pokémon",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"

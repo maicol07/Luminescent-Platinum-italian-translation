@@ -1,0 +1,858 @@
+0,DP_townmap_001,"Would you like to use Fly to go to
+{tag:0}{tag:1}?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",-1,19,3,5,0,0,,0,0,1,5,0,0,0,,0
+1,DP_townmap_003,"A small path through a lush, green, wooded
+area. The densely grown trees give off a
+thick aroma.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+2,DP_townmap_004,"A winding path that twists through grassy fields.
+Young Trainers like to test their battle skills here.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+3,DP_townmap_005,"Despite being so close to a big town, this path
+retains its relaxed, natural atmosphere.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+4,DP_townmap_006,"Once one gets through the tunnel, the city of
+Oreburgh is just a stone’s throw away.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+5,DP_townmap_007,"A charmingly natural path that wanders past
+many ponds and groves of trees.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+6,DP_townmap_008,"The Ravaged Path was hewn through a rocky
+outcropping. It is a shortcut that leads straight to
+Floaroma Town.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+7,DP_townmap_009,"A wide, wooden walkway spans a large pond.
+Fishers idle their time away dangling lines from
+the walkway.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+8,DP_townmap_010,"A quietly flowing stream and hilly terrain with
+one-way ledges make this a fun area
+for adventure.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+9,DP_townmap_011,"Near the entrance of Eterna Forest is a cabin
+whose keepers offer rest to weary travelers that
+stop by.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+10,DP_townmap_012,"Smoothly paved in asphalt, Cycling Road is
+heavenly for bicycle lovers.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+11,DP_townmap_013,"Below Cycling Road, one can see the entrance
+to Wayward Cave.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+12,DP_townmap_014,"Located at the foot of Mount Coronet, this road
+is carved into the rugged, rocky terrain.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+13,DP_townmap_015,"A lush field of grass spreads from Mount
+Coronet’s sheer rock face, creating a vista
+of contrasts.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+14,DP_townmap_016,"The Berry Master—an old man who loves nature,
+Pokémon, and Berries—makes his home here.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+15,DP_townmap_017,"The streams forded by this path wind past
+copses and grassy patches in a serene and
+soothing manner.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+16,DP_townmap_018,"The Lost Tower is where Pokémon are laid to rest
+when their lives come to an end.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+17,DP_townmap_019,"A path made by clearing an overgrown canyon
+between mountains. It is always shrouded by a
+dense fog.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+18,DP_townmap_020,"Grandma Wilma’s house stands alone in an
+isolated spot deep among the mountains.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+19,DP_townmap_021,"This narrow route is lined with deep, tall grass
+that tickles the noses of people straying off
+the path.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+20,DP_townmap_022,"The Café Cabin stands in a wood. The house
+special is fresh Moomoo Milk.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+21,DP_townmap_023,"A mountain path that tunnels through Mount
+Coronet, one of the tallest mountains in Sinnoh.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+22,DP_townmap_024,"A tall, sturdy wall surrounds an expansive estate
+that takes up nearly half of the road space.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+23,DP_townmap_025,"Beyond the wall, one can see the stately
+Pokémon Mansion and the owner’s prized
+garden behind it.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+24,DP_townmap_026,"This path weaves among deep puddles made by
+the unending rainfall. It is wet and miserable
+for Trainers.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+25,DP_townmap_027,"There is a house here whose residents offer to
+trade TMs for Red, Blue, Yellow, or
+Green Shards.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+26,DP_townmap_028,"Offshore boulders form a jetty that becalms
+waves reaching the beach. A resort hotel
+overlooks the water.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+27,DP_townmap_029,"In a small house on the beach lives a single man
+who refers to himself as Dr. Footstep.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+28,DP_townmap_030,"The road joining Veilstone City and a lake is
+described as either “wildly natural” or simply
+“a mess.”",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+29,DP_townmap_031,"There is a cave hewn into the sheer rock wall at
+the roadside. The hole was made by a
+Ruin Maniac.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+30,DP_townmap_032,"This area is always inundated by heavy
+rainfall. Only hardy Trainers that can take the
+rain gather here.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+31,DP_townmap_033,"This mountainous road leads from Mount
+Coronet. Its constant snowfall and deep
+snowdrifts impede travelers.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+32,DP_townmap_034,"Snow blows down from Mount Coronet and
+grows into a harsh, ceaseless blizzard.
+Be prepared for the worst.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+33,DP_townmap_035,"Despite its shortness, this road is revered by
+fishing enthusiasts as a great, yet little known,
+fishing spot.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+34,DP_townmap_036,"A beautiful white-sand beach only five seconds
+on foot from Sandgem Town. A pleasant breeze
+blows from the sea.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+35,DP_townmap_037,"The sea here is perfect for swimming, with
+gentle winds and tides. There are sandbars for
+resting, too.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+36,DP_townmap_038,"A straight path hemmed by green grass and
+sparse stands of trees.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+37,DP_townmap_039,"At the end of the path stands the gateway to
+Renegade Park.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+38,DP_townmap_040,"A sandy beach extends from the road.
+The beach is busy with avid fishers happily
+casting at the water’s edge.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+39,DP_townmap_041,"People around here love to go fishing. There is
+also a man living here who will compare sizes of
+caught fish.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+40,DP_townmap_042,"A marine route that requires travelers to
+navigate around jutting rocks and sandbars.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+41,DP_townmap_043,"With grass fields, rocky outcroppings, the sea,
+and sandbars, this area is like a miniature of the
+Sinnoh region.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+42,DP_townmap_044,"The path makes its way up and down among
+rocky outcroppings. It is physically challenging.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+43,DP_townmap_045,"A path that winds precariously along sheer cliffs
+that go right to the edge of the sea’s
+pounding waves.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+44,DP_townmap_046,"There is a small island in the bay. An odd man
+who speaks foreign languages lives there.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+45,DP_townmap_047,"A rugged and steep mountain path where vision
+is limited by steadily falling volcanic ash.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+46,DP_townmap_048,"This rough path is harshly raked by a horizontally
+blowing sandstorm driven by strong winds off
+the sea.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+47,DP_townmap_049,"A seaside path that makes its way through wildly
+growing trees and plants.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+48,DP_townmap_050,"A sea route that stretches from west to east.
+There is an island that is rich with plant life
+along the way.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+50,DP_townmap_052,"A small town with the fresh scent of new leaves
+in the air. It feels like a place where
+adventures start.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+51,DP_townmap_053,"Your own home and your best friend’s house are
+located here.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+52,DP_townmap_054,"A sandy town that is located right next to a
+beach. It is redolent with the salty scent of
+the sea.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+53,DP_townmap_055,"Professor Rowan’s lab is the town’s landmark.
+He conducts his studies on Pokémon here.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+54,DP_townmap_056,"A town of flower lovers, Floaroma Town is always
+perfumed with the sweet scent of flowers.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+55,DP_townmap_057,"A short, floral pathway opens up to a sprawling
+sea of flowers in bloom.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+56,DP_townmap_058,"In the center of town is the flower shop called
+Pick a Peck of Colors.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+57,DP_townmap_059,"The temperate climate makes this town a relaxed
+and casual place for people and Pokémon to
+live in.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+58,DP_townmap_060,"There is a Pokémon Nursery and a Pokémon
+Center here.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+59,DP_townmap_061,"Beyond a path hemmed by stands of trees, one
+can find the entrance to Solaceon Ruins.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+60,DP_townmap_062,"A tiny town that preserves the history of Sinnoh
+and the old ways of life.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+61,DP_townmap_063,"In the center of the town is a small shrine that
+dates to ancient times.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+62,DP_townmap_064,"A city where hot-blooded Trainers gather to
+work out and hone their battling skills.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+63,DP_townmap_065,"A city that attracts Trainers who know there
+are other ways of enjoying Pokémon
+besides battling.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+64,DP_townmap_066,"The most modernized city in the Sinnoh region.
+It is bustling with people on the go.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+65,DP_townmap_067,"The Pokétch Company, the developer and
+manufacturer of the Pokétch, is located here.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+66,DP_townmap_068,"Jubilife TV, Sinnoh’s TV network, is located here.
+It is an entertaining place to visit.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+67,DP_townmap_069,"The Global Wonder Station—GWS for short—
+is located here.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+68,DP_townmap_070,"Located here is the Trainers’ School. Drop in to
+study up on the basics of Pokémon.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+69,DP_townmap_071,"A port city that is bisected by a canal. It has a
+distinctly exotic air of foreign culture.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+70,DP_townmap_072,"Head to the library if you want a workout for the
+mind. Head to the Gym if you just want to
+work out.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+71,DP_townmap_073,"Large ships can always be seen moored at the
+town’s piers.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+72,DP_townmap_074,"A vibrant and energetic mining town that is
+blessed with a precious natural resource.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+73,DP_townmap_075,"There is a Gym where mine workers take breaks
+in between their exhausting work shifts.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+74,DP_townmap_076,"There is a museum that specializes in exhibits
+related to the town’s coal mine.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+75,DP_townmap_077,"Huge deposits of coal still sleep underneath the
+ground. The entrance to Oreburgh Coal Mine
+is here.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+76,DP_townmap_078,"An old city that shows fading and
+almost-forgotten vestiges of ancient history.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+77,DP_townmap_079,"The cycle shop is located here. There is also a
+big building with a slightly sinister atmosphere.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+78,DP_townmap_080,"A statue of an ancient Pokémon is prominently
+and reverentially displayed.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+79,DP_townmap_081,"A Gym is indispensable in any town that has
+many people coming and going. This city is
+no exception.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+80,DP_townmap_082,"This friendly city started as a place where
+people and Pokémon gathered. Then it grew into
+a center of commerce.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+81,DP_townmap_083,"The entrance to Amity Square is here.
+The square is a place where Trainers
+can stroll peacefully with Pokémon.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+82,DP_townmap_084,"If you care about the looks of your Pokémon,
+head for the Contest Hall. For toughness, go to
+the Gym.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+83,DP_townmap_085,"There is a building here that is symbolic of the
+city’s status as a place where different
+cultures meet.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+84,DP_townmap_086,"A nice fountain with benches, as well as the
+Pokémon Fan Club, are among the
+city’s amenities.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+85,DP_townmap_087,"This city was originally founded to protect the
+Great Marsh. It has grown naturally over
+the years.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+86,DP_townmap_088,"The Gym is a good example of the abundant
+water resources available to the city.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+87,DP_townmap_089,"There is an observatory that affords views of the
+Great Marsh. The gate to the Safari Zone is
+also here.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+88,DP_townmap_090,"This city was made by carving out steep, rocky
+mountains. Its isolation limits its contact with
+other cities.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+89,DP_townmap_091,"There are warehouses for storing a variety of
+goods. There is also a major department store.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+90,DP_townmap_092,"At the highest point in the city is Team
+Galactic’s headquarters.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+91,DP_townmap_093,"There is a boutique with an owner who loves
+games. Naturally, the city also has a Gym.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+92,DP_townmap_094,"Metronome Style Shop is a unique boutique
+offering the latest and greatest Trainer fashions.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+93,DP_townmap_095,"A port city that was built around the bay
+portion of the cape. It is criss-crossed by
+elevated walkways.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+94,DP_townmap_096,"The Gym is located atop a rocky outcropping.
+Down on the beach is a festive bazaar.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+95,DP_townmap_097,"The Vista Lighthouse’s bright beacon illuminates
+the Sinnoh region.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+96,DP_townmap_098,"A winter wonderland of a city where stout trees
+and buildings are blanketed in thick snow.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+97,DP_townmap_099,"The Gym is at the heart of the city. To the north
+is Snowpoint Temple.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+98,DP_townmap_100,"Trainers seeking to become the best arrive here
+after enduring a long and grueling journey.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+99,DP_townmap_101,"The Pokémon League reception counter is
+located here. Only those who have beaten all
+the Gyms may enter.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+100,DP_townmap_102,"Victory Road is the last and toughest of the
+challenges leading up to the Pokémon League.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+101,DP_townmap_103,"A tiny port town where Trainers who love
+battling more than eating gather.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+102,DP_townmap_104,"Moored at the pier is the ferry to
+Snowpoint City.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+103,DP_townmap_105,The gateway to Battle Park is located here.,104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+104,DP_townmap_106,"One of the lakes that is symbolic of the
+water-rich Sinnoh region. There is an odd legend
+associated with it.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+105,DP_townmap_107,"It is possible to enter the cave underneath the
+lake from the island in the middle.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+106,DP_townmap_108,"One of the lakes that is symbolic of the
+water-rich Sinnoh region. There is an odd legend
+associated with it.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+107,DP_townmap_109,"It is possible to enter the cave underneath the
+lake from the island in the middle.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+108,DP_townmap_110,"A high-class restaurant is located on a hill
+overlooking the lake.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+109,DP_townmap_111,"One of the lakes that is symbolic of the
+water-rich Sinnoh region. There is an odd legend
+associated with it.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+110,DP_townmap_112,"It is possible to enter the cave underneath the
+lake from the island in the middle.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+111,DP_townmap_113,The fourth lake of Sinnoh that was kept secret.,104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+112,DP_townmap_114,"Beneath the lake’s surface is a cave where
+dimensions are distorted.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+113,DP_townmap_115,"Numerous wind turbines stand in the vicinity of
+the Valley Windworks.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+114,DP_townmap_116,"Winds blowing through the canyon feed the
+wind turbines to generate clean electricity.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+115,DP_townmap_117,"A forest enveloped in chilly air. Thick stands of
+trees turn the forest into a natural maze.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+116,DP_townmap_118,"Deep in the forest is the Old Chateau. It is
+falling into disrepair after being abandoned by
+its owner.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+117,DP_townmap_119,"The sprawling ironworks is located with the
+forest at its back.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+118,DP_townmap_120,"The ironworks refines iron ore mined from
+Mount Coronet to make iron and to manufacture
+mechanical parts.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+119,DP_townmap_121,"A sacred mountain that is capped year-round
+with snow. A gigantic maze sprawls inside it.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+120,DP_townmap_122,"There is an ancient ruin named the Spear Pillar
+located here.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+121,DP_townmap_123,"A small, crescent-shaped pond that lies inside a
+closed-off forest.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+122,DP_townmap_124,"A rugged, seemingly indestructible rock
+mountain that is thickly blanketed by the
+volcanic ash it spews.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+123,DP_townmap_125,"Inside the mountain, fissures in spilled and
+hardened lava form enormous caverns.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+124,DP_townmap_126,"A speck of an island far from any civilization. It
+is covered in an abundance of flowers.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+125,DP_townmap_127,"A small, ore-rich island that is off the coast of
+Eterna City.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+126,DP_townmap_128,"Inside the island are remnants of an iron ore
+mining operation from the past.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+127,DP_townmap_129,"A small, round pond that lies inside a
+closed-off forest.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+128,DP_townmap_130,"The Battle Tower—where the best of the
+best Trainers gather to test their skill—is
+located here.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+129,DP_townmap_131, Fly,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+130,DP_townmap_132, Current Location,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+131,DP_townmap_133, Location Info,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+132,DP_townmap_134, Back,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+49,DP_townmap_051,"A straight path bound by the sea on both sides.
+It leads to the Flower Paradise.",104,-1,32,640,0,"-1
+0
+0
+-1
+0"
+133,DP_townmap_135,Yes,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+134,DP_townmap_136,No,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+135,DP_townmap_137,Location Info,39,-1,42,420,0,"-1
+0
+0
+-1
+0"

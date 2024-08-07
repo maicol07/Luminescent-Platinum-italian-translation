@@ -1,0 +1,75 @@
+0,CONTESTWAZA_INFO_000,"-
+-
+-",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+1,CONTESTWAZA_INFO_001,Nessun effetto aggiuntivo.,109,-1,32,736,0,"0
+0
+0
+-1
+0"
+2,CONTESTWAZA_INFO_002,"Le note mancate non verranno considerate un errore
+per {tag:0} secondi.",109,-1,32,736,0,"0
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+10,CONTESTWAZA_INFO_018,"Questa mossa non può essere usata.
+È consigliabile farla dimenticare al Pokémon. Tuttavia,
+una volta dimenticata, non potrà più essere ricordata.",109,-1,32,736,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+3,CONTESTWAZA_INFO_005,Il fervore non diminuirà per {tag:0} secondi.,109,-1,32,736,0,"0
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+4,CONTESTWAZA_INFO_008,"L’indicatore dei cuori si riempirà un po’ più
+velocemente per {tag:0} secondi.",109,-1,32,736,0,"0
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+5,CONTESTWAZA_INFO_009,"L’indicatore dei cuori si riempirà più velocemente
+per {tag:0} secondi.",109,-1,32,736,0,"0
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+6,CONTESTWAZA_INFO_010,"L’indicatore dei cuori si riempirà molto più
+velocemente per {tag:0} secondi.",109,-1,32,736,0,"0
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+7,CONTESTWAZA_INFO_011,"Quando il fervore del Pokémon è positivo, otterrai
+{tag:0} {tag:1}.",109,-1,32,736,0,"0
+0
+0
+-1
+0",0,2,0,1,0,205,,0,-1,21,1,5,0,0,"punto show supplementare
+punti show supplementari",0
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+8,CONTESTWAZA_INFO_014,"Quando il fervore del Pokémon è negativo, otterrai
+{tag:0} {tag:1}.",109,-1,32,736,0,"0
+0
+0
+-1
+0",0,2,0,1,0,205,,0,-1,21,1,5,0,0,"punto show supplementare
+punti show supplementari",0
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+9,CONTESTWAZA_INFO_017,"Permette di ottenere da 1 a 5 punti show a seconda
+del livello di fervore.",109,-1,32,736,0,"0
+0
+0
+-1
+0"

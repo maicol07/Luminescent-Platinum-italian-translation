@@ -1,0 +1,122 @@
+0,error_o_serial_0031,"Si è verificato un errore con il server di
+autenticazione del codice seriale.
+Riprova più tardi.",26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+18,error_comm_28,"Impossibile collegarsi al server.
+Riprova dall’inizio.",26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+1,error_o_serial_0091,"Si è verificato un errore con il server di
+autenticazione del codice seriale a causa della
+manutenzione in corso. Riprova più tardi.",26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+2,error_o_serial_0092,Questo servizio non è più disponibile.,26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+3,error_o_serial_0098,"Si è verificato un errore con il server di
+autenticazione del codice seriale.
+Riprova più tardi.",26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+4,error_o_serial_0099,"Si è verificato un errore con il server di
+autenticazione del codice seriale.
+Riprova più tardi.",26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+5,error_o_serial_http500,"Il server di autenticazione del codice seriale
+sta registrando un alto volume di traffico.
+Riprova più tardi.",26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+6,error_comm_03,La comunicazione con il server è stata interrotta.,26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+8,error_comm_07,"La comunicazione con l’altro Allenatore
+è stata interrotta.",26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+9,error_fatal_save_00,"Si è verificato un errore.
+Impossibile effettuare lo scambio di Pokémon.
+Premi il pulsante HOME per uscire dal gioco.",26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+10,erro_fatal_storage,"Non è stato possibile individuare dati di gioco
+nella console Nintendo Switch.
+Spegni la console e riprova.",26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+11,error_comm_21,"La password inserita non corrisponde.
+Riprova dall’inizio.",26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+12,error_comm_24,"Impossibile continuare. Il numero di partecipanti
+ha raggiunto il limite.",26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+13,error_comm_25,Non è stato trovato alcun avversario.,26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+14,error_validation_common,"Si è verificato un errore sul server.
+Riprova.",26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+15,error_validation_http503,"È in corso la manutenzione del server.
+Riprova più tardi.",26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+16,error_comm_26,La comunicazione si è interrotta.,26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+17,error_comm_27,"È rimasto un solo partecipante.
+La Gara-show in link verrà terminata.",26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+7,error_comm_05,"Impossibile collegarsi con l’altro Allenatore.
+Riprova dall’inizio.",26,-1,54,1080,0,"0
+0
+0
+-1
+0"

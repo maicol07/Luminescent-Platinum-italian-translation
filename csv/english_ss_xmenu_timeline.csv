@@ -1,0 +1,499 @@
+0,ui_msg_xmenu_timeline_info_00,Check map,36,-1,42,252,0,"-1
+0
+0
+-1
+0"
+1,ui_msg_xmenu_timeline_guide_01,Welcome to the world of Pokémon!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+2,ui_msg_xmenu_timeline_guide_02,Why don’t you watch a little TV?,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+3,ui_msg_xmenu_timeline_guide_03,Head downstairs.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+4,ui_msg_xmenu_timeline_guide_04,Go meet {tag:0}!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+5,ui_msg_xmenu_timeline_guide_05,Go check on {tag:0}.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+6,ui_msg_xmenu_timeline_guide_06,Go take a look at Lake Verity.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+7,ui_msg_xmenu_timeline_guide_07,You’d better go return that Pokémon.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+8,ui_msg_xmenu_timeline_guide_08,Go visit the Pokémon Research Lab.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+9,ui_msg_xmenu_timeline_guide_09,"You really ought to tell your mom that you’re
+going on an adventure.",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+10,ui_msg_xmenu_timeline_guide_10,Time to go to Jubilife City!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+11,ui_msg_xmenu_timeline_guide_11,Head over to the Trainers’ School.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+12,ui_msg_xmenu_timeline_guide_12,Explore Jubilife City!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+13,ui_msg_xmenu_timeline_guide_13,"Find three clowns around the city and correctly
+answer each of their Pokétch Quiz questions.",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+14,ui_msg_xmenu_timeline_guide_14,Go and pick up your very own Pokétch!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+15,ui_msg_xmenu_timeline_guide_15,Next stop is Oreburgh City!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+16,ui_msg_xmenu_timeline_guide_16,Look for the Gym Leader of Oreburgh City.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+17,ui_msg_xmenu_timeline_guide_17,Defeat Roark at the Oreburgh Gym!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+18,ui_msg_xmenu_timeline_guide_18,Head out to your next adventure!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+19,ui_msg_xmenu_timeline_guide_19,Time to head back to Jubilife City.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+20,ui_msg_xmenu_timeline_guide_20,Unused,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+21,ui_msg_xmenu_timeline_guide_21,"{tag:0} went to Eterna City, so you’d
+better make your way there, too!",20,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+22,ui_msg_xmenu_timeline_guide_22,Have a look at the Valley Windworks.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+23,ui_msg_xmenu_timeline_guide_23,Search for the Works Key.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+24,ui_msg_xmenu_timeline_guide_24,Enter the Valley Windworks.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+25,ui_msg_xmenu_timeline_guide_25,"Take out the Team Galactic members in the
+Valley Windworks!",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+26,ui_msg_xmenu_timeline_guide_27,Work with Cheryl to get out of the forest!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+27,ui_msg_xmenu_timeline_guide_80,Try exploring Eterna City!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+28,ui_msg_xmenu_timeline_guide_29,Defeat Gardenia at the Eterna Gym!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+29,ui_msg_xmenu_timeline_guide_30,Find the Trainers hiding in the Gym.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+31,ui_msg_xmenu_timeline_guide_31,Go stop Team Galactic!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+32,ui_msg_xmenu_timeline_guide_81,"Try talking to the man in the Team Galactic
+Eterna Building.",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+33,ui_msg_xmenu_timeline_guide_32,Talk to the owner of the Cycle Shop!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+34,ui_msg_xmenu_timeline_guide_33,Why don’t you pay the Underground Man a visit?,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+35,ui_msg_xmenu_timeline_guide_34,Travel South on Cycling Road.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+36,ui_msg_xmenu_timeline_guide_35,Make your way to Hearthome City.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+37,ui_msg_xmenu_timeline_guide_36,Head over to the Contest Hall.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+38,ui_msg_xmenu_timeline_guide_37,Explore Hearthome City!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+39,ui_msg_xmenu_timeline_guide_38,Help the lady in distress!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+40,ui_msg_xmenu_timeline_guide_82,Explore Veilstone City!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+41,ui_msg_xmenu_timeline_guide_39,Defeat the Gym Leader of Veilstone City!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+42,ui_msg_xmenu_timeline_guide_40,Go to Route 209.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+43,ui_msg_xmenu_timeline_guide_41,Go and get {tag:0}’s Pokédex back!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0",2,1,0,0,0,0,,0
+44,ui_msg_xmenu_timeline_guide_83,Make your way to Pastoria City!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+45,ui_msg_xmenu_timeline_guide_42,Defeat the Gym Leader at the Pastoria Gym!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+46,ui_msg_xmenu_timeline_guide_43,Try exploring Pastoria City!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+47,ui_msg_xmenu_timeline_guide_44,Chase the grunt heading east of Pastoria City!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+49,ui_msg_xmenu_timeline_guide_46,Help the group of Psyduck on Route 210!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+50,ui_msg_xmenu_timeline_guide_47,Deliver the Old Charm to Celestic Town.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+51,ui_msg_xmenu_timeline_guide_84,Stop the “spaceman” in front of the ruins!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+52,ui_msg_xmenu_timeline_guide_85,Check out the ruins!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+53,ui_msg_xmenu_timeline_guide_48,Defeat Fantina at the Hearthome Gym!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+54,ui_msg_xmenu_timeline_guide_49,Make your way to Canalave City.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+55,ui_msg_xmenu_timeline_guide_86,Time to explore Canalave City!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+56,ui_msg_xmenu_timeline_guide_50,Defeat the Gym Leader at the Canalave Gym!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+57,ui_msg_xmenu_timeline_guide_51,Follow {tag:0} to the Canalave Library!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+58,ui_msg_xmenu_timeline_guide_52,Try leaving the library.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+59,ui_msg_xmenu_timeline_guide_53,"Go figure out what’s happening at
+Lake Valor!",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+60,ui_msg_xmenu_timeline_guide_54,Go check out the situation at Lake Verity.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+61,ui_msg_xmenu_timeline_guide_87,Stop the Team Galactic members at Lake Verity.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+62,ui_msg_xmenu_timeline_guide_55,Check up on how things are going at Lake Acuity.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+63,ui_msg_xmenu_timeline_guide_88,Obtain the TM Strength at Iron Island!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+64,ui_msg_xmenu_timeline_guide_56,Make your way to the Snowpoint Gym.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+66,ui_msg_xmenu_timeline_guide_89,Head to Team Galactic’s HQ.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+67,ui_msg_xmenu_timeline_guide_58,Find a way to get inside Team Galactic’s HQ!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+68,ui_msg_xmenu_timeline_guide_59,Go open the door in Team Galactic’s warehouse.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+69,ui_msg_xmenu_timeline_guide_90,Explore the Galactic HQ!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+70,ui_msg_xmenu_timeline_guide_60,"Reenter the Galactic HQ from the Galactic
+Veilstone Building.",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+71,ui_msg_xmenu_timeline_guide_61,Save the captured Pokémon!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+72,ui_msg_xmenu_timeline_guide_62,Push the button to save the captured Pokémon.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+73,ui_msg_xmenu_timeline_guide_63,Stop Team Galactic at Mount Coronet’s summit!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+74,ui_msg_xmenu_timeline_guide_91,Obtain the TM Rock Climb on Route 217!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+75,ui_msg_xmenu_timeline_guide_64,Calm the out-of-control Legendary Pokémon!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+76,ui_msg_xmenu_timeline_guide_65,Go check up on Sunyshore City.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+77,ui_msg_xmenu_timeline_guide_66,Find the Gym Leader of the Sunyshore Gym!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+78,ui_msg_xmenu_timeline_guide_67,Defeat the Gym Leader at the Sunyshore Gym!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+79,ui_msg_xmenu_timeline_guide_68,Head for the Pokémon League.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+80,ui_msg_xmenu_timeline_guide_92,Battle your way through the Pokémon League!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+81,ui_msg_xmenu_timeline_guide_74,Go to the first floor.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+82,ui_msg_xmenu_timeline_guide_75,Head to where {tag:0} is calling you.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+83,ui_msg_xmenu_timeline_guide_76,Help battle Flint & Volkner!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+84,ui_msg_xmenu_timeline_guide_77,Try visiting the Battle Tower.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+85,ui_msg_xmenu_timeline_guide_78,Complete your Pokédex and turn in your report!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+86,ui_msg_xmenu_timeline_guide_79,Try adventuring all over the Sinnoh region!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+87,ui_msg_xmenu_timeline_communication_01,"There seems to be someone nearby who can play
+using local communication.",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+88,ui_msg_xmenu_timeline_pokeoutbreak_00,"A lot of {tag:0} have been spotted
+{tag:1}!",20,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,1,0,0,0,,0,0,1,71,0,0,0,,0
+30,ui_msg_xmenu_timeline_guide_93,Look inside the Team Galactic Eterna Building.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+48,ui_msg_xmenu_timeline_guide_94,Check out the entrance of Lake Valor.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+65,ui_msg_xmenu_timeline_guide_95,Defeat the Gym Leader at the Snowpoint Gym!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+89,ui_msg_xmenu_timeline_guide_49_1,Make your way to Renegade Park.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+90,ui_msg_xmenu_timeline_guide_86_1,Go train on Iron Island!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+91,ui_msg_xmenu_timeline_guide_86_2,Explore Iron Island!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+92,ui_msg_xmenu_timeline_guide_48_1,Go to Canalave City!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+93,ui_msg_xmenu_timeline_guide_64_1,Go visit Professor Rowan!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+94,ui_msg_xmenu_timeline_guide_38_1,Go to Veilstone City!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+95,ui_msg_xmenu_timeline_guide_34_1,Go to the psychic signal!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+96,ui_msg_xmenu_timeline_guide_80_1,Find Gardenia on Route 216!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+97,ui_msg_xmenu_timeline_guide_post_riley,Talk to Byron on Iron Island!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"

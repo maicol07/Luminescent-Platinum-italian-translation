@@ -1,0 +1,2092 @@
+0,DP_options_000,Poisoned,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+1,DP_options_001,Paralyzed,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+2,DP_options_002,Asleep,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+3,DP_options_003,Burned,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+4,DP_options_004,Frozen,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+5,DP_options_005,Quit,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+6,DP_options_006,Single Battle,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+7,DP_options_007,Double Battle,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+8,DP_options_008,Mix Battle,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+9,DP_options_009,Multi Battle,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+10,DP_options_010,Tell me more,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+11,DP_options_011,Quit,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+12,DP_options_012,Back,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+13,DP_options_013,Join group,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+14,DP_options_014,Become leader,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+15,DP_options_015,Current floor,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+16,DP_options_016,{tag:0}F,42,-1,42,504,0,"-1
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+17,DP_options_017,Coolness,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+18,DP_options_018,Beauty,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+19,DP_options_019,Cuteness,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+20,DP_options_020,Toughness,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+21,DP_options_021,Cleverness,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+22,DP_options_022,Trade,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+23,DP_options_023,Quit,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+24,DP_options_034,Storage System,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+25,DP_options_035,Hall of Fame,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+26,DP_options_036,Turn off,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+27,DP_options_037,Standard Battle,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+245,DP_options_843,"I’ll buy 10 for 1,000",50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+28,DP_options_039,Confirm,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+29,DP_options_040,Check rules,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+30,DP_options_041,Yes,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+31,DP_options_042,No,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+32,DP_options_043,Quit,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+33,DP_options_044,Quit,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+34,DP_options_045,Fire,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+35,DP_options_046,Water,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+36,DP_options_047,Grass,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+37,DP_options_048,Card,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+38,DP_options_049,Battle,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+39,DP_options_050,{tag:0},42,-1,42,504,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+40,DP_options_051,{tag:0},42,-1,42,504,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+41,DP_options_052,{tag:0},42,-1,42,504,0,"-1
+0
+0
+-1
+0",2,1,0,0,0,0,,0
+42,DP_options_053,{tag:0},42,-1,42,504,0,"-1
+0
+0
+-1
+0",3,1,0,0,0,0,,0
+47,DP_options_055,Plant a Berry,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+48,DP_options_056,Draw,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+49,DP_options_057,　,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+50,DP_options_058,Someone’s PC,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+51,DP_options_059,Bebe’s PC,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+52,DP_options_060,Your PC,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+53,DP_options_061,Hall of Fame,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+54,DP_options_062,Oak’s PC,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+55,DP_options_063,Rowan’s PC,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+56,DP_options_064,Switch off,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+57,DP_options_116,1F,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+58,DP_options_117,2F,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+59,DP_options_118,3F,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+60,DP_options_119,4F,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+61,DP_options_120,5F,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+62,DP_options_121,B1F,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+63,DP_options_122,B2F,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+64,DP_options_123,Lookout,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+65,DP_options_124,Quit,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+66,DP_options_134,{tag:0} {tag:1}<line-indent=90px>Lv. {tag:2},50,-1,42,756,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,2,1,4,0,0,0,,0,1,2,2,1,0,205,,0
+67,DP_options_135,{tag:0} {tag:1}<line-indent=90px>Lv. {tag:2},50,-1,42,756,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,2,1,4,0,0,0,,0,1,2,2,1,0,205,,0
+71,DP_options_136,Quit,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+72,DP_options_153,How do I register a friend?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+73,DP_options_154,Understood!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+74,DP_options_155,Tell me again,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+75,DP_options_156,Old Amber,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+76,DP_options_157,Helix Fossil,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+77,DP_options_158,Dome Fossil,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+78,DP_options_159,Root Fossil,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+79,DP_options_160,Claw Fossil,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+80,DP_options_161,Armor Fossil,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+81,DP_options_162,Skull Fossil,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+82,DP_options_174,Right,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+83,DP_options_175,Left,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+84,DP_options_186,Area 1,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+85,DP_options_187,Area 2,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+86,DP_options_188,Area 3,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+87,DP_options_189,Area 4,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+88,DP_options_190,Area 5,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+89,DP_options_191,Area 6,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+90,DP_options_192,Quit,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+91,DP_options_193,Red Shard,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+92,DP_options_194,Blue Shard,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+93,DP_options_195,Yellow Shard,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+94,DP_options_196,Green Shard,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+95,DP_options_209,Red Shard,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+96,DP_options_210,Blue Shard,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+97,DP_options_211,Yellow Shard,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+98,DP_options_212,Green Shard,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+99,DP_options_213,Iron Island,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+100,DP_options_214,Fullmoon Island,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+101,DP_options_215,Newmoon Island,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+102,DP_options_216,Fight Area,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+103,DP_options_217,Snowpoint City,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+104,DP_options_218,Quit,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+105,DP_options_219,Fresh Water <pos=215px>200,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+106,DP_options_220,Soda Pop <pos=215px>300,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+107,DP_options_221,Lemonade <pos=215px>350,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+108,DP_options_222,"No, thanks",50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+109,DP_options_227,Quit,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+110,DP_options_228,"Nothing, thanks",39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+111,DP_options_229,What’s recommended?,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+112,DP_options_233,Digital Watch,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+113,DP_options_235,Calculator,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+114,DP_options_236,Memo Pad,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+115,DP_options_237,Analog Watch,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+116,DP_options_238,Dot Artist,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+117,DP_options_239,Pokémon List,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+118,DP_options_240,Friendship Checker,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+119,DP_options_241,Dowsing Machine,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+120,DP_options_242,Counter,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+121,DP_options_243,Pedometer,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+122,DP_options_244,Egg Monitor,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+123,DP_options_245,Spinner,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+124,DP_options_246,Coin Toss,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+125,DP_options_250,Kitchen Timer,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+126,DP_options_251,Marking Map,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+127,DP_options_253,Color Changer,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+128,DP_options_254,Calendar,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+129,DP_options_256,Chain Counter,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+130,DP_options_257,Pokémon History,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+131,DP_options_258,Hidden Moves,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+132,DP_options_259,Quit,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+133,DP_options_260,Story 1,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+134,DP_options_261,Story 2,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+135,DP_options_262,Story 3,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+136,DP_options_263,Quit,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+137,DP_options_264,Dusk Ball,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+138,DP_options_265,Heal Ball,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+139,DP_options_266,Quick Ball,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+140,DP_options_267,Quit,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+141,DP_options_268,The creation of space,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+142,DP_options_269,Mythical Pokémon,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+143,DP_options_270,The Red Chain,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+144,DP_options_271,Quit,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+145,DP_options_323,Safari Balls,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+146,DP_options_324,Park Balls,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+147,DP_options_325,Stock: {tag:0},39,-1,42,420,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+148,DP_options_381,Forest,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+149,DP_options_382,City,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+150,DP_options_383,Desert,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+151,DP_options_384,Savanna,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+152,DP_options_385,Crag,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+153,DP_options_386,Volcano,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+154,DP_options_387,Snow,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+155,DP_options_388,Cave,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+156,DP_options_389,Beach,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+157,DP_options_390,Seafloor,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+158,DP_options_391,River,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+159,DP_options_392,Sky,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+160,DP_options_393,Pokémon Center,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+161,DP_options_394,Machine,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+162,DP_options_395,Checks,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+163,DP_options_396,Simple,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+164,DP_options_397,Space,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+165,DP_options_398,Backyard,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+166,DP_options_399,Nostalgic,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+167,DP_options_400,Torchic,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+168,DP_options_401,Trio,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+169,DP_options_402,Pikapika,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+170,DP_options_403,Legend,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+171,DP_options_404,Team Galactic,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+277,DP_options_878,EVERYONE HAPPY WI-FI CONNECTION,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+173,DP_options_574,You can’t use this until you obtain a new Badge.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+174,DP_options_600,You’re already surfing.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+178,DP_options_694,"You can’t use this because you’re traveling
+with {tag:0}.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+172,DP_options_534,Which Pokémon do you want to use it on?,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+175,DP_options_602,You can’t use that here.,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+176,DP_options_604,This Pokémon does not have enough HP.,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+177,DP_options_629,You can’t use that on this Pokémon.,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+179,DP_options_738,"Do you want your Pokémon to remember
+the move {tag:0}?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,7,0,0,0,,0
+180,DP_options_760,Trainer {tag:0},56,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+181,DP_options_761,"This document certifies that you have completed
+the great achievement of meeting all the
+Pokémon in Sinnoh.",59,-1,42,840,0,"-1
+0
+0
+-1
+0"
+182,DP_options_762,"This document certifies that you have successfully
+completed your National Pokédex.",59,-1,42,840,0,"-1
+0
+0
+-1
+0"
+184,DP_options_763,GAME FREAK,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+185,DP_options_782,Distortion (Platinum),39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+186,DP_options_783,Trio (Platinum),39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+187,DP_options_784,Contest (Platinum),39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+188,DP_options_785,Pikapika (Platinum),39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+189,DP_options_786,Nostalgic (Platinum),39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+190,DP_options_787,Legend (Platinum),39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+191,DP_options_788,Croagunk (Platinum),39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+192,DP_options_789,Team Galactic (Platinum),39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+193,DP_options_790,Hall of Fame No. {tag:0},56,-1,42,840,0,"-1
+0
+0
+-1
+0",0,2,3,1,0,0,,0
+194,DP_options_791,{tag:0}/{tag:1}/{tag:2},46,-1,42,588,0,"-1
+0
+0
+-1
+0",2,2,1,1,0,205,,0,3,2,1,1,0,205,,0,1,2,3,1,0,0,,0
+195,DP_options_792,Original Trainer,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+196,DP_options_793,{tag:0},81,-1,32,224,0,"-1
+0
+0
+-1
+0",4,1,2,0,0,0,,0
+197,DP_options_794,Lv. {tag:0},169,-1,32,224,0,"-1
+0
+0
+-1
+0",5,2,2,1,0,205,,0
+198,DP_options_795,{tag:0},81,-1,32,224,0,"-1
+0
+0
+-1
+0",6,1,0,0,0,0,,0
+199,DP_options_796,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",7,1,7,0,0,0,,0
+200,DP_options_797,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",8,1,7,0,0,0,,0
+201,DP_options_798,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",9,1,7,0,0,0,,0
+202,DP_options_799,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",10,1,7,0,0,0,,0
+203,DP_options_800,{tag:0},81,-1,32,224,0,"-1
+0
+0
+-1
+0",11,1,2,0,0,0,,0
+204,DP_options_801,Lv. {tag:0},169,-1,32,224,0,"-1
+0
+0
+-1
+0",12,2,2,1,0,205,,0
+205,DP_options_802,{tag:0},81,-1,32,224,0,"-1
+0
+0
+-1
+0",13,1,0,0,0,0,,0
+206,DP_options_803,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",14,1,7,0,0,0,,0
+207,DP_options_804,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",15,1,7,0,0,0,,0
+208,DP_options_805,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",16,1,7,0,0,0,,0
+209,DP_options_806,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",17,1,7,0,0,0,,0
+210,DP_options_807,{tag:0},81,-1,32,224,0,"-1
+0
+0
+-1
+0",18,1,2,0,0,0,,0
+211,DP_options_808,Lv. {tag:0},169,-1,32,224,0,"-1
+0
+0
+-1
+0",19,2,2,1,0,205,,0
+212,DP_options_809,{tag:0},81,-1,32,224,0,"-1
+0
+0
+-1
+0",20,1,0,0,0,0,,0
+213,DP_options_810,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",21,1,7,0,0,0,,0
+214,DP_options_811,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",22,1,7,0,0,0,,0
+215,DP_options_812,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",23,1,7,0,0,0,,0
+216,DP_options_813,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",24,1,7,0,0,0,,0
+217,DP_options_814,{tag:0},81,-1,32,224,0,"-1
+0
+0
+-1
+0",25,1,2,0,0,0,,0
+218,DP_options_815,Lv. {tag:0},169,-1,32,224,0,"-1
+0
+0
+-1
+0",26,2,2,1,0,205,,0
+219,DP_options_816,{tag:0},81,-1,32,224,0,"-1
+0
+0
+-1
+0",27,1,0,0,0,0,,0
+220,DP_options_817,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",28,1,7,0,0,0,,0
+221,DP_options_818,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",29,1,7,0,0,0,,0
+222,DP_options_819,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",30,1,7,0,0,0,,0
+223,DP_options_820,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",31,1,7,0,0,0,,0
+224,DP_options_821,{tag:0},81,-1,32,224,0,"-1
+0
+0
+-1
+0",32,1,2,0,0,0,,0
+225,DP_options_822,Lv. {tag:0},169,-1,32,224,0,"-1
+0
+0
+-1
+0",33,2,2,1,0,205,,0
+226,DP_options_823,{tag:0},81,-1,32,224,0,"-1
+0
+0
+-1
+0",34,1,0,0,0,0,,0
+227,DP_options_824,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",35,1,7,0,0,0,,0
+228,DP_options_825,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",36,1,7,0,0,0,,0
+229,DP_options_826,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",37,1,7,0,0,0,,0
+230,DP_options_827,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",38,1,7,0,0,0,,0
+231,DP_options_828,{tag:0},81,-1,32,224,0,"-1
+0
+0
+-1
+0",39,1,2,0,0,0,,0
+232,DP_options_829,Lv. {tag:0},169,-1,32,224,0,"-1
+0
+0
+-1
+0",40,2,2,1,0,205,,0
+233,DP_options_830,{tag:0},81,-1,32,224,0,"-1
+0
+0
+-1
+0",41,1,0,0,0,0,,0
+234,DP_options_831,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",42,1,7,0,0,0,,0
+235,DP_options_832,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",43,1,7,0,0,0,,0
+236,DP_options_833,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",44,1,7,0,0,0,,0
+237,DP_options_834,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",45,1,7,0,0,0,,0
+238,DP_options_835, Quit,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+239,DP_options_836, Switch,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+240,DP_options_837,Illumination,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+241,DP_options_838,Electrode,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+242,DP_options_839,Brilliant,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+243,DP_options_840,Shining,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+246,DP_options_844,"No, thanks",50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+247,DP_options_845,I’ll buy one for 500,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+248,DP_options_846,"I’ll buy 10 for 5,000",50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+249,DP_options_847,I’ll buy another one,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+250,DP_options_848,I’ll buy a different one,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+244,DP_options_842,I’ll buy one for 100,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+251,DP_options_849,YOUR MONEY,82,-1,32,256,0,"-1
+0
+0
+-1
+0"
+252,DP_options_850,{tag:0},172,-1,32,352,0,"-1
+0
+0
+-1
+0",0,2,6,1,0,2,,0
+68,DP_options_851,{tag:0} (Lv. {tag:1} / ♂),50,-1,42,756,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,2,2,1,0,205,,0
+69,DP_options_852,{tag:0} (Lv. {tag:1} / ♀),50,-1,42,756,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,2,2,1,0,205,,0
+70,DP_options_853,{tag:0} (Lv. {tag:1}),50,-1,42,756,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,2,2,1,0,205,,0
+253,DP_options_854,Cheri Berry <pos=215px>80,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+254,DP_options_855,Chesto Berry <pos=215px>80,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+255,DP_options_856,Pecha Berry <pos=215px>80,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+256,DP_options_857,Rawst Berry <pos=215px>80,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+257,DP_options_858,Aspear Berry <pos=215px>80,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+258,DP_options_859,Gotta catch ’em all!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+259,DP_options_860,Sinnoh News Net,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+260,DP_options_861,Happy-Happy Egg Club,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+261,DP_options_862,Rate That Name Change,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+262,DP_options_863,Underground Treasures Corner,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+263,DP_options_864,Sticker Club Show,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+264,DP_options_865,Street Corner Personality Checkup,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+265,DP_options_866,Three Cheers for Poffin Corner,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+266,DP_options_867,Amity Square Watch,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+267,DP_options_868,A Show for Us,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+268,DP_options_869,Rare Item Expert Panel,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+269,DP_options_870,The Greater’s Digest,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+270,DP_options_871,Streetside Fashion Snap,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+271,DP_options_872,Rack ’Em Up Records,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+272,DP_options_873,Love That Group Corner,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+273,DP_options_874,Planting & Watering Show for Berry Gardeners,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+274,DP_options_875,Matchup Channel,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+275,DP_options_876,Pokémon Research Corner,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+276,DP_options_877,The Pokétch Watch,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+278,DP_options_879,Palmer,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+279,DP_options_880,Cheryl,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+280,DP_options_881,Mira,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+281,DP_options_882,Riley,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+282,DP_options_883,Marley,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+283,DP_options_884,Buck,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+284,DP_options_885,Decide,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+285,DP_options_886,Don’t decide,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+286,DP_options_887,Play again,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+287,DP_options_888,Red,36,-1,42,252,0,"-1
+0
+0
+-1
+0"
+288,DP_options_889,Green,36,-1,42,252,0,"-1
+0
+0
+-1
+0"
+289,DP_options_890,Blue,36,-1,42,252,0,"-1
+0
+0
+-1
+0"
+290,DP_options_891,Yellow,36,-1,42,252,0,"-1
+0
+0
+-1
+0"
+43,DP_options_892,{tag:0},42,-1,42,504,0,"-1
+0
+0
+-1
+0",4,1,0,0,0,0,,0
+44,DP_options_893,{tag:0},42,-1,42,504,0,"-1
+0
+0
+-1
+0",5,1,0,0,0,0,,0
+45,DP_options_894,{tag:0},42,-1,42,504,0,"-1
+0
+0
+-1
+0",6,1,0,0,0,0,,0
+46,DP_options_895,{tag:0},42,-1,42,504,0,"-1
+0
+0
+-1
+0",7,1,0,0,0,0,,0
+183,DP_options_896,"We hereby certify that this Trainer has shown
+unwavering friendship and unbreakable bonds
+with {tag:0}.",59,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+291,DP_options_897,Next,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+292,DP_options_training_xp,Experience,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+293,DP_options_training_hp,HP,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+294,DP_options_training_atk,Attack,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+295,DP_options_training_def,Defense,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+296,DP_options_training_spatk,Special Attack,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+297,DP_options_training_spdef,Special Defense,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+298,DP_options_training_spd,Speed,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+299,DP_options_training_cancel,Cancel,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+300,DP_options_training_high,High,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+301,DP_options_training_medium,Medium,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+302,DP_options_training_low,Low,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+303,DP_options_training_xp25,Lv. 25,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+304,DP_options_training_xp35,Lv. 35,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+305,DP_options_training_xp45,Lv. 45,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+306,DP_options_training_xp55,Lv. 55,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+307,DP_options_training_xp65,Lv. 65,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+308,DP_options_training_xp75,Lv. 75,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+309,DP_options_training_xp85,Lv. 85,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+310,DP_options_stone_water,Water Stone,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+311,DP_options_stone_thunder,Thunder Stone,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+312,DP_options_stone_fire,Fire Stone,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+313,DP_options_stone_sun,Sun Stone,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+314,DP_options_stone_moon,Moon Stone,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+315,DP_options_stone_leaf,Leaf Stone,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+316,DP_options_stone_ice,Ice Stone,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+317,DP_options_fashion_catalogue,Fashion Catalogue,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+318,DP_options_clothing,Clothing,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+319,DP_options_settings,Settings,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+320,DP_options_exp_share_off,EXP Share (Off),46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+321,DP_options_exp_share_on,EXP Share (On),46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+322,DP_options_affection_off,Affection (Off),46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+323,DP_options_affection_on,Affection (On),46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+324,DP_starter_choose_turtwig,Turtwig,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+325,DP_starter_choose_piplup,Piplup,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+326,DP_starter_choose_chimchar,Chimchar,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+327,DP_options_hard_level_cap_off,Level Cap (Off),46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+328,DP_options_hard_level_cap_on,Level Cap (On),46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+329,DP_options_mintguy_show,Show new Abra,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+330,DP_options_mintguy_get_mints,Get mints,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+331,DP_options_mints_hardy,Hardy,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+332,DP_options_mints_lonely,Lonely,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+333,DP_options_mints_brave,Brave,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+334,DP_options_mints_adamant,Adamant,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+335,DP_options_mints_naughty,Naughty,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+336,DP_options_mints_bold,Bold,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+337,DP_options_mints_docile,Docile,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+338,DP_options_mints_relaxed,Relaxed,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+339,DP_options_mints_impish,Impish,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+340,DP_options_mints_lax,Lax,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+341,DP_options_mints_timid,Timid,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+342,DP_options_mints_hasty,Hasty,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+343,DP_options_mints_serious,Serious,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+344,DP_options_mints_jolly,Jolly,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+345,DP_options_mints_naive,Naive,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+346,DP_options_mints_modest,Modest,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+347,DP_options_mints_mild,Mild,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+348,DP_options_mints_quiet,Quiet,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+349,DP_options_mints_bashful,Bashful,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+350,DP_options_mints_rash,Rash,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+351,DP_options_mints_calm,Calm,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+352,DP_options_mints_gentle,Gentle,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+353,DP_options_mints_sassy,Sassy,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+354,DP_options_mints_careful,Careful,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+355,DP_options_mints_quirky,Quirky,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+356,DP_options_oak1,General,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+357,DP_options_oak2,PokéDex,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+358,DP_options_oak3,Quests,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+359,DP_options_oak4,Nothing,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+360,DP_options_pc_box,Toggle Box System,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+361,DP_options_Bulba,Bulbasaur,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+362,DP_options_Squirt,Squirtle,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+363,DP_options_Char,Charmander,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+364,DP_options_reporter_cancel,Cancel,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+365,DP_options_training_xp100,Lv. 100,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+366,00_options_attack_mints,Attack Mints,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+367,00_options_defense_mints,Defense Mints,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+368,00_options_spatk_mints,Special Attack Mints,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+369,00_options_spadef_mints,Special Defense Mints,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+370,00_options_speed_mints,Speed Mints,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+371,00_options_neutral_mints,Neutral Mints,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+372,DP_options_Chika,Chikorita,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+373,DP_options_Totodile,Totodile,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+374,DP_options_Cynda,Cyndaquil,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+375,DP_options_Treeko,Treecko,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+376,DP_options_Torchic,Torchic,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+377,DP_options_Mudkip,Mudkip,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+378,DP_options_RED,Red,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+379,DP_options_BLUE,Blue,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+380,DP_options_NEITHER,Neither,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+381,DP_options_badge_9,Cancel,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+382,DP_options_badge_1,Coal Badge,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+383,DP_options_badge_2,Forest Badge,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+384,DP_options_badge_3,Relic Badge,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+385,DP_options_badge_4,Cobble Badge,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+386,DP_options_badge_5,Fen Badge,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+387,DP_options_badge_6,Mine Badge,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+388,DP_options_badge_7,Icicle Badge,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+389,DP_options_badge_8,Beacon Badge,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+390,DP_options_mints_slot1,Slot 1: {tag:0},0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+391,DP_options_mints_slot2,Slot 2: {tag:0},0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+392,DP_options_mints_slot3,Slot 3: {tag:0},0,-1,54,1080,0,"-1
+0
+0
+-1
+0",2,1,0,0,0,0,,0
+393,DP_options_mints_slot4,Slot 4: {tag:0},0,-1,54,1080,0,"-1
+0
+0
+-1
+0",3,1,0,0,0,0,,0
+394,DP_options_mints_slot5,Slot 5: {tag:0},0,-1,54,1080,0,"-1
+0
+0
+-1
+0",4,1,0,0,0,0,,0
+395,DP_options_mints_slot6,Slot 6: {tag:0},0,-1,54,1080,0,"-1
+0
+0
+-1
+0",5,1,0,0,0,0,,0
+396,DP_options_party_slot_1,Slot 1: {tag:0},0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+397,DP_options_party_slot_2,Slot 2: {tag:0},0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+398,DP_options_party_slot_3,Slot 3: {tag:0},0,-1,54,1080,0,"-1
+0
+0
+-1
+0",2,1,0,0,0,0,,0
+399,DP_options_party_slot_4,Slot 4: {tag:0},0,-1,54,1080,0,"-1
+0
+0
+-1
+0",3,1,0,0,0,0,,0
+400,DP_options_party_slot_5,Slot 5: {tag:0},0,-1,54,1080,0,"-1
+0
+0
+-1
+0",4,1,0,0,0,0,,0
+401,DP_options_party_slot_6,Slot 6: {tag:0},0,-1,54,1080,0,"-1
+0
+0
+-1
+0",5,1,0,0,0,0,,0
+402,DP_options_incense_unova,like the change of a season. (Unova),0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+403,DP_options_incense_kalos,"old, almost ancient. (Kalos)",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+404,DP_options_incense_alola,"tropical, infused with sunlight. (Alola)",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+405,DP_options_incense_galar,"like lush, open fields. (Galar)",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+406,DP_options_stone_shiny,Shiny Stone,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+407,DP_options_levelcap_info,Current Levelcap,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+408,DP_options_steven1,General,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+409,DP_options_steven3,Quests,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+410,DP_options_steven_battle,Battle,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+411,DP_options_steven4,Nothing,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+412,00_option_c01r0203_snowball_lick,Lick it.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+413,00_option_c01r0203_snowball_cancel,I’ll pass.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+414,DP_options_mewtwo_mk1,Armored Mk. 1,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+415,DP_options_mewtwo_mk2,Armored Mk. 2,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+416,DP_options_mewtwo_standard,Original Forme,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"

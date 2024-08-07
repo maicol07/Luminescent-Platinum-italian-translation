@@ -1,0 +1,595 @@
+0,DLP_net_union_room_001,"Puoi vedere la Scheda Allenatore degli altri
+{pageend:e mostrare la tua.}
+È interessante vedere come stanno andando
+le avventure degli altri Allenatori, no?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+1,DLP_net_union_room_002,"{pageend:Quest’area è molto frequentata.}
+Potresti approfittarne per chiacchierare, lottare
+e perfezionare le tue capacità come {tag:0}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"Allenatore
+Allenatrice",0
+2,DLP_net_union_room_003,"Quando fai uno scambio, hai più probabilità
+di successo se scegli di inviare un Pokémon
+gradito all’altro Allenatore!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+3,DLP_net_union_room_004,"Pare che lo scambio di dati con tanti Allenatori
+faccia accadere qualcosa di bello!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+4,DLP_net_union_room_005,"Sembra che la connessione non sia tanto buona.
+Magari parliamo la prossima volta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+5,DLP_net_union_room_006,Cambia modalità di connessione,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+6,DLP_net_union_room_007,"Sembrerebbe che tu non sia iscritt{tag:0}
+{pageend:a Nintendo Switch Online.}
+Per usufruire del Club globale, è necessario
+iscriversi al servizio a pagamento
+{pageend:di Nintendo Switch Online.}
+Se dovessi decidere di effettuare l’iscrizione,
+riprova ad accedere al Club globale.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+7,DLP_net_union_room_008,Cosa vuoi fare ora?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+8,DLP_net_union_room_009,Quello che capita!,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+9,DLP_net_union_room_010,Una lotta!,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+10,DLP_net_union_room_011,Uno scambio!,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+11,DLP_net_union_room_012,"Prego, accomodati.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+12,DLP_net_union_room_013,Vuoi accedere alla Sala contatto?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+13,DLP_net_union_room_014,Entra nella Sala locale,48,-1,42,672,0,"0
+0
+0
+-1
+0"
+14,DLP_net_union_room_015,Entra nella Sala globale,48,-1,42,672,0,"0
+0
+0
+-1
+0"
+15,DLP_net_union_room_016,Annulla,48,-1,42,672,0,"0
+0
+0
+-1
+0"
+16,DLP_net_union_room_017,Vuoi uscire dalla Sala locale?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+17,DLP_net_union_room_018,Vuoi uscire dalla Sala globale?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+18,DLP_net_union_room_019,Hai lasciato la Sala locale.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+19,DLP_net_union_room_020,Hai lasciato la Sala globale.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+20,DLP_net_union_room_021,Grazie della visita e torna presto!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+21,DLP_net_union_room_022,Vuoi impostare una password?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+22,DLP_net_union_room_023,La password è errata.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+23,DLP_net_union_room_024,Ricerca di partecipanti in corso.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+24,DLP_net_union_room_025,Numero di partecipanti insufficiente.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+25,DLP_net_union_room_026,Formazione delle squadre in corso.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+26,DLP_net_union_room_027,Vuoi partecipare a una Lotta Multipla?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+27,DLP_net_union_room_028,"Scusa, ma siamo già al completo.
+Magari un’altra volta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+83,DLP_net_union_room_114,Hai attaccato solo i bolli che possiedi!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+28,DLP_net_union_room_030,Ciao!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+29,DLP_net_union_room_031,Vuoi annullare la lotta?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+30,DLP_net_union_room_032,Stai per spostarti nella Sala globale.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+31,DLP_net_union_room_033,Stai per spostarti nella Sala locale.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+32,DLP_net_union_room_034,Ora ti trovi nella Sala globale.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+33,DLP_net_union_room_035,Ora ti trovi nella Sala locale.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+34,DLP_net_union_room_036,"{pageend:Hai voglia di lottare?}
+Va bene, allora chiamerò qualcuno a cui
+potrebbe interessare una lotta.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+35,DLP_net_union_room_037,"{pageend:Hai voglia di fare uno scambio?}
+Va bene, allora chiamerò qualcuno a cui
+potrebbe interessare uno scambio.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+36,DLP_net_union_room_038,"{pageend:Ti va bene qualsiasi cosa?}
+Va bene, allora chiamerò qualcuno che
+la pensa come te.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+37,DLP_net_union_room_039,Vuoi lottare con queste regole?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+38,DLP_net_union_room_040,Scambio di dati,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+39,DLP_net_union_room_041,Scegli una Squadra Lotta.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+40,DLP_net_union_room_042,"In questo tipo di lotta, due Allenatori si sfidano
+mandando in campo un Pokémon ciascuno.
+Prima della lotta, le squadre dei due sfidanti
+vengono mischiate tra loro.",62,-1,42,840,0,"0
+0
+0
+-1
+0"
+41,DLP_net_union_room_043,"Benvenut{tag:0}{pageend: al Club locale Pokémon!}
+Questo è il banco informazioni della Sala locale.
+Posso esserti d’aiuto?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+42,DLP_net_union_room_044,Entra,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+43,DLP_net_union_room_045,Entra con un gruppo,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+44,DLP_net_union_room_046,Entra con una password,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+45,DLP_net_union_room_047,Annulla,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+47,DLP_net_union_room_048,"Potrai usare le funzioni di comunicazione solo
+con persone appartenenti allo stesso gruppo.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+48,DLP_net_union_room_049,"Oh! A quanto pare non fai ancora parte
+{pageend:di nessun gruppo!}
+Riprova dopo essere entrat{tag:0} in un gruppo.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+49,DLP_net_union_room_050,"Se imposti una password, potrai usare le funzioni
+di comunicazione solo con chi avrà scelto
+la stessa password.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+50,DLP_net_union_room_051,"Prego, da questa parte!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+51,DLP_net_union_room_053,Vuoi usare la Sala globale?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+52,DLP_net_union_room_054,Vuoi usare la Sala locale?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+53,DLP_net_union_room_055,Proverai di nuovo a entrare nella Sala locale.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+54,DLP_net_union_room_056,Stai uscendo dalla Sala locale. Va bene?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+55,DLP_net_union_room_057,Stai uscendo dalla Sala globale. Va bene?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+56,DLP_net_union_room_061,"Puoi copiare le capsule decorate dagli altri
+{pageend:giocatori e viceversa.}
+Metti in cima alla lista la capsula che vuoi
+{pageend:mostrare.}
+La capsula dell’altro giocatore verrà copiata
+{pageend:automaticamente nella tua lista.}
+Se non hai tutti i bolli presenti sulla capsula
+dell’altro giocatore, potrai copiare solo
+quelli già a tua disposizione. Provaci!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+58,DLP_net_union_room_064,Avversario:,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+59,DLP_net_union_room_065,Sono {tag:0}!,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+60,DLP_net_union_room_066,Sono {tag:0}!,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+61,DLP_net_union_room_067,{tag:0} sta scegliendo cosa fare...,0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+62,DLP_net_union_room_068,Non è più possibile partecipare a questa lotta.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+63,DLP_net_union_room_069,"Mi dispiace, ma non ho Pokémon da scambiare.
+Facciamo un’altra volta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+64,DLP_net_union_room_070,"Mi dispiace, ma non ho Pokémon da scambiare.
+Facciamo un’altra volta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+65,DLP_net_union_room_071,Vuoi fare uno scambio?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+66,DLP_net_union_room_072,Vuoi scambiare i dati?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+67,DLP_net_union_room_073,Lo scambio di dati è stato interrotto.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+68,DLP_net_union_room_074,Vuoi partecipare a uno scambio di dati?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+69,DLP_net_union_room_075,"Il tuo ID sarà visibile ad altri giocatori.
+Va bene?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+70,DLP_net_union_room_076,"Scusa per l’attesa! Ecco la mia Scheda
+Allenatore!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+71,DLP_net_union_room_077,"Scusa per l’attesa! Ecco la mia Scheda
+Allenatore!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+72,DLP_net_union_room_079,Non hai capsule decorate.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+73,DLP_net_union_room_080,"Ti mostro una capsula decorata con
+il DecoraBall!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+74,DLP_net_union_room_081,"Ti mostro una capsula decorata con
+il DecoraBall!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+75,DLP_net_union_room_082,"Ah! Non ho ancora avuto modo di usare
+{pageend:il DecoraBall.}
+Scusa, facciamo un’altra volta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+76,DLP_net_union_room_083,"Ah! Non ho ancora avuto modo di usare
+{pageend:il DecoraBall.}
+Scusa, facciamo un’altra volta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+77,DLP_net_union_room_084,Scusa per l’attesa! Ecco la mia capsula!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+78,DLP_net_union_room_085,Scusa per l’attesa! Ecco la mia capsula!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+79,DLP_net_union_room_087,"Vuoi copiare la decorazione
+di {tag:0}?",0,-1,54,1080,1,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+80,DLP_net_union_room_088,Scegli su che capsula copiare la decorazione.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+81,DLP_net_union_room_089,Vuoi copiare la decorazione su questa capsula?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+82,DLP_net_union_room_090,Hai attaccato tutti i bolli!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+84,DLP_net_union_room_091,"{tag:0} vuole mostrarti una capsula
+{pageend:personalizzata con il DecoraBall.}
+Vuoi mostrarne una anche tu?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+85,DLP_net_union_room_092,"Ecco la capsula che {tag:0} ha
+personalizzato
+con il DecoraBall!",0,-1,54,1080,1,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+86,DLP_net_union_room_093,Proverai di nuovo a entrare nella Sala locale.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+87,DLP_net_union_room_094,"Che spasso mostrarsi a vicenda le capsule
+create usando il DecoraBall!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+88,DLP_net_union_room_095,"Che spasso mostrarsi a vicenda le capsule
+create usando il DecoraBall!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+89,DLP_net_union_room_096,"Per presentarmi, ti faccio vedere la mia
+Scheda Allenatore.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+90,DLP_net_union_room_097,Non puoi ancora usare la funzione DecoraBall.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+91,DLP_net_union_room_098,Non hai capsule libere su cui fare la copia.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+92,DLP_net_union_room_099,Vuoi fare una Lotta in Singolo?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+93,DLP_net_union_room_100,Vuoi fare una Lotta in Doppio?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+94,DLP_net_union_room_101,Vuoi fare una Lotta Mista?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+95,DLP_net_union_room_102,Vuoi fare una Lotta Multipla?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+96,DLP_net_union_room_103,Esci dalla sala,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+46,DLP_net_union_room_058,Chiedi informazioni,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+97,DLP_net_union_room_104,"Benvenut{tag:0}{pageend: nella Sala locale!}
+Qui potrai divertirti a scambiare Pokémon
+con tante altre persone!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+0,,,0,0,0,0,0,
+57,DLP_net_union_room_063,Regole:,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+99,DLP_net_union_room_106,Sala locale,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+100,DLP_net_union_room_107,Sala globale,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+101,DLP_net_union_room_108,Avanti,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+102,DLP_net_union_room_109,{tag:0},41,-1,42,462,0,"0
+0
+0
+-1
+0",0,1,85,0,0,0,,0
+103,DLP_net_union_room_110,{tag:0},41,-1,42,462,0,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+98,DLP_net_union_room_111,Sala contatto,8,-1,54,648,0,"0
+0
+0
+-1
+0"
+104,DLP_net_union_room_112,Non hai con te Pokémon da poter scambiare!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"

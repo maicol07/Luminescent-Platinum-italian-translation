@@ -1,0 +1,1789 @@
+0,0-Msg_CommErrorNo,There appears to be a problem... {tag:0},0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,2,4,1,0,0,,0
+1,1-msg_battle_room_01_01,"Please take your designated position and start
+the battle.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+2,1-msg_battle_room_01_02,"Please wait a moment...
+Press the B Button to cancel.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+241,7-msg_union_info_01_10,"In the Local Room, you can use local
+communication to trade Pokémon with
+people nearby!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+3,1-msg_battle_room_03_01,Communication will be ended. Is that OK?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+4,1-msg_battle_room_03_04,"Ending communication...
+Please wait.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+304,8-msg_connect_union_03,Would you like to save your adventure so far?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+256,7-msg_union_info_03_11,Toggle connection,41,-1,42,462,0,"-1
+0
+0
+-1
+0"
+257,7-msg_union_info_03_12,Greeting,41,-1,42,462,0,"-1
+0
+0
+-1
+0"
+258,7-msg_union_info_03_13,Capsule Decoration,41,-1,42,462,0,"-1
+0
+0
+-1
+0"
+259,7-msg_union_info_03_14,Change rules,41,-1,42,462,0,"-1
+0
+0
+-1
+0"
+5,2-mes_dstrade_01_02,{tag:0},37,-1,42,294,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+6,2-mes_dstrade_01_03,{tag:0},37,-1,42,294,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+7,2-mes_dstrade_01_04,{tag:0},37,-1,42,294,0,"-1
+0
+0
+-1
+0",2,1,2,0,0,0,,0
+8,2-mes_dstrade_01_05,{tag:0},37,-1,42,294,0,"-1
+0
+0
+-1
+0",3,1,2,0,0,0,,0
+9,2-mes_dstrade_01_06,{tag:0},37,-1,42,294,0,"-1
+0
+0
+-1
+0",4,1,2,0,0,0,,0
+10,2-mes_dstrade_01_07,{tag:0},37,-1,42,294,0,"-1
+0
+0
+-1
+0",5,1,2,0,0,0,,0
+11,2-mes_dstrade_01_08,{tag:0},37,-1,42,294,0,"-1
+0
+0
+-1
+0",6,1,2,0,0,0,,0
+12,2-mes_dstrade_01_09,{tag:0},37,-1,42,294,0,"-1
+0
+0
+-1
+0",7,1,2,0,0,0,,0
+13,2-mes_dstrade_01_10,{tag:0},37,-1,42,294,0,"-1
+0
+0
+-1
+0",8,1,2,0,0,0,,0
+14,2-mes_dstrade_01_11,{tag:0},37,-1,42,294,0,"-1
+0
+0
+-1
+0",9,1,2,0,0,0,,0
+15,2-mes_dstrade_01_12,{tag:0},37,-1,42,294,0,"-1
+0
+0
+-1
+0",10,1,2,0,0,0,,0
+16,2-mes_dstrade_01_13,{tag:0},37,-1,42,294,0,"-1
+0
+0
+-1
+0",11,1,2,0,0,0,,0
+17,2-mes_dstrade_01_14,{tag:0},37,-1,42,294,0,"-1
+0
+0
+-1
+0",12,1,2,0,0,0,,0
+18,2-mes_dstrade_01_15,{tag:0},37,-1,42,294,0,"-1
+0
+0
+-1
+0",13,1,2,0,0,0,,0
+19,2-mes_dstrade_02_01,Please select a Pokémon.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+20,2-mes_dstrade_02_02,"What do you want to do with
+{tag:0}{tag:1}?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",-1,19,3,5,0,0,,0,0,1,2,0,0,0,,0
+21,2-mes_dstrade_03_02,Trade,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+22,2-mes_dstrade_03_03,Back,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+23,2-mes_dstrade_04_02,"Do you want to trade your {tag:0}
+for your trade partner’s {tag:1}?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,2,0,0,0,,0
+24,2-mes_dstrade_04_03,The trade has been canceled.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+25,2-mes_dstrade_04_04,Would you like to cancel trading?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+26,2-mes_dstrade_04_07,Waiting for your friend to finish...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+27,2-mes_dstrade_04_08,Your friend wants to trade a Pokémon with you.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+28,2-mes_dstrade_04_09,"Sending {tag:0}{tag:1} to
+{tag:2}.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",-1,19,3,5,0,0,,0,0,1,2,0,0,0,,0,1,1,0,0,0,0,,0
+29,2-mes_dstrade_04_10,"Take care, {tag:0}!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+30,2-mes_dstrade_04_12,Take good care of {tag:0}{tag:1}!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",-1,19,3,5,0,0,,0,0,1,2,0,0,0,,0
+31,2-mes_dstrade_04_13,"If you trade that Pokémon, you’ll get stuck in
+your adventure!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+32,2-mes_dstrade_04_14,"Saving...
+Don’t turn off the power.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+33,2-mes_dstrade_04_15,"The Ball Capsule will become detached.
+Is that OK?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+34,2-mes_dstrade_05_01,♂,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+35,2-mes_dstrade_05_02,♀,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+36,2-mes_dstrade_05_03,Lv.,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+37,2-mes_dstrade_05_05,Item,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+38,2-mes_dstrade_05_07,{tag:0},39,-1,42,420,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+39,2-mes_dstrade_05_08,{tag:0},39,-1,42,420,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+40,2-mes_dstrade_05_09,{tag:0},39,-1,42,420,0,"-1
+0
+0
+-1
+0",2,1,9,0,0,0,,0
+41,2-mes_dstrade_05_10,{tag:0},39,-1,42,420,0,"-1
+0
+0
+-1
+0",3,1,2,0,0,0,,0
+42,2-mes_dstrade_05_11,{tag:0},39,-1,42,420,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+43,2-mes_dstrade_05_12,{tag:0},39,-1,42,420,0,"-1
+0
+0
+-1
+0",5,1,9,0,0,0,,0
+44,2-mes_dstrade_05_13,None,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+45,2-mes_dstrade_endstr,Quit,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+46,3-msg_pcug_01_01,"Oh, hello! Right this way, please!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+47,3-msg_pcug_01_02,"Hello! I’m glad to meet you. My name is Teala,
+and I’m your guide to the Pokémon Global Club.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+48,3-msg_pcug_01_03,"If you have a paid Nintendo Switch Online
+{pageend:membership, you can use the internet to connect}
+with Trainers all over the world in this club to
+{pageend:battle, trade Pokémon, and so on!}
+You can enter the Union Room any time by
+{pageend:pressing the Y Button.}
+Note there are some places, such as inside
+{pageend:buildings, where you can’t use it.}
+Would you like to hear a more
+detailed explanation?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+50,3-msg_pcug_01_05,I hope you enjoy your time in the Global Room!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+52,3-msg_pcug_01_06,"This is the Global Club.
+May I help you with anything?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+53,3-msg_pcug_01_07,"Let me explain how to participate in the
+{pageend:Pokémon Global Club!}
+You can enter the Global Room from either of
+the two counters on the left, or by pressing the
+{pageend:Y Button!}
+In the Global Room, you can set up Link Trades,
+Link Battles, and so on with Trainers from all over
+the world!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+55,3-msg_pcug_02_01,"{pageend:Welcome to the Union Room!}
+This is the Pokémon Global Club.
+Would you like to enter the Global Room?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+56,3-msg_pcug_02_02,Please do visit again.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+57,3-msg_pcug_02_03,Would you like to connect to the internet?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+58,3-msg_pcug_02_04,"Right this way, please.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+59,5-DBCParentWaitSingle,"Single Battle!
+Awaiting contact from your friend...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+60,5-DBCParentWaitDouble,"Double Battle!
+Awaiting contact from your friend...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+61,5-DBCParentWaitMulti,"Multi Battle!
+Awaiting contact from your friends...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+62,5-DBCParentWaitMix,"Mix Battle!
+Awaiting contact from your friend...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+63,5-DBCParentWaitNut,"When the group is ready:
+A Button: Proceed   B Button: Cancel",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+64,5-DBCParentWaitBattleTower,"Battle Tower!
+Awaiting contact from your friend...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+65,5-DBCParentChecBT,"{tag:0} has contacted you. Would you
+like to take the Battle Tower challenge?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+66,5-DBCParentCheckPoro,"{tag:0} has contacted you. Would you
+like to let {tag:1} join your group?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+67,5-DBCFinalCheckContest,"Contest!
+Is this group OK?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+68,5-DBCBCancelContest,"Would you like to cancel holding a contest with
+this group?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+69,5-DBCChildSelectSingle,Choose the Single Battle you would like to join.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+70,5-DBCChildSelectDouble,Choose the Double Battle you would like to join.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+71,5-DBCChildSelectMulti,Choose the Multi Battle you would like to join.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+72,5-DBCChildSelectMix,Choose the Mix Battle you would like to join.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+73,5-DBCNameAndID,"{tag:0}
+ID{tag:1}",40,-1,42,420,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,0,2,4,1,0,0,,0
+74,5-DBCParentNameList,{tag:0}:{tag:1},39,-1,42,420,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0,1,1,0,0,0,0,,0
+75,5-DBCParentNameList02,{tag:0}:,39,-1,42,420,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+76,5-DBCParentIDList,ID{tag:0},39,-1,42,420,0,"-1
+0
+0
+-1
+0",0,2,4,1,0,0,,0
+77,5-DBCChildList,{tag:0},39,-1,42,420,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+78,5-DBCChildRestNum,{tag:0} more {tag:1} needed.,40,-1,42,420,0,"-1
+0
+0
+-1
+0",0,2,0,1,0,205,,0,-1,19,1,5,0,0,"player
+players",0
+79,5-DBCChildPlayNum,{tag:0} Players,39,-1,42,420,0,"-1
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+80,5-msg_dbc_rule01,Standard Cup,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+81,5-msg_dbc_rule02,Fancy Cup,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+82,5-msg_dbc_rule03,Little Cup,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+83,5-msg_dbc_rule04,Light Cup,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+84,5-msg_dbc_rule05,Double Cup,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+85,5-msg_dbc_rule06,Number of Pokémon:,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+86,5-msg_dbc_rule07,Pokémon level:,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+87,5-msg_dbc_rule08,Total levels:,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+88,5-msg_dbc_rule09,Height:,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+89,5-msg_dbc_rule10,Weight:,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+90,5-msg_dbc_rule11,Evolved Pokémon:,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+91,5-msg_dbc_rule12,Special Pokémon:,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+92,5-msg_dbc_rule13,Same Pokémon:,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+93,5-msg_dbc_rule14,Same held items:,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+94,5-msg_dbc_rule15,{tag:0},42,-1,42,504,0,"-1
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+95,5-msg_dbc_rule16,Maximum: {tag:0},42,-1,42,504,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+242,7-msg_union_info_01_11,Would you like to start a Link Trade?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+243,7-msg_union_info_01_12,"You can use local communication to trade
+{pageend:Pokémon with people nearby.}
+You might come across a rare Pokémon!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+317,8-msg_connect_colosseum_18,I’m so sorry. The Colosseum isn’t ready yet.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+235,7-msg_union_info_01_13,"{pageend:Welcome to the Global Room.}
+If there is anything you need help with,
+please let me know!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+96,5-msg_dbc_rule22,Permitted,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+97,5-msg_dbc_rule23,Banned,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+98,5-msg_dbc_rule24,Permitted,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+99,5-msg_dbc_rule25,Banned,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+100,5-msg_dbc_rule26,{tag:0},42,-1,42,504,0,"-1
+0
+0
+-1
+0",0,1,52,0,0,0,,0
+101,5-msg_dbc_rule27,No Restrictions,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+102,5-DBC_Contest001,"Coolness Contest!
+Awaiting contact from another player...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+103,5-DBC_Contest002,"Beauty Contest!
+Awaiting contact from another player...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+104,5-DBC_Contest003,"Cuteness Contest!
+Awaiting contact from another player...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+105,5-DBC_Contest004,"Cleverness Contest!
+Awaiting contact from another player...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+106,5-DBC_Contest005,"Toughness Contest!
+Awaiting contact from another player...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+107,5-DBC_Contest006,"Coolness Contest!
+Please choose the leader.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+108,5-DBC_Contest007,"Beauty Contest!
+Please choose the leader.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+109,5-DBC_Contest008,"Cuteness Contest!
+Please choose the leader.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+110,5-DBC_Contest009,"Cleverness Contest!
+Please choose the leader.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+111,5-DBC_Contest010,"Toughness Contest!
+Please choose the leader.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+112,5-DBC_Contest011,"Coolness Contest! Awaiting contact...
+A Button: When everyone’s ready.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+113,5-DBC_Contest012,"Beauty Contest! Awaiting contact...
+A Button: When everyone’s ready.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+114,5-DBC_Contest013,"Cuteness Contest! Awaiting contact...
+A Button: When everyone’s ready.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+115,5-DBC_Contest014,"Cleverness Contest! Awaiting contact...
+A Button: When everyone’s ready.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+116,5-DBC_Contest015,"Toughness Contest! Awaiting contact...
+A Button: When everyone’s ready.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+117,5-DBC_Contest016,"Coolness Contest!
+Awaiting other members!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+118,5-DBC_Contest017,"Beauty Contest!
+Awaiting other members!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+119,5-DBC_Contest018,"Cuteness Contest!
+Awaiting other members!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+120,5-DBC_Contest019,"Cleverness Contest!
+Awaiting other members!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+121,5-DBC_Contest020,"Toughness Contest!
+Awaiting other members!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+122,5-DBC_Contest021,"The Coolness Contest with these members will
+be canceled.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+123,5-DBC_Contest022,"The Beauty Contest with these members will
+be canceled.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+124,5-DBC_Contest023,"The Cuteness Contest with these members will
+be canceled.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+125,5-DBC_Contest024,"The Cleverness Contest with these members will
+be canceled.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+126,5-DBC_Contest025,"The Toughness Contest with these members will
+be canceled.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+127,6-msg_union_record_name_01,{tag:0},39,-1,42,420,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+128,6-msg_union_record_name_02,ID: {tag:0},39,-1,42,420,0,"-1
+0
+0
+-1
+0",0,2,4,1,0,0,,0
+129,6-msg_union_record_01_01,"When the group is ready:
+A Button: Record Mixing   B Button: Cancel",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+130,6-msg_union_record_01_02,Are these members OK?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+131,6-msg_union_record_01_03,Would you like to cancel record mixing?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+132,6-msg_union_record_01_04,Record mixing will be canceled.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+133,6-msg_union_record_01_05,"There is a member who has become unable
+to participate.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+134,6-msg_union_record_01_06,"There is no one to mix records with.
+Record mixing will be canceled.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+135,6-msg_union_record_01_07,"Please wait.
+B Button: Cancel",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+136,6-msg_union_record_01_08,"A member has become unable to participate.
+Record mixing will be canceled.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+137,6-msg_union_record_01_09,Would you like to cancel record mixing?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+138,6-msg_union_record_01_11,"Mixing records...
+Don’t turn off the power!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+139,6-msg_union_record_01_12,"Record mixing completed!
+Returning to the Union Room.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+140,6-msg_union_record_01_13,"If the leader quits, the group will be disbanded.
+Is that OK?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+141,7-msg_union_select_01,Greet,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+142,7-msg_union_select_03,Battle,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+143,7-msg_union_select_04,Trade,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+144,7-msg_union_select_05,Quit,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+145,7-msg_union_select_07,Record Mixing,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+146,7-msg_union_connect_00_02,{wait:0.14999999105930328:}{tag:0} has contacted you.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+147,7-msg_union_connect_00_03,The chat has been dropped.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+148,7-msg_union_connect_00_04,Awaiting a response from {tag:0}...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+149,7-msg_union_connect_00_05,The chat was ended.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+150,7-msg_union_connect_01_01,"You have an offer to see {tag:0}’s
+{pageend:Trainer Card.}
+Would you like to show them your Trainer Card?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+151,7-msg_union_connect_01_02,This is {tag:0}’s Trainer Card.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+152,7-msg_union_connect_01_02_1,This is {tag:0}’s Trainer Card.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+153,7-msg_union_connect_01_02_2,This is {tag:0}’s Trainer Card.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+154,7-msg_union_connect_01_02_3,This is {tag:0}’s Trainer Card.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+155,7-msg_union_connect_01_02_4,Awaiting the other player to finish...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+156,7-msg_union_connect_01_03,You declined the offer.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+157,7-msg_union_connect_03_01,"{tag:0}{pageend: challenges you to a battle.}
+Will you accept their battle challenge?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+158,7-msg_union_connect_03_02,The battle will begin.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+159,7-msg_union_connect_04_01,"{tag:0}{pageend: has offered to make a trade.}
+Will you accept their trade offer?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+160,7-msg_union_connect_04_02,The trade will begin.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+161,7-msg_union_connect_04_04,"In order to trade, you must have at least two
+Pokémon with you.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+162,7-msg_union_connect_05_01,"{tag:0}{pageend: invites you to mix records.}
+Would you like to mix records with this player?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+163,7-msg_union_connect_05_02,Record mixing will begin.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+164,7-msg_union_talkboy_00_02,{wait:0.14999999105930328:}This is {tag:0}!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+165,7-msg_union_talkboy_00_03,"Whoops! Sorry, but I have to do something else.
+Another time, OK?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+166,7-msg_union_talkboy_00_04,Do you want to do anything else?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+167,7-msg_union_talkboy_00_05,The Trainer appears to be busy...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+168,7-msg_union_talkboy_00_06,There was no reply from {tag:0}...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+169,7-msg_union_talkboy_01_01,I’ll do one better—here’s my Trainer Card instead!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+170,7-msg_union_talkboy_01_02,"{pageend:Huh? My Trainer Card... It’s gone!}
+Sorry! I’ll show you another time!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+171,7-msg_union_talkboy_01_03,"I’m just showing my Trainer Card as my way of
+a greeting.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+172,7-msg_union_talkboy_01_04,I hope I get to know you better!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+173,7-msg_union_talkboy_03_01,"A battle? Of course, but I need time to prepare.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+174,7-msg_union_talkboy_03_02,Thanks for waiting! Let’s get our battle started!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+175,7-msg_union_talkboy_03_03,"Sorry! My Pokémon don’t seem to be feeling too
+well right now. Let me battle you another time.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+176,7-msg_union_talkboy_03_05,Whoa! I can tell you’re pretty tough!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+177,7-msg_union_talkboy_03_06,You used THAT move? That’s good strategy!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+178,7-msg_union_talkboy_03_07,Way to go! That was an eye-opener!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+179,7-msg_union_talkboy_03_08,"Oh! How could you use that Pokémon in
+a situation like this?!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+181,7-msg_union_talkboy_04_01,"You want to trade, huh? Sure, hold on a second.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+182,7-msg_union_talkboy_04_02,All right! Let’s trade!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+183,7-msg_union_talkboy_04_03,"Sorry! I don’t have a Pokémon I can trade right
+now. Let’s trade some other time.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+184,7-msg_union_talkboy_04_04,Oh yeah! I really wanted this Pokémon!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+185,7-msg_union_talkboy_04_05,"Finally, I got a Pokémon that I’ve wanted for such
+a long time!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+186,7-msg_union_talkboy_04_06,"You can’t trade if you have only one Pokémon
+with you.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+187,7-msg_union_talkboy_05_01,"If you want to do something with me, just give
+me a shout!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+188,7-msg_union_talkboy_06_01,"You want to mix records with me? OK, I just need
+a little time.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+189,7-msg_union_talkboy_06_02,"Thanks for waiting! Let’s mix our records, then.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+190,7-msg_union_talkboy_06_03,"Oh, I’m sorry. I have too much to do right now.
+Some other time, OK?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+191,7-msg_union_talkboy_06_05,"{pageend:We’re going to mix our records now.}
+Oh, hey! {tag:0}, do you want to mix
+your records with us, too?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+192,7-msg_union_talkboy_06_06,"Oh, all right. Come see me anytime, OK?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+193,7-msg_union_talkboy_06_07,OK! Let’s mix our records!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+194,7-msg_union_talkboy_06_08,"Oh, sorry! I just can’t right this instant.
+Another time, OK?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+195,7-msg_union_talkboy_06_09,It’s fun mixing records!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+196,7-msg_union_talkboy_06_10,I’m going to mix records with everyone!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+197,7-msg_union_talkboy_06_11,Mix it up! Keep mixing!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+198,7-msg_union_talkboy_06_12,"You should mix records, too!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+199,7-msg_union_talkgirl_00_02,"{wait:0.14999999105930328:}Hello, it’s {tag:0}!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+200,7-msg_union_talkgirl_00_03,"Whoops! Sorry, but I have to do something else.
+Another time, OK?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+201,7-msg_union_talkgirl_00_04,Do you want to do anything else?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+202,7-msg_union_talkgirl_00_05,The Trainer appears to be busy...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+203,7-msg_union_talkgirl_00_06,There was no reply from {tag:0}...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+204,7-msg_union_talkgirl_01_01,I’ll introduce myself with my Trainer Card.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+205,7-msg_union_talkgirl_01_02,"{pageend:Wait, where’d my Trainer Card go?!}
+Sorry! I’ll have to show you later!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+206,7-msg_union_talkgirl_01_03,"We’re showing each other our Trainer Cards to
+get acquainted.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+207,7-msg_union_talkgirl_01_04,"Glad to meet you. Please, don’t be a stranger!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+208,7-msg_union_talkgirl_03_01,"A battle? Of course, but I need time to prepare.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+209,7-msg_union_talkgirl_03_02,Sorry I made you wait! Let’s get started!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+210,7-msg_union_talkgirl_03_03,"I’m terribly sorry, but my Pokémon aren’t
+feeling well. Let’s battle another time.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+211,7-msg_union_talkgirl_03_05,That Pokémon... It’s been raised really well!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+212,7-msg_union_talkgirl_03_06,That’s it! This is the right move now!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+213,7-msg_union_talkgirl_03_07,That’s awesome! You can battle that way?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+214,7-msg_union_talkgirl_03_08,You have exquisite timing for switching Pokémon!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+215,7-msg_union_talkgirl_04_01,"A trade? Of course, but I need time to get ready.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+216,7-msg_union_talkgirl_04_02,Sorry I made you wait! Let’s get started!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+217,7-msg_union_talkgirl_04_03,"I’m sorry, but I don’t have any Pokémon that I
+can trade now. Let’s trade some other time!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+218,7-msg_union_talkgirl_04_04,I’m trading Pokémon right now.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+219,7-msg_union_talkgirl_04_05,I finally got that Pokémon I wanted in a trade!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+220,7-msg_union_talkgirl_04_06,"You can’t trade if you have only one Pokémon
+with you.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+222,7-msg_union_talkgirl_05_01,"If you want to do something with me, don’t be
+shy—just ask!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+223,7-msg_union_talkgirl_06_01,"You want to mix records? Sure! But I need a
+little time!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+224,7-msg_union_talkgirl_06_02,Sorry I made you wait! Let’s get started!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+225,7-msg_union_talkgirl_06_03,"Oh, sorry! Let’s do this another time!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+226,7-msg_union_talkgirl_06_05,"{pageend:We were just mixing our records.}
+Oh, hey! {tag:0}, would you like to mix
+your records with us, too?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+227,7-msg_union_talkgirl_06_06,"Oh... Please come by anytime, then.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+228,7-msg_union_talkgirl_06_07,Thanks for waiting! Let’s mix some records!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+229,7-msg_union_talkgirl_06_08,"Oh, sorry! Let’s do this another time!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+230,7-msg_union_talkgirl_06_09,It’s so fun to mix records!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+231,7-msg_union_talkgirl_06_10,I’m going to keep mixing!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+232,7-msg_union_talkgirl_06_11,Let’s mix it up!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+233,7-msg_union_talkgirl_06_12,I wonder what’s going to happen.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+234,7-msg_union_info_01_01,"{pageend:Welcome to the Local Room.}
+If there is anything you need help with, please
+let me know!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+236,7-msg_union_info_01_02,How may I help you?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+237,7-msg_union_info_01_03,What would you like to hear more about?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+238,7-msg_union_info_01_04,"You may play two types of battles: Single
+{pageend:Battles and Double Battles.}
+Please note that the opposing player can see
+your Pokémon’s nicknames in these battles.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+239,7-msg_union_info_01_05,"{pageend:You may trade your Pokémon with other players.}
+Meeting new people could be a shortcut to
+meeting rare Pokémon!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+240,7-msg_union_info_01_06,"You may communicate with other players and mix
+{pageend:your records.}
+What will happen if you mix records, you ask?
+We recommend that you try it and see!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+246,7-msg_union_info_02_01,"{pageend:Oh! Here comes someone now!}
+Instead of me, why not strike up a chat with
+our newcomer?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+247,7-msg_union_info_02_09,"{pageend:Welcome to the Local Room!}
+I’m the only one here now, but please do bring
+your friends for some fun and excitement!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+249,7-msg_union_info_03_01,Tell me more,41,-1,42,462,0,"-1
+0
+0
+-1
+0"
+250,7-msg_union_info_03_02,Chat,41,-1,42,462,0,"-1
+0
+0
+-1
+0"
+251,7-msg_union_info_03_03,Never mind,41,-1,42,462,0,"-1
+0
+0
+-1
+0"
+252,7-msg_union_info_03_04,Battle,41,-1,42,462,0,"-1
+0
+0
+-1
+0"
+253,7-msg_union_info_03_05,Trade,41,-1,42,462,0,"-1
+0
+0
+-1
+0"
+254,7-msg_union_info_03_06,Mix records,41,-1,42,462,0,"-1
+0
+0
+-1
+0"
+255,7-msg_union_info_03_10,Back,41,-1,42,462,0,"-1
+0
+0
+-1
+0"
+261,7-msg_connect_union_08,Talking to {tag:0}...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+262,7-msg_union_greeting_01,Konnichiwa!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+263,7-msg_union_greeting_02,Hello!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+264,7-msg_union_greeting_03,Bonjour!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+265,7-msg_union_greeting_04,Ciao!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+266,7-msg_union_greeting_05,Hallo!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+267,7-msg_union_greeting_06,¡Hola!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+268,7-msg_union_greeting_07,Annyeonghaseyo!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+272,8-msg_connect_colosseum_01,"{pageend:Welcome to the Pokémon Colosseum!}
+You may battle with your friends here.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+273,8-msg_connect_colosseum_02,Which kind of battle would you like to choose?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+274,8-msg_connect_colosseum_03,"{pageend:There are two kinds of battles.}
+Single Battle is for two Trainers with one
+{pageend:Pokémon each.}
+Double Battle is for two Trainers with two
+Pokémon each.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+276,8-msg_connect_rule_01,Please do visit again.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+277,8-msg_connect_direct2_01,"Please decide which of you two will become
+{pageend:the leader.}
+The other player must then choose “Join group.”",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+278,8-msg_connect_direct2_03,Awaiting {tag:0}’s response...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+279,8-msg_connect_direct2_05,{tag:0} sent back an “OK!”,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+280,8-msg_connect_direct2_08,An “OK” was sent to {tag:0}.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+281,8-msg_connect_direct2_09,Please enter.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+282,8-msg_connect_direct2_16,"{tag:0} contacted you for a
+Single Battle. Would you like to accept?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+283,8-msg_connect_direct2_17,"{tag:0} contacted you for a
+Double Battle. Would you like to accept?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+284,8-msg_connect_direct2_18,"{tag:0} contacted you for a Mix Battle.
+Would you like to accept?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+285,8-msg_connect_direct2_19,Please select the Pokémon you wish to enter.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+286,8-msg_connect_direct2_20,Waiting for {tag:0}’s selection...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+287,8-msg_connect_direct2_21,The battle was canceled.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+288,8-msg_connect_direct4_01,"Please decide which of you four
+{pageend:will become the group leader.}
+The other players must then choose
+“Join group.”",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+289,8-msg_connect_direct4_02,Please choose the leader for a Multi Battle.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+290,8-msg_connect_direct4_03,"Asking {tag:0} to register you as a
+member... Please wait.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+291,8-msg_connect_direct4_04,"{tag:0} chose not to register you as
+a member.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+292,8-msg_connect_direct4_05,"{tag:0} OK’d your registration as
+a member.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+293,8-msg_connect_direct4_06,Multi Battle! Awaiting other members!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+294,8-msg_connect_direct4_07,"Multi Battle!
+Awaiting contact from your friends...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+295,8-msg_connect_direct4_08,"Would you like to cancel the Multi Battle with
+these members?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+296,8-msg_connect_direct4_09,{tag:0} contacted you.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+297,8-msg_connect_direct4_10,"The members have gathered. Please enter
+the room.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+298,8-msg_connect_direct4_11,"{pageend:The members have gathered.}
+Please select the Pokémon you would like
+to enter.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+299,8-msg_connect_direct4_12,Awaiting other members’ selections.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+300,8-msg_connect_union_01,"Welcome to the Union Room!
+{pageend:This is the Pokémon Local Club.}
+You’ll be able to interact with other nearby
+Trainers here.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+302,8-msg_connect_union_02,"Trainers in the Local Room are players around
+{pageend:you who have also entered the room.}
+You may battle with other people in the same
+room, trade your Pokémon, or even mix records
+and exchange Trainer Cards.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+305,8-msg_connect_union_07,I hope you enjoy your time in the Local Room.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+244,7-msg_union_info_01_14,"You can talk to someone with a sign up to trade
+{pageend:or battle.}
+Or use the Y Button to choose what you’d like to
+do and put up your own sign!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+260,7-msg_union_info_03_15,How to play,41,-1,42,462,0,"-1
+0
+0
+-1
+0"
+306,8-msg_connect_guide_12,I hope you enjoy the Pokémon Local Room.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+307,8-msg_connect_rulebook_01,Which set of rules would you like to use?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+308,8-msg_connect_rulebook_02,"You need at least {tag:0} Pokémon that {tag:1}
+under {tag:2} rules.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,2,0,1,0,205,,0,-1,19,1,5,0,1,"qualifies
+qualify",0,0,1,52,0,0,0,,0
+309,8-msg_connect_rulebook_09,Quit,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+310,8-msg_connect_rulebook_11,Check Rules,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+311,8-msg_connect_rulebook_12,"You may have made a different choice than
+another player.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+312,8-msg_connect_rulebook_13,Please select the Pokémon you wish to enter.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+313,8-msg_connect_rulebook_16,"It’s impossible to form a team of Pokémon that
+qualify under the {tag:0}
+rules with a total level limit of {tag:1}.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,52,0,0,0,,0,0,2,2,1,0,205,,0
+314,8-msg_connect_common_01,Local Communications will be launched.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+315,8-msg_connect_colosseum_16,"For a Multi Battle, you must have at least
+three Pokémon.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+316,8-msg_connect_colosseum_17,"For a Mix Battle, you must have at least
+three Pokémon.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+318,8-msg_connect_ng_01,"You have at least one Pokémon that can’t
+be taken with you.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+248,7-msg_union_info_02_24,"{pageend:Welcome to the Global Room!}
+I’m the only one here now, but please do bring
+your friends for some fun and excitement!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+269,7-msg_union_greeting_08,Hello!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+270,7-msg_union_greeting_09,Nǐhǎo!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+271,7-msg_union_greeting_10,Nǐhǎo!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+180,7-msg_union_talkboy_03_09,A rule change? Let me check!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+221,7-msg_union_talkgirl_04_07,A rule change? Let me check!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+301,8-msg_connect_union_08,"You need to save your adventure to enter the
+room. Would you like to enter?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+51,3-msg_pcug_01_08,I hope you enjoy your time in the Global Room!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+275,8-msg_connect_colosseum_03_patch3,"{pageend:There are three kinds of battles.}
+Single Battle is for two Trainers with one
+{pageend:Pokémon each.}
+Double Battle is for two Trainers with two
+{pageend:Pokémon each.}
+Multi Battle is for four Trainers with one Pokémon
+each. They battle against each other in teams
+of two.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+49,3-msg_pcug_01_03_patch1,"If you have a paid Nintendo Switch Online
+{pageend:membership, you can use the internet to connect}
+with Trainers all over the world in this club to
+{pageend:trade Pokémon!}
+You can enter the Union Room any time by
+{pageend:pressing the Y Button.}
+Note there are some places, such as inside
+{pageend:buildings, where you can’t use it.}
+Would you like to hear a more
+detailed explanation?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+54,3-msg_pcug_01_07_patch1,"Let me explain how to participate in the
+{pageend:Pokémon Global Club!}
+You can enter the Global Room from either of
+the two counters on the left, or by pressing the
+{pageend:Y Button!}
+In the Global Room, you can set up Link Trades
+with Trainers from all over the world!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+245,7-msg_union_info_01_14_patch1,"{pageend:You can talk to someone with a sign up to trade.}
+Or use the Y Button to choose what you’d like to
+do and put up your own sign!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+303,8-msg_connect_union_02_patch1,"Trainers in the Local Room are players around
+{pageend:you who have also entered the room.}
+You may interact with other people in the same
+room, such as by trading your Pokémon or
+mixing records.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"

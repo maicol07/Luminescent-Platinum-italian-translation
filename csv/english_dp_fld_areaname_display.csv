@@ -1,0 +1,735 @@
+0,DP_fld_areaname_display_000,Mystery Zone,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+1,DP_fld_areaname_display_001,GWS,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+2,DP_fld_areaname_display_002,Jubilife City,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+3,DP_fld_areaname_display_006,Canalave City,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+4,DP_fld_areaname_display_008,Oreburgh City,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+5,DP_fld_areaname_display_010,Eterna City,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+6,DP_fld_areaname_display_014,Hearthome City,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+7,DP_fld_areaname_display_015,Pastoria City,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+8,DP_fld_areaname_display_017,Veilstone City,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+9,DP_fld_areaname_display_020,Sunyshore City,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+10,DP_fld_areaname_display_022,Snowpoint City,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+11,DP_fld_areaname_display_023,Pokémon League,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+12,DP_fld_areaname_display_024,Fight Area,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+13,DP_fld_areaname_display_025,Oreburgh Mine,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+14,DP_fld_areaname_display_026,Valley Windworks,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+15,DP_fld_areaname_display_027,Eterna Forest,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+16,DP_fld_areaname_display_028,Fuego Ironworks,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+17,DP_fld_areaname_display_029,Hall of Origin,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+18,DP_fld_areaname_display_030,Spear Pillar,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+19,DP_fld_areaname_display_031,Mount Coronet,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+20,DP_fld_areaname_display_032,Great Marsh,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+21,DP_fld_areaname_display_033,Solaceon Ruins,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+22,DP_fld_areaname_display_034,Victory Road,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+23,DP_fld_areaname_display_035,Renegade Park,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+24,DP_fld_areaname_display_036,Amity Square,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+25,DP_fld_areaname_display_037,Ravaged Path,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+26,DP_fld_areaname_display_038,Floaroma Meadow,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+27,DP_fld_areaname_display_039,Oreburgh Gate,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+28,DP_fld_areaname_display_040,Fullmoon Island,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+29,DP_fld_areaname_display_041,Stark Mountain,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+30,DP_fld_areaname_display_042,Turnback Cave,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+31,DP_fld_areaname_display_043,Sendoff Spring,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+32,DP_fld_areaname_display_044,Flower Paradise,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+33,DP_fld_areaname_display_045,Snowpoint Temple,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+34,DP_fld_areaname_display_046,Wayward Cave,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+35,DP_fld_areaname_display_047,Ruin Maniac Cave,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+36,DP_fld_areaname_display_048,Maniac Tunnel,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+37,DP_fld_areaname_display_049,Trophy Garden,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+38,DP_fld_areaname_display_050,Iron Island,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+39,DP_fld_areaname_display_051,Old Chateau,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+40,DP_fld_areaname_display_052,Galactic HQ,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+41,DP_fld_areaname_display_053,Verity Cavern,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+42,DP_fld_areaname_display_054,Lake Verity,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+43,DP_fld_areaname_display_055,Valor Cavern,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+44,DP_fld_areaname_display_056,Lake Valor,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+45,DP_fld_areaname_display_057,Acuity Cavern,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+46,DP_fld_areaname_display_058,Lake Acuity,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+47,DP_fld_areaname_display_059,Newmoon Island,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+48,DP_fld_areaname_display_060,Battle Park,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+49,DP_fld_areaname_display_062,Verity Lakefront,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+50,DP_fld_areaname_display_063,Valor Lakefront,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+51,DP_fld_areaname_display_066,Acuity Lakefront,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+52,DP_fld_areaname_display_067,Spring Path,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+53,DP_fld_areaname_display_068,Route 201,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+54,DP_fld_areaname_display_069,Route 202,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+55,DP_fld_areaname_display_070,Route 203,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+56,DP_fld_areaname_display_071,Route 204,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+57,DP_fld_areaname_display_072,Route 205,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+58,DP_fld_areaname_display_073,Route 206,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+59,DP_fld_areaname_display_074,Route 207,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+60,DP_fld_areaname_display_075,Route 208,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+61,DP_fld_areaname_display_076,Route 209,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+62,DP_fld_areaname_display_077,Route 210,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+63,DP_fld_areaname_display_079,Route 211,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+64,DP_fld_areaname_display_080,Route 212,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+65,DP_fld_areaname_display_082,Route 213,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+66,DP_fld_areaname_display_084,Route 214,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+67,DP_fld_areaname_display_085,Route 215,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+68,DP_fld_areaname_display_086,Route 216,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+69,DP_fld_areaname_display_087,Route 217,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+70,DP_fld_areaname_display_088,Route 218,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+71,DP_fld_areaname_display_089,Route 219,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+72,DP_fld_areaname_display_090,Route 221,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+73,DP_fld_areaname_display_091,Route 222,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+74,DP_fld_areaname_display_092,Route 224,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+75,DP_fld_areaname_display_093,Route 225,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+76,DP_fld_areaname_display_094,Route 227,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+77,DP_fld_areaname_display_095,Route 228,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+78,DP_fld_areaname_display_096,Route 229,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+79,DP_fld_areaname_display_097,Twinleaf Town,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+80,DP_fld_areaname_display_098,Sandgem Town,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+81,DP_fld_areaname_display_100,Floaroma Town,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+82,DP_fld_areaname_display_102,Solaceon Town,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+83,DP_fld_areaname_display_103,Celestic Town,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+84,DP_fld_areaname_display_104,Survival Area,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+85,DP_fld_areaname_display_105,Resort Area,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+86,DP_fld_areaname_display_106,Route 220,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+87,DP_fld_areaname_display_107,Route 223,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+88,DP_fld_areaname_display_108,Route 226,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+89,DP_fld_areaname_display_109,Route 230,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+90,DP_fld_areaname_display_110,Seabreak Path,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+91,DP_fld_areaname_display_119,Grand Underground,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+92,DP_fld_areaname_display_120,Western Zone,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+93,DP_fld_areaname_display_121,Eastern Zone,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+94,DP_fld_areaname_display_122,Southwestern Zone,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+95,DP_fld_areaname_display_123,Central Zone,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+96,DP_fld_areaname_display_124,Northwestern Zone,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+97,DP_fld_areaname_display_125,Southeastern Zone,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+98,DP_fld_areaname_display_126,Northeastern Zone,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+99,DP_fld_areaname_display_127,Landmark,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+100,DP_fld_areaname_display_128,Plain Cave,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+101,DP_fld_areaname_display_129,Spacious Cave,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+102,DP_fld_areaname_display_130,Tall-Grass Cave,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+103,DP_fld_areaname_display_131,Grassland Cave,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+104,DP_fld_areaname_display_132,Watery Cave,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+105,DP_fld_areaname_display_133,Fountainspring Cave,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+106,DP_fld_areaname_display_134,Dusty Cave,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+107,DP_fld_areaname_display_135,Rocky Cave,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+108,DP_fld_areaname_display_136,Fiery Cave,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+109,DP_fld_areaname_display_137,Volcanic Cave,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+110,DP_fld_areaname_display_138,Muddy Cave,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+111,DP_fld_areaname_display_139,Swampy Cave,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+112,DP_fld_areaname_display_140,Twinkly Cave,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+113,DP_fld_areaname_display_141,Dazzling Cave,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+114,DP_fld_areaname_display_142,Snowdrift Cave,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+115,DP_fld_areaname_display_143,Whiteout Cave,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+116,DP_fld_areaname_display_144,Frosty Cave,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+117,DP_fld_areaname_display_145,Icy Cave,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+118,DP_fld_areaname_display_146,Riverbank Cave,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+119,DP_fld_areaname_display_147,Sandsear Cave,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+120,DP_fld_areaname_display_148,Still-Water Cavern,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+121,DP_fld_areaname_display_149,Sunlit Cavern,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+122,DP_fld_areaname_display_150,Big Bluff Cavern,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+123,DP_fld_areaname_display_151,Stargleam Cavern,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+124,DP_fld_areaname_display_152,Glacial Cavern,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+125,DP_fld_areaname_display_153,Bogsunk Cavern,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+126,DP_fld_areaname_display_154,Typhlo Cavern,48,-1,42,672,0,"-1
+0
+0
+-1
+1"
+127,DP_fld_areaname_display_155,Entrance,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+128,DP_fld_areaname_display_156,Kanto Room,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+129,DP_fld_areaname_display_157,Johto Room,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+130,DP_fld_areaname_display_158,Soul Room,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+131,DP_fld_areaname_display_159,Rainbow Room,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+132,DP_fld_areaname_display_160,Squall Room,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+133,DP_fld_areaname_display_161,Oceanic Room,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+134,DP_fld_areaname_display_162,Tectonic Room,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+135,DP_fld_areaname_display_163,Stratospheric Room,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+136,DP_fld_areaname_display_164,Genome Room,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+137,DP_fld_areaname_display_165,Discovery Room,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+138,DP_fld_areaname_display_166,Distortion Room,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+139,DP_fld_areaname_display_167,Pure Space,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+140,DP_fld_areaname_display_168,Strange Space,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+141,DP_fld_areaname_display_169,Secret Base,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+142,DP_fld_areaname_display_170,Trainers’ School,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+143,DP_fld_areaname_display_171,Mining Museum,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+144,DP_fld_areaname_display_172,T.G. Eterna Bldg,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+145,DP_fld_areaname_display_173,Cycle Shop,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+146,DP_fld_areaname_display_174,Lost Tower,48,-1,42,672,0,"-1
+0
+0
+-1
+0"

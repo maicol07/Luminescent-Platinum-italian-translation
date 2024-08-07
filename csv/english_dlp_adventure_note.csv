@@ -1,0 +1,980 @@
+0,DLP_adventure_note_001_00,Your Adventure Begins,12,-1,54,756,0,"-1
+0
+0
+-1
+0"
+1,DLP_adventure_note_001_01,"You are about to enter a world where you will
+embark on a grand adventure of your very own.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+2,DLP_adventure_note_001_02,"Speak to people and check things wherever you
+go, be it in towns, roads, or caves. Gather
+information and hints from every possible source.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+3,DLP_adventure_note_001_03,"New paths will open to you when you help people
+in need, overcome challenges, and solve mysteries.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+4,DLP_adventure_note_001_04,"At times, you will be challenged by others to a
+battle. At other times, wild creatures may stand
+in your way. By overcoming such hurdles, you
+will gain great power.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+5,DLP_adventure_note_001_05,"However, your adventure is not solely about
+becoming powerful.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+6,DLP_adventure_note_001_06,"On your travels, we hope that you will meet
+countless people and, through them,
+achieve personal growth.
+This is the most important objective of
+this adventure.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+7,DLP_adventure_note_002_00,New Features,12,-1,54,756,0,"-1
+0
+0
+-1
+0"
+8,DLP_adventure_note_002_01,"The new PC System has extra features added that
+will allow you to do the following:
+■ Change your clothing. 
+■ Toggle XP Share ON/OFF
+■ Toggle Affection ON/OFF
+■ Toggle Level Cap ON/OFF 
+To change these toggles be sure to check 
+out the Settings option within the PC.
+",67,-1,42,924,0,"-1
+0
+0
+-1
+0"
+10,DLP_adventure_note_003_00,The Menu,12,-1,54,756,0,"-1
+0
+0
+-1
+0"
+11,DLP_adventure_note_003_01,"Press the <color=#F01E1EFF>X Button</color> to open the <color=#F01E1EFF>menu</color>. From there,
+you can either open your <color=#F01E1EFF>Bag </color>to use items or press
+the <color=#F01E1EFF>R Button</color> to <color=#F01E1EFF>save</color> your progress.
+More functions will be added to the <color=#F01E1EFF>menu </color>as your
+adventure continues.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+12,DLP_adventure_note_004_00,The Pokédex,12,-1,54,756,0,"-1
+0
+0
+-1
+0"
+13,DLP_adventure_note_004_01,"Professor Rowan has entrusted you with the task of
+completing your <color=#F01E1EFF>Pokédex</color>. Each time you catch a
+new Pokémon, its information will be
+automatically recorded.
+Select <color=#F01E1EFF>Pokédex </color>from the menu to view your registries.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+14,DLP_adventure_note_004_02,"Your Pokédex stores all sorts of <color=#F01E1EFF>data </color>about each
+Pokémon you add to it, including its category,
+appearance, type, and gender ratios.
+You can also select <color=#F01E1EFF>Habitat </color>to see where a
+Pokémon lives in the wild.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+15,DLP_adventure_note_004_03,"While on the <color=#F01E1EFF>Cry </color>screen of a Pokédex entry,
+you can listen to that Pokémon’s cry.
+Shaking the <color=#F01E1EFF>Joy-Con</color> allows you to hear different
+sounds, like added reverberation or a chorus
+effect, so be sure to try it out.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+16,DLP_adventure_note_005_00,Pokémon Centers,12,-1,54,756,0,"-1
+0
+0
+-1
+0"
+17,DLP_adventure_note_005_01,"There are <color=#F01E1EFF>Pokémon Centers</color> all over the
+Sinnoh region.
+Visit a Pokémon Center to restore your tired
+Pokémon to full health. These facilities are easily
+recognizable by their distinctive red roofs.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+18,DLP_adventure_note_005_02,"You can use the <color=#F01E1EFF>PC </color>located in every <color=#F01E1EFF>Pokémon
+Center </color>to access the <color=#F01E1EFF>Pokémon Storage System</color>.
+From there, you can move your Pokémon into
+and out of <color=#F01E1EFF>Boxes</color>.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+19,DLP_adventure_note_006_00,Pokémon Boxes,12,-1,54,756,0,"-1
+0
+0
+-1
+0"
+20,DLP_adventure_note_006_01,"You can use <color=#F01E1EFF>Pokémon Boxes</color> to swap Pokémon in
+your party for Pokémon you left at a Pokémon
+Center’s PC.
+To access the Boxes, select <color=#F01E1EFF>Pokémon </color>from the
+menu and then press the <color=#F01E1EFF>R Button</color>.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+21,DLP_adventure_note_007_00,The Pokétch,12,-1,54,756,0,"-1
+0
+0
+-1
+0"
+22,DLP_adventure_note_007_01,"The <color=#F01E1EFF>Pokétch</color> is a convenient and cutting-edge
+gadget designed to help out Trainers on their
+adventures. There are various Pokétch apps
+you can use, such as the Digital Watch app
+and the Calculator app.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+23,DLP_adventure_note_007_02,"To use your <color=#F01E1EFF>Pokétch</color>, first press the <color=#F01E1EFF>R Button</color>.
+Press <color=#F01E1EFF>R Button</color> again to enlarge or reduce
+the screen size.
+Use the <color=#F01E1EFF>Left Stick</color> to move the finger cursor,
+and press the <color=#F01E1EFF>A Button</color>, or directly touch the
+screen, to control your apps.
+Toggle through your apps with the <color=#F01E1EFF>red button</color>
+on the right side.
+Press and hold the <color=#F01E1EFF>R Button</color> to close the Pokétch.",67,-1,42,924,0,"-1
+0
+0
+-1
+0"
+24,DLP_adventure_note_007_03,"You will receive new Pokétch apps as you interact
+with the many people you’ll meet across Sinnoh.
+Some of these apps are necessary to continue on
+your adventure, so be sure to search far and wide
+for them.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+26,DLP_adventure_note_008_00,Hidden Moves,12,-1,54,756,0,"-1
+0
+0
+-1
+0"
+27,DLP_adventure_note_008_01,"If you need to cut down a tree blocking your path,
+smash a rock in your way, or fly to a familiar town,
+use <color=#F01E1EFF>hidden moves</color> from an app on your <color=#F01E1EFF>Pokétch</color>.
+A wild Pokémon will come lend a helping wing or paw!",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+28,DLP_adventure_note_008_02,"New hidden moves are added to the <color=#F01E1EFF>Hidden
+Moves </color>app on your <color=#F01E1EFF>Pokétch </color>when you obtain
+certain TMs.
+In order to use a <color=#F01E1EFF>hidden move</color> outside of battle,
+you’ll have to earn its corresponding Gym Badge
+from the various Gym Leaders across the region.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+30,DLP_adventure_note_009_00,Fishing,12,-1,54,756,0,"-1
+0
+0
+-1
+0"
+31,DLP_adventure_note_009_01,"By facing a body of water and using your <color=#F01E1EFF>fishing
+rod</color>, you can go <color=#F01E1EFF>fishing</color>. When a Pokémon bites
+and “<color=#F01E1EFF>!</color>” appears, hurry and press the <color=#F01E1EFF>A Button
+</color>to reel it in.
+Try fishing in different areas to catch a wider
+variety of Pokémon!",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+32,DLP_adventure_note_010_00,Bike Riding,12,-1,54,756,0,"-1
+0
+0
+-1
+0"
+33,DLP_adventure_note_010_01,"Get on your <color=#F01E1EFF>bike </color>by selecting it from the <color=#F01E1EFF>Key
+Items </color>pocket of your Bag or by using a
+<color=#F01E1EFF>bike stand</color>.
+While riding your bike, you can ride over narrow
+logs, but you can’t move through patches of
+extra tall grass.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+34,DLP_adventure_note_010_02,"Press the <color=#F01E1EFF>B Button</color> while on your <color=#F01E1EFF>bike </color>to change gears.
+Your bike is easier to control in <color=#F01E1EFF>third gear</color>, but in
+<color=#F01E1EFF>fourth gear</color>, it will gain speed and can even climb
+up steep, sandy slopes!",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+36,DLP_adventure_note_011_00,Walking with Pokémon,12,-1,54,756,0,"-1
+0
+0
+-1
+0"
+37,DLP_adventure_note_011_01,"Even outside of Amity Square, you can take your
+Pokémon on a walk—it’ll follow right behind you!
+Just select <color=#F01E1EFF>Pokémon </color>from the menu, choose one
+of the Pokémon in your party, and select
+<color=#F01E1EFF>Walk together</color>.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+38,DLP_adventure_note_012_00,Making Poffins,12,-1,54,756,0,"-1
+0
+0
+-1
+0"
+39,DLP_adventure_note_012_01,"<color=#F01E1EFF>Poffins </color>are a kind of Pokémon food made from
+<color=#F01E1EFF>Berries</color>. You can make Poffins at Hearthome City’s
+<color=#F01E1EFF>Amity Square </color>or inside the <color=#F01E1EFF>Poffin House</color>.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+40,DLP_adventure_note_012_02,"To make a <color=#F01E1EFF>Poffin</color>, put up to four <color=#F01E1EFF>Berries </color>into the
+pot and stir them up, taking care not to spill
+or scorch.
+You’ll create different Poffins depending on which
+Berries you used and how well you stirred them.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+41,DLP_adventure_note_012_03,"You can raise a Pokémon’s <color=#F01E1EFF>conditions</color>, such as
+Coolness or Cuteness, by feeding it <color=#F01E1EFF>Poffins</color>.
+Raising a Pokémon’s conditions may give it a
+better shot at wowing the audience in Super
+Contest Shows!",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+42,DLP_adventure_note_013_00,Super Contest Shows,12,-1,54,756,0,"-1
+0
+0
+-1
+0"
+43,DLP_adventure_note_013_01,"You can participate in a <color=#F01E1EFF>Super Contest Show</color> at
+the <color=#F01E1EFF>Contest Hall</color> in Hearthome City.
+Four Pokémon will compete—with the three
+evaluation criteria of <color=#F01E1EFF>Visual</color>, <color=#F01E1EFF>Dancing</color>, and
+<color=#F01E1EFF>Moves</color>—to be named Star of the Show!",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+44,DLP_adventure_note_013_02,"The <color=#F01E1EFF>Visual Evaluation</color> is based on a
+Pokémon’s style.
+You can earn a higher score by feeding your
+Pokémon Poffins to raise its conditions and by
+using Stickers to decorate its Ball Capsule.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+45,DLP_adventure_note_013_03_01,"The <color=#F01E1EFF>Dance Evaluation</color> tests your sense of rhythm.
+Press the <color=#F01E1EFF>A Button</color> to match the <color=#F01E1EFF>notes</color> that flow
+across the screen in time with the music, and try
+to earn the best possible score: <color=#F01E1EFF>Brilliant</color>!",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+46,DLP_adventure_note_013_03_02,"The <color=#F01E1EFF>Dance Evaluation</color> tests your sense of rhythm.
+Press the <color=#F01E1EFF>A Button</color> to match the <color=#F01E1EFF>notes</color> that flow
+across the screen in time with the music, and
+try to earn the best possible score: <color=#F01E1EFF>Shining</color>!",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+47,DLP_adventure_note_013_04,"The <color=#F01E1EFF>Move Evaluation</color>  is based on your <color=#F01E1EFF>Contest
+Move</color>. Choose one of your Pokémon’s moves,
+noting their various effects. You can only score
+with this move <color=#F01E1EFF>once per contest show</color>—when the
+moment feels right, that’s when it’s time to use it!",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+48,DLP_adventure_note_013_05,"<color=#F01E1EFF>Super Contest Shows</color> aren’t just about competing
+with the other contestants. You’ll want to work
+together to put on a successful show that really
+excites the crowd!
+If you really go above and beyond, the stage itself
+might have a stunning surprise in store...",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+49,DLP_adventure_note_014_00,Changing Clothes,12,-1,54,756,0,"-1
+0
+0
+-1
+0"
+50,DLP_adventure_note_014_01,"Pay a visit to the <color=#F01E1EFF>Metronome Style Shop</color> located in
+<color=#F01E1EFF>Veilstone City</color> to buy clothes and change your outfit.
+Why don’t you pick out a style all your own? Then
+you can change your look whenever the mood
+strikes you!",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+51,DLP_adventure_note_015_00,The Explorer Kit,12,-1,54,756,0,"-1
+0
+0
+-1
+0"
+52,DLP_adventure_note_015_01,"The <color=#F01E1EFF>Explorer Kit</color> contains tools you need to enter
+the <color=#F01E1EFF>Grand Underground</color>. You can find it in the
+<color=#F01E1EFF>Key Items </color>pocket of your <color=#F01E1EFF>Bag</color>. Note that there are
+some places, such as inside buildings, where you
+can’t use it.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+54,DLP_adventure_note_016_00,The Grand Underground,12,-1,54,756,0,"-1
+0
+0
+-1
+0"
+55,DLP_adventure_note_016_01,"The <color=#F01E1EFF>Grand Underground</color> is a cavernous expanse
+lying just beneath the Sinnoh region’s surface.
+The Underground is divided into several zones.
+Which zone you enter depends on your location
+when you use the <color=#F01E1EFF>Explorer Kit </color>from the surface.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+56,DLP_adventure_note_016_02,"There are certain areas within the <color=#F01E1EFF>Grand
+Underground </color>where Pokémon gather known as
+<color=#F01E1EFF>Pokémon Hideaways</color>.
+Different Pokémon appear based on a hideaway’s
+size and terrain, so keep searching and exploring!",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+57,DLP_adventure_note_016_03,"There are certain points in the
+Grand Underground’s tunnels where you can try
+digging for <color=#F01E1EFF>Fossils</color>.
+These spots will light up on your radar when you
+press the <color=#F01E1EFF>R Button</color>.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+58,DLP_adventure_note_016_04,"In the <color=#F01E1EFF>Grand Underground</color>, you can set up your
+very own <color=#F01E1EFF>Secret Base</color>. Just face a wall and use
+the <color=#F01E1EFF>Digger Drill </color>to build it instantly! Feel free to
+place <color=#F01E1EFF>statues </color>in your Secret Base and decorate
+it however you like.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+59,DLP_adventure_note_017_00,Digging for Fossils,12,-1,54,756,0,"-1
+0
+0
+-1
+0"
+60,DLP_adventure_note_017_01,"While <color=#F01E1EFF>digging for Fossils</color>, you can also find a
+variety of other items and treasures. But each
+time you dig, the cracks in the walls will grow
+larger and larger, until the wall eventually
+collapses. Dig carefully!",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+61,DLP_adventure_note_017_02,"Use different tools to dig in the walls.
+The <color=#F01E1EFF>pickax </color>only covers a narrow area,
+but the cracks it forms are smaller as
+a result. The <color=#F01E1EFF>hammer </color>forms large
+cracks, but it can cover a broader area.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+62,DLP_adventure_note_017_03,"Some walls are harder than others. You can tell
+how hard a given wall is by the size and color of
+its stones.
+Take care—there are some parts of the walls that
+you cannot dig through any further.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+63,DLP_adventure_note_017_04,"Sometimes, you may dig a <color=#F01E1EFF>stone box</color> out of the wall.
+These stone boxes contain statues, which you can
+place in your Secret Base to gain special effects!",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+64,DLP_adventure_note_018_00,Pokémon Hideaways,12,-1,54,756,0,"-1
+0
+0
+-1
+0"
+65,DLP_adventure_note_018_01,"<color=#F01E1EFF>Pokémon Hideaways </color>are subterranean areas where
+Pokémon feel comfortable gathering in the open.
+Pokémon in the <color=#F01E1EFF>Underground </color>aren’t hidden by tall
+grass. If you come into contact with a Pokémon in its
+hideaway, your battle will begin!",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+66,DLP_adventure_note_018_02,"<color=#F01E1EFF>Pokémon Hideaways</color> range from dusty caves to
+still-water caverns, attracting different Pokémon.
+These hideaways can be found in differing sizes,
+too. Naturally, larger Pokémon prefer
+bigger spaces.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+67,DLP_adventure_note_019_00,Your Secret Base,12,-1,54,756,0,"-1
+0
+0
+-1
+0"
+68,DLP_adventure_note_019_01,"You can place any <color=#F01E1EFF>statues </color>you have acquired in
+your <color=#F01E1EFF>Secret Base</color>.
+You can even place your <color=#F01E1EFF>statues </color>on pedestals.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+69,DLP_adventure_note_019_02,"Placing a <color=#F01E1EFF>statue </color>in your <color=#F01E1EFF>Secret Base</color> seems to
+affect the number and kinds of Pokémon that
+appear within <color=#F01E1EFF>Pokémon Hideaways</color>.
+Try displaying various different statues to learn
+what sorts of Pokémon they attract.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+70,DLP_adventure_note_019_03,"If you upgrade your <color=#F01E1EFF>Secret Base</color> by increasing its
+size, you’ll get more room to display <color=#F01E1EFF>statues</color>.
+To get a bigger base, you’ll need a variety of
+<color=#F01E1EFF>spheres</color>, which can be found while digging
+for <color=#F01E1EFF>Fossils</color>.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+71,DLP_adventure_note_019_04,"If you go down to the <color=#F01E1EFF>Grand Underground</color> while
+communications are activated, you might spot
+another player’s <color=#F01E1EFF>Secret Base</color>. Try looking inside!
+You can even use the <color=#F01E1EFF>menu </color>in another player’s
+Secret Base to activate the effect of its <color=#F01E1EFF>statues
+</color>for your own journey!",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+72,DLP_adventure_note_020_00,Renegade Park,12,-1,54,756,0,"-1
+0
+0
+-1
+0"
+73,DLP_adventure_note_020_01,"Lying at the end of <color=#F01E1EFF>Route 221</color>, <color=#F01E1EFF>Renegade Park</color> is
+visited by Trainers and Pokémon from all over.
+It is said that Renegade Park’s abundance of
+blooming roses attracts those with great strength,
+as it has since the Sinnoh region’s bygone days.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+74,DLP_adventure_note_020_02,"<color=#F01E1EFF>Mysterious Shards</color> that you dig up while in the
+Grand Underground can be traded for <color=#F01E1EFF>slates</color>.
+You can then use these slates in various rooms
+at <color=#F01E1EFF>Renegade Park</color>.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+75,DLP_adventure_note_020_03,"Each room at <color=#F01E1EFF>Renegade Park </color>holds a <color=#F01E1EFF>pedestal</color>.
+If you use the <color=#F01E1EFF>slate </color>that matches a given pedestal,
+you may find yourself in a mysterious new space.
+In these spaces, you can encounter
+<color=#F01E1EFF>Legendary Pokémon</color>!",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+76,DLP_adventure_note_021_00,The Union Room,12,-1,54,756,0,"-1
+0
+0
+-1
+0"
+77,DLP_adventure_note_021_01a,"In the <color=#F01E1EFF>Union Room</color>, you can use local
+communication or the internet to trade Pokémon
+and battle with other Trainers. You can enter from
+a <color=#F01E1EFF>Pokémon Center</color>.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+80,DLP_adventure_note_021_02,"Visit the <color=#F01E1EFF>Local Room</color> to connect with other
+players nearby, or enter the <color=#F01E1EFF>Global Room</color>
+to connect over the internet with players
+from all around the world!",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+82,DLP_adventure_note_022_00,The Global Wonder Station,12,-1,54,756,0,"-1
+0
+0
+-1
+0"
+83,DLP_adventure_note_022_01,"At the <color=#F01E1EFF>Global Wonder Station</color> (GWS) in <color=#F01E1EFF>Jubilife
+City</color>, you can make <color=#F01E1EFF>Wonder Trades</color> with players
+worldwide. You never know what Pokémon you
+might receive in a Wonder Trade until it arrives!",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+84,DLP_adventure_note_022_02,"Pokémon you receive at the <color=#F01E1EFF>GWS</color> are recorded on
+a globe called the <color=#F01E1EFF>Geonet</color>. Make <color=#F01E1EFF>Wonder Trades
+</color>until you fill up your very own Pokémon
+distribution map!",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+86,DLP_adventure_note_023_00,The Great Marsh,12,-1,54,756,0,"-1
+0
+0
+-1
+0"
+87,DLP_adventure_note_023_01,"At the <color=#F01E1EFF>Great Marsh</color> in <color=#F01E1EFF>Pastoria City</color>, you can play
+the <color=#F01E1EFF>Safari Game</color>. To catch any Pokémon there,
+you’ll have use a special item called the <color=#F01E1EFF>Safari Ball</color>.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+88,DLP_adventure_note_023_02,"When you start the <color=#F01E1EFF>Safari Game</color>, you’ll be given
+<color=#F01E1EFF>30 Safari Balls</color>. After you have taken <color=#F01E1EFF>500 steps</color>,
+or run out of Safari Balls, the Safari Game will
+officially end.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+89,DLP_adventure_note_023_03,"Before starting the <color=#F01E1EFF>Safari Game</color>, use the
+<color=#F01E1EFF>Observatory Gate</color>’s second floor telescope.
+You may see which Pokémon are in the
+<color=#F01E1EFF>Great Marsh</color> and spot a Pokémon that
+you can’t find anywhere else in the region!",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+90,DLP_adventure_note_024_00,Stickers & Capsule Decoration,12,-1,54,756,0,"-1
+0
+0
+-1
+0"
+91,DLP_adventure_note_024_01,"Place <color=#F01E1EFF>Stickers </color>on Ball Capsules to decorate your
+favorite Pokémon’s Poké Balls. They’ll burst open
+beautifully when your Pokémon jumps out!",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+92,DLP_adventure_note_024_02,"From bursting heart shapes to showers of confetti,
+there are many different kinds of <color=#F01E1EFF>Stickers
+</color>featuring all sorts of exciting <color=#F01E1EFF>effects</color>.
+Just remember that the motion a <color=#F01E1EFF>Ball Capsule
+</color>makes when it opens depends on the exact
+position of any Stickers you placed.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+93,DLP_adventure_note_024_03,"Select <color=#F01E1EFF>Capsule Decoration</color> from the menu to place
+<color=#F01E1EFF>Stickers </color>on a <color=#F01E1EFF>Ball Capsule</color>. You can use both 2D
+mode and 3D mode to apply your Stickers.
+When you’re finished, you can assign a Ball
+Capsule to your favorite Pokémon for extra flair!",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+94,DLP_adventure_note_uitext_001,{tag:0}/{tag:1},168,-1,32,192,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0,1,2,1,1,0,205,,0
+95,DLP_adventure_note_uitext_002, Next,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+96,DLP_adventure_note_uitext_003, Close,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+9,DLP_adventure_note_002_simplified,"Useful information for your adventure will be
+added to this Guidebook. You can check it in
+your Bag’s Key Items pocket!",27,-1,54,1188,0,"-1
+0
+0
+-1
+0"
+25,DLP_adventure_note_007_simplified,"Press the R Button to open your Pokétch,
+control it by using the touch screen,
+and hold down the R Button to close it!",27,-1,54,1188,0,"-1
+0
+0
+-1
+0"
+29,DLP_adventure_note_008_simplified,"Use hidden moves from the Hidden Moves
+Pokétch app to remove or bypass obstacles!",27,-1,54,1188,0,"-1
+0
+0
+-1
+0"
+35,DLP_adventure_note_010_simplified,"Ride your bike from your Bag’s Key Items pocket.
+Press the B Button to speed up or improve control!",27,-1,54,1188,0,"-1
+0
+0
+-1
+0"
+53,DLP_adventure_note_015_simplified,"Use the Explorer Kit from your Bag’s Key Items
+pocket to visit the Grand Underground!",27,-1,54,1188,0,"-1
+0
+0
+-1
+0"
+79,DLP_adventure_note_021_01b,"In the <color=#F01E1EFF>Union Room</color>, you can use local communication
+to trade Pokémon with players nearby. You can enter
+from a <color=#F01E1EFF>Pokémon Center</color>.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+81,DLP_adventure_note_021_simplified,"You can interact with other players by visiting
+the Union Room inside any Pokémon Center!",27,-1,54,1188,0,"-1
+0
+0
+-1
+0"
+85,DLP_adventure_note_022_simplified,"Customize your personal globe by making
+Wonder Trades in the GWS!",27,-1,54,1188,0,"-1
+0
+0
+-1
+0"
+78,DLP_adventure_note_021_01a_patch1,"In the <color=#F01E1EFF>Union Room</color>, you can use local
+communication or the internet to trade Pokémon
+with other Trainers. You can enter from
+a <color=#F01E1EFF>Pokémon Center</color>.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+97,DLP_adventure_note_025_00,Incense Burner,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+98,DLP_adventure_note_025_simplified,"This toggleable item allows you to encounter extra
+{pageend:<color=#F01E1EFF>Regional Pokemon</color>!}
+{pageend:Choosing a flower is for Luminescent 3.0 when}
+{pageend:all previous regions will be available in the wild.}
+See luminescent.team for more details.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+99,DLP_adventure_note_025_01,"This toggleable item allows you to encounter extra
+{pageend:<color=#F01E1EFF>Regional Pokemon</color>!}
+{pageend:Choosing a flower is for Luminescent 3.0 when all}
+{pageend:previous regions will be available in the wild.}
+{pageend:In the current build, all flowers lead to the same}
+{pageend:encounters. ""Regional"" Pokémon include anything}
+{pageend:up to gen 4 that has regionals, or regional}
+{pageend:evolutions (Braviary is not in gen 4, so there is no}
+{pageend:Braviary or Hisuian Braviary).}
+{pageend:More information can be found on}
+https://luminescent.team/.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+100,DLP_adventure_note_026_00,Move Reminder,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+101,DLP_adventure_note_026_simplified,"{pageend:The <color=#F01E1EFF>Move Reminder</color> is now in your party menu!}
+It only appears if the Pokémon has five or more
+{pageend:moves in its memory, and includes TMs you own.}
+(Wonder what the <color=#F01E1EFF>old Reminder</color> is doing now,
+then?)",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+102,DLP_adventure_note_026_01,"{pageend:The <color=#F01E1EFF>Move Reminder</color> is now in your party menu!}
+It only appears if the Pokémon can know more
+than four moves, and the selection includes any
+{pageend:TMs in your inventory.}
+Deleting moves entirely must still be done in
+{pageend:Canalave City.}
+(If the Move Reminder is here... wonder what the
+<color=#F01E1EFF>old Reminder's</color> up to?)",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+103,DLP_adventure_note_027_00,Nicknames,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+104,DLP_adventure_note_027_simplified,"You can change your Pokémon’s <color=#F01E1EFF>Nickname</color> at any
+{pageend:time from the party menu!}
+{pageend:If the option is not there, you may have a bad}
+install.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+105,DLP_adventure_note_027_01,"You can change your Pokémon’s <color=#F01E1EFF>Nickname</color> at any
+{pageend:time from the party menu!}
+{pageend:}
+{pageend:If the option is not there, you may have a bad}
+{pageend:install. See https://luminescent.team/ for}
+instructions.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+106,DLP_adventure_note_028_00,IV Judge,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+107,DLP_adventure_note_028_simplified,"You may see your Pokémon’s <color=#F01E1EFF>IVs</color> at any time
+{pageend:from the PC! Hit + to see the numerical values.}
+{pageend:This works from the ""PC Anywhere"" feature}
+via the party menu, too.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+108,DLP_adventure_note_028_01,"You may see your Pokémon’s <color=#F01E1EFF>IVs</color> at any time from
+{pageend:the PC! Hit + to see the numerical values.}
+{pageend:}
+{pageend:This works from the ""PC Anywhere"" feature via}
+{pageend:the party menu, too.}
+{pageend:}
+{pageend:Note that stats listed as ""Hyper Trained"" do not}
+pass down when breeding.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+109,DLP_adventure_note_029_00,Everlasting Candy,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+110,DLP_adventure_note_029_simplified,"These <color=#F01E1EFF>infinite Rare Candies</color>
+{pageend:will take you as far as you want to go,}
+{pageend:no grinding needed!}
+{pageend:If you have the <color=#F01E1EFF>Level Cap</color> feature turned on,}
+it will not take you over that cap.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+111,DLP_adventure_note_029_01,"These <color=#F01E1EFF>infinite Rare Candies</color>
+{pageend:will take you as far as you want to go,}
+{pageend:no grinding necesary!}
+{pageend:If you have the <color=#F01E1EFF>Level Cap</color> feature turned on, it}
+{pageend:will not take you over that cap.}
+{pageend:However, Rare Candies will break the cap if you}
+need that extra boost.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+112,DLP_adventure_note_030_00,Badge Tutors,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+113,DLP_adventure_note_030_simplified,"For every badge you earn, these lovely fellows will
+unlock <color=#F01E1EFF>a new set of moves</color> for your Pokémon to
+{pageend:learn. Make sure to check back often!}
+",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+114,DLP_adventure_note_030_01,"For every badge you earn, these lovely fellows will
+unlock <color=#F01E1EFF>a new set of moves</color> for your Pokémon to
+{pageend:learn. Make sure to check back often!}
+{pageend:}
+{pageend:For a full list of moves per badge unlocked, please}
+see https://luminescent.team/docs/npc!",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+115,DLP_adventure_note_031_00,Placeholder Title.,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+116,DLP_adventure_note_031_simplified,Placeholder Message.,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+117,DLP_adventure_note_031_01,Placeholder Message.,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+118,DLP_adventure_note_032_00,Placeholder Title.,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+119,DLP_adventure_note_032_simplified,Placeholder Message.,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+120,DLP_adventure_note_032_01,Placeholder Message.,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+121,DLP_adventure_note_033_00,Placeholder Title.,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+122,DLP_adventure_note_033_simplified,Placeholder Message.,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+123,DLP_adventure_note_033_01,Placeholder Message.,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+124,DLP_adventure_note_034_00,Placeholder Title.,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+125,DLP_adventure_note_034_simplified,Placeholder Message.,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+126,DLP_adventure_note_034_01,Placeholder Message.,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+127,DLP_adventure_note_035_00,Placeholder Title.,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+128,DLP_adventure_note_035_simplified,Placeholder Message.,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+129,DLP_adventure_note_035_01,Placeholder Message.,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+130,DLP_adventure_note_036_00,Placeholder Title.,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+131,DLP_adventure_note_036_simplified,Placeholder Message.,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+132,DLP_adventure_note_036_01,Placeholder Message.,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+133,DLP_adventure_note_037_00,Placeholder Title.,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+134,DLP_adventure_note_037_simplified,Placeholder Message.,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+135,DLP_adventure_note_037_01,Placeholder Message.,66,-1,42,924,0,"-1
+0
+0
+-1
+0"

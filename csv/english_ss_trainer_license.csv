@@ -1,0 +1,121 @@
+0,SS_trainer_license_001,Money,80,-1,32,192,0,"-1
+0
+0
+-1
+0"
+1,SS_trainer_license_002,{tag:0},86,-1,32,352,0,"-1
+0
+0
+-1
+0",0,2,6,1,0,2,,0
+2,SS_trainer_license_005,BP,80,-1,32,192,0,"-1
+0
+0
+-1
+0"
+3,SS_trainer_license_006,{tag:0},86,-1,32,352,0,"-1
+0
+0
+-1
+0",1,2,6,1,0,2,,0
+4,SS_trainer_license_008,{tag:0},81,-1,32,224,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+5,SS_trainer_license_009,{tag:0}/{tag:1},83,-1,32,320,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0,1,2,2,1,0,205,,0
+6,SS_trainer_license_010,{tag:0}/{tag:1}/{tag:2} {tag:3}:{tag:4},177,-1,32,576,0,"-1
+0
+0
+-1
+0",1,2,1,1,0,205,,0,2,2,1,1,0,205,,0,0,2,3,1,0,0,,0,3,2,1,1,0,205,,0,4,2,1,1,0,205,,0
+7,SS_trainer_license_013,"Pokémon of up to Lv. {tag:0} will listen to this
+Trainer’s requests.",103,-1,32,640,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+8,SS_trainer_license_017,All Pokémon will listen to this Trainer’s requests.,103,-1,32,640,0,"-1
+0
+0
+-1
+0"
+9,SS_trainer_license_019,This Trainer can catch Pokémon of up to Lv. {tag:0}.,103,-1,32,640,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+10,SS_trainer_license_023,This Trainer can catch Pokémon of any level.,103,-1,32,640,0,"-1
+0
+0
+-1
+0"
+11,SS_trainer_license_038, Confirm,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+12,SS_trainer_license_039, Quit,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+13,SS_trainer_license_040, Flip Card,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+14,SS_trainer_license_041, Sort,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+15,SS_trainer_license_042, Select and Throw Away,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+16,SS_trainer_license_043, Favorite,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+17,SS_trainer_license_045, Select,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+18,SS_trainer_license_046, Throw Away,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+19,SS_trainer_license_049,Receive,35,-1,42,210,0,"-1
+0
+0
+-1
+0"
+20,SS_trainer_license_050,Quit,34,-1,42,168,0,"-1
+0
+0
+-1
+0"
+21,SS_trainer_license_085,via Y-Comm,91,-1,32,448,0,"-1
+0
+0
+-1
+0"
+22,SS_trainer_license_086,via Link Battle,91,-1,32,448,0,"-1
+0
+0
+-1
+0"
+23,SS_trainer_license_087,via Pokémon trade,91,-1,32,448,0,"-1
+0
+0
+-1
+0"

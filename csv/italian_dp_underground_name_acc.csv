@@ -1,0 +1,3519 @@
+0,UNDERGROUND_NAME_000,,128,-1,42,588,0,"0
+0
+0
+-1
+0"
+1,UNDERGROUND_NAME_001,Bilia rossa S,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+2,UNDERGROUND_NAME_002,Bilia blu S,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+3,UNDERGROUND_NAME_003,Bilia verde S,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+4,UNDERGROUND_NAME_004,Bilia prisma S,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+5,UNDERGROUND_NAME_005,Bilia tersa S,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+6,UNDERGROUND_NAME_006,Bilia rossa L,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+7,UNDERGROUND_NAME_007,Bilia blu L,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+8,UNDERGROUND_NAME_008,Bilia verde L,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+9,UNDERGROUND_NAME_009,Bilia prisma L,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+10,UNDERGROUND_NAME_010,Bilia tersa L,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+11,UNDERGROUND_NAME_011,Revitalizzante,121,-1,42,420,0,"0
+0
+0
+-1
+0"
+12,UNDERGROUND_NAME_012,Revitalizz. Max,121,-1,42,420,0,"0
+0
+0
+-1
+0"
+13,UNDERGROUND_NAME_013,Coccio Rosso,121,-1,42,420,0,"0
+0
+0
+-1
+0"
+14,UNDERGROUND_NAME_014,Coccio Blu,121,-1,42,420,0,"0
+0
+0
+-1
+0"
+15,UNDERGROUND_NAME_015,Coccio Giallo,121,-1,42,420,0,"0
+0
+0
+-1
+0"
+16,UNDERGROUND_NAME_016,Coccio Verde,121,-1,42,420,0,"0
+0
+0
+-1
+0"
+17,UNDERGROUND_NAME_017,Pietrasolare,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+18,UNDERGROUND_NAME_018,Pietralunare,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+19,UNDERGROUND_NAME_019,Pietrafocaia,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+20,UNDERGROUND_NAME_020,Pietratuono,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+21,UNDERGROUND_NAME_021,Pietraidrica,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+22,UNDERGROUND_NAME_022,Pietrafoglia,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+23,UNDERGROUND_NAME_023,Pietraovale,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+24,UNDERGROUND_NAME_024,Pietrastante,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+25,UNDERGROUND_NAME_025,Roccianima,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+26,UNDERGROUND_NAME_026,Pezzo Stella,121,-1,42,420,0,"0
+0
+0
+-1
+0"
+27,UNDERGROUND_NAME_027,Squama Cuore,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+28,UNDERGROUND_NAME_028,Radifossile,121,-1,42,420,0,"0
+0
+0
+-1
+0"
+29,UNDERGROUND_NAME_029,Fossilunghia,121,-1,42,420,0,"0
+0
+0
+-1
+0"
+30,UNDERGROUND_NAME_030,Helixfossile,121,-1,42,420,0,"0
+3
+0
+-1
+0"
+31,UNDERGROUND_NAME_031,Domofossile,121,-1,42,420,0,"0
+0
+0
+-1
+0"
+32,UNDERGROUND_NAME_032,Ambra antica,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+33,UNDERGROUND_NAME_033,Fossilscudo,121,-1,42,420,0,"0
+0
+0
+-1
+0"
+34,UNDERGROUND_NAME_034,Fossilcranio,121,-1,42,420,0,"0
+0
+0
+-1
+0"
+35,UNDERGROUND_NAME_035,Osso Raro,121,-1,42,420,0,"0
+0
+0
+-1
+0"
+36,UNDERGROUND_NAME_036,Creta Luce,121,-1,42,420,0,"1
+0
+1
+-1
+0"
+37,UNDERGROUND_NAME_037,Ferropalla,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+38,UNDERGROUND_NAME_038,Rocciafredda,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+39,UNDERGROUND_NAME_039,Roccialiscia,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+40,UNDERGROUND_NAME_040,Rocciacalda,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+41,UNDERGROUND_NAME_041,Rocciaumida,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+42,UNDERGROUND_NAME_042,Frammento insolito S,125,-1,42,504,0,"0
+0
+0
+-1
+0"
+43,UNDERGROUND_NAME_043,Frammento insolito L,125,-1,42,504,0,"0
+0
+0
+-1
+0"
+44,UNDERGROUND_NAME_044,Pietradura,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+45,UNDERGROUND_NAME_045,Lastrarogo,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+46,UNDERGROUND_NAME_046,Lastraidro,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+47,UNDERGROUND_NAME_047,Lastrasaetta,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+48,UNDERGROUND_NAME_048,Lastraprato,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+49,UNDERGROUND_NAME_049,Lastragelo,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+50,UNDERGROUND_NAME_050,Lastrapugno,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+51,UNDERGROUND_NAME_051,Lastrafiele,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+52,UNDERGROUND_NAME_052,Lastrageo,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+53,UNDERGROUND_NAME_053,Lastracielo,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+54,UNDERGROUND_NAME_054,Lastramente,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+55,UNDERGROUND_NAME_055,Lastrabaco,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+56,UNDERGROUND_NAME_056,Lastrapietra,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+57,UNDERGROUND_NAME_057,Lastratetra,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+58,UNDERGROUND_NAME_058,Lastradrakon,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+59,UNDERGROUND_NAME_059,Lastratimore,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+60,UNDERGROUND_NAME_060,Lastraferro,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+61,UNDERGROUND_NAME_061,Lastraspiritello,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+631,UNDERGROUND_NAME_062,Dawn Stone,123,-1,42,420,0,"-1
+0
+0
+-1
+0"
+632,UNDERGROUND_NAME_063,Dusk Stone,123,-1,42,420,0,"-1
+0
+0
+-1
+0"
+633,UNDERGROUND_NAME_064,Shiny Stone,123,-1,42,420,0,"-1
+0
+0
+-1
+0"
+634,UNDERGROUND_NAME_065,Ice Stone,123,-1,42,420,0,"-1
+0
+0
+-1
+0"
+635,UNDERGROUND_NAME_066,Tumblestone,123,-1,42,420,0,"-1
+0
+0
+-1
+0"
+636,UNDERGROUND_NAME_067,Black Tumblestone,123,-1,42,420,0,"-1
+0
+0
+-1
+0"
+637,UNDERGROUND_NAME_068,Sky Tumblestone,123,-1,42,420,0,"-1
+0
+0
+-1
+0"
+638,UNDERGROUND_NAME_069,Comet Shard,123,-1,42,420,0,"-1
+0
+0
+-1
+0"
+639,UNDERGROUND_NAME_070,Cover Fossil,123,-1,42,420,0,"-1
+0
+0
+-1
+0"
+640,UNDERGROUND_NAME_071,Plume Fossil,123,-1,42,420,0,"-1
+0
+0
+-1
+0"
+641,UNDERGROUND_NAME_072,Sail Fossil,123,-1,42,420,0,"-1
+0
+0
+-1
+0"
+642,UNDERGROUND_NAME_073,Jaw Fossil,123,-1,42,420,0,"-1
+0
+0
+-1
+0"
+643,UNDERGROUND_NAME_074,Energy Root,123,-1,42,420,0,"-1
+0
+0
+-1
+0"
+644,UNDERGROUND_NAME_075,Revival Herb,123,-1,42,420,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+62,UNDERGROUND_NAME_370,Base quadrata XS,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+63,UNDERGROUND_NAME_371,Base quadrata S,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+64,UNDERGROUND_NAME_372,Base quadrata M,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+65,UNDERGROUND_NAME_373,Base quadrata L,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+66,UNDERGROUND_NAME_374,Base rotonda XS,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+67,UNDERGROUND_NAME_375,Base rotonda M,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+68,UNDERGROUND_NAME_376,Base rotonda L,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+69,UNDERGROUND_NAME_377,Base immobile XS,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+70,UNDERGROUND_NAME_378,Base immobile S,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+71,UNDERGROUND_NAME_379,Base immobile M,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+72,UNDERGROUND_NAME_380,Base immobile L,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+73,UNDERGROUND_NAME_381,Base trasparente XS,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+74,UNDERGROUND_NAME_382,Base trasparente S,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+75,UNDERGROUND_NAME_383,Base trasparente M,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+76,UNDERGROUND_NAME_384,Base trasparente L,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+77,UNDERGROUND_NAME_385,Base aurora L,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+78,UNDERGROUND_NAME_386,Base aurora XL,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+79,UNDERGROUND_NAME_387,Base notte fonda L,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+80,UNDERGROUND_NAME_388,Base notte fonda XL,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+81,UNDERGROUND_NAME_389,Base diamante L,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+82,UNDERGROUND_NAME_390,Base diamante XL,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+83,UNDERGROUND_NAME_391,Base perla L,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+84,UNDERGROUND_NAME_392,Base perla XL,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+85,UNDERGROUND_NAME_393,Base destrogira XS,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+86,UNDERGROUND_NAME_394,Base destrogira M,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+87,UNDERGROUND_NAME_395,Base destrogira L,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+88,UNDERGROUND_NAME_396,Base sinistrogira XS,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+89,UNDERGROUND_NAME_397,Base sinistrogira M,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+90,UNDERGROUND_NAME_398,Base sinistrogira L,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+91,UNDERGROUND_NAME_399,Trivella,121,-1,42,420,0,"1
+0
+0
+-1
+0"
+92,UNDERGROUND_NAME_400,MT01,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+93,UNDERGROUND_NAME_401,MT02,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+94,UNDERGROUND_NAME_402,MT03,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+95,UNDERGROUND_NAME_403,MT04,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+96,UNDERGROUND_NAME_404,MT05,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+97,UNDERGROUND_NAME_405,MT06,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+98,UNDERGROUND_NAME_406,MT07,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+99,UNDERGROUND_NAME_407,MT08,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+100,UNDERGROUND_NAME_408,MT09,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+101,UNDERGROUND_NAME_409,MT10,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+102,UNDERGROUND_NAME_410,MT11,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+103,UNDERGROUND_NAME_411,MT12,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+104,UNDERGROUND_NAME_412,MT13,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+105,UNDERGROUND_NAME_413,MT14,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+106,UNDERGROUND_NAME_414,MT15,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+107,UNDERGROUND_NAME_415,MT16,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+108,UNDERGROUND_NAME_416,MT17,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+109,UNDERGROUND_NAME_417,MT18,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+110,UNDERGROUND_NAME_418,MT19,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+111,UNDERGROUND_NAME_419,MT20,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+112,UNDERGROUND_NAME_420,MT21,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+113,UNDERGROUND_NAME_421,MT22,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+114,UNDERGROUND_NAME_422,MT23,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+115,UNDERGROUND_NAME_423,MT24,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+116,UNDERGROUND_NAME_424,MT25,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+117,UNDERGROUND_NAME_425,MT26,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+118,UNDERGROUND_NAME_426,MT27,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+119,UNDERGROUND_NAME_427,MT28,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+120,UNDERGROUND_NAME_428,MT29,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+121,UNDERGROUND_NAME_429,MT30,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+122,UNDERGROUND_NAME_430,MT31,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+123,UNDERGROUND_NAME_431,MT32,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+124,UNDERGROUND_NAME_432,MT33,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+125,UNDERGROUND_NAME_433,MT34,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+126,UNDERGROUND_NAME_434,MT35,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+127,UNDERGROUND_NAME_435,MT36,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+128,UNDERGROUND_NAME_436,MT37,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+129,UNDERGROUND_NAME_437,MT38,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+130,UNDERGROUND_NAME_438,MT39,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+131,UNDERGROUND_NAME_439,MT40,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+132,UNDERGROUND_NAME_440,MT41,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+133,UNDERGROUND_NAME_441,MT42,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+134,UNDERGROUND_NAME_442,MT43,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+135,UNDERGROUND_NAME_443,MT44,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+136,UNDERGROUND_NAME_444,MT45,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+137,UNDERGROUND_NAME_445,MT46,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+138,UNDERGROUND_NAME_446,MT47,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+139,UNDERGROUND_NAME_447,MT48,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+140,UNDERGROUND_NAME_448,MT49,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+141,UNDERGROUND_NAME_449,MT50,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+142,UNDERGROUND_NAME_450,MT51,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+143,UNDERGROUND_NAME_451,MT52,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+144,UNDERGROUND_NAME_452,MT53,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+145,UNDERGROUND_NAME_453,MT54,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+146,UNDERGROUND_NAME_454,MT55,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+147,UNDERGROUND_NAME_455,MT56,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+148,UNDERGROUND_NAME_456,MT57,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+149,UNDERGROUND_NAME_457,MT58,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+150,UNDERGROUND_NAME_458,MT59,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+151,UNDERGROUND_NAME_459,MT60,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+152,UNDERGROUND_NAME_460,MT61,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+153,UNDERGROUND_NAME_461,MT62,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+154,UNDERGROUND_NAME_462,MT63,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+155,UNDERGROUND_NAME_463,MT64,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+156,UNDERGROUND_NAME_464,MT65,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+157,UNDERGROUND_NAME_465,MT66,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+158,UNDERGROUND_NAME_466,MT67,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+159,UNDERGROUND_NAME_467,MT68,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+160,UNDERGROUND_NAME_468,MT69,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+161,UNDERGROUND_NAME_469,MT70,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+162,UNDERGROUND_NAME_470,MT71,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+163,UNDERGROUND_NAME_471,MT72,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+164,UNDERGROUND_NAME_472,MT73,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+165,UNDERGROUND_NAME_473,MT74,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+166,UNDERGROUND_NAME_474,MT75,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+167,UNDERGROUND_NAME_475,MT76,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+168,UNDERGROUND_NAME_476,MT77,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+169,UNDERGROUND_NAME_477,MT78,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+170,UNDERGROUND_NAME_478,MT79,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+171,UNDERGROUND_NAME_479,MT80,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+172,UNDERGROUND_NAME_480,MT81,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+173,UNDERGROUND_NAME_481,MT82,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+174,UNDERGROUND_NAME_482,MT83,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+175,UNDERGROUND_NAME_483,MT84,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+176,UNDERGROUND_NAME_484,MT85,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+177,UNDERGROUND_NAME_485,MT86,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+178,UNDERGROUND_NAME_486,MT87,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+179,UNDERGROUND_NAME_487,MT88,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+180,UNDERGROUND_NAME_488,MT89,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+181,UNDERGROUND_NAME_489,MT90,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+182,UNDERGROUND_NAME_490,MT91,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+183,UNDERGROUND_NAME_491,MT92,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+184,UNDERGROUND_NAME_492,Statua di Bulbasaur,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+185,UNDERGROUND_NAME_493,Statua di Ivysaur,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+186,UNDERGROUND_NAME_494,Statua di Venusaur,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+187,UNDERGROUND_NAME_495,Statua di Charmander,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+188,UNDERGROUND_NAME_496,Statua di Charmeleon,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+189,UNDERGROUND_NAME_497,Statua di Charizard,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+190,UNDERGROUND_NAME_498,Statua di Squirtle,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+191,UNDERGROUND_NAME_499,Statua di Wartortle,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+192,UNDERGROUND_NAME_500,Statua di Blastoise,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+193,UNDERGROUND_NAME_501,Statua di Pikachu,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+194,UNDERGROUND_NAME_502,Statua di Nidoqueen,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+195,UNDERGROUND_NAME_503,Statua di Nidoking,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+196,UNDERGROUND_NAME_504,Statua di Clefairy,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+197,UNDERGROUND_NAME_505,Statua di Vulpix,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+198,UNDERGROUND_NAME_506,Statua di Jigglypuff,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+199,UNDERGROUND_NAME_507,Statua di Oddish,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+200,UNDERGROUND_NAME_508,Statua di Meowth,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+201,UNDERGROUND_NAME_509,Statua di Psyduck,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+202,UNDERGROUND_NAME_510,Statua di Arcanine,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+203,UNDERGROUND_NAME_511,Statua di Poliwrath,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+204,UNDERGROUND_NAME_512,Statua di Alakazam,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+205,UNDERGROUND_NAME_513,Statua di Machamp,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+206,UNDERGROUND_NAME_514,Statua di Tentacruel,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+207,UNDERGROUND_NAME_515,Statua di Geodude,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+208,UNDERGROUND_NAME_516,Statua di Rapidash,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+209,UNDERGROUND_NAME_517,Statua di Slowpoke,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+210,UNDERGROUND_NAME_518,Statua di Farfetch’d,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+211,UNDERGROUND_NAME_519,Statua di Gengar,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+212,UNDERGROUND_NAME_520,Statua di Cubone,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+213,UNDERGROUND_NAME_521,Statua di Lickitung,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+214,UNDERGROUND_NAME_522,Statua di Weezing,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+215,UNDERGROUND_NAME_523,Statua di Chansey,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+216,UNDERGROUND_NAME_524,Statua di Kangaskhan,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+217,UNDERGROUND_NAME_525,Statua di Seaking,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+218,UNDERGROUND_NAME_526,Statua di Mr. Mime,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+219,UNDERGROUND_NAME_527,Statua di Tauros,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+220,UNDERGROUND_NAME_528,Statua di Magikarp,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+221,UNDERGROUND_NAME_529,Statua di Gyarados,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+222,UNDERGROUND_NAME_530,Statua di Lapras,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+223,UNDERGROUND_NAME_531,Statua di Ditto,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+224,UNDERGROUND_NAME_532,Statua di Eevee,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+225,UNDERGROUND_NAME_533,Statua di Vaporeon,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+226,UNDERGROUND_NAME_534,Statua di Jolteon,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+227,UNDERGROUND_NAME_535,Statua di Flareon,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+228,UNDERGROUND_NAME_536,Statua di Porygon,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+229,UNDERGROUND_NAME_537,Statua di Omastar,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+230,UNDERGROUND_NAME_538,Statua di Snorlax,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+231,UNDERGROUND_NAME_539,Statua di Dragonite,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+232,UNDERGROUND_NAME_540,Statua di Chikorita,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+233,UNDERGROUND_NAME_541,Statua di Bayleef,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+234,UNDERGROUND_NAME_542,Statua di Meganium,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+235,UNDERGROUND_NAME_543,Statua di Cyndaquil,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+236,UNDERGROUND_NAME_544,Statua di Quilava,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+237,UNDERGROUND_NAME_545,Statua di Typhlosion,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+238,UNDERGROUND_NAME_546,Statua di Totodile,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+239,UNDERGROUND_NAME_547,Statua di Croconaw,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+240,UNDERGROUND_NAME_548,Statua di Feraligatr,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+241,UNDERGROUND_NAME_549,Statua di Furret,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+242,UNDERGROUND_NAME_550,Statua di Noctowl,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+243,UNDERGROUND_NAME_551,Statua di Crobat,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+244,UNDERGROUND_NAME_552,Statua di Togepi,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+245,UNDERGROUND_NAME_553,Statua di Ampharos,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+246,UNDERGROUND_NAME_554,Statua di Bellossom,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+247,UNDERGROUND_NAME_555,Statua di Marill,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+248,UNDERGROUND_NAME_556,Statua di Sudowoodo,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+249,UNDERGROUND_NAME_557,Statua di Aipom,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+250,UNDERGROUND_NAME_558,Statua di Sunkern,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+251,UNDERGROUND_NAME_559,Statua di Quagsire,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+252,UNDERGROUND_NAME_560,Statua di Espeon,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+253,UNDERGROUND_NAME_561,Statua di Umbreon,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+254,UNDERGROUND_NAME_562,Statua di Murkrow,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+255,UNDERGROUND_NAME_563,Statua di Unown,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+256,UNDERGROUND_NAME_564,Statua di Wobbuffet,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+257,UNDERGROUND_NAME_565,Statua di Girafarig,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+258,UNDERGROUND_NAME_566,Statua di Dunsparce,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+259,UNDERGROUND_NAME_567,Statua di Steelix,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+260,UNDERGROUND_NAME_568,Statua di Snubbull,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+261,UNDERGROUND_NAME_569,Statua di Scizor,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+262,UNDERGROUND_NAME_570,Statua di Heracross,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+263,UNDERGROUND_NAME_571,Statua di Magcargo,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+264,UNDERGROUND_NAME_572,Statua di Octillery,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+265,UNDERGROUND_NAME_573,Statua di Mantine,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+266,UNDERGROUND_NAME_574,Statua di Smeargle,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+267,UNDERGROUND_NAME_575,Statua di Miltank,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+268,UNDERGROUND_NAME_576,Statua di Tyranitar,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+269,UNDERGROUND_NAME_577,Statua di Treecko,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+270,UNDERGROUND_NAME_578,Statua di Grovyle,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+271,UNDERGROUND_NAME_579,Statua di Sceptile,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+272,UNDERGROUND_NAME_580,Statua di Torchic,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+273,UNDERGROUND_NAME_581,Statua di Combusken,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+274,UNDERGROUND_NAME_582,Statua di Blaziken,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+275,UNDERGROUND_NAME_583,Statua di Mudkip,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+276,UNDERGROUND_NAME_584,Statua di Marshtomp,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+277,UNDERGROUND_NAME_585,Statua di Swampert,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+278,UNDERGROUND_NAME_586,Statua di Beautifly,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+279,UNDERGROUND_NAME_587,Statua di Dustox,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+280,UNDERGROUND_NAME_588,Statua di Ludicolo,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+281,UNDERGROUND_NAME_589,Statua di Pelipper,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+282,UNDERGROUND_NAME_590,Statua di Gardevoir,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+283,UNDERGROUND_NAME_591,Statua di Shroomish,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+284,UNDERGROUND_NAME_592,Statua di Slaking,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+285,UNDERGROUND_NAME_593,Statua di Ninjask,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+286,UNDERGROUND_NAME_594,Statua di Exploud,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+287,UNDERGROUND_NAME_595,Statua di Skitty,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+288,UNDERGROUND_NAME_596,Statua di Sableye,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+289,UNDERGROUND_NAME_597,Statua di Mawile,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+290,UNDERGROUND_NAME_598,Statua di Aggron,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+291,UNDERGROUND_NAME_599,Statua di Medicham,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+292,UNDERGROUND_NAME_600,Statua di Manectric,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+293,UNDERGROUND_NAME_601,Statua di Plusle,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+294,UNDERGROUND_NAME_602,Statua di Minun,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+295,UNDERGROUND_NAME_603,Statua di Volbeat,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+296,UNDERGROUND_NAME_604,Statua di Illumise,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+297,UNDERGROUND_NAME_605,Statua di Roselia,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+298,UNDERGROUND_NAME_606,Statua di Sharpedo,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+299,UNDERGROUND_NAME_607,Statua di Wailmer,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+300,UNDERGROUND_NAME_608,Statua di Camerupt,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+301,UNDERGROUND_NAME_609,Statua di Torkoal,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+302,UNDERGROUND_NAME_610,Statua di Spinda,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+303,UNDERGROUND_NAME_611,Statua di Flygon,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+304,UNDERGROUND_NAME_612,Statua di Cacturne,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+305,UNDERGROUND_NAME_613,Statua di Altaria,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+306,UNDERGROUND_NAME_614,Statua di Zangoose,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+307,UNDERGROUND_NAME_615,Statua di Seviper,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+308,UNDERGROUND_NAME_616,Statua di Lunatone,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+309,UNDERGROUND_NAME_617,Statua di Solrock,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+310,UNDERGROUND_NAME_618,Statua di Whiscash,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+311,UNDERGROUND_NAME_619,Statua di Claydol,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+312,UNDERGROUND_NAME_620,Statua di Cradily,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+313,UNDERGROUND_NAME_621,Statua di Milotic,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+314,UNDERGROUND_NAME_622,Statua di Castform,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+315,UNDERGROUND_NAME_623,Statua di Kecleon,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+316,UNDERGROUND_NAME_624,Statua di Tropius,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+317,UNDERGROUND_NAME_625,Statua di Chimecho,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+318,UNDERGROUND_NAME_626,Statua di Absol,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+319,UNDERGROUND_NAME_627,Statua di Spheal,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+320,UNDERGROUND_NAME_628,Statua di Clamperl,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+321,UNDERGROUND_NAME_629,Statua di Relicanth,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+322,UNDERGROUND_NAME_630,Statua di Luvdisc,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+323,UNDERGROUND_NAME_631,Statua di Salamence,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+324,UNDERGROUND_NAME_632,Statua di Metagross,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+325,UNDERGROUND_NAME_633,Statua di Turtwig,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+326,UNDERGROUND_NAME_634,Statua di Grotle,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+327,UNDERGROUND_NAME_635,Statua di Torterra,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+328,UNDERGROUND_NAME_636,Statua di Chimchar,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+329,UNDERGROUND_NAME_637,Statua di Monferno,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+330,UNDERGROUND_NAME_638,Statua di Infernape,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+331,UNDERGROUND_NAME_639,Statua di Piplup,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+332,UNDERGROUND_NAME_640,Statua di Prinplup,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+333,UNDERGROUND_NAME_641,Statua di Empoleon,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+334,UNDERGROUND_NAME_642,Statua di Staraptor,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+335,UNDERGROUND_NAME_643,Statua di Bibarel,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+336,UNDERGROUND_NAME_644,Statua di Kricketot,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+337,UNDERGROUND_NAME_645,Statua di Luxray,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+338,UNDERGROUND_NAME_646,Statua di Budew,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+339,UNDERGROUND_NAME_647,Statua di Roserade,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+340,UNDERGROUND_NAME_648,Statua di Cranidos,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+341,UNDERGROUND_NAME_649,Statua di Bastiodon,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+342,UNDERGROUND_NAME_650,Statua di Burmy,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+343,UNDERGROUND_NAME_651,Statua di Wormadam,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+344,UNDERGROUND_NAME_652,Statua di Mothim,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+345,UNDERGROUND_NAME_653,Statua di Vespiquen,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+346,UNDERGROUND_NAME_654,Statua di Pachirisu,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+347,UNDERGROUND_NAME_655,Statua di Floatzel,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+348,UNDERGROUND_NAME_656,Statua di Cherubi,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+349,UNDERGROUND_NAME_657,Statua di Gastrodon,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+350,UNDERGROUND_NAME_658,Statua di Ambipom,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+351,UNDERGROUND_NAME_659,Statua di Drifloon,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+352,UNDERGROUND_NAME_660,Statua di Buneary,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+353,UNDERGROUND_NAME_661,Statua di Mismagius,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+354,UNDERGROUND_NAME_662,Statua di Honchkrow,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+355,UNDERGROUND_NAME_663,Statua di Purugly,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+356,UNDERGROUND_NAME_664,Statua di Skuntank,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+357,UNDERGROUND_NAME_665,Statua di Bronzong,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+358,UNDERGROUND_NAME_666,Statua di Happiny,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+359,UNDERGROUND_NAME_667,Statua di Chatot,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+360,UNDERGROUND_NAME_668,Statua di Spiritomb,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+361,UNDERGROUND_NAME_669,Statua di Garchomp,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+362,UNDERGROUND_NAME_670,Statua di Lucario,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+363,UNDERGROUND_NAME_671,Statua di Hippowdon,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+364,UNDERGROUND_NAME_672,Statua di Drapion,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+365,UNDERGROUND_NAME_673,Statua di Croagunk,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+366,UNDERGROUND_NAME_674,Statua di Carnivine,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+367,UNDERGROUND_NAME_675,Statua di Lumineon,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+368,UNDERGROUND_NAME_676,Statua di Abomasnow,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+369,UNDERGROUND_NAME_677,Statua di Weavile,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+370,UNDERGROUND_NAME_678,Statua di Magnezone,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+371,UNDERGROUND_NAME_679,Statua di Rhyperior,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+372,UNDERGROUND_NAME_680,Statua di Tangrowth,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+373,UNDERGROUND_NAME_681,Statua di Electivire,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+374,UNDERGROUND_NAME_682,Statua di Magmortar,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+375,UNDERGROUND_NAME_683,Statua di Togekiss,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+376,UNDERGROUND_NAME_684,Statua di Yanmega,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+377,UNDERGROUND_NAME_685,Statua di Leafeon,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+378,UNDERGROUND_NAME_686,Statua di Glaceon,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+379,UNDERGROUND_NAME_687,Statua di Gliscor,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+380,UNDERGROUND_NAME_688,Statua di Mamoswine,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+381,UNDERGROUND_NAME_689,Statua di Porygon-Z,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+382,UNDERGROUND_NAME_690,Statua di Gallade,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+383,UNDERGROUND_NAME_691,Statua di Probopass,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+384,UNDERGROUND_NAME_692,Statua di Dusknoir,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+385,UNDERGROUND_NAME_693,Statua di Froslass,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+386,UNDERGROUND_NAME_694,Statua di Rotom,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+387,UNDERGROUND_NAME_695,Statua di Rotom,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+388,UNDERGROUND_NAME_696,Statua di Rotom,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+389,UNDERGROUND_NAME_697,Statua di Rotom,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+390,UNDERGROUND_NAME_698,Statua di Rotom,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+391,UNDERGROUND_NAME_699,Statua di Rotom,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+392,UNDERGROUND_NAME_700,Statua di Articuno,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+393,UNDERGROUND_NAME_701,Statua di Zapdos,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+394,UNDERGROUND_NAME_702,Statua di Moltres,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+395,UNDERGROUND_NAME_703,Statua di Mewtwo,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+396,UNDERGROUND_NAME_704,Statua di Raikou,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+397,UNDERGROUND_NAME_705,Statua di Entei,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+398,UNDERGROUND_NAME_706,Statua di Suicune,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+399,UNDERGROUND_NAME_707,Statua di Lugia,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+400,UNDERGROUND_NAME_708,Statua di Ho-Oh,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+401,UNDERGROUND_NAME_709,Statua di Regirock,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+402,UNDERGROUND_NAME_710,Statua di Regice,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+403,UNDERGROUND_NAME_711,Statua di Registeel,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+404,UNDERGROUND_NAME_712,Statua di Latias,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+405,UNDERGROUND_NAME_713,Statua di Latios,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+406,UNDERGROUND_NAME_714,Statua di Kyogre,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+407,UNDERGROUND_NAME_715,Statua di Groudon,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+408,UNDERGROUND_NAME_716,Statua di Rayquaza,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+470,UNDERGROUND_NAME_955,Statua di Bulbasaur ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+471,UNDERGROUND_NAME_956,Statua di Ivysaur ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+472,UNDERGROUND_NAME_957,Statua di Venusaur ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+473,UNDERGROUND_NAME_958,Statua di Charmander ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+474,UNDERGROUND_NAME_959,Statua di Charmeleon ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+475,UNDERGROUND_NAME_960,Statua di Charizard ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+476,UNDERGROUND_NAME_961,Statua di Squirtle ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+477,UNDERGROUND_NAME_962,Statua di Wartortle ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+478,UNDERGROUND_NAME_963,Statua di Blastoise ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+443,UNDERGROUND_NAME_751,Statua di Pikachu ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+479,UNDERGROUND_NAME_964,Statua di Nidoqueen ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+480,UNDERGROUND_NAME_965,Statua di Nidoking ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+444,UNDERGROUND_NAME_752,Statua di Clefairy ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+481,UNDERGROUND_NAME_966,Statua di Vulpix ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+445,UNDERGROUND_NAME_753,Statua di Jigglypuff ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+482,UNDERGROUND_NAME_967,Statua di Oddish ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+483,UNDERGROUND_NAME_968,Statua di Meowth ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+446,UNDERGROUND_NAME_754,Statua di Psyduck ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+409,UNDERGROUND_NAME_717,Statua di Arcanine ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+484,UNDERGROUND_NAME_969,Statua di Poliwrath ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+410,UNDERGROUND_NAME_718,Statua di Alakazam ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+411,UNDERGROUND_NAME_719,Statua di Machamp ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+485,UNDERGROUND_NAME_970,Statua di Tentacruel ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+486,UNDERGROUND_NAME_971,Statua di Geodude ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+487,UNDERGROUND_NAME_972,Statua di Rapidash ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+488,UNDERGROUND_NAME_973,Statua di Slowpoke ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+489,UNDERGROUND_NAME_974,Statua di Farfetch’d ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+412,UNDERGROUND_NAME_720,Statua di Gengar ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+490,UNDERGROUND_NAME_975,Statua di Cubone ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+491,UNDERGROUND_NAME_976,Statua di Lickitung ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+413,UNDERGROUND_NAME_721,Statua di Weezing ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+492,UNDERGROUND_NAME_977,Statua di Chansey ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+493,UNDERGROUND_NAME_978,Statua di Kangaskhan ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+494,UNDERGROUND_NAME_979,Statua di Seaking ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+495,UNDERGROUND_NAME_980,Statua di Mr. Mime ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+496,UNDERGROUND_NAME_981,Statua di Tauros ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+497,UNDERGROUND_NAME_982,Statua di Magikarp ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+414,UNDERGROUND_NAME_722,Statua di Gyarados ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+498,UNDERGROUND_NAME_983,Statua di Lapras ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+499,UNDERGROUND_NAME_984,Statua di Ditto ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+447,UNDERGROUND_NAME_755,Statua di Eevee ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+448,UNDERGROUND_NAME_756,Statua di Vaporeon ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+449,UNDERGROUND_NAME_757,Statua di Jolteon ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+450,UNDERGROUND_NAME_758,Statua di Flareon ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+500,UNDERGROUND_NAME_985,Statua di Porygon ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+415,UNDERGROUND_NAME_723,Statua di Omastar ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+501,UNDERGROUND_NAME_986,Statua di Snorlax ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+416,UNDERGROUND_NAME_724,Statua di Dragonite ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+502,UNDERGROUND_NAME_987,Statua di Chikorita ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+503,UNDERGROUND_NAME_988,Statua di Bayleef ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+504,UNDERGROUND_NAME_989,Statua di Meganium ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+505,UNDERGROUND_NAME_990,Statua di Cyndaquil ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+506,UNDERGROUND_NAME_991,Statua di Quilava ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+507,UNDERGROUND_NAME_992,Statua di Typhlosion ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+508,UNDERGROUND_NAME_993,Statua di Totodile ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+509,UNDERGROUND_NAME_994,Statua di Croconaw ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+510,UNDERGROUND_NAME_995,Statua di Feraligatr ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+511,UNDERGROUND_NAME_996,Statua di Furret ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+512,UNDERGROUND_NAME_997,Statua di Noctowl ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+513,UNDERGROUND_NAME_998,Statua di Crobat ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+514,UNDERGROUND_NAME_999,Statua di Togepi ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+417,UNDERGROUND_NAME_725,Statua di Ampharos ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+515,UNDERGROUND_NAME_1000,Statua di Bellossom ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+516,UNDERGROUND_NAME_1001,Statua di Marill ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+517,UNDERGROUND_NAME_1002,Statua di Sudowoodo ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+518,UNDERGROUND_NAME_1003,Statua di Aipom ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+519,UNDERGROUND_NAME_1004,Statua di Sunkern ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+520,UNDERGROUND_NAME_1005,Statua di Quagsire ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+451,UNDERGROUND_NAME_759,Statua di Espeon ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+452,UNDERGROUND_NAME_760,Statua di Umbreon ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+521,UNDERGROUND_NAME_1006,Statua di Murkrow ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+522,UNDERGROUND_NAME_1007,Statua di Unown ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+523,UNDERGROUND_NAME_1008,Statua di Wobbuffet ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+524,UNDERGROUND_NAME_1009,Statua di Girafarig ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+525,UNDERGROUND_NAME_1010,Statua di Dunsparce ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+526,UNDERGROUND_NAME_1011,Statua di Steelix ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+527,UNDERGROUND_NAME_1012,Statua di Snubbull ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+528,UNDERGROUND_NAME_1013,Statua di Scizor ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+418,UNDERGROUND_NAME_726,Statua di Heracross ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+529,UNDERGROUND_NAME_1014,Statua di Magcargo ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+530,UNDERGROUND_NAME_1015,Statua di Octillery ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+531,UNDERGROUND_NAME_1016,Statua di Mantine ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+532,UNDERGROUND_NAME_1017,Statua di Smeargle ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+533,UNDERGROUND_NAME_1018,Statua di Miltank ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+419,UNDERGROUND_NAME_727,Statua di Tyranitar ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+534,UNDERGROUND_NAME_1019,Statua di Treecko ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+535,UNDERGROUND_NAME_1020,Statua di Grovyle ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+536,UNDERGROUND_NAME_1021,Statua di Sceptile ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+453,UNDERGROUND_NAME_761,Statua di Torchic ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+537,UNDERGROUND_NAME_1022,Statua di Combusken ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+538,UNDERGROUND_NAME_1023,Statua di Blaziken ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+539,UNDERGROUND_NAME_1024,Statua di Mudkip ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+540,UNDERGROUND_NAME_1025,Statua di Marshtomp ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+541,UNDERGROUND_NAME_1026,Statua di Swampert ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+542,UNDERGROUND_NAME_1027,Statua di Beautifly ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+543,UNDERGROUND_NAME_1028,Statua di Dustox ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+544,UNDERGROUND_NAME_1029,Statua di Ludicolo ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+545,UNDERGROUND_NAME_1030,Statua di Pelipper ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+546,UNDERGROUND_NAME_1031,Statua di Gardevoir ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+454,UNDERGROUND_NAME_762,Statua di Shroomish ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+420,UNDERGROUND_NAME_728,Statua di Slaking ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+547,UNDERGROUND_NAME_1032,Statua di Ninjask ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+548,UNDERGROUND_NAME_1033,Statua di Exploud ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+455,UNDERGROUND_NAME_763,Statua di Skitty ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+549,UNDERGROUND_NAME_1034,Statua di Sableye ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+550,UNDERGROUND_NAME_1035,Statua di Mawile ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+551,UNDERGROUND_NAME_1036,Statua di Aggron ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+552,UNDERGROUND_NAME_1037,Statua di Medicham ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+553,UNDERGROUND_NAME_1038,Statua di Manectric ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+554,UNDERGROUND_NAME_1039,Statua di Plusle ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+555,UNDERGROUND_NAME_1040,Statua di Minun ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+556,UNDERGROUND_NAME_1041,Statua di Volbeat ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+557,UNDERGROUND_NAME_1042,Statua di Illumise ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+558,UNDERGROUND_NAME_1043,Statua di Roselia ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+559,UNDERGROUND_NAME_1044,Statua di Sharpedo ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+560,UNDERGROUND_NAME_1045,Statua di Wailmer ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+421,UNDERGROUND_NAME_729,Statua di Camerupt ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+561,UNDERGROUND_NAME_1046,Statua di Torkoal ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+562,UNDERGROUND_NAME_1047,Statua di Spinda ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+563,UNDERGROUND_NAME_1048,Statua di Flygon ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+564,UNDERGROUND_NAME_1049,Statua di Cacturne ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+565,UNDERGROUND_NAME_1050,Statua di Altaria ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+566,UNDERGROUND_NAME_1051,Statua di Zangoose ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+567,UNDERGROUND_NAME_1052,Statua di Seviper ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+568,UNDERGROUND_NAME_1053,Statua di Lunatone ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+569,UNDERGROUND_NAME_1054,Statua di Solrock ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+570,UNDERGROUND_NAME_1055,Statua di Whiscash ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+571,UNDERGROUND_NAME_1056,Statua di Claydol ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+572,UNDERGROUND_NAME_1057,Statua di Cradily ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+422,UNDERGROUND_NAME_730,Statua di Milotic ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+573,UNDERGROUND_NAME_1058,Statua di Castform ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+574,UNDERGROUND_NAME_1059,Statua di Kecleon ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+575,UNDERGROUND_NAME_1060,Statua di Tropius ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+576,UNDERGROUND_NAME_1061,Statua di Chimecho ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+577,UNDERGROUND_NAME_1062,Statua di Absol ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+578,UNDERGROUND_NAME_1063,Statua di Spheal ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+579,UNDERGROUND_NAME_1064,Statua di Clamperl ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+580,UNDERGROUND_NAME_1065,Statua di Relicanth ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+581,UNDERGROUND_NAME_1066,Statua di Luvdisc ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+423,UNDERGROUND_NAME_731,Statua di Salamence ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+424,UNDERGROUND_NAME_732,Statua di Metagross ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+456,UNDERGROUND_NAME_764,Statua di Turtwig ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+457,UNDERGROUND_NAME_765,Statua di Grotle ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+458,UNDERGROUND_NAME_766,Statua di Torterra ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+459,UNDERGROUND_NAME_767,Statua di Chimchar ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+460,UNDERGROUND_NAME_768,Statua di Monferno ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+461,UNDERGROUND_NAME_769,Statua di Infernape ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+462,UNDERGROUND_NAME_770,Statua di Piplup ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+463,UNDERGROUND_NAME_771,Statua di Prinplup ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+464,UNDERGROUND_NAME_772,Statua di Empoleon ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+425,UNDERGROUND_NAME_733,Statua di Staraptor ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+582,UNDERGROUND_NAME_1067,Statua di Bibarel ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+583,UNDERGROUND_NAME_1068,Statua di Kricketot ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+584,UNDERGROUND_NAME_1069,Statua di Luxray ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+585,UNDERGROUND_NAME_1070,Statua di Budew ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+426,UNDERGROUND_NAME_734,Statua di Roserade ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+586,UNDERGROUND_NAME_1071,Statua di Cranidos ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+587,UNDERGROUND_NAME_1072,Statua di Bastiodon ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+588,UNDERGROUND_NAME_1073,Statua di Burmy ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+589,UNDERGROUND_NAME_1074,Statua di Wormadam ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+590,UNDERGROUND_NAME_1075,Statua di Mothim ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+591,UNDERGROUND_NAME_1076,Statua di Vespiquen ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+465,UNDERGROUND_NAME_773,Statua di Pachirisu ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+592,UNDERGROUND_NAME_1077,Statua di Floatzel ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+593,UNDERGROUND_NAME_1078,Statua di Cherubi ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+594,UNDERGROUND_NAME_1079,Statua di Gastrodon ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+595,UNDERGROUND_NAME_1080,Statua di Ambipom ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+466,UNDERGROUND_NAME_774,Statua di Drifloon ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+467,UNDERGROUND_NAME_775,Statua di Buneary ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+596,UNDERGROUND_NAME_1081,Statua di Mismagius ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+427,UNDERGROUND_NAME_735,Statua di Honchkrow ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+597,UNDERGROUND_NAME_1082,Statua di Purugly ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+598,UNDERGROUND_NAME_1083,Statua di Skuntank ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+599,UNDERGROUND_NAME_1084,Statua di Bronzong ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+468,UNDERGROUND_NAME_776,Statua di Happiny ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+600,UNDERGROUND_NAME_1085,Statua di Chatot ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+601,UNDERGROUND_NAME_1086,Statua di Spiritomb ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+602,UNDERGROUND_NAME_1087,Statua di Garchomp ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+428,UNDERGROUND_NAME_736,Statua di Lucario ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+603,UNDERGROUND_NAME_1088,Statua di Hippowdon ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+429,UNDERGROUND_NAME_737,Statua di Drapion ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+604,UNDERGROUND_NAME_1089,Statua di Croagunk ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+605,UNDERGROUND_NAME_1090,Statua di Carnivine ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+606,UNDERGROUND_NAME_1091,Statua di Lumineon ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+607,UNDERGROUND_NAME_1092,Statua di Abomasnow ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+430,UNDERGROUND_NAME_738,Statua di Weavile ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+431,UNDERGROUND_NAME_739,Statua di Magnezone ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+432,UNDERGROUND_NAME_740,Statua di Rhyperior ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+433,UNDERGROUND_NAME_741,Statua di Tangrowth ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+434,UNDERGROUND_NAME_742,Statua di Electivire ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+435,UNDERGROUND_NAME_743,Statua di Magmortar ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+436,UNDERGROUND_NAME_744,Statua di Togekiss ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+437,UNDERGROUND_NAME_745,Statua di Yanmega ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+469,UNDERGROUND_NAME_777,Statua di Leafeon ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+438,UNDERGROUND_NAME_746,Statua di Glaceon ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+608,UNDERGROUND_NAME_1093,Statua di Gliscor ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+439,UNDERGROUND_NAME_747,Statua di Mamoswine ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+440,UNDERGROUND_NAME_748,Statua di Porygon-Z ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+441,UNDERGROUND_NAME_749,Statua di Gallade ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+609,UNDERGROUND_NAME_1094,Statua di Probopass ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+442,UNDERGROUND_NAME_750,Statua di Dusknoir ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+610,UNDERGROUND_NAME_1095,Statua di Froslass ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+611,UNDERGROUND_NAME_1096,Statua di Rotom ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+612,UNDERGROUND_NAME_1097,Statua di Rotom ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+613,UNDERGROUND_NAME_1098,Statua di Rotom ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+614,UNDERGROUND_NAME_1099,Statua di Rotom ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+615,UNDERGROUND_NAME_1100,Statua di Rotom ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+616,UNDERGROUND_NAME_1101,Statua di Rotom ,128,-1,42,588,0,"1
+0
+0
+-1
+0"
+617,UNDERGROUND_NAME_1102,MT93,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+618,UNDERGROUND_NAME_1103,MT94,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+619,UNDERGROUND_NAME_1104,MT95,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+620,UNDERGROUND_NAME_1105,MT96,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+621,UNDERGROUND_NAME_1106,MT97,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+622,UNDERGROUND_NAME_1107,MT98,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+623,UNDERGROUND_NAME_1108,MT99,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+624,UNDERGROUND_NAME_1109,MT100,121,-1,42,420,0,"1
+1
+0
+-1
+0"
+625,UNDERGROUND_NAME_1110,Base quadrata XL,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+626,UNDERGROUND_NAME_1111,Base rotonda XL,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+627,UNDERGROUND_NAME_1112,Base immobile XL,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+628,UNDERGROUND_NAME_1113,Base trasparente XL,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+629,UNDERGROUND_NAME_1114,Base destrogira XL,125,-1,42,504,0,"1
+0
+0
+-1
+0"
+630,UNDERGROUND_NAME_1115,Base sinistrogira XL,125,-1,42,504,0,"1
+0
+0
+-1
+0"

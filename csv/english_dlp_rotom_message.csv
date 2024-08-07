@@ -1,0 +1,773 @@
+7,msg_c04r0205_rotom_06,Which Rotom are you choosing?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+8,msg_c04r0205_rotom_07,An Egg can’t enter a motor.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+9,msg_c04r0205_rotom_08,That Pokémon can’t enter a motor.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+12,msg_c04r0205_rotom_11,"Which Rotom would you like to return to its
+original form?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+13,msg_c04r0205_rotom_12,"Oh? Rotom appears as if it wants to revert
+{pageend:to its original form.}
+Would you like to recall it from the motor?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+14,msg_c04r0205_rotom_13,Recall,51,-1,42,756,0,"-1
+0
+0
+-1
+0"
+18,msg_c04r0205_rotom_13_1,Yes,51,-1,42,756,0,"-1
+0
+0
+-1
+0"
+19,msg_c04r0205_rotom_13_2,No,51,-1,42,756,0,"-1
+0
+0
+-1
+0"
+20,msg_c04r0205_rotom_13_3,That Rotom hasn’t entered a motor.,51,-1,42,756,0,"-1
+0
+0
+-1
+0"
+21,msg_c04r0205_rotom_13_4,"There was an appliance here—the one with the
+oddly shaped motor.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+22,msg_c04r0205_range_01,"It’s a microwave oven. It has an odd-shaped
+motor on it.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+23,msg_c04r0205_range_02,"It’s a microwave oven. It has an odd-shaped
+{pageend:motor on it.}
+Oh? Rotom appears as if it wants to go into
+{pageend:the motor.}
+Will you allow Rotom to enter the motor?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+24,msg_c04r0205_range_03,"Rotom reluctantly gave up on entering the
+microwave oven’s motor...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+25,msg_c04r0205_range_04,"“Microwave oven” has been added to the
+Rotom Catalog!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+26,msg_c04r0205_freezer_01,"It’s a refrigerator. It has an odd-shaped motor
+on it.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+27,msg_c04r0205_freezer_02,"It’s a refrigerator. It has an odd-shaped motor
+{pageend:on it.}
+Oh? Rotom appears as if it wants to go into
+{pageend:the motor.}
+Will you allow Rotom to enter the motor?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+28,msg_c04r0205_freezer_03,"Rotom reluctantly gave up on entering the
+refrigerator’s motor...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+29,msg_c04r0205_freezer_04,"“Refrigerator” has been added to the
+Rotom Catalog!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+30,msg_c04r0205_washer_01,"It’s a washing machine. It has an odd-shaped
+motor on it.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+31,msg_c04r0205_washer_02,"It’s a washing machine. It has an odd-shaped
+{pageend:motor on it.}
+Oh? Rotom appears as if it wants to go into
+{pageend:the motor.}
+Will you allow Rotom to enter the motor?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+32,msg_c04r0205_washer_03,"Rotom reluctantly gave up on entering the
+washing machine’s motor...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+33,msg_c04r0205_washer_04,"“Washing machine” has been added to the
+Rotom Catalog!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+34,msg_c04r0205_fan_01,"It’s a rotary fan. It has an odd-shaped motor
+on it.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+35,msg_c04r0205_fan_02,"It’s a rotary fan. It has an odd-shaped motor
+{pageend:on it.}
+Oh? Rotom appears as if it wants to go into
+{pageend:the motor.}
+Will you allow Rotom to enter the motor?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+36,msg_c04r0205_fan_03,"Rotom reluctantly gave up on entering the rotary
+fan’s motor...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+37,msg_c04r0205_fan_04,"“Rotary fan” has been added to the
+Rotom Catalog!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+38,msg_c04r0205_lawnmower_01,"It’s a lawn mower. It has an odd-shaped motor
+on it.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+39,msg_c04r0205_lawnmower_02,"It’s a lawn mower. It has an odd-shaped motor
+{pageend:on it.}
+Oh? Rotom appears as if it wants to go into
+{pageend:the motor.}
+Will you allow Rotom to enter the motor?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+40,msg_c04r0205_lawnmower_03,"Rotom reluctantly gave up on entering the lawn
+mower’s motor...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+41,msg_c04r0205_lawnmower_04,"“Lawn mower” has been added to the
+Rotom Catalog!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+42,msg_c04r0205_book_01,"There is a mysterious notebook here. Its age is
+{pageend:impossible to tell.}
+“It was by pure chance that I obtained
+{pageend:information about the Pokémon Rotom.}
+“Remarkably, Rotom is able to merge with
+{pageend:special motors.}
+“Rotom can thereby enter various home
+{pageend:appliances and change its form.}
+“I have confirmed that Rotom changes its types
+and the moves it can learn by reflecting the
+{pageend:characteristics of any home appliance it enters.}
+“This Pokémon requires exhaustive observation
+{pageend:and analysis.}
+“To ensure I get all the credit, my Rotom
+{pageend:research must be kept secret.}
+“They will come to recognize me as the
+{pageend:scientific genius Char...”}
+The rest of the notebook is blank.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+43,msg_c04r0205_doctor_01,"{pageend:Ah, imagine finding you here!}
+You must be eager to fill your Pokédex to be
+{pageend:searching even here.}
+{pageend:What am I doing?}
+{pageend:I visit a professor I know in Eterna every so often.}
+He tells me intriguing rumors of rare Pokémon
+sightings and such.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+44,msg_c04r0205_doctor_02,"A Pokémon that slips into electric appliances,
+{pageend:you say...}
+Hmm... That is somewhat off from what I’ve
+{pageend:heard about it.}
+{pageend:Hmm... This is what I’ve heard.}
+Long ago, there was a Pokémon that merged with
+{pageend:a toy robot.}
+Should that Pokémon be recognized as a new
+{pageend:species or not?}
+Debates over the issue were about to start when
+{pageend:they were rendered moot.}
+The very topic of discussion—the Pokémon-
+infused robot—disappeared...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+46,msg_01_rotomnote_01,"It’s an old notebook. There’s no telling how old
+{pageend:it is.}
+Would you like to read it?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+47,msg_01_rotomnote_02,"{pageend:“Our encounter was a sudden one.}
+“It was when I found my toy robot—one that I
+{pageend:had earlier misplaced.}
+“At that instant, a Pokémon startlingly emerged
+{pageend:from the lawn mower’s motor!}
+“Clutching my robot, I stared, transfixed by the
+{pageend:peculiar Pokémon.”}
+Would you like to keep reading?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+48,msg_01_rotomnote_03,"“The Pokémon hovered in the air, held aloft by a
+{pageend:power unseen.}
+“As if curious and unafraid of my presence, it
+{pageend:floated toward me.}
+“Crackling sounds accompanied it, as if from
+{pageend:static electricity in the air.}
+“Remarkably, it seemed the Pokémon was the
+{pageend:source of this power!}
+“In alarm, I flinched, certain that my face would
+{pageend:be subjected to a shock.}
+“Much to my surprise, the Pokémon seemed to
+{pageend:favor me with a smile.”}
+Would you like to keep reading?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+49,msg_01_rotomnote_04,"“Finally, I came to realize that the Pokémon only
+{pageend:wished to be friends.}
+“I have decided to name this most wondrous
+{pageend:Pokémon ‘Rotom.’}
+“Simple though it may be, Rotom emerged to me
+{pageend:from the motor of a lawn mower.}
+“‘Motor’ and ‘Rotom’... Surely the link
+{pageend:is obvious?”}
+Would you like to keep reading?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+50,msg_01_rotomnote_05,"{pageend:“Rotom is a Pokémon that is simply sensational.}
+“The fact that it can turn invisible is simply
+{pageend:the beginning.}
+“What makes Rotom unique is its ability to enter
+{pageend:and operate machinery!”}
+This is about halfway through. Would you like to
+keep reading?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+51,msg_01_rotomnote_06,"“Rotom and I became fast friends. We were
+{pageend:perpetual companions.}
+“The electricity from its body forbade
+{pageend:contact, however.}
+“We could not touch, let alone hug or hold
+{pageend:hands, but we cared not.}
+“For we were bonded on a much deeper,
+{pageend:incorporeal level.”}
+Would you like to keep reading?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+52,msg_01_rotomnote_07,"“A feeling of mischief got the better of me
+{pageend:one day.}
+“Seeing Rotom hovering, I decided to startle it.
+{pageend:Normally I would not.}
+“Perhaps frightened, Rotom discharged power
+{pageend:beyond its usual range.}
+“I fell, stunned, into the arms
+{pageend:of unconsciousness...”}
+Would you like to keep reading?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+53,msg_01_rotomnote_08,"“When I came to, to my horror I realized that
+{pageend:Rotom had disappeared.}
+“I searched high and low for my friend in dismay
+{pageend:and desperation.}
+{pageend:“‘Don’t chastise yourself.’}
+{pageend:“‘The fault is mine. No harm done.’}
+{pageend:“‘Let us play as we always have.’}
+“Though my words poured out, my friend could
+{pageend:not be found to hear them...”}
+Would you like to keep reading?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+54,msg_01_rotomnote_09,"{pageend:“My search for Rotom carried me far from home.}
+“It was in the town’s rubbish heap that I again
+{pageend:found my old toy robot.}
+“Curiously, our eyes met, then the robot waved a
+{pageend:hand as if in greeting.}
+{pageend:“I knew then that I had found my lost friend.}
+“I ran to it and hugged Rotom tight, talking on
+{pageend:and on.”}
+Would you like to keep reading?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+55,msg_01_rotomnote_10,"{pageend:“The robot’s eyes lit up happily as I held it.}
+“I’m certain that within it, Rotom was emitting
+{pageend:lots of electricity.}
+“Somehow, I felt I could understand Rotom’s
+{pageend:thoughts better than before.}
+“Also, I realized that we would remain friends
+{pageend:throughout our lives...”}
+The notebook ends with this page.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+56,msg_01_rotomnote_19,You used the {tag:0}!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,9,0,0,0,,0
+57,msg_01_rotomnote_20,It’s the entrance to a secret room!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+15,msg_c04r0205_rotom_14,Please select a Rotom.,51,-1,42,756,0,"-1
+0
+0
+-1
+0"
+16,msg_c04r0205_rotom_15_1,Eligible,51,-1,42,756,0,"-1
+0
+0
+-1
+0"
+17,msg_c04r0205_rotom_15_2,Ineligible,51,-1,42,756,0,"-1
+0
+0
+-1
+0"
+0,msg_c04r0205_rotom_01,"{tag:0}{pageend: entered the motor.}
+{tag:1} is trying to
+learn {tag:2}{pageend:.}
+But {tag:3} can’t learn more than
+{pageend:four moves.}
+Would you like it to forget a move to make room
+for {tag:4}?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,0,1,2,0,0,0,,0,1,1,7,0,0,0,,0,0,1,2,0,0,0,,0,1,1,7,0,0,0,,0
+1,msg_c04r0205_rotom_02,"Would you like to give up on having this
+Pokémon learn {tag:0}?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,7,0,0,0,,0
+2,msg_c04r0205_rotom_03,"{tag:0} did not
+learn {tag:1}{pageend:.}
+{tag:2} emerged from the motor.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,7,0,0,0,,0,0,1,2,0,0,0,,0
+3,msg_c04r0205_rotom_04,"Is it OK to forget the
+move {tag:0}?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",1,1,7,0,0,0,,0
+4,msg_c04r0205_rotom_05,{wait:0.19999998807907104:One...}{wait:0.19999998807907104:two...}{wait:0.19999998807907104:and...}{wait:0.19999998807907104:}ta-da!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+5,msg_c04r0205_rotom_05_01,"{tag:0} forgot {tag:1}{pageend:.}
+And...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,7,0,0,0,,0
+6,msg_c04r0205_rotom_05_02,"{tag:0} learned
+{tag:1} instead!",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,7,0,0,0,,0
+10,msg_c04r0205_rotom_09,{tag:0} got inside the motor!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+11,msg_c04r0205_rotom_10,{tag:0} came out of the motor!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+45,msg_c04r0205_doctor_03,"Anyway, this Rotom...
+{pageend:What an interesting Pokémon.}
+So, you say it enters an appliance and essentially
+{pageend:merges with the device.}
+{pageend:It may also learn new moves in the process.}
+In a way, I suppose it could be thought of as a
+{pageend:mechanical Pokémon.}
+Hmm! Though it is utterly unique, it is undeniably
+{pageend:a species of Pokémon.}
+{pageend:Fine, fine, so be it!}
+No matter how old one gets, there will always be
+{pageend:new Pokémon discoveries!}
+Take care, {tag:0}!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+46,01-msg_r201_on_starter_choose,You received {tag:0}!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+47,01-msg_r201_starter_choose,Choose a starter!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+60,msg_d02_zapdos_cry,Gyaoo!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+61,msg_d05r0104_moltres_cry,Gyaoo!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+62,msg_d09r0102_articuno_cry,Gyaoo!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+63,msg_r208_raikou_cry,Gyaoo!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+64,msg_r209r0105_hooh_cry,Gyaoo!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+65,msg_r211b_entei_cry,Gyaoo!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+66,msg_r213_suicune_cry,Gyaoo!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+67,msg_w220_lugia_cry,Gyaoo!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+68,c04r0601_oak_post_distortion00,"{pageend:What’s this?!}
+You went to the Distortion World and
+{pageend:battled with the legendary GIRATINA?!}
+Remarkable. Truly remarkable!
+{pageend:This is absolutely unprecedented!}
+At any rate, you are indeed worthy of
+meeting Legendary Pokémon, {tag:0}{pageend:!}
+I’m positive they would appear before
+{pageend:you if you go to the right place.}
+Please ask me about anything that
+you would like to know.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+69,c04r0601_oak_post_distortion01,"Incidentally, and this is an entirely
+{pageend:different topic...}
+I’ve heard that there have been
+{pageend:sightings of very rare Pokémon.}
+The legendary bird Pokémon: ARTICUNO,
+{pageend:ZAPDOS, and MOLTRES!}
+They’ve been spotted at various
+{pageend:locations here in Sinnoh, no less!}
+Why, you may be lucky enough to see
+them yourself in your journeys!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+70,c04r0601_oak_post_distortion02,"ARTICUNO, ZAPDOS, and MOLTRES
+{pageend:are extremely rare even in Kanto.}
+There have been precious few sightings
+{pageend:as it is.}
+So why would they be spotted here in
+{pageend:Sinnoh of all places?}
+There are still many, many mysteries
+surrounding Pokémon, it seems!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+71,c04r0601_oak_lugia_check,"Take a look at the two feathers
+I have here, {tag:0}{pageend:.}
+They’re both known as Clear Wings.
+{pageend:You might think they look ordinary...}
+But these feathers have a puzzle that
+{pageend:I’m currently trying to solve.}
+They may have a connection to the two
+Pokémon known as the guardians of the
+{pageend:sea and sky.}
+Lugia, the guardian of the sea, is
+said to mediate between the three
+{pageend:legendary birds of Kanto.}
+Maybe this Clear Wing would react to
+{pageend:Articuno, Zapdos and Moltres?}
+If you were to go somewhere very cold,
+somewhere that generates electricity,
+{pageend:and somewhere where Trainers gather...}
+Well, it would be an amazing encounter
+to see any of them, that’s for sure!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+72,c04r0601_oak_hooh_check,"Now, this other Clear Wing...
+{pageend:Perhaps it could be the Rainbow Wing?}
+The guardian of the sky was said to
+{pageend:have resurrected three Pokémon.}
+Raikou, Entei and Suicune.
+{pageend:The legendary beasts of Johto.}
+I’m sure this Clear Wing would respond
+{pageend:to the presence of those Pokémon!}
+I would imagine those Pokémon would
+{pageend:enjoy high places...}
+Maybe the Rock Climb technique could
+{pageend:help you find them?}
+If you somehow catch all three...
+Please show them to me.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+73,c04r0601_oak_lugia_valid00,"What’s this? In your party...
+{pageend:Articuno, Zapdos and Moltres?!}
+Now that is incredible!
+Thank you, {tag:0}{pageend:.}
+Now, this Clear Wing...
+Will it react, I wonder?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+74,c04r0601_oak_lugia_valid01,"Ah, splendid! It really did work!
+{pageend:This Clear Wing has changed.}
+It’s now a deep silver colour...
+{pageend:And it’s sparkling, too.}
+{pageend:It must be the Silver Wing!}
+Thanks for your assistance, {tag:0}.
+I’d like you to have this Silver Wing.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+75,c04r0601_oak_lugia_valid02,"Do you know of anywhere in the
+{pageend:sea surrounded by small islands?}
+Perhaps you’d somehow find Lugia there
+if you carry the Silver Wing with you.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+76,c04r0601_oak_hooh_valid00,"In your party...
+{pageend:Raikou, Entei, and Suicune?!}
+You’ve done it again, {tag:0}!
+{pageend:Truly impressive!}
+{pageend:Now, let’s see if this Clear Wing...}
+Oh?!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+77,c04r0601_oak_hooh_valid01,"Excellent! This Clear Wing is now
+{pageend:a sparkling, vibrant rainbow colour!}
+This is clearly the Rainbow Wing!
+{tag:0}, thank you again.
+I’d like you to have this, too.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+78,c04r0601_oak_hooh_valid02,"A tall place where the departed
+{pageend:are given due respect...}
+There is a place like that in Sinnoh,
+{pageend:is there not?}
+Taking a Rainbow Wing to a place like
+that might allow you to meet Ho-oh,
+the sky guardian.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+79,t02r0101_doctor_post_distortion_01,"Oh, yes, there was something
+{pageend:I had to tell you.}
+The three Pokémon of the lakes appear
+{pageend:to have returned to their homes.}
+Oh, yes. I’ve also heard reports that
+{pageend:strange Pokémon have appeared in Sinnoh.}
+It’s likely that their appearance is a
+result of the events that occurred
+{pageend:with Dialga and Palkia at Mt. Coronet.}
+Hm! Perhaps that Red Chain you have
+{pageend:could be the key to that mystery?}
+So, tell me.
+{pageend:How are things going for you?}
+{pageend:The Pokédex...?}
+Hm! A total of {tag:0}!
+{pageend:...And the number of Badges?}
+Well! You’ve got seven already!
+{pageend:That only leaves Sunyshore’s Gym.}
+Hm! You’ve come this far.
+{pageend:Why not obtain Sunyshore’s Badge?}
+And why not challenge the Pokémon
+{pageend:League?}
+That will broaden your horizons
+{pageend:further than ever before.}
+Not to mention the opportunities to
+meet even more Pokémon.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,2,4,1,0,0,,0
+80,t02r0101_doctor_post_distortion_02,"Oh, yes, {tag:0}{pageend:.}
+If you see Cynthia, please give her 
+my best regards.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,4,0,0,0,,0
+81,msg_d05r0104_articuno_cry,Gyaoo!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+82,msg_d09r0102_moltres_cry,Gyaoo!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+83,c04r0601_oak_greeting,"Ah, it’s you! Good to see you!
+What can I help you with, {tag:0}?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+84,c04r0601_oak_general_01,"Do you know the names of any
+other Pokémon professors, {tag:0}{pageend:?}
+I can assure you there are many more
+{pageend:than just myself and Professor Rowan!}
+{pageend:Elm, Birch, Juniper, Sycamore, Kukui...}
+All of these names belong to fellow
+Pokémon professors around the world!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+85,c04r0601_oak_general_02,"I should inform you that my full
+{pageend:name is Professor Samuel Oak.}
+I have a cousin in Alola who is known
+{pageend:as Professor Samson Oak!}
+His research focuses on the regional
+{pageend:variants found in Alola.}
+Did you know that the Vulpix in Alola
+are Ice-type, rather than Fire-type?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+86,c04r0601_oak_general_03,"{pageend:I have a grandson called Blue.}
+He was the Champion of the Kanto
+{pageend:Pokémon League, in fact.}
+Though only for a brief time.
+{pageend:Then he lost to his rival, Red.}
+At least Blue found a place as the
+{pageend:Viridian City Gym Leader!}
+Though he’s often away from it,
+{pageend:causing trouble for challengers.}
+That boy...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+87,c04r0601_oak_general_04,"Oh, yes. I once had a protégé who
+{pageend:very much enjoyed outdoor research.}
+His name is Professor Willow.
+{pageend:He used to study Pokémon under me.}
+Him and his assistants are always
+making strides in Pokémon research!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+88,c04r0601_oak_general_05,"Have you ever thought of yourself
+as a photographer, {tag:0}{pageend:?}
+I once invited a talented young man
+to take photos of Pokémon in their
+{pageend:natural habitat.}
+It was a place called Pokémon Island...
+{pageend:And what a beautiful place it was!}
+The young photographer helped me
+with completing my Pokémon Report!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+89,c04r0601_oak_cancel,"I can’t thank you enough for your
+help with my research, {tag:0}.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0

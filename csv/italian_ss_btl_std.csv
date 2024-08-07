@@ -1,0 +1,1629 @@
+0,BTL_STRID_STD_NULL,●●,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+1,BTL_STRID_STD_Encount_Wild1,Ah! È apparso {tag:0}{tag:1} selvatico!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",-1,21,5,5,1,0,,3,0,1,1,0,0,0,,3
+2,BTL_STRID_STD_Encount_Wild2,Argh! È sbucato {tag:0}{tag:1} selvatico!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",-1,21,5,5,1,0,,3,0,1,1,0,0,0,,3
+3,BTL_STRID_STD_Encount_WildDouble,"Ah! Sono apparsi {tag:0}{tag:1} selvatico
+e {tag:2}{tag:3} selvatico!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",-1,21,5,5,1,1,,3,1,1,1,0,0,0,,3,-1,21,5,5,1,2,,3,2,1,1,0,0,0,,3
+4,BTL_STRID_STD_Encount_WildDouble_samekind,Ah! Sono apparsi due {tag:0} selvatici!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",1,1,1,0,0,0,,0
+5,BTL_STRID_STD_Encount_Wild_Move,Oh! È apparso {tag:0}{tag:1} selvatico!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",-1,21,5,5,1,0,,3,0,1,1,0,0,0,,3
+6,BTL_STRID_STD_Encount_Wild_Talk,È apparso {tag:0}{tag:1} selvatico!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",-1,21,5,5,1,0,,3,0,1,1,0,0,0,,3
+7,BTL_STRID_STD_Encount_Wild_Ride,Argh! Stavi per calpestare {tag:0}{tag:1}!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",-1,21,5,5,1,0,,3,0,1,1,0,0,0,,3
+8,BTL_STRID_STD_Encount_Wild_Legend,È apparso {tag:0}!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+9,BTL_STRID_STD_Encount_Band,Argh! È apparso un gruppo di Pokémon selvatici!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+11,BTL_STRID_STD_Encount_NPC1,Parte la sfida {tag:0}{tag:1} ({tag:2})!,2,-1,54,1620,1,"0
+0
+0
+-1
+0",-1,21,7,5,0,1,,0,1,1,0,0,0,0,,0,0,1,14,0,0,0,,0
+12,BTL_STRID_STD_Encount_Player1,Parte la sfida con {tag:0}!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+13,BTL_STRID_STD_Encount_NPC2,"Parte la sfida {tag:0}{tag:1} ({tag:2})
+e {tag:3}{tag:4} ({tag:5})!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",-1,21,7,5,0,1,,0,1,1,0,0,0,0,,0,0,1,14,0,0,0,,0,-1,21,7,5,0,3,,0,3,1,0,0,0,0,,0,2,1,14,0,0,0,,0
+14,BTL_STRID_STD_Encount_Player2,Parte la sfida di {tag:0} e {tag:1}!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+15,BTL_STRID_STD_PutSingle,"Avanti, {tag:0}!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+16,BTL_STRID_STD_PutDouble,"Avanti, {tag:0} {tag:1}{tag:2}!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,-1,21,18,5,1,1,,0,1,1,2,0,0,0,,0
+17,BTL_STRID_STD_PutSingle_NPC,"{tag:0}{tag:1} ({tag:2}) mand{tag:3}
+in campo {tag:4}!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",-1,21,4,5,0,1,,0,1,1,0,0,0,0,,0,0,1,14,0,0,0,,0,-1,21,1,5,0,1,"a
+ano",0,2,1,2,0,0,0,,0
+18,BTL_STRID_STD_PutDouble_NPC,"{tag:0}{tag:1} ({tag:2}) mand{tag:3}
+in campo {tag:4} e {tag:5}!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",-1,21,4,5,0,1,,0,1,1,0,0,0,0,,0,0,1,14,0,0,0,,0,-1,21,1,5,0,1,"a
+ano",0,2,1,2,0,0,0,,0,3,1,2,0,0,0,,0
+19,BTL_STRID_STD_PutDouble_Tag,"{tag:0} e {tag:1} ({tag:2})
+mandano in campo {tag:3} e {tag:4}!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0,2,1,0,0,0,0,,0,0,1,14,0,0,0,,0,3,1,2,0,0,0,,0,4,1,2,0,0,0,,0
+20,BTL_STRID_STD_PutDouble_Tag_samekind,"{tag:0} e {tag:1} ({tag:2})
+mandano in campo due {tag:3}!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0,2,1,0,0,0,0,,0,0,1,14,0,0,0,,0,3,1,2,0,0,0,,0
+21,BTL_STRID_STD_PutSingle_Player,{tag:0} mand{tag:1} in campo {tag:2}!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,1,5,0,0,"a
+ano",0,1,1,2,0,0,0,,0
+22,BTL_STRID_STD_PutDouble_Player,"{tag:0} mand{tag:1} in campo {tag:2}
+e {tag:3}!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,1,5,0,0,"a
+ano",0,1,1,2,0,0,0,,0,2,1,2,0,0,0,,0
+23,BTL_STRID_STD_PutTriple_Player,"{tag:0} mand{tag:1} in campo {tag:2},
+{tag:3} e {tag:4}!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,1,5,0,0,"a
+ano",0,1,1,2,0,0,0,,0,2,1,2,0,0,0,,0,3,1,2,0,0,0,,0
+24,BTL_STRID_STD_IrekaeConfirm,"La prossima scelta {tag:0}{tag:1} ({tag:2})
+sarà {tag:3}!
+Vuoi cambiare Pokémon?",2,-1,54,1620,1,"0
+0
+0
+-1
+0",-1,21,7,5,0,1,,0,1,1,0,0,0,0,,0,0,1,14,0,0,0,,0,2,1,2,0,0,0,,0
+25,BTL_STRID_STD_PutChange1,"Dai, {tag:0}!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+26,BTL_STRID_STD_PutChange2,"Coraggio, {tag:0}!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+27,BTL_STRID_STD_PutChange3,"Ancora un piccolo sforzo, {tag:0}!
+Puoi farcela!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+28,BTL_STRID_STD_PutChange4,"Il nemico è debole! Forza, {tag:0}!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+29,BTL_STRID_STD_BackChange1,"{tag:0}, è ora! Rientra!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+30,BTL_STRID_STD_BackChange2,"{tag:0}, rientra!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+31,BTL_STRID_STD_BackChange3,"{tag:0}, può bastare! Rientra!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+32,BTL_STRID_STD_BackChange4,"Ok, {tag:0}! Rientra!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+33,BTL_STRID_STD_BackChange5,"Bene, {tag:0}! Rientra!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+34,BTL_STRID_STD_BackChange_NPC,"{tag:0}{tag:1} ({tag:2}) ritir{tag:3}
+{tag:4} dalla lotta!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",-1,21,4,5,0,1,,0,1,1,0,0,0,0,,0,0,1,14,0,0,0,,0,-1,21,1,5,0,1,"a
+ano",0,2,1,2,0,0,0,,0
+35,BTL_STRID_STD_BackChange_Player,{tag:0} ritir{tag:1} {tag:2} dalla lotta!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,1,5,0,0,"a
+ano",0,1,1,2,0,0,0,,0
+36,BTL_STRID_STD_Hit_PluralTimes,Colpi inflitti: {tag:0}!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+37,BTL_STRID_STD_UseItem_Self,Hai usato {tag:0}{tag:1}!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",-1,21,5,5,0,1,,0,1,1,10,0,0,0,,0
+38,BTL_STRID_STD_UseItem_Player,{tag:0} us{tag:1} {tag:2}{tag:3}!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,1,5,0,0,"a
+ano",0,-1,21,5,5,0,1,,0,1,1,10,0,0,0,,0
+39,BTL_STRID_STD_UseItem_NPC,"{tag:0} ({tag:1})
+us{tag:2} {tag:3}{tag:4}!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0,0,1,14,0,0,0,,0,-1,21,1,5,0,1,"a
+ano",0,-1,21,5,5,0,2,,0,2,1,10,0,0,0,,0
+40,BTL_STRID_STD_GetExp,{tag:0} riceve {tag:1} Punt{tag:2} Esperienza!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0,1,2,6,1,0,1,,0,-1,21,1,5,0,1,"o
+i",0
+41,BTL_STRID_STD_GetExp_Bonus,"{tag:0} riceve ben {tag:1}
+Punt{tag:2} Esperienza!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0,1,2,6,1,0,1,,0,-1,21,1,5,0,1,"o
+i",0
+192,BTL_STRID_STD_NebaNebaNet,Una Rete Vischiosa viene stesa ai piedi della tua squadra!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+42,BTL_STRID_STD_WazaOboe_01,"{tag:0} vorrebbe imparare
+{tag:1}{pageend:.}
+Vuoi che dimentichi una mossa e
+al suo posto impari {tag:2}?",2,-1,54,1620,1,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0,1,1,7,0,0,0,,0,1,1,7,0,0,0,,0
+43,BTL_STRID_STD_WazaOboe_02,"{wait:0.19999998807907104:Uno,}{wait:0.19999998807907104: due}{wait:0.19999998807907104: e}{wait:0.19999998807907104:...}{callback:3.0: ta-daaaa!}{callback:6.0:}
+{tag:0} dimentica {tag:1}{pageend:!}
+Al suo posto...",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0,1,1,7,0,0,0,,0
+44,BTL_STRID_STD_WazaOboe_03,{tag:0} impara {tag:1}!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0,1,1,7,0,0,0,,0
+45,BTL_STRID_STD_WazaOboe_04,{tag:0} non ha imparato {tag:1}!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0,1,1,7,0,0,0,,0
+46,BTL_STRID_STD_WinTrainer,"Hai sconfitto {tag:0}{tag:1}
+({tag:2})!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",-1,21,3,5,0,1,,0,1,1,0,0,0,0,,0,0,1,14,0,0,0,,0
+47,BTL_STRID_STD_WinTrainer2,"Hai sconfitto {tag:0}{tag:1} ({tag:2})
+e {tag:3}{tag:4} ({tag:5})!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",-1,21,3,5,0,1,,0,1,1,0,0,0,0,,0,0,1,14,0,0,0,,0,-1,21,3,5,0,3,,0,3,1,0,0,0,0,,0,2,1,14,0,0,0,,0
+48,BTL_STRID_STD_LoseTrainer,"{tag:0}{tag:1} ({tag:2}) h{tag:3}
+vinto la sfida!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",-1,21,4,5,0,1,,0,1,1,0,0,0,0,,0,0,1,14,0,0,0,,0,-1,21,1,5,0,1,"a
+anno",0
+49,BTL_STRID_STD_DrawTrainer,"La sfida contro {tag:0}{tag:1}
+({tag:2}) si è conclusa in parità!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",-1,21,3,5,0,1,,0,1,1,0,0,0,0,,0,0,1,14,0,0,0,,0
+50,BTL_STRID_STD_WinComm,Hai sconfitto {tag:0}!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+51,BTL_STRID_STD_WinCommMulti,Hai sconfitto {tag:0} e {tag:1}!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+52,BTL_STRID_STD_LoseComm,{tag:0} ha vinto la sfida!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+53,BTL_STRID_STD_LoseCommMulti,{tag:0} {tag:1}{tag:2} hanno vinto la sfida!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,18,5,1,1,,0,1,1,0,0,0,0,,0
+54,BTL_STRID_STD_DrawComm,La sfida contro {tag:0} si è conclusa in parità!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+55,BTL_STRID_STD_DrawCommMulti,"La sfida contro {tag:0} e {tag:1}
+si è conclusa in parità!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+56,BTL_STRID_STD_LoseStart,Non hai più Pokémon disponibili!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+57,BTL_STRID_STD_LoseMoneyWild,Nella confusione hai fatto cadere {tag:0} !,2,-1,54,1620,0,"0
+0
+0
+-1
+0",1,2,4,1,0,1,,0
+58,BTL_STRID_STD_LoseMoneyTrainer,Hai sborsato {tag:0} !,2,-1,54,1620,0,"0
+0
+0
+-1
+0",1,2,4,1,0,1,,0
+59,BTL_STRID_STD_LoseEnd,Sei alle strette...,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+60,BTL_STRID_STD_GetMoney,Hai vinto {tag:0} !,2,-1,54,1620,0,"0
+0
+0
+-1
+0",1,2,5,1,0,1,,0
+61,BTL_STRID_STD_PickMoney,Hai raccolto {tag:0} !,2,-1,54,1620,0,"0
+0
+0
+-1
+0",1,2,4,1,0,1,,0
+62,BTL_STRID_STD_LevelUp,{tag:0} sale al livello {tag:1}!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0,1,2,2,1,0,205,,0
+63,BTL_STRID_STD_BallThrow0,Oh no! Il Pokémon è uscito dalla Poké Ball!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+64,BTL_STRID_STD_BallThrow1,"Ah! Sembrava preso, eh? E invece no!",2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+65,BTL_STRID_STD_BallThrow2,Per un pelo!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+66,BTL_STRID_STD_BallThrow3,Nooo! C’eri quasi!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+67,BTL_STRID_STD_BallThrowS,Preso! {tag:0} è stato catturato!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+68,BTL_STRID_STD_ZukanRegister,I dati di {tag:0} sono stati inseriti nel Pokédex.,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+69,BTL_STRID_STD_BallThrowTrainer,"La Poké Ball è stata respinta!
+Non puoi prendere i Pokémon altrui: è come rubare!",2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+70,BTL_STRID_STD_Ball_NG1,Non puoi prendere la mira finché non rimane un solo Pokémon!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+71,BTL_STRID_STD_Ball_NG2,I Box del PC sono pieni!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+72,BTL_STRID_STD_Ball_NG3,Hai bisogno di più concentrazione per lanciare le Poké Ball!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+73,BTL_STRID_STD_Ball_NG4,Non puoi prendere di mira un Pokémon che non si vede!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+74,BTL_STRID_STD_UseItem_NoEffect,Ma è inefficace!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+75,BTL_STRID_STD_SelectAction,Cosa deve fare {tag:0}?,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+76,BTL_STRID_STD_SelectRotation,Tocca a {tag:0}. Cosa deve fare?,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+77,BTL_STRID_STD_SelectFriendship,{tag:0} sta aspettando tue istruzioni...,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+78,BTL_STRID_STD_WazaFail,Ma fallisce!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+79,BTL_STRID_STD_EscapeSuccess,Scampato pericolo!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+80,BTL_STRID_STD_EscapeFail,Tentativo di fuga fallito!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+81,BTL_STRID_STD_EscapeProhibit,Non è possibile scappare!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+82,BTL_STRID_STD_EscapeWild,{tag:0}{tag:1} selvatico è fuggito!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",-1,21,4,5,1,0,,3,0,1,2,0,0,0,,3
+84,BTL_STRID_STD_EscapeCant,Non puoi sottrarti alla lotta con un Allenatore!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+85,BTL_STRID_STD_EscapeCheck,Vuoi abbandonare la lotta?,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+86,BTL_STRID_STD_AffGood,È superefficace!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+87,BTL_STRID_STD_AffBad,Non è molto efficace...,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+88,BTL_STRID_STD_KonranExe,È così confuso da colpirsi da solo!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+89,BTL_STRID_STD_CriticalHit,<color=#FF5000FF>Brutto colpo!</color>,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+90,BTL_STRID_STD_PP_Short,Ma non ha PP per sferrare la mossa!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+91,BTL_STRID_STD_CommSupport,"Grazie al tuo intervento, {tag:0} recupera dei PS!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",1,1,2,0,0,0,,0
+92,BTL_STRID_STD_ShineStart,La luce solare diventa intensa!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+93,BTL_STRID_STD_RainStart,Inizia a piovere!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+94,BTL_STRID_STD_StormStart,Inizia una tempesta di sabbia!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+95,BTL_STRID_STD_SnowStart,Inizia a grandinare!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+96,BTL_STRID_STD_MistStart,La nebbia comincia ad addensarsi!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+97,BTL_STRID_STD_ShineEnd,La luce solare torna normale!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+98,BTL_STRID_STD_RainEnd,Smette di piovere!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+99,BTL_STRID_STD_StormEnd,La tempesta di sabbia cessa!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+100,BTL_STRID_STD_SnowEnd,Smette di grandinare!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+101,BTL_STRID_STD_MistEnd,La nebbia si dirada!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+102,BTL_STRID_STD_AirLock,Le condizioni atmosferiche non hanno alcun effetto!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+103,BTL_STRID_STD_SandAttack,La tempesta di sabbia imperversa!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+104,BTL_STRID_STD_SnowAttack,La grandine imperversa!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+105,BTL_STRID_STD_Ichigeki,È un colpo da KO!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+106,BTL_STRID_STD_KinomiEff_WazaWeak,"{tag:0}{tag:1} indebolisce la potenza
+di {tag:2}!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",-1,21,4,5,1,0,,0,0,1,10,0,0,0,,0,1,1,7,0,0,0,,0
+107,BTL_STRID_STD_KodawariLock,"{tag:0}{tag:1} consente di usare soltanto
+{tag:2}!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",-1,21,4,5,1,0,,0,0,1,10,0,0,0,,0,1,1,7,0,0,0,,0
+108,BTL_STRID_STD_TotsugekiLock,{tag:0}{tag:1} impedisce di usare mosse di stato!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",-1,21,4,5,1,0,,0,0,1,10,0,0,0,,0
+109,BTL_STRID_STD_WazaLock,{tag:0} può usare solo {tag:1}!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0,1,1,7,0,0,0,,0
+110,BTL_STRID_STD_RankReset,Tutte le modifiche alle statistiche sono state annullate!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+111,BTL_STRID_STD_NotHappen,Ma non succede nulla!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+112,BTL_STRID_STD_TokWin,{tag:0} di {tag:1}!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",1,1,6,0,0,0,,0,0,1,2,0,0,0,,0
+113,BTL_STRID_STD_IyasinoSuzu,Si sente suonare una campanella!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+114,BTL_STRID_STD_AlomaTherapy,Un gradevole profumo si diffonde nell’aria!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+115,BTL_STRID_STD_Itamiwake,I Pokémon si dividono i PS!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+116,BTL_STRID_STD_TrickRoomOff,La dimensione distorta torna alla normalità!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+117,BTL_STRID_STD_Jyuryoku,La gravità si intensifica!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+118,BTL_STRID_STD_JyuryokuOff,La gravità torna normale!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+119,BTL_STRID_STD_HorobiNoUta,Tutti i Pokémon che ascoltano Ultimocanto andranno KO dopo tre turni!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+120,BTL_STRID_STD_YubiWoFuru,"Grazie a Metronomo, il Pokémon può sferrare
+la mossa {tag:0}!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",0,1,7,0,0,0,,0
+121,BTL_STRID_STD_SizenNoTikara,Naturforza diventa {tag:0}!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,7,0,0,0,,0
+122,BTL_STRID_STD_NekoNiKoban,Ci sono monete sparse ovunque!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+123,BTL_STRID_STD_MigawariFail,È troppo debole! Non può creare un sostituto!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+124,BTL_STRID_STD_Reflector,"La resistenza della tua squadra agli attacchi fisici
+aumenta grazie a Riflesso!",2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+125,BTL_STRID_STD_Reflector_E,"La resistenza della squadra avversaria agli attacchi fisici
+aumenta grazie a Riflesso!",2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+126,BTL_STRID_STD_ReflectorOff,L’effetto di Riflesso sulla tua squadra è finito!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+127,BTL_STRID_STD_ReflectorOff_E,L’effetto di Riflesso sulla squadra avversaria è finito!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+128,BTL_STRID_STD_HikariNoKabe,"La resistenza della tua squadra agli attacchi speciali
+aumenta grazie a Schermoluce!",2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+129,BTL_STRID_STD_HikariNoKabe_E,"La resistenza della squadra avversaria agli attacchi
+speciali aumenta grazie a Schermoluce!",2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+130,BTL_STRID_STD_HikariNoKabeOff,L’effetto di Schermoluce sulla tua squadra è finito!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+131,BTL_STRID_STD_HikariNoKabeOff_E,L’effetto di Schermoluce sulla squadra avversaria è finito!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+132,BTL_STRID_STD_AuroraVeil,"La resistenza della tua squadra agli attacchi fisici
+e speciali aumenta grazie a Velaurora!",2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+133,BTL_STRID_STD_AuroraVeil_E,"La resistenza della squadra avversaria agli attacchi fisici
+e speciali aumenta grazie a Velaurora!",2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+134,BTL_STRID_STD_AuroraVeilOff,L’effetto di Velaurora sulla tua squadra è finito!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+135,BTL_STRID_STD_AuroraVeilOff_E,L’effetto di Velaurora sulla squadra avversaria è finito!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+136,BTL_STRID_STD_SinpiNoMamori,Un velo mistico ricopre la tua squadra!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+137,BTL_STRID_STD_SinpiNoMamori_E,Un velo mistico ricopre la squadra avversaria!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+138,BTL_STRID_STD_SinpiNoMamoriOff,La tua squadra non è più protetta da Salvaguardia!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+139,BTL_STRID_STD_SinpiNoMamoriOff_E,La squadra avversaria non è più protetta da Salvaguardia!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+140,BTL_STRID_STD_SiroiKiri,La tua squadra è avvolta dalla nebbia!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+141,BTL_STRID_STD_SiroiKiri_E,La squadra avversaria è avvolta dalla nebbia!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+142,BTL_STRID_STD_SiroiKiriOff,La nebbia intorno alla tua squadra si è diradata!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+143,BTL_STRID_STD_SiroiKiriOff_E,La nebbia intorno alla squadra avversaria si è diradata!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+144,BTL_STRID_STD_Oikaze,Comincia a soffiare Ventoincoda sulla tua squadra!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+145,BTL_STRID_STD_Oikaze_E,Comincia a soffiare Ventoincoda sulla squadra avversaria!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+146,BTL_STRID_STD_OikazeOff,Ventoincoda non soffia più sulla tua squadra!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+147,BTL_STRID_STD_OikazeOff_E,Ventoincoda non soffia più sulla squadra avversaria!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+148,BTL_STRID_STD_Makibisi,Ai piedi della tua squadra c’è una trappola di Punte!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+149,BTL_STRID_STD_Makibisi_E,Ai piedi della squadra avversaria c’è una trappola di Punte!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+150,BTL_STRID_STD_MakibisiOff,Ai piedi della tua squadra non c’è più la trappola di Punte!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+151,BTL_STRID_STD_MakibisiOff_E,Ai piedi della squadra avversaria non c’è più la trappola di Punte!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+152,BTL_STRID_STD_Dokubisi,Ai piedi della tua squadra c’è una trappola di Fielepunte!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+153,BTL_STRID_STD_Dokubisi_E,Ai piedi della squadra avversaria c’è una trappola di Fielepunte!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+154,BTL_STRID_STD_DokubisiOff,Ai piedi della tua squadra non c’è più la trappola di Fielepunte!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+155,BTL_STRID_STD_DokubisiOff_E,Ai piedi della squadra avversaria non c’è più la trappola di Fielepunte!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+156,BTL_STRID_STD_StealthRock,La tua squadra è circondata da rocce aguzze sospese in aria!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+157,BTL_STRID_STD_StealthRock_E,La squadra avversaria è circondata da rocce aguzze sospese in aria!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+158,BTL_STRID_STD_StealthRockOff,Levitoroccia non ha più effetto sulla tua squadra!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+159,BTL_STRID_STD_StealthRockOff_E,Levitoroccia non ha più effetto sulla squadra avversaria!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+160,BTL_STRID_STD_WideGuard,La tua squadra è protetta da Bodyguard!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+161,BTL_STRID_STD_WideGuard_E,La squadra avversaria è protetta da Bodyguard!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+162,BTL_STRID_STD_FastGuard,La tua squadra è protetta da Anticipo!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+163,BTL_STRID_STD_FastGuard_E,La squadra avversaria è protetta da Anticipo!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+164,BTL_STRID_STD_Kinchoukan,"I Pokémon della tua squadra non riescono a mangiare
+le bacche per l’agitazione!",2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+165,BTL_STRID_STD_Kinchoukan_E,"I Pokémon della squadra avversaria non riescono a
+mangiare le bacche per l’agitazione!",2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+166,BTL_STRID_STD_WonderRoom_Start,"È stata creata una nuova dimensione in cui Difesa e Difesa Speciale
+vengono scambiate!",2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+167,BTL_STRID_STD_WonderRoom_End,"La nuova dimensione svanisce: Difesa e Difesa Speciale
+tornano alla normalità!",2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+168,BTL_STRID_STD_MagicRoom_Start,"È stata creata una nuova dimensione in cui gli strumenti dati
+ai Pokémon non hanno effetto!",2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+169,BTL_STRID_STD_MagicRoom_End,La nuova dimensione svanisce e gli strumenti tornano ad avere effetto!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+170,BTL_STRID_STD_Juel,"{tag:0}{tag:1} incrementa la potenza
+di {tag:2}!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",-1,21,4,5,1,0,,0,0,1,10,0,0,0,,0,1,1,7,0,0,0,,0
+171,BTL_STRID_STD_BattleTimeOver,Il tempo è scaduto! La lotta finisce qui.,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+172,BTL_STRID_STD_BattleTimeOver_Your,"L’altro giocatore ha esaurito il tempo a sua disposizione!
+La lotta finisce qui!",2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+173,BTL_STRID_STD_BattleTimeOver_My,"Hai esaurito il tempo a tua disposizione!
+La lotta finisce qui!",2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+174,BTL_STRID_STD_BatteRecBufferOver,La lotta è troppo lunga! La riproduzione è stata interrotta!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+175,BTL_STRID_STD_DarumaOn,Stato Zen attivato!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+176,BTL_STRID_STD_DarumaOff,Stato Zen disattivato!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+177,BTL_STRID_STD_Sabotage1,{tag:0} non obbedisce!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+178,BTL_STRID_STD_Sabotage2,{tag:0} sta ciondolando!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+179,BTL_STRID_STD_Sabotage3,{tag:0} ti dà le spalle!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+180,BTL_STRID_STD_Sabotage4,{tag:0} fa finta di niente!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+181,BTL_STRID_STD_Sabotage_OtherWaza,{tag:0} ignora gli ordini!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+182,BTL_STRID_STD_Sabotage_GoSleep,{tag:0} fa un riposino!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+183,BTL_STRID_STD_Sabotage_Sleeping,{tag:0} ignora gli ordini e continua a dormire!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+184,BTL_STRID_STD_ItemNoEffPos,Ma è impossibile usare lo strumento!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+185,BTL_STRID_STD_Retired,La lotta finisce per abbandono.,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+186,BTL_STRID_STD_GrassGround_Start,Ai piedi dei Pokémon cresce rigogliosa l’erba.,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+187,BTL_STRID_STD_GrassGround_End,L’erba sparisce.,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+188,BTL_STRID_STD_MistGround_Start,Ai piedi dei Pokémon si addensa la nebbia.,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+189,BTL_STRID_STD_MistGround_End,La nebbia si dissolve.,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+190,BTL_STRID_STD_ElecField_Start,Ai piedi dei Pokémon si accumula dell’elettricità.,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+191,BTL_STRID_STD_ElecField_End,L’elettricità svanisce.,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+196,BTL_STRID_STD_GeppuWarn,Il Pokémon non può usare la mossa perché non ha mangiato una bacca!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+197,BTL_STRID_STD_GetBonusItem,Hai trovato {tag:0}{tag:1}!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",-1,21,5,5,1,1,,0,1,1,9,0,0,0,,0
+198,BTL_STRID_STD_FR_Korae,{tag:0} resiste al colpo per far bella figura con te.,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+199,BTL_STRID_STD_FR_CureNemuri,{tag:0} si sveglia per non farti preoccupare!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+200,BTL_STRID_STD_FR_CureDoku,"{tag:0} neutralizza il veleno ingegnandosi
+da sé per non farti preoccupare!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+201,BTL_STRID_STD_FR_CureYakedo,"{tag:0} cura la scottatura soffiandoci sopra
+per non farti preoccupare!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+202,BTL_STRID_STD_FR_CureMahi,"{tag:0} guarisce dalla paralisi con le proprie forze
+per non farti preoccupare!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+203,BTL_STRID_STD_FR_CureKoori,"{tag:0} ce la mette tutta e riesce a sciogliere il ghiaccio
+per non farti preoccupare!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+204,BTL_STRID_STD_FR_Avoid,{tag:0} segue le tue indicazioni ed evita la mossa!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+205,BTL_STRID_STD_FR_Critical,"{tag:0} manda a segno un <color=#FF5000FF>brutto colpo</color> per fare bella
+figura con te!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+206,BTL_STRID_STD_FR_Ready_Special,{tag:0} si volta verso di te e fa un cenno d’intesa!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+207,BTL_STRID_STD_FR_Ready_150_01,{tag:0} ti guarda con occhi pieni di entusiasmo!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+208,BTL_STRID_STD_FR_Ready_150_02,{tag:0} non vede l’ora di scoprire la tua fantastica strategia!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+209,BTL_STRID_STD_FR_Ready_150_03,C’è intesa tra te e {tag:0}!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+210,BTL_STRID_STD_FR_Ready_150_04,{tag:0} si perde un attimo a guardare i tuoi vestiti...,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+211,BTL_STRID_STD_FR_Ready_150_05,La tua presenza sembra dare sicurezza a {tag:0}.,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+212,BTL_STRID_STD_FR_Ready_100_01,"{tag:0} vorrebbe giocare con te, ma cerca di trattenersi...",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+213,BTL_STRID_STD_FR_Ready_100_02,L’odore del nemico incuriosisce molto {tag:0}...,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+214,BTL_STRID_STD_FR_Ready_100_03,{tag:0} sembra rassicurarsi sentendo il tuo odore...,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+215,BTL_STRID_STD_FR_Ready_100_04,{tag:0} si guarda attorno con entusiasmo!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+216,BTL_STRID_STD_FR_Ready_100_05,{tag:0} sta ripensando al giorno in cui ti ha incontrato...,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+217,BTL_STRID_STD_FR_Ready_50_02,{tag:0} sembra un po’ assonnato...,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+218,BTL_STRID_STD_FR_Ready_50_03,{tag:0} sembra avere paura di non essere in forma...,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+219,BTL_STRID_STD_FR_Ready_50_05,{tag:0} sembra in vena di coccole...,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+220,BTL_STRID_STD_FR_PutPoke,"Vai, {tag:0}! Conto su di te!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+221,BTL_STRID_STD_FR_ChangeBack,"Ben fatto, {tag:0}! Ora rientra!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+222,BTL_STRID_STD_FR_AffGood,Bene così!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+223,BTL_STRID_STD_FR_Pinch,"{tag:0} è in difficoltà.
+Sembra proprio giù di morale...",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+224,BTL_STRID_STD_FR_ItemRecover,{tag:0} è felice!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+225,BTL_STRID_STD_FR_Sleep,Ronf... Ronf...,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+226,BTL_STRID_STD_DeadPlural,Hai sconfitto {tag:0} Pokémon contemporaneamente!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+227,BTL_STRID_STD_BattleSwitch_Sord,Trasformazione in Forma Spada!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+228,BTL_STRID_STD_BattleSwitch_Shield,Trasformazione in Forma Scudo!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+229,BTL_STRID_STD_OmitoosiCont,"La perquisizione rivela che {tag:0}
+ha {tag:1}{tag:2}!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,-1,21,5,5,1,1,,0,1,1,9,0,0,0,,0
+230,BTL_STRID_STD_FunjinBakuhatsu,Il pulviscolo esplode per reazione alla mossa {tag:0}!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,7,0,0,0,,0
+231,BTL_STRID_STD_YubiFuruDebug,({tag:0}) Metronomo {tag:1}：{tag:2},2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,2,0,1,0,205,,0,1,2,2,1,0,205,,0,2,1,7,0,0,0,,0
+232,BTL_STRID_STD_Encount_Wild_Grass,Argh! Dall’erba è sbucato {tag:0}{tag:1} selvatico!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",-1,21,5,5,1,0,,3,0,1,1,0,0,0,,3
+233,BTL_STRID_STD_RainStormStart,È scoppiato un acquazzone!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+234,BTL_STRID_STD_RainStormEnd,Smette di piovere!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+235,BTL_STRID_STD_RainStormFail,L’acquazzone neutralizza le mosse di tipo Fuoco!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+236,BTL_STRID_STD_RainStormFail_Weather,L’acquazzone non si placa!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+238,BTL_STRID_STD_PutBand_AquaMagma_01,"Le Reclute del {tag:0} mandano
+in campo un gruppo di Poochyena!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,14,0,0,0,,0
+239,BTL_STRID_STD_PutBand_AquaMagma_02,"Le Reclute del {tag:0} mandano
+in campo un gruppo di Mightyena!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,14,0,0,0,,0
+240,BTL_STRID_STD_Encount_NPC1_Band,Parte la sfida {tag:0}{tag:1} ({tag:2})!,2,-1,54,1620,1,"0
+0
+0
+-1
+0",-1,21,7,5,0,1,,0,1,1,0,0,0,0,,0,0,1,14,0,0,0,,0
+241,BTL_STRID_STD_WinTrainer_Band,"Hai sconfitto {tag:0}
+({tag:1})!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0,0,1,14,0,0,0,,0
+242,BTL_STRID_STD_AuraWeatherBall,"A causa delle condizioni atmosferiche,
+la mossa {tag:0}
+diventa {tag:1}!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",0,1,53,0,0,0,,0,1,1,53,0,0,0,,0
+243,BTL_STRID_STD_Bibiridama,La Fifasfera innervosisce il Pokémon selvatico!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+244,BTL_STRID_STD_PhychoField_Start,Nel campo si avverte una strana sensazione...,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+245,BTL_STRID_STD_PhychoField_End,La strana sensazione nel campo è svanita!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+246,BTL_STRID_STD_SwarmChange,Avverti la presenza di una moltitudine di esseri!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+247,BTL_STRID_STD_Bakenokawa,Il costume ha assorbito l’attacco!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+248,BTL_STRID_STD_Encount_Tag,"Parte la sfida di {tag:0} e {tag:1}
+({tag:2})!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0,2,1,0,0,0,0,,0,0,1,14,0,0,0,,0
+249,BTL_STRID_STD_WinTrainer_Tag,"Hai sconfitto {tag:0} e {tag:1}
+({tag:2})!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0,2,1,0,0,0,0,,0,0,1,14,0,0,0,,0
+250,BTL_STRID_STD_dummy_04,,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+251,BTL_STRID_STD_dummy_05,,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+252,BTL_STRID_STD_dummy_06,,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+253,BTL_STRID_STD_dummy_07,,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+254,BTL_STRID_STD_KagakuHenkaGas,Il Gas Reagente si diffonde tutt’intorno!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+255,BTL_STRID_STD_KagakuHenkaGas_End,L’effetto del Gas Reagente svanisce!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+256,BTL_STRID_STD_Ball_NG6,Non puoi lanciare una Poké Ball!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+257,BTL_STRID_STD_FairyGymQuiz_RankUp_Atk,L’Attacco e l’Attacco Speciale di {tag:0} aumentano!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+258,BTL_STRID_STD_FairyGymQuiz_RankUp_Atk_2,L’Attacco e l’Attacco Speciale di {tag:0} aumentano di molto!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+259,BTL_STRID_STD_FairyGymQuiz_RankUp_Def,La Difesa e la Difesa Speciale di {tag:0} aumentano!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+260,BTL_STRID_STD_FairyGymQuiz_RankUp_Def_2,La Difesa e la Difesa Speciale di {tag:0} aumentano di molto!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+261,BTL_STRID_STD_FairyGymQuiz_RankUp_Agi,La Velocità di {tag:0} aumenta!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+262,BTL_STRID_STD_FairyGymQuiz_RankUp_Agi_2,La Velocità di {tag:0} aumenta di molto!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+263,BTL_STRID_STD_FairyGymQuiz_RankDown_Atk,L’Attacco e l’Attacco Speciale di {tag:0} diminuiscono!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+264,BTL_STRID_STD_FairyGymQuiz_RankDown_Atk_2,L’Attacco e l’Attacco Speciale di {tag:0} diminuiscono di molto!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+265,BTL_STRID_STD_FairyGymQuiz_RankDown_Def,La Difesa e la Difesa Speciale di {tag:0} diminuiscono!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+266,BTL_STRID_STD_FairyGymQuiz_RankDown_Def_2,La Difesa e la Difesa Speciale di {tag:0} diminuiscono di molto!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+267,BTL_STRID_STD_FairyGymQuiz_RankDown_Agi,La Velocità di {tag:0} diminuisce!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+268,BTL_STRID_STD_FairyGymQuiz_RankDown_Agi_2,La Velocità di {tag:0} diminuisce di molto!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+269,BTL_STRID_STD_PutSingle_AnotherName,"Avanti, {tag:0}!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,69,0,0,0,,0
+270,BTL_STRID_STD_PutDouble_AnotherName,"Avanti, {tag:0}
+{tag:1}{tag:2}!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",0,1,69,0,0,0,,0,-1,21,18,5,1,1,,0,1,1,69,0,0,0,,0
+271,BTL_STRID_STD_PutSingle_Player_AnotherName,"{tag:0} manda in campo
+{tag:1}!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,69,0,0,0,,0
+272,BTL_STRID_STD_PutDouble_Player_AnotherName,"{tag:0} sceglie {tag:1}
+{tag:2}{tag:3}!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,69,0,0,0,,0,-1,21,18,5,1,2,,0,2,1,69,0,0,0,,0
+273,BTL_STRID_STD_PutChange1_AnotherName,"Dai, {tag:0}!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,69,0,0,0,,0
+274,BTL_STRID_STD_PutChange2_AnotherName,"Coraggio, {tag:0}!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,69,0,0,0,,0
+275,BTL_STRID_STD_PutChange3_AnotherName,"Ancora un piccolo sforzo, {tag:0}!
+Non mollare!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,69,0,0,0,,0
+276,BTL_STRID_STD_PutChange4_AnotherName,"Il nemico è debole!
+Forza, {tag:0}!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,69,0,0,0,,0
+277,BTL_STRID_STD_FR_PutPoke_AnotherName,"Vai, {tag:0}! Conto su di te!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,69,0,0,0,,0
+278,BTL_STRID_STD_Raid_00,La grandine infligge danni ai Pokémon!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+279,BTL_STRID_STD_Raid_01,La tempesta di sabbia infligge danni ai Pokémon!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+280,BTL_STRID_STD_GrassGround_OnBattleStart,Il terreno di lotta è ricoperto di erba!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+281,BTL_STRID_STD_MistGround_OnBattleStart,Sul terreno di lotta cala la nebbia!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+282,BTL_STRID_STD_ElecField_OnBattleStart,Il terreno di lotta è elettrizzato!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+283,BTL_STRID_STD_PhychoField_OnBattleStart,Sul terreno di lotta agiscono strane forze!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+284,BTL_STRID_STD_ShineStart_OnBattleStart,La luce solare è intensa!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+285,BTL_STRID_STD_RainStart_OnBattleStart,Sta piovendo!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+286,BTL_STRID_STD_StormStart_OnBattleStart,Imperversa una tempesta di sabbia!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+287,BTL_STRID_STD_SnowStart_OnBattleStart,Sta grandinando!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+288,BTL_STRID_STD_Waza_NG,Questa mossa non si può usare!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+289,BTL_STRID_STD_itemlost,{tag:0}{tag:1} {tag:2}...,2,-1,54,1620,0,"0
+0
+0
+-1
+0",-1,21,4,5,0,0,,0,0,1,10,0,0,0,,0,-1,21,2,5,0,0,"ha svolto la sua funzione ed è sparito
+ha svolto la sua funzione ed è sparita
+hanno svolto la loro funzione e sono spariti
+hanno svolto la loro funzione e sono sparite",0
+290,BTL_STRID_STD_PutMulti_NPC_and_NPC,"{tag:0}{tag:1} ({tag:2}) mand{tag:3}
+in campo {tag:4}{pageend:!}
+{tag:5}{tag:6} ({tag:7}) mand{tag:8}
+in campo {tag:9}!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",-1,21,4,5,0,1,,0,1,1,0,0,0,0,,0,0,1,14,0,0,0,,0,-1,21,1,5,0,1,"a
+ano",0,2,1,2,0,0,0,,0,-1,21,4,5,0,4,,0,4,1,0,0,0,0,,0,3,1,14,0,0,0,,0,-1,21,1,5,0,4,"a
+ano",0,5,1,2,0,0,0,,0
+291,BTL_STRID_STD_PutMulti_Myself_and_NPC,"Vai, {tag:0}{pageend:!}
+{tag:1}{tag:2} ({tag:3}) mand{tag:4}
+in campo {tag:5}!",2,-1,54,1620,1,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,-1,21,4,5,0,2,,0,2,1,0,0,0,0,,0,1,1,14,0,0,0,,0,-1,21,1,5,0,2,"a
+ano",0,3,1,2,0,0,0,,0
+292,BTL_STRID_STD_PutMulti_Player_and_Player,"{tag:0} manda in campo {tag:1}!
+{tag:2} manda in campo {tag:3}!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,2,0,0,0,,0,2,1,0,0,0,0,,0,3,1,2,0,0,0,,0
+293,BTL_STRID_STD_PutMulti_Myself_and_Player,"Vai, {tag:0}!
+{tag:1} manda in campo {tag:2}!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,0,0,0,0,,0,2,1,2,0,0,0,,0
+294,BTL_STRID_STD_GShockWave_PP_Reduce_E,I PP della squadra avversaria diminuiscono!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+295,BTL_STRID_STD_PutMulti_Ally_Player,{tag:0} manda in campo {tag:1}!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,2,0,0,0,,0
+296,BTL_STRID_STD_SafariDousuruMsg,Quale Poké Ball vuoi lanciare?,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+297,BTL_STRID_STD_SafariZoneBallMsg,Hai usato una Safari Ball!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+298,BTL_STRID_STD_SafariZoneEsaMsg1,Hai lanciato del cibo {tag:0}{tag:1}!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",-1,21,20,5,0,1,,0,1,1,2,0,0,0,,0
+299,BTL_STRID_STD_SafariZoneDoroMsg1,Hai lanciato del fango {tag:0}{tag:1}!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",-1,21,20,5,0,1,,0,1,1,2,0,0,0,,0
+237,BTL_STRID_STD_IjigemRushFail_Another,Ma non ne è capace!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+193,BTL_STRID_STD_NebaNebaNet_E,Una Rete Vischiosa viene stesa ai piedi della squadra avversaria!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+194,BTL_STRID_STD_NebaNebaNetOff,La Rete Vischiosa ai piedi della tua squadra svanisce!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+195,BTL_STRID_STD_NebaNebaNetOff_E,La Rete Vischiosa ai piedi della squadra avversaria svanisce!,2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+300,BTL_STRID_STD_SafariZoneYousumiMsg,{tag:0} sta all’erta.,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+301,BTL_STRID_STD_SafariZoneEsaMsg2,{tag:0} sta mangiando.,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+302,BTL_STRID_STD_SafariZoneEsaMsg3,{tag:0} è intento a mangiare.,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+303,BTL_STRID_STD_SafariZoneDoroMsg2,{tag:0} è arrabbiato.,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+304,BTL_STRID_STD_SafariZoneDoroMsg3,{tag:0} è fuori di sé dalla rabbia.,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+305,BTL_STRID_STD_GetdemoSupportMMsg1,"Bene! È indebolito!
+È ora di lanciargli una Poké Ball!",2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+306,BTL_STRID_STD_GetdemoSupportWMsg1,"Ok! I suoi PS sono bassi!
+È pronto per una Poké Ball!",2,-1,54,1620,0,"0
+0
+0
+-1
+0"
+307,BTL_STRID_STD_GetdemoUseBallMsg1,{tag:0} ha usato una Poké Ball!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+10,BTL_STRID_STD_Encount_Wild_Mitsu,"Oh! Dall’albero cosparso di Miele è apparso
+{tag:0}{tag:1} selvatico!",2,-1,54,1620,0,"0
+0
+0
+-1
+0",-1,21,5,5,1,0,,3,0,1,1,0,0,0,,3
+83,BTL_STRID_STD_EscapeWild_Legend,{tag:0} è fuggito!,2,-1,54,1620,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0

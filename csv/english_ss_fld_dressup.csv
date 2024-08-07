@@ -1,0 +1,203 @@
+0,SS_fld_dressup_000,YOUR MONEY,80,-1,32,192,0,"-1
+0
+0
+-1
+0"
+1,SS_fld_dressup_003,{tag:0},48,-1,42,672,0,"-1
+0
+0
+-1
+0",0,1,59,0,0,0,,0
+2,SS_fld_dressup_004,{tag:0},93,-1,32,512,0,"-1
+0
+0
+-1
+0",0,1,59,0,0,0,,0
+3,SS_fld_dressup_005,{tag:0},91,-1,32,448,0,"-1
+0
+0
+-1
+0",0,1,60,0,0,0,,0
+5,SS_fld_dressup_006,Already purchased,38,-1,42,336,0,"-1
+0
+0
+-1
+0"
+6,SS_fld_dressup_007,None available,8,-1,54,648,0,"-1
+0
+0
+-1
+0"
+7,SS_fld_dressup_008,Yes,34,-1,42,168,0,"-1
+0
+0
+-1
+0"
+8,SS_fld_dressup_009,No,34,-1,42,168,0,"-1
+0
+0
+-1
+0"
+9,SS_fld_dressup_010,"That’ll be {tag:0}, OK?",30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,2,6,1,0,2,,0
+10,SS_fld_dressup_011,"That’ll be {tag:0}{pageend:.}
+And it’s OK that you can’t use that accessory
+with your current style, right?",30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,2,6,1,0,2,,0
+11,SS_fld_dressup_012,You don’t have enough money!,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+12,SS_fld_dressup_013,You’ve already purchased that outfit!,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+13,SS_fld_dressup_016,"Thanks very much for your purchase!
+Would you like to put it on at once?",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+14,SS_fld_dressup_017,Thanks for stopping by!,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+15,SS_fld_dressup_018,Would you like to go with this style?,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+16,SS_fld_dressup_020,Are you all done shopping for now?,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+17,SS_fld_dressup_021,You’re going to keep your current style?,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+4,SS_fld_dressup_044,{tag:0},154,-1,42,462,0,"-1
+0
+0
+-1
+0",0,2,6,1,0,2,,0
+20,SS_fld_dressup_023, Confirm,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+21,SS_fld_dressup_024, Leave,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+22,SS_fld_dressup_025, Check Appearance,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+23,SS_fld_dressup_026, Remove,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+24,SS_fld_dressup_027,Change my style,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+25,SS_fld_dressup_028, Zoom In,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+26,SS_fld_dressup_029, Zoom Out,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+27,SS_fld_dressup_030, Back,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+28,SS_fld_dressup_031, Take off outerwear,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+29,SS_fld_dressup_033, Put on outerwear,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+30,SS_fld_dressup_035,Leave without changing,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+31,SS_fld_dressup_036,I’d like to shop,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+32,SS_fld_dressup_037,Nothing,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+33,SS_fld_dressup_038,There’s the changing room. Take your time!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+34,SS_fld_dressup_039,"Thanks for your business!
+Please accept a token of our appreciation,
+{tag:0} {tag:1}!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,77,0,0,0,,0
+35,SS_fld_dressup_040,Thank you very much! Please come again!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+36,SS_fld_dressup_041, Swap,91,-1,32,448,0,"-1
+0
+0
+-1
+0"
+37,SS_fld_dressup_042, Select Style,91,-1,32,448,0,"-1
+0
+0
+-1
+0"
+38,SS_fld_dressup_043, Rotate,91,-1,32,448,0,"-1
+0
+0
+-1
+0"
+18,SS_fld_dressup_045,"{pageend:Just a moment! You’ve bought all the styles now!}
+Please accept this {tag:0}
+as a mere token of our gratitude!",30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,77,0,0,0,,0
+19,SS_fld_dressup_046,"We look forward to your continued patronage of
+Metronome Style Shop!",30,-1,42,840,0,"-1
+0
+0
+-1
+0"

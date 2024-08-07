@@ -1,0 +1,25 @@
+0,SS_common_text_01,"Backup data has been loaded.
+Please note that this data will be saved when
+you save the game.",64,-1,42,840,0,"-1
+0
+0
+-1
+0"
+1,SS_common_text_02,"There is no backup data, so you can’t load data.
+You’ll be returned to the title screen.",64,-1,42,840,0,"-1
+0
+0
+-1
+0"
+2,SS_common_text_03,Now saving...,86,-1,32,352,0,"-1
+0
+0
+-1
+0"
+3,SS_common_text_04,"Your save data is corrupted.
+Please delete the save data from
+your system.",64,-1,42,840,0,"-1
+0
+0
+-1
+0"

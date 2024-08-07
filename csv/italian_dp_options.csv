@@ -1,0 +1,2095 @@
+0,DP_options_000,Avvelenato,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+1,DP_options_001,Paralizzato,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+2,DP_options_002,Addormentato,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+3,DP_options_003,Scottato,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+4,DP_options_004,Congelato,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+5,DP_options_005,Esci,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+6,DP_options_006,Lotta in Singolo,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+7,DP_options_007,Lotta in Doppio,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+8,DP_options_008,Lotta Mista,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+9,DP_options_009,Lotta Multipla,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+10,DP_options_010,Info,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+11,DP_options_011,Esci,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+12,DP_options_012,Indietro,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+13,DP_options_013,Partecipa,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+14,DP_options_014,Crea un gruppo,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+15,DP_options_015,Ti trovi al:,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+16,DP_options_016,{tag:0},42,-1,42,504,0,"0
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+17,DP_options_017,Classe,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+18,DP_options_018,Bellezza,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+19,DP_options_019,Grazia,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+20,DP_options_020,Grinta,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+21,DP_options_021,Acume,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+22,DP_options_022,Scambia,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+23,DP_options_023,Esci,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+24,DP_options_034,Sistema Memoria,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+25,DP_options_035,Sala d’Onore,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+26,DP_options_036,Disconnetti,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+27,DP_options_037,Lotta standard,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+245,DP_options_843,Compra 10 barattoli per 1.000 ,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+28,DP_options_039,Ok,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+29,DP_options_040,Regole,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+30,DP_options_041,Sì,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+31,DP_options_042,No,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+32,DP_options_043,Esci,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+33,DP_options_044,Annulla,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+34,DP_options_045,Fuoco,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+35,DP_options_046,Acqua,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+36,DP_options_047,Erba,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+37,DP_options_048,Scheda,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+38,DP_options_049,Lotta,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+39,DP_options_050,{tag:0},42,-1,42,504,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+40,DP_options_051,{tag:0},42,-1,42,504,0,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+41,DP_options_052,{tag:0},42,-1,42,504,0,"0
+0
+0
+-1
+0",2,1,0,0,0,0,,0
+42,DP_options_053,{tag:0},42,-1,42,504,0,"0
+0
+0
+-1
+0",3,1,0,0,0,0,,0
+47,DP_options_055,Pianta bacca,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+48,DP_options_056,Disegna,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+49,DP_options_057, ,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+50,DP_options_058,PC di ???,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+51,DP_options_059,PC di Bebe,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+52,DP_options_060,PC di {tag:0},46,-1,42,588,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+53,DP_options_061,Sala d’Onore,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+54,DP_options_062,PC del Professor Oak,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+55,DP_options_063,PC del Professor Rowan,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+56,DP_options_064,Disconnetti,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+57,DP_options_116,PT,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+58,DP_options_117,1º P,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+59,DP_options_118,2º P,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+60,DP_options_119,3º P,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+61,DP_options_120,4º P,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+62,DP_options_121,1º S,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+63,DP_options_122,2º S,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+64,DP_options_123,Osservatorio,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+65,DP_options_124,Annulla,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+66,DP_options_134,{tag:0} {tag:1}<line-indent=90px>L. {tag:2},50,-1,42,756,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,2,1,4,0,0,0,,0,1,2,2,1,0,205,,0
+67,DP_options_135,{tag:0} {tag:1}<line-indent=90px>L. {tag:2},50,-1,42,756,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,2,1,4,0,0,0,,0,1,2,2,1,0,205,,0
+71,DP_options_136,Esci,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+72,DP_options_153,Come si registra un amico?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+73,DP_options_154,Capito!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+74,DP_options_155,Puoi spiegarmelo di nuovo?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+75,DP_options_156,Ambra antica,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+76,DP_options_157,Helixfossile,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+77,DP_options_158,Domofossile,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+78,DP_options_159,Radifossile,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+79,DP_options_160,Fossilunghia,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+80,DP_options_161,Fossilscudo,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+81,DP_options_162,Fossilcranio,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+82,DP_options_174,Destra,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+83,DP_options_175,Sinistra,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+84,DP_options_186,Area 1,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+85,DP_options_187,Area 2,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+86,DP_options_188,Area 3,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+87,DP_options_189,Area 4,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+88,DP_options_190,Area 5,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+89,DP_options_191,Area 6,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+90,DP_options_192,Esci,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+91,DP_options_193,Coccio Rosso,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+92,DP_options_194,Coccio Blu,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+93,DP_options_195,Coccio Giallo,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+94,DP_options_196,Coccio Verde,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+95,DP_options_209,Coccio Rosso,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+96,DP_options_210,Coccio Blu,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+97,DP_options_211,Coccio Giallo,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+98,DP_options_212,Coccio Verde,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+99,DP_options_213,Isola Ferrosa,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+100,DP_options_214,Isola Lunapiena,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+101,DP_options_215,Isola Lunanuova,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+102,DP_options_216,Area Sfida,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+103,DP_options_217,Nevepoli,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+104,DP_options_218,Esci,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+105,DP_options_219,Acqua fresca <pos=215px>200 ,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+106,DP_options_220,Gassosa <pos=215px>300 ,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+107,DP_options_221,Lemonsucco <pos=215px>350 ,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+108,DP_options_222,"Niente, grazie.",50,-1,42,756,0,"0
+0
+0
+-1
+0"
+109,DP_options_227,Esci,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+110,DP_options_228,Non mi serve nulla,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+111,DP_options_229,Cosa mi consiglia?,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+112,DP_options_233,Orologio digitale,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+113,DP_options_235,Calcolatrice,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+114,DP_options_236,Note,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+115,DP_options_237,Orologio analogico,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+116,DP_options_238,Pixel art,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+117,DP_options_239,Lista Pokémon,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+118,DP_options_240,Verifica amicizia,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+119,DP_options_241,Ricerca strumenti,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+120,DP_options_242,Contatore,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+121,DP_options_243,Contapassi,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+122,DP_options_244,Verifica Uova,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+123,DP_options_245,Gira e scegli,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+124,DP_options_246,Testa o croce,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+125,DP_options_250,Timer da cucina,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+126,DP_options_251,Segna mappa,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+127,DP_options_253,Modifica colore,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+128,DP_options_254,Calendario,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+129,DP_options_256,Conta Pokémon,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+130,DP_options_257,Cronologia Pokémon,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+131,DP_options_258,Mosse MN,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+132,DP_options_259,Esci,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+133,DP_options_260,Fiaba 1,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+134,DP_options_261,Fiaba 2,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+135,DP_options_262,Fiaba 3,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+136,DP_options_263,Esci,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+137,DP_options_264,Scuro Ball,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+138,DP_options_265,Cura Ball,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+139,DP_options_266,Velox Ball,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+140,DP_options_267,Esci,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+141,DP_options_268,Agli albori dell’universo,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+142,DP_options_269,Il Pokémon mitologico,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+143,DP_options_270,La Catena rossa,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+144,DP_options_271,Esci,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+145,DP_options_323,Safari Ball,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+146,DP_options_324,Parco Ball,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+147,DP_options_325,Quantità rimanente: {tag:0},39,-1,42,420,0,"0
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+148,DP_options_381,Foresta,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+149,DP_options_382,Città,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+150,DP_options_383,Deserto,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+151,DP_options_384,Savana,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+152,DP_options_385,Rocce,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+153,DP_options_386,Vulcano,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+154,DP_options_387,Neve,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+155,DP_options_388,Grotta,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+156,DP_options_389,Spiaggia,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+157,DP_options_390,Fondale,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+158,DP_options_391,Fiume,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+159,DP_options_392,Cielo,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+160,DP_options_393,Centro Pokémon,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+161,DP_options_394,Metallo,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+162,DP_options_395,Quadretti,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+163,DP_options_396,Semplice,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+164,DP_options_397,Spazio,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+165,DP_options_398,Giardino,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+166,DP_options_399,Nostalgia,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+167,DP_options_400,Torchic,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+168,DP_options_401,Trio,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+169,DP_options_402,Pikapika,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+170,DP_options_403,Leggenda,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+171,DP_options_404,Team Galassia,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+277,DP_options_878,CHIUNQUE FELICE Wi-Fi CONNECTION,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+173,DP_options_574,"Impossibile da usare senza la Medaglia
+adeguata.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+174,DP_options_600,Stai già usando Surf.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+178,DP_options_694,"Non si può utilizzare mentre sei in compagnia
+di {tag:0}.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+172,DP_options_534,Su quale Pokémon vuoi usarla?,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+175,DP_options_602,Non si può usare qui.,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+176,DP_options_604,PS insufficienti.,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+177,DP_options_629,Non si può usare su questo Pokémon.,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+179,DP_options_738,"Vuoi che il Pokémon ricordi la mossa
+{tag:0}?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,7,0,0,0,,0
+180,DP_options_760,Giocat{tag:0}: {tag:1},56,-1,42,840,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"ore
+rice",0,0,1,0,0,0,0,,0
+181,DP_options_761,"Questo documento attesta che hai incontrato
+tutti i Pokémon della regione di Sinnoh,
+raggiungendo così un traguardo straordinario.",59,-1,42,840,0,"0
+0
+0
+-1
+0"
+182,DP_options_762,"Questo documento attesta che hai completato
+con successo il Pokédex Nazionale, raggiungendo
+così un traguardo straordinario.",59,-1,42,840,0,"0
+0
+0
+-1
+0"
+184,DP_options_763,GAME FREAK,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+185,DP_options_782,Distorsione (Platino),39,-1,42,420,0,"0
+0
+0
+-1
+0"
+186,DP_options_783,Trio (Platino),39,-1,42,420,0,"0
+0
+0
+-1
+0"
+187,DP_options_784,Gara (Platino),39,-1,42,420,0,"0
+0
+0
+-1
+0"
+188,DP_options_785,Pikapika (Platino),39,-1,42,420,0,"0
+0
+0
+-1
+0"
+189,DP_options_786,Nostalgia (Platino),39,-1,42,420,0,"0
+0
+0
+-1
+0"
+190,DP_options_787,Leggenda (Platino),39,-1,42,420,0,"0
+0
+0
+-1
+0"
+191,DP_options_788,Croagunk (Platino),39,-1,42,420,0,"0
+0
+0
+-1
+0"
+192,DP_options_789,Team Galassia (Platino),39,-1,42,420,0,"0
+0
+0
+-1
+0"
+193,DP_options_790,Ingresso nella Sala d’Onore nº {tag:0},56,-1,42,840,0,"0
+0
+0
+-1
+0",0,2,3,1,0,1,,0
+194,DP_options_791,{tag:0}/{tag:1}/{tag:2},46,-1,42,588,0,"0
+0
+0
+-1
+0",3,2,1,1,0,205,,0,2,2,1,1,0,205,,0,1,2,3,1,0,0,,0
+195,DP_options_792,Allenatore Originale,87,-1,32,384,0,"0
+0
+0
+-1
+0"
+196,DP_options_793,{tag:0},81,-1,32,224,0,"0
+0
+0
+-1
+0",4,1,2,0,0,0,,0
+197,DP_options_794,L. {tag:0},169,-1,32,224,0,"0
+0
+0
+-1
+0",5,2,2,1,0,205,,0
+198,DP_options_795,{tag:0},81,-1,32,224,0,"0
+0
+0
+-1
+0",6,1,0,0,0,0,,0
+199,DP_options_796,{tag:0},83,-1,32,320,0,"0
+0
+0
+-1
+0",7,1,7,0,0,0,,0
+200,DP_options_797,{tag:0},83,-1,32,320,0,"0
+0
+0
+-1
+0",8,1,7,0,0,0,,0
+201,DP_options_798,{tag:0},83,-1,32,320,0,"0
+0
+0
+-1
+0",9,1,7,0,0,0,,0
+202,DP_options_799,{tag:0},83,-1,32,320,0,"0
+0
+0
+-1
+0",10,1,7,0,0,0,,0
+203,DP_options_800,{tag:0},81,-1,32,224,0,"0
+0
+0
+-1
+0",11,1,2,0,0,0,,0
+204,DP_options_801,L. {tag:0},169,-1,32,224,0,"0
+0
+0
+-1
+0",12,2,2,1,0,205,,0
+205,DP_options_802,{tag:0},81,-1,32,224,0,"0
+0
+0
+-1
+0",13,1,0,0,0,0,,0
+206,DP_options_803,{tag:0},83,-1,32,320,0,"0
+0
+0
+-1
+0",14,1,7,0,0,0,,0
+207,DP_options_804,{tag:0},83,-1,32,320,0,"0
+0
+0
+-1
+0",15,1,7,0,0,0,,0
+208,DP_options_805,{tag:0},83,-1,32,320,0,"0
+0
+0
+-1
+0",16,1,7,0,0,0,,0
+209,DP_options_806,{tag:0},83,-1,32,320,0,"0
+0
+0
+-1
+0",17,1,7,0,0,0,,0
+210,DP_options_807,{tag:0},81,-1,32,224,0,"0
+0
+0
+-1
+0",18,1,2,0,0,0,,0
+211,DP_options_808,L. {tag:0},169,-1,32,224,0,"0
+0
+0
+-1
+0",19,2,2,1,0,205,,0
+212,DP_options_809,{tag:0},81,-1,32,224,0,"0
+0
+0
+-1
+0",20,1,0,0,0,0,,0
+213,DP_options_810,{tag:0},83,-1,32,320,0,"0
+0
+0
+-1
+0",21,1,7,0,0,0,,0
+214,DP_options_811,{tag:0},83,-1,32,320,0,"0
+0
+0
+-1
+0",22,1,7,0,0,0,,0
+215,DP_options_812,{tag:0},83,-1,32,320,0,"0
+0
+0
+-1
+0",23,1,7,0,0,0,,0
+216,DP_options_813,{tag:0},83,-1,32,320,0,"0
+0
+0
+-1
+0",24,1,7,0,0,0,,0
+217,DP_options_814,{tag:0},81,-1,32,224,0,"0
+0
+0
+-1
+0",25,1,2,0,0,0,,0
+218,DP_options_815,L. {tag:0},169,-1,32,224,0,"0
+0
+0
+-1
+0",26,2,2,1,0,205,,0
+219,DP_options_816,{tag:0},81,-1,32,224,0,"0
+0
+0
+-1
+0",27,1,0,0,0,0,,0
+220,DP_options_817,{tag:0},83,-1,32,320,0,"0
+0
+0
+-1
+0",28,1,7,0,0,0,,0
+221,DP_options_818,{tag:0},83,-1,32,320,0,"0
+0
+0
+-1
+0",29,1,7,0,0,0,,0
+222,DP_options_819,{tag:0},83,-1,32,320,0,"0
+0
+0
+-1
+0",30,1,7,0,0,0,,0
+223,DP_options_820,{tag:0},83,-1,32,320,0,"0
+0
+0
+-1
+0",31,1,7,0,0,0,,0
+224,DP_options_821,{tag:0},81,-1,32,224,0,"0
+0
+0
+-1
+0",32,1,2,0,0,0,,0
+225,DP_options_822,L. {tag:0},169,-1,32,224,0,"0
+0
+0
+-1
+0",33,2,2,1,0,205,,0
+226,DP_options_823,{tag:0},81,-1,32,224,0,"0
+0
+0
+-1
+0",34,1,0,0,0,0,,0
+227,DP_options_824,{tag:0},83,-1,32,320,0,"0
+0
+0
+-1
+0",35,1,7,0,0,0,,0
+228,DP_options_825,{tag:0},83,-1,32,320,0,"0
+0
+0
+-1
+0",36,1,7,0,0,0,,0
+229,DP_options_826,{tag:0},83,-1,32,320,0,"0
+0
+0
+-1
+0",37,1,7,0,0,0,,0
+230,DP_options_827,{tag:0},83,-1,32,320,0,"0
+0
+0
+-1
+0",38,1,7,0,0,0,,0
+231,DP_options_828,{tag:0},81,-1,32,224,0,"0
+0
+0
+-1
+0",39,1,2,0,0,0,,0
+232,DP_options_829,L. {tag:0},169,-1,32,224,0,"0
+0
+0
+-1
+0",40,2,2,1,0,205,,0
+233,DP_options_830,{tag:0},81,-1,32,224,0,"0
+0
+0
+-1
+0",41,1,0,0,0,0,,0
+234,DP_options_831,{tag:0},83,-1,32,320,0,"0
+0
+0
+-1
+0",42,1,7,0,0,0,,0
+235,DP_options_832,{tag:0},83,-1,32,320,0,"0
+0
+0
+-1
+0",43,1,7,0,0,0,,0
+236,DP_options_833,{tag:0},83,-1,32,320,0,"0
+0
+0
+-1
+0",44,1,7,0,0,0,,0
+237,DP_options_834,{tag:0},83,-1,32,320,0,"0
+0
+0
+-1
+0",45,1,7,0,0,0,,0
+238,DP_options_835,Indietro,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+239,DP_options_836,Cambia,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+240,DP_options_837,Illuminazione,87,-1,32,384,0,"0
+0
+0
+-1
+0"
+241,DP_options_838,Electrode,87,-1,32,384,0,"0
+0
+0
+-1
+0"
+242,DP_options_839,Lucente,87,-1,32,384,0,"0
+0
+0
+-1
+0"
+243,DP_options_840,Splendente,87,-1,32,384,0,"0
+0
+0
+-1
+0"
+246,DP_options_844,"No, grazie",50,-1,42,756,0,"0
+0
+0
+-1
+0"
+247,DP_options_845,Compra 1 bottiglia per 500 ,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+248,DP_options_846,Compra 10 bottiglie per 5.000 ,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+249,DP_options_847,Comprane ancora,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+250,DP_options_848,Compra qualcos’altro,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+244,DP_options_842,Compra 1 barattolo per 100 ,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+251,DP_options_849,Soldi,82,-1,32,256,0,"0
+0
+0
+-1
+0"
+252,DP_options_850,{tag:0} ,172,-1,32,352,0,"0
+0
+0
+-1
+0",0,2,6,1,0,1,,0
+68,DP_options_851,{tag:0} ♂ L. {tag:1},50,-1,42,756,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,2,2,1,0,205,,0
+69,DP_options_852,{tag:0} ♀ L. {tag:1},50,-1,42,756,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,2,2,1,0,205,,0
+70,DP_options_853,{tag:0} L. {tag:1},50,-1,42,756,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,2,2,1,0,205,,0
+253,DP_options_854,Baccaliegia <pos=215px>80 ,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+254,DP_options_855,Baccastagna <pos=215px>80 ,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+255,DP_options_856,Baccapesca <pos=215px>80 ,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+256,DP_options_857,Baccafrago <pos=215px>80 ,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+257,DP_options_858,Baccaperina <pos=215px>80 ,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+258,DP_options_859,Acchiappa il Pokémon,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+259,DP_options_860,TG Sinnoh,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+260,DP_options_861,Club Uovo giulivo,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+261,DP_options_862,Soprannomastica Show,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+262,DP_options_863,Chi trova un tesoro trova... un tesoro,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+263,DP_options_864,L’arte dei bolli,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+264,DP_options_865,Che tipo sei?,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+265,DP_options_866,Aggiungi un poffin a tavola,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+266,DP_options_867,Il diario di Parco Concordia,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+267,DP_options_868,Fenomenale!,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+268,DP_options_869,Rarità sotto il microscopio,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+269,DP_options_870,Acchiappalike tutti,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+270,DP_options_871,Obiettivo stile,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+271,DP_options_872,Batti il record!,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+272,DP_options_873,"Gruppi, che passione!",50,-1,42,756,0,"0
+0
+0
+-1
+0"
+273,DP_options_874,Una bacca al giorno...,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+274,DP_options_875,Il tipo giusto,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+275,DP_options_876,La scienza dei Pokémon,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+276,DP_options_877,L’ora del PokéKron,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+278,DP_options_879,Palmer,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+279,DP_options_880,Demetra,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+280,DP_options_881,Matilde,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+281,DP_options_882,Marisio,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+282,DP_options_883,Risetta,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+283,DP_options_884,Chicco,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+284,DP_options_885,Scegli,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+285,DP_options_886,Non scegliere,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+286,DP_options_887,Partecipa di nuovo,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+287,DP_options_888,Rossa,36,-1,42,252,0,"0
+0
+0
+-1
+0"
+288,DP_options_889,Verde,36,-1,42,252,0,"0
+0
+0
+-1
+0"
+289,DP_options_890,Blu,36,-1,42,252,0,"0
+0
+0
+-1
+0"
+290,DP_options_891,Gialla,36,-1,42,252,0,"0
+0
+0
+-1
+0"
+43,DP_options_892,{tag:0},42,-1,42,504,0,"0
+0
+0
+-1
+0",4,1,0,0,0,0,,0
+44,DP_options_893,{tag:0},42,-1,42,504,0,"0
+0
+0
+-1
+0",5,1,0,0,0,0,,0
+45,DP_options_894,{tag:0},42,-1,42,504,0,"0
+0
+0
+-1
+0",6,1,0,0,0,0,,0
+46,DP_options_895,{tag:0},42,-1,42,504,0,"0
+0
+0
+-1
+0",7,1,0,0,0,0,,0
+183,DP_options_896,"Questo documento attesta la tua amicizia
+duratura con {tag:0} e il profondo
+legame che vi unisce.",59,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+291,DP_options_897,Avanti,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+292,DP_options_training_xp,Esperienza,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+293,DP_options_training_hp,PS,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+294,DP_options_training_atk,Attacco,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+295,DP_options_training_def,Difesa,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+296,DP_options_training_spatk,Attacco Speciale,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+297,DP_options_training_spdef,Difesa Speciale,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+298,DP_options_training_spd,Velocità,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+299,DP_options_training_cancel,Annulla,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+300,DP_options_training_high,Alto,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+301,DP_options_training_medium,Medio,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+302,DP_options_training_low,Basso,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+303,DP_options_training_xp25,Lv. 25,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+304,DP_options_training_xp35,Lv. 35,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+305,DP_options_training_xp45,Lv. 45,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+306,DP_options_training_xp55,Lv. 55,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+307,DP_options_training_xp65,Lv. 65,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+308,DP_options_training_xp75,Lv. 75,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+309,DP_options_training_xp85,Lv. 85,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+310,DP_options_stone_water,Pietraidrica,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+311,DP_options_stone_thunder,Pietratuono,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+312,DP_options_stone_fire,Pietrafocaia,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+313,DP_options_stone_sun,Pietrasolare,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+314,DP_options_stone_moon,Pietralunare,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+315,DP_options_stone_leaf,Pietrafoglia,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+316,DP_options_stone_ice,Pietragelo,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+317,DP_options_fashion_catalogue,Catalogo di Moda,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+318,DP_options_clothing,Abbigliamento,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+319,DP_options_settings,Impostazioni,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+320,DP_options_exp_share_off,Condividi ESP (Disabilitato),46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+321,DP_options_exp_share_on,Condividi ESP (Abilitato),46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+322,DP_options_affection_off,Affetto (Disabilitato),46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+323,DP_options_affection_on,Affetto (Abilitato),46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+324,DP_starter_choose_turtwig,Turtwig,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+325,DP_starter_choose_piplup,Piplup,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+326,DP_starter_choose_chimchar,Chimchar,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+327,DP_options_hard_level_cap_off,Limite di livello (No),46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+328,DP_options_hard_level_cap_on,Limite di livello (Sì),46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+329,DP_options_mintguy_show,Mostra un nuovo Abra,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+330,DP_options_mintguy_get_mints,Ottieni Mente,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+331,DP_options_mints_hardy,Ardita,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+332,DP_options_mints_lonely,Schiva,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+333,DP_options_mints_brave,Audace,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+334,DP_options_mints_adamant,Decisa,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+335,DP_options_mints_naughty,Birbona,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+336,DP_options_mints_bold,Sicura,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+337,DP_options_mints_docile,Docile,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+338,DP_options_mints_relaxed,Placida,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+339,DP_options_mints_impish,Scaltra,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+340,DP_options_mints_lax,Fiacca,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+341,DP_options_mints_timid,Timida,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+342,DP_options_mints_hasty,Lesta,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+343,DP_options_mints_serious,Seria,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+344,DP_options_mints_jolly,Allegra,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+345,DP_options_mints_naive,Ingenua,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+346,DP_options_mints_modest,Modesta,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+347,DP_options_mints_mild,Mite,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+348,DP_options_mints_quiet,Quieta,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+349,DP_options_mints_bashful,Ritrosa,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+350,DP_options_mints_rash,Ardente,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+351,DP_options_mints_calm,Calma,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+352,DP_options_mints_gentle,Gentile,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+353,DP_options_mints_sassy,Vivace,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+354,DP_options_mints_careful,Cauta,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+355,DP_options_mints_quirky,Furba,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+356,DP_options_oak1,Generale,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+357,DP_options_oak2,PokéDex,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+358,DP_options_oak3,Missioni,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+359,DP_options_oak4,Niente,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+360,DP_options_pc_box,Attiva/Disattiva sistema dei box,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+361,DP_options_Bulba,Bulbasaur,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+362,DP_options_Squirt,Squirtle,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+363,DP_options_Char,Charmander,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+364,DP_options_reporter_cancel,Annulla,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+365,DP_options_training_xp100,Lv. 100,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+366,00_options_attack_mints,Mente Attacco,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+367,00_options_defense_mints,Mente Difesa,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+368,00_options_spatk_mints,Mente Attacco Speciale,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+369,00_options_spadef_mints,Mente Difesa Speciale,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+370,00_options_speed_mints,Mente Velocità,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+371,00_options_neutral_mints,Mente Neutrali,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+372,DP_options_Chika,Chikorita,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+373,DP_options_Totodile,Totodile,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+374,DP_options_Cynda,Cyndaquil,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+375,DP_options_Treeko,Treecko,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+376,DP_options_Torchic,Torchic,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+377,DP_options_Mudkip,Mudkip,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+378,DP_options_RED,Rosso,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+379,DP_options_BLUE,Blu,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+380,DP_options_NEITHER,Nessuna delle due,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+381,DP_options_badge_9,Annulla,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+382,DP_options_badge_1,Medaglia Carbone,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+383,DP_options_badge_2,Medaglia Bosco,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+384,DP_options_badge_3,Medaglia Vestigia,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+385,DP_options_badge_4,Medaglia Ciottolo,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+386,DP_options_badge_5,Medaglia Acquitrino,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+387,DP_options_badge_6,Medaglia Cava,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+388,DP_options_badge_7,Medaglia Ghiacciolo,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+389,DP_options_badge_8,Medaglia Faro,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+390,DP_options_mints_slot1,Slot 1: {tag:0},0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+391,DP_options_mints_slot2,Slot 2: {tag:0},0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+392,DP_options_mints_slot3,Slot 3: {tag:0},0,-1,54,1080,0,"-1
+0
+0
+-1
+0",2,1,0,0,0,0,,0
+393,DP_options_mints_slot4,Slot 4: {tag:0},0,-1,54,1080,0,"-1
+0
+0
+-1
+0",3,1,0,0,0,0,,0
+394,DP_options_mints_slot5,Slot 5: {tag:0},0,-1,54,1080,0,"-1
+0
+0
+-1
+0",4,1,0,0,0,0,,0
+395,DP_options_mints_slot6,Slot 6: {tag:0},0,-1,54,1080,0,"-1
+0
+0
+-1
+0",5,1,0,0,0,0,,0
+396,DP_options_party_slot_1,Slot 1: {tag:0},0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+397,DP_options_party_slot_2,Slot 2: {tag:0},0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+398,DP_options_party_slot_3,Slot 3: {tag:0},0,-1,54,1080,0,"-1
+0
+0
+-1
+0",2,1,0,0,0,0,,0
+399,DP_options_party_slot_4,Slot 4: {tag:0},0,-1,54,1080,0,"-1
+0
+0
+-1
+0",3,1,0,0,0,0,,0
+400,DP_options_party_slot_5,Slot 5: {tag:0},0,-1,54,1080,0,"-1
+0
+0
+-1
+0",4,1,0,0,0,0,,0
+401,DP_options_party_slot_6,Slot 6: {tag:0},0,-1,54,1080,0,"-1
+0
+0
+-1
+0",5,1,0,0,0,0,,0
+402,DP_options_incense_unova,come il cambio delle stagioni. (Unima),0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+403,DP_options_incense_kalos,"vecchio, quasi antico. (Kalos)",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+404,DP_options_incense_alola,"tropicale, infuso di luce solare. (Alola)",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+405,DP_options_incense_galar,come ampi e rigogliosi campi. (Galar),0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+406,DP_options_stone_shiny,Pietrabrillio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+407,DP_options_levelcap_info,Limite di livello attuale,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+408,DP_options_steven1,Generale,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+409,DP_options_steven3,Missioni,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+410,DP_options_steven_battle,Lotta,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+411,DP_options_steven4,Annulla,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+412,00_option_c01r0203_snowball_lick,Leccala.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+413,00_option_c01r0203_snowball_cancel,Lascio perdere.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+414,DP_options_mewtwo_mk1,Armatura rango 1,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+415,DP_options_mewtwo_mk2,Armatura rango 2,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+416,DP_options_mewtwo_standard,Forma Originale,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"

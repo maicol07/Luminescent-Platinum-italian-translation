@@ -1,0 +1,1497 @@
+0,DP_contest_000,Messaggio di prova,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+239,DP_contest_688,"{pageend:Mh...?}
+{tag:0} partecipare
+{pageend:alla Gara-show.}
+Torna quando avrai almeno un Pokémon che
+conosca una mossa valida per la Gara-show.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,1,5,0,253,"Il tuo Pokémon non può
+I tuoi Pokémon non possono",0
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+1,DP_contest_032,"{pageend:Signore e signori, le votazioni sono concluse!}
+Quale Pokémon si sarà aggiudicato il titolo
+{pageend:di performance migliore...?}
+Annunciamo i risultati!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+2,DP_contest_118,Gara di Classe,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+3,DP_contest_119,Gara di Bellezza,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+4,DP_contest_120,Gara di Grazia,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+5,DP_contest_121,Gara di Acume,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+6,DP_contest_122,Gara di Grinta,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+9,DP_contest_123,Livello Normale,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+10,DP_contest_124,Livello Mega,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+11,DP_contest_125,Livello Ultra,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+12,DP_contest_126,Livello Master,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+13,DP_contest_127,Prove,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+14,DP_contest_128,In link,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+15,DP_contest_129,Gara,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+16,DP_contest_130,Esci,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+17,DP_contest_149,Comunicazione in corso. Attendi...,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+18,DP_contest_265,"Benvenut{tag:0}{pageend: all’Arena delle Virtù!}
+Se vuoi, posso aiutarti a iscriverti alle Super
+Gare-show!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+19,DP_contest_266,Vuoi iscrivere un Pokémon a una Gara-show?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+20,DP_contest_267,Quale argomento vuoi approfondire?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+21,DP_contest_269,"Benvenut{tag:0}{pageend: all’Arena delle Virtù!}
+Questo è il banco di accettazione delle
+{pageend:Gare-show in Link.}
+Grazie a questa funzione, tu e i tuoi amici
+potrete prendere parte alla stessa Gara-show!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+22,DP_contest_270,Partecipa,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+23,DP_contest_271,Info,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+24,DP_contest_272,Esci,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+25,DP_contest_273,Torna presto a farci visita!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+26,DP_contest_274,Vuoi partecipare a una Gara-show in link?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+27,DP_contest_280,"In tutto, ci sono cinque tipi di Super Gare-show:
+{pageend:Classe, Bellezza, Grazia, Acume e Grinta!}
+Scegli la categoria che si adatta meglio
+al Pokémon che vuoi iscrivere!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+28,DP_contest_281,"Esistono quattro livelli diversi di Super
+Gare-show...
+{pageend:Livello Normale, Mega, Ultra e Master.}
+Se, ad esempio, porti a termine con successo
+una Gara di Classe di Livello Normale, puoi
+{pageend:passare alle Gare di Classe di Livello Mega!}
+Allo stesso modo, un successo trionfale al
+Livello Mega permette di salire al Livello Ultra,
+{pageend:e da lì al Livello Master.}
+Cimentati con le Gare di tutte le categorie:
+Classe, Bellezza, Grazia, Acume e Grinta, e
+punta a raggiungere il Livello Master in ognuna!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+29,DP_contest_282,Quale Pokémon vuoi iscrivere?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+30,DP_contest_283,Scegli un Pokémon.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+31,DP_contest_284,"Ok! Il tuo Pokémon è stato iscritto!
+Siete i concorrenti numero {tag:0}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+32,DP_contest_285,Torna presto a farci visita!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+33,DP_contest_286,Partecipa,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+34,DP_contest_287,Info,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+35,DP_contest_288,Esci,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+36,DP_contest_289,A quale livello vuoi gareggiare?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+37,DP_contest_290,A quale Gara vuoi partecipare?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+38,DP_contest_291,Vuoi annullare la partecipazione?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+39,DP_contest_292,Sì,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+40,DP_contest_293,No,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+48,DP_contest_303,Livello Normale,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+49,DP_contest_304,Livello Mega,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+50,DP_contest_305,Livello Ultra,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+51,DP_contest_306,Livello Master,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+52,DP_contest_307,Esci,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+54,DP_contest_308,Gara di Classe,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+55,DP_contest_309,Gara di Bellezza,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+56,DP_contest_310,Gara di Grazia,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+57,DP_contest_311,Gara di Acume,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+58,DP_contest_312,Gara di Grinta,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+61,DP_contest_313,Esci,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+63,DP_contest_330,"Da questa parte, prego! E in bocca al lupo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+64,DP_contest_373,"Benvenut{tag:0} al banco di accettazione delle prove.
+Qui puoi allenarti per le Gare-show!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+65,DP_contest_374,Vuoi partecipare a una Gara-show di prova?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+66,DP_contest_375,Partecipa,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+67,DP_contest_376,Info,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+68,DP_contest_377,Esci,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+69,DP_contest_378,Torna presto a farci visita!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+70,DP_contest_379,Quale argomento vuoi approfondire?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+175,DP_contest_611,Seleziona,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+205,DP_contest_648,Non può partecipare a questa Gara!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+206,DP_contest_649,X,3,-1,54,108,0,"0
+0
+0
+-1
+0"
+94,DP_contest_651,"Stavolta la performance migliore andrà
+a {tag:0} coppi{tag:1}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,2,0,1,0,205,,0,-1,21,1,5,0,0,"a
+e",0
+96,DP_contest_650,{tag:0} e {tag:1}!,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,2,0,0,0,,0
+71,DP_contest_428,Esci,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+72,DP_contest_431,Normale,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+73,DP_contest_432,Mega,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+74,DP_contest_433,Ultra,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+75,DP_contest_434,Master,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+76,DP_contest_437,Quale Pokémon vuoi iscrivere?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+77,DP_contest_438,Scegli un Pokémon.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+78,DP_contest_439,"Ok! Il tuo Pokémon è stato iscritto!
+Sarà il concorrente numero {tag:0}.
+La Gara-show di prova inizierà subito!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+79,DP_contest_440,"Da questa parte, prego! E in bocca al lupo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+81,DP_contest_482,"Diamo inizio a una {tag:0}
+di {tag:1}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,31,0,0,0,,0,0,1,32,0,0,0,,0
+82,DP_contest_483,"Ecco la coppia di concorrenti numero 1:
+{tag:0} e {tag:1}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,2,0,0,0,,0
+83,DP_contest_484,"Ecco la coppia di concorrenti numero 2:
+{tag:0} e {tag:1}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,2,0,0,0,,0
+84,DP_contest_485,"Ecco la coppia di concorrenti numero 3:
+{tag:0} e {tag:1}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,2,0,0,0,,0
+85,DP_contest_486,"Ecco la coppia di concorrenti numero 4:
+{tag:0} e {tag:1}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,2,0,0,0,,0
+86,DP_contest_487,"L’entrata in scena di {tag:0}
+ha mandato il pubblico in visibilio!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,2,0,0,0,,0
+87,DP_contest_488,"L’entrata in scena di {tag:0}
+ha suscitato un sacco di entusiasmo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,2,0,0,0,,0
+88,DP_contest_489,"L’entrata in scena di {tag:0}
+ha suscitato un certo entusiasmo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,2,0,0,0,,0
+89,DP_contest_490,"{tag:0} fa colpo sul pubblico
+usando {tag:1}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,7,0,0,0,,0
+90,DP_contest_491,"La Gara-show è stata un trionfo!
+Hai accumulato dei punti successo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+92,DP_contest_492,"Peccato! La Gara-show non è andata
+molto bene...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+93,DP_contest_493,"E adesso andiamo ad annunciare
+la performance migliore!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+207,DP_contest_652,Come vuoi partecipare?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+208,DP_contest_653,Per conto mio,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+209,DP_contest_654,Con un gruppo,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+95,DP_contest_497,La performance migliore è stata quella di...,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+97,DP_contest_498,"Benvenut{tag:0} al banco di accettazione delle prove.
+Qui puoi allenarti per le Gare-show!
+Allora, vuoi fare delle prove?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+98,DP_contest_499,"Nelle Super Gare-show, quattro concorrenti
+{pageend:si esibiscono per un grande pubblico!}
+L’obiettivo è di collaborare l’uno con l’altro
+{pageend:e far sì che lo show abbia successo...}
+Ma lo show è, allo stesso tempo, una gara
+in cui vengono valutati tre elementi: personalità,
+{pageend:danza e mosse!}
+Esistono anche le prove, che permettono
+ai concorrenti di prepararsi al meglio.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+99,DP_contest_500,"La Valutazione della personalità viene fatta
+in base alle virtù dei Pokémon e ai bolli
+{pageend:con cui la loro capsula è stata personalizzata!}
+Ci sono cinque tipi di virtù: Classe, Bellezza,
+{pageend:Grazia, Acume e Grinta...}
+Un Pokémon può migliorare in ciascuna di esse
+{pageend:mangiando dei poffin.}
+La capsula, invece, può essere modificata
+{pageend:dal menu principale o mediante il PC!}
+Ricorda che i bolli apposti sulla capsula devono
+essere adatti alla Gara a cui stai partecipando...
+La chiave è sperimentare a più non posso!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+100,DP_contest_501,"La Valutazione della danza giudica la capacità
+{pageend:di tenere il ritmo!}
+Segui la musica e premi il pulsante a tempo
+{pageend:con le note che scorrono da destra.}
+A seconda della precisione con cui lo farai,
+otterrai uno fra quattro possibili punteggi,
+corrispondenti alle valutazioni ""Troppo presto!"" o
+{pageend:""Troppo tardi!"", ""Bene!"", ""Ottimo!"" e ""Favoloso!"".}
+Migliore sarà il tempismo, più si riempirà
+l’indicatore dei cuori...
+Riempilo al massimo, e guadagnerai un <color=#F01E1EFF>♥</color>{pageend:!}
+Guadagna tanti <color=#F01E1EFF>♥</color>, e la tua performance sarà
+{pageend:davvero... favolosa!}
+Così anche il giudizio finale salirà in alto...
+{pageend:Anzi, schizzerà alle stelle!}
+Inoltre, guadagnando molti <color=#F01E1EFF>♥</color> riempirai
+l’indicatore dello show condiviso dai concorrenti,
+{pageend:aumentando al massimo l’entusiasmo dell’arena!}
+Se la Gara-show andrà a buon fine, guadagnerai
+punti successo e man mano renderai il palco
+dell’arena sempre più magnifico!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+101,DP_contest_502,"La Valutazione della danza giudica la capacità
+{pageend:di tenere il ritmo!}
+Segui la musica e premi il pulsante a tempo
+{pageend:con le note che scorrono da destra.}
+A seconda della precisione con cui lo farai,
+otterrai uno fra quattro possibili punteggi,
+corrispondenti alle valutazioni ""Troppo presto!"" o
+{pageend:""Troppo tardi!"", ""Bene!"", ""Ottimo!"" e ""Stellare!"".}
+Migliore sarà il tempismo, più si riempirà
+l’indicatore dei cuori...
+Riempilo al massimo, e guadagnerai un <color=#F01E1EFF>♥</color>{pageend:!}
+Guadagna tanti <color=#F01E1EFF>♥</color>, e la tua performance sarà
+{pageend:davvero... stellare!}
+Così anche il giudizio finale salirà in alto...
+{pageend:Anzi, schizzerà alle stelle!}
+Inoltre, guadagnando molti <color=#F01E1EFF>♥</color> riempirai
+l’indicatore dello show condiviso dai concorrenti,
+{pageend:aumentando al massimo l’entusiasmo dell’arena!}
+Se la Gara-show andrà a buon fine, guadagnerai
+punti successo e man mano renderai il palco
+dell’arena sempre più magnifico!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+102,DP_contest_503,"La Valutazione della mossa prende in esame
+la mossa Gara del Pokémon, che potrà essere
+{pageend:usata una sola volta durante lo show...}
+Le mosse Gara sono mosse che possono aiutare
+{pageend:i concorrenti in svariati modi durante la danza!}
+Imposta la mossa che preferisci al banco
+{pageend:di accettazione e usala al momento giusto...}
+Il pubblico valuterà l’esecuzione della mossa
+e assegnerà dei <color=#F01E1EFF>♥</color>{pageend: in base al gradimento!}
+Facendo seguire la mossa a quella degli altri
+concorrenti, potrai creare delle combo...
+E otterrai molti più <color=#F01E1EFF>♥</color>{pageend:!}
+Inoltre, se il tipo delle mosse combacia
+i <color=#F01E1EFF>♥</color>{pageend: ottenuti aumenteranno ulteriormente!}
+E ricorda: il segreto è sferrare la mossa
+al momento giusto!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+103,DP_contest_504,Scegli il Pokémon concorrente e una mossa Gara.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+104,DP_contest_505,Vuoi terminare le prove?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+105,DP_contest_506,Scegli la capsula da usare durante la Gara.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+106,DP_contest_507,Vuoi esercitarti di nuovo?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+107,DP_contest_508,Metticela tutta!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+238,DP_contest_687,"Mi dispiace, ma al momento le Gare-show in link
+non sono disponibili.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+108,DP_contest_545,"E con ciò direi che possiamo concludere
+le prove!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+109,DP_contest_546,Il Livello arena è già al massimo.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+110,DP_contest_547,"Il Livello arena è salito! A partire dalla prossima
+Gara-show, il palco sarà ancora più sontuoso!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+111,DP_contest_548,"Ottimo lavoro! Sei riuscit{tag:0} a portare al massimo
+il Livello arena!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+112,DP_contest_549,Mossa Gara,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+113,DP_contest_550,Personalità,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+114,DP_contest_551,Danza,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+115,DP_contest_552,Mossa,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+116,DP_contest_553,Gara di Classe,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+117,DP_contest_554,Gara di Bellezza,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+118,DP_contest_555,Gara di Grazia,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+119,DP_contest_556,Gara di Acume,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+120,DP_contest_557,Gara di Grinta,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+121,DP_contest_558,Livello Normale,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+122,DP_contest_559,Livello Mega,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+123,DP_contest_560,Livello Ultra,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+124,DP_contest_561,Livello Master,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+125,DP_contest_562,Favoloso,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+126,DP_contest_563,Stellare,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+127,DP_contest_564,Ottimo,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+128,DP_contest_565,Bene,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+129,DP_contest_566,Troppo presto/troppo tardi,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+130,DP_contest_567,<size=150%>{tag:0}</size> volt{tag:1},37,-1,42,294,0,"0
+0
+0
+-1
+0",0,2,2,1,0,205,,0,-1,21,1,5,0,0,"a
+e",0
+131,DP_contest_568,Tempo residuo: {tag:0}:{tag:1},46,-1,42,588,0,"0
+0
+0
+-1
+0",0,2,1,1,0,205,,0,1,2,1,1,0,205,,0
+41,DP_contest_294,Le regole delle Gare,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+42,DP_contest_295,Le categorie,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+43,DP_contest_296,I livelli,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+44,DP_contest_298,Le Gare,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+45,DP_contest_299,La Valutazione della personalità,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+46,DP_contest_300,La Valutazione della danza,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+47,DP_contest_301,La Valutazione della mossa,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+62,DP_contest_318,Le prove,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+7,DP_contest_641,Gara Lucente,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+8,DP_contest_642,Gara Splendente,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+132,DP_contest_569,Ammesso,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+133,DP_contest_570,Non ammesso,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+134,DP_contest_571,Scegli un Pokémon.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+135,DP_contest_572,Scegli una mossa.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+136,DP_contest_573,Scegli una capsula.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+137,DP_contest_574,Scegli un look.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+138,DP_contest_575,Sala {tag:0},42,-1,42,504,0,"0
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+139,DP_contest_576,Internet,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+140,DP_contest_577,Comunicazione locale,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+141,DP_contest_578,Le Gare,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+142,DP_contest_579,Valutazione della personalità,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+143,DP_contest_580,Valutazione della danza,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+144,DP_contest_581,Valutazione della mossa,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+210,DP_contest_655,Con una password,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+145,DP_contest_583,Vuoi cambiare look?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+146,DP_contest_584,Scegli il look da Gara,48,-1,42,672,0,"0
+0
+0
+-1
+0"
+147,DP_contest_585,Scegli un altro look,48,-1,42,672,0,"0
+0
+0
+-1
+0"
+148,DP_contest_586,"La tua è stata la performance migliore!
+Complimenti!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+149,DP_contest_587,"Come premio, ecco
+un {tag:0}!",0,-1,54,1080,1,"0
+0
+0
+-1
+0",0,1,38,0,0,0,,0
+152,DP_contest_588,"Nelle Super Gare-show, quattro concorrenti
+{pageend:si esibiscono per un grande pubblico!}
+L’obiettivo è di collaborare l’uno con l’altro
+{pageend:e far sì che lo show abbia successo...}
+Ma lo show è, allo stesso tempo, una gara
+in cui vengono valutati tre elementi: personalità,
+danza e mosse!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+153,DP_contest_589,"Esistono quattro livelli diversi di Gare-show
+{pageend:in link: Livello Normale, Mega, Ultra e Master.}
+Più ci si avvicina al Livello Master e più aumenta
+{pageend:la difficoltà.}
+Nelle Gare in link puoi sperimentare da subito
+tutti i livelli!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+154,DP_contest_590,Capogruppo,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+155,DP_contest_591,Ospite,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+156,DP_contest_592,Da quante persone sarà composto il gruppo?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+157,DP_contest_593,{tag:0},37,-1,42,294,0,"0
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+158,DP_contest_594,Casuale,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+159,DP_contest_595,Sarai affiancat{tag:0} da concorrenti di supporto.,0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+160,DP_contest_596,Il numero di partecipanti non è sufficiente.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+161,DP_contest_597,Partecipa tramite comunicazione locale,48,-1,42,672,0,"0
+0
+0
+-1
+0"
+162,DP_contest_598,Partecipa tramite Internet,48,-1,42,672,0,"0
+0
+0
+-1
+0"
+163,DP_contest_599,Vuoi passare alla comunicazione locale?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+164,DP_contest_600,Passa alla comunicazione locale,48,-1,42,672,0,"0
+0
+0
+-1
+0"
+165,DP_contest_601,Comunicazione locale attivata.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+166,DP_contest_602,Ricerca in corso...,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+167,DP_contest_603,Vuoi giocare di nuovo con le stesse regole?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+168,DP_contest_604,"Mi dispiace, ma sembra che tu non possa
+partecipare alle Gare-show in link.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+169,DP_contest_605,Vuoi collegarti a Internet?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+170,DP_contest_606,Collegati a Internet,48,-1,42,672,0,"0
+0
+0
+-1
+0"
+171,DP_contest_607,Collegamento a Internet stabilito.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+172,DP_contest_608,"Vuoi diventare capogruppo o vuoi partecipare
+come ospite?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+173,DP_contest_609,Gara-show in link,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+174,DP_contest_610,Verifica,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+211,DP_contest_656,"Potrai usare le funzioni di comunicazione solo
+con persone appartenenti allo stesso gruppo.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+176,DP_contest_612,Gara Lucente,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+91,DP_contest_685,"La Gara-show è stata un trionfo!
+L’entusiasmo del pubblico è al massimo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+201,DP_contest_686,"{pageend:Mh?}
+A quanto pare nessuno dei tuoi Pokémon
+{pageend:può partecipare a quella Gara.}
+È riservata ai Pokémon che sfoggiano un Fiocco
+Stella delle Gare. Torna quando ne avrai uno!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+177,DP_contest_615,A quale livello di difficoltà vuoi partecipare?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+178,DP_contest_616,Ecco le regole delle Super Gare-show.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+179,DP_contest_617,"Ogni Super Gara-show inizia con la Valutazione
+della personalità!",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+180,DP_contest_618,In questa parte si giudicano le virtù dei Pokémon,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+181,DP_contest_619,"e il modo in cui la loro capsula è stata
+personalizzata!",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+182,DP_contest_620,Si prosegue con la Valutazione della danza.,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+183,DP_contest_621,"In questa parte si giudica il senso del ritmo
+di un Pokémon!",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+184,DP_contest_622,"Vedrai delle note a forma di Poké Ball che
+scorrono da destra a sinistra sullo schermo.",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+185,DP_contest_623,"Quando le note si sovrappongono alla Poké Ball,
+premi il pulsante A!",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+186,DP_contest_624,"Le note lunghe si estendono fino a formare
+una linea.",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+187,DP_contest_625,"Continua a tenere premuto il pulsante A
+fino alla fine della linea.",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+188,DP_contest_626,"Premendo il pulsante a ritmo con le note,
+l’indicatore dei cuori si riempirà.",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+189,DP_contest_627,"Ogni volta che l’indicatore si riempie al massimo,
+otterrai un punto show (<color=#F01E1EFF>♥</color>).",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+190,DP_contest_628,"Nel corso della Valutazione della danza,
+una volta soltanto...",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+191,DP_contest_629,"... potrai utilizzare una mossa Gara premendo
+il pulsante X.",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+192,DP_contest_630,"Quando la userai, otterrai dei punti show (<color=#F01E1EFF>♥</color>).",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+193,DP_contest_631,"Se la esegui subito dopo una mossa degli altri
+concorrenti...",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+194,DP_contest_632,"... creerai delle combo e otterrai ancora
+più punti!",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+195,DP_contest_633,"Se la somma dei punti show (<color=#F01E1EFF>♥</color>) dei quattro
+concorrenti supera il numero necessario...",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+196,DP_contest_634,... la Super Gara-show sarà un successo!,20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+197,DP_contest_635,"Completando brillantemente le Gare potrai
+accumulare punti successo...",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+198,DP_contest_636,"... con i quali potrai far salire il Livello arena
+e rendere il palco più sfarzoso!",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+199,DP_contest_637,"La spiegazione termina qui. Vuoi fare una prova
+per esercitarti?",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+200,DP_contest_638,"{pageend:Oh...}
+Sembra che tu non abbia mai partecipato
+{pageend:a una Gara-show di quel livello.}
+Torna dopo aver vinto una Gara-show
+del livello precedente.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+202,DP_contest_639,Gara Splendente,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+203,DP_contest_640,"{tag:0} ({tag:1})
+{tag:2} di {tag:3}",72,-1,42,1050,0,"0
+0
+0
+-1
+0",0,1,31,0,0,0,,0,1,1,32,0,0,0,,0,3,1,2,0,0,0,,0,2,1,0,0,0,0,,0
+59,DP_contest_643,Gara Lucente,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+60,DP_contest_644,Gara Splendente,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+212,DP_contest_657,"Oh! A quanto pare non fai ancora parte
+{pageend:di nessun gruppo!}
+Riprova dopo essere entrat{tag:0} in un gruppo.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+213,DP_contest_658,"Se imposti una password, potrai usare le funzioni
+di comunicazione solo con chi avrà scelto
+la stessa password.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+204,DP_contest_647,Inserisci una password di 8 cifre.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+80,DP_contest_456,"Grazie per aver partecipato. Il tuo Pokémon
+{pageend:ha danzato bene! È pronto per una Gara vera!}
+Oppure ti va di fare un altro po’ di pratica
+con la danza?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+214,DP_contest_659,Come te la cavi nelle Gare-show?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+215,DP_contest_660,Benissimo!,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+216,DP_contest_661,Abbastanza bene,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+217,DP_contest_662,Così così,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+218,DP_contest_663,Sembra che la connessione non sia molto stabile.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+233,DP_contest_680,Inizia con questi partecipanti,91,-1,32,448,0,"0
+0
+0
+-1
+0"
+234,DP_contest_681,Annulla,81,-1,32,224,0,"0
+0
+0
+-1
+0"
+219,DP_contest_666,...,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+220,DP_contest_667,Ricerca di partecipanti in corso...,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+221,DP_contest_668,Non è stato trovato nessun partecipante.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+222,DP_contest_669,Vuoi provare a cercare ancora?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+223,DP_contest_670,Sono stati trovati dei partecipanti!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+224,DP_contest_671,"Vuoi scegliere quale Gara-show organizzare
+con questi partecipanti?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+225,DP_contest_672,Sì,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+226,DP_contest_673,No,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+227,DP_contest_674,Preparativi della Gara-show in corso...,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+228,DP_contest_675,Le modalità della Gara-show sono state decise!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+229,DP_contest_676,"Alcuni partecipanti si sono disconnessi.
+Il gruppo verrò sciolto.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+230,DP_contest_677,"Come ultima cosa, scegli un look.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+231,DP_contest_678,"Non hai raggiunto i quattro partecipanti.
+Sarai affiancat{tag:0} da concorrenti di supporto.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+232,DP_contest_679,Allora diamo inizio alla Gara-show in link!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+235,DP_contest_682,La Gara-show inizierà con questi partecipanti.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+236,DP_contest_683,Vuoi terminare la Gara-show in link?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+237,DP_contest_684,Buona fortuna!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+53,DP_contest_691,Conferma,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+150,DP_contest_692,"Come premio, ecco
+{tag:0}{tag:1}!",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,5,5,0,0,,0,0,1,77,0,0,0,,0
+151,DP_contest_693,"Sei stat{tag:0} premiat{tag:1} per la performance migliore
+{pageend:in tutte le Gare-show!}
+Per celebrare questo straordinario risultato,
+voglio darti un {tag:2}{pageend:!}
+Complimenti!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0,-1,21,0,5,0,255,"o
+a",0,0,1,38,0,0,0,,0
+309,00_msg_r212ar0101_msg_43,"Per ora ci hai messo
+{tag:0}{pageend:}
+{pageend:turni.}
+Pensi di avere un buon ritmo?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,2,4,1,0,0,,0
+310,00_msg_r212ar0101_msg_44,"Sono passati
+{tag:0}{pageend:}
+{pageend:turni.}
+Pensi ancora di farcela?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,2,4,1,0,0,,0
+311,00_msg_r212ar0101_msg_33,"Ci hai battuto tutti e tre!
+{pageend:Ci hai messo}
+{tag:0}{pageend:}
+turni in totale.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,2,4,1,0,0,,0
+312,00_msg_r212ar0101_msg_35,"Oh, hey. Bel lavoro, ragazzino.
+{pageend:Hai davvero rispettato i requisiti.}
+Ma chi dice che dobbiamo mantenere le
+{pageend:promesse!}
+Ahahahaha...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"

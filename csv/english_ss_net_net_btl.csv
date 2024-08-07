@@ -1,0 +1,690 @@
+0,SS_net_net_btl_001,Single Battle,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+1,SS_net_net_btl_002,Double Battle,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+2,SS_net_net_btl_004,{tag:0},37,-1,42,294,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+7,SS_net_net_btl_009,"Communicating...
+Please stand by.",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+8,SS_net_net_btl_010,Would you like to cancel the battle?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+9,SS_net_net_btl_011,"The battle will end because somebody ended
+communication.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+10,SS_net_net_btl_012,Ending communication...,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+12,SS_net_net_btl_015,Would you like to decide battle rules?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+13,SS_net_net_btl_016,"Another player is choosing who will select
+the rules. Please wait.",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+14,SS_net_net_btl_017,{tag:0} quit deciding rules.,57,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+15,SS_net_net_btl_018,{tag:0} is deciding battle rules.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+16,SS_net_net_btl_019,Please select battle format.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+17,SS_net_net_btl_021,"Would you like to let another player decide
+the rules?",57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+18,SS_net_net_btl_022,"Now sending...
+Please stand by.",57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+19,SS_net_net_btl_024,Do you prefer other battle rules?,57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+20,SS_net_net_btl_025,"Sending a message that you won’t participate in
+a battle with the selected rules...",57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+21,SS_net_net_btl_026,"Battle rules will be reselected because at least
+one person can’t participate in the battle.",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+22,SS_net_net_btl_027,"If you can’t participate in a battle with the
+current battle rules, please select
+“Change Rules.”",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+23,SS_net_net_btl_028,"Waiting for the other player(s)...
+Please wait.",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+24,SS_net_net_btl_029,Please select participating Pokémon.,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+25,SS_net_net_btl_030,Who will be Position {tag:0}?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+26,SS_net_net_btl_031,"The teams are being decided...
+Please wait.",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+27,SS_net_net_btl_032,Would you like to keep playing?,57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+28,SS_net_net_btl_033,Waiting for the other player(s)...,57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+29,SS_net_net_btl_034,"You are going to battle again with the
+same rules.",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+30,SS_net_net_btl_035,"You are going to battle again with
+different rules.",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+31,SS_net_net_btl_036,Yes,49,-1,42,714,0,"-1
+0
+0
+-1
+0"
+32,SS_net_net_btl_037,No,49,-1,42,714,0,"-1
+0
+0
+-1
+0"
+33,SS_net_net_btl_038,Decide myself,49,-1,42,714,0,"-1
+0
+0
+-1
+0"
+34,SS_net_net_btl_039,Let another player decide,49,-1,42,714,0,"-1
+0
+0
+-1
+0"
+35,SS_net_net_btl_041,Back,49,-1,42,714,0,"-1
+0
+0
+-1
+0"
+36,SS_net_net_btl_044,Let the battle begin!,49,-1,42,714,0,"-1
+0
+0
+-1
+0"
+37,SS_net_net_btl_045,Play with the same rules,49,-1,42,714,0,"-1
+0
+0
+-1
+0"
+38,SS_net_net_btl_046,Play with different rules,49,-1,42,714,0,"-1
+0
+0
+-1
+0"
+40,SS_net_net_btl_051,Automatic,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+41,SS_net_net_btl_052,{tag:0},39,-1,42,420,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+42,SS_net_net_btl_054, Quit,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+43,SS_net_net_btl_056, Confirm,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+45,SS_net_net_btl_058, Back,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+47,SS_net_net_btl_062,Selecting...,38,-1,42,336,0,"-1
+0
+0
+-1
+0"
+48,SS_net_net_btl_063,Done!,38,-1,42,336,0,"-1
+0
+0
+-1
+0"
+49,SS_net_net_btl_064,Normal Rules,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+50,SS_net_net_btl_065,Battle Tower Rules,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+51,SS_net_net_btl_066,No Restrictions,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+52,SS_net_net_btl_067,Participating Team,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+53,SS_net_net_btl_069,{tag:0},87,-1,32,384,0,"-1
+0
+0
+-1
+0",0,1,57,0,0,0,,0
+54,SS_net_net_btl_070,Battle BGM,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+55,SS_net_net_btl_071,{tag:0},87,-1,32,384,0,"-1
+0
+0
+-1
+0",0,1,61,0,0,0,,0
+56,SS_net_net_btl_073,"There is a problem with the rules you received.
+Rules will be reselected.",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+57,SS_net_net_btl_075,"Would you like to let another player decide
+the rules?",57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+58,SS_net_net_btl_076,"Now sending...
+Please stand by.",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+59,SS_net_net_btl_077,"There is a problem with the rules that you sent.
+Please select rules again.",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+60,SS_net_net_btl_079,Battle rules will be reselected.,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+61,SS_net_net_btl_080,"There is a problem with the Battle Team
+you selected.",57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+62,SS_net_net_btl_081,"There is a problem with the other player’s
+Battle Team.",57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+63,SS_net_net_btl_090,"You won’t be able to connect again with any
+{pageend:player you add to your block list.}
+Are you sure you want to block this player?
+(It’s possible to unblock the player again.)",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+64,SS_net_net_btl_092,Who would you like to add to your block list?,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+65,SS_net_net_btl_094,Please select the team you want to battle with.,110,-1,32,768,0,"-1
+0
+0
+-1
+0"
+66,SS_net_net_btl_095,Please decide the teams.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+67,SS_net_net_btl_096,{tag:0},46,-1,42,588,0,"-1
+0
+0
+-1
+0",0,1,73,0,0,0,,0
+68,SS_net_net_btl_097,Change Rules,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+69,SS_net_net_btl_098,"In this battle, the opposing player can see your
+Pokémon’s nicknames.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+70,SS_net_net_btl_099,Quit,34,-1,42,168,0,"-1
+0
+0
+-1
+0"
+71,SS_net_net_btl_100,Mix Teams,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+72,SS_net_net_btl_101,Mix teams have been decided!,57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+3,SS_net_net_btl_005,Team A1,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+4,SS_net_net_btl_006,Team A2,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+73,SS_net_net_btl_104,{tag:0},35,-1,42,210,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+74,SS_net_net_btl_105,{tag:0},39,-1,42,420,0,"-1
+0
+0
+-1
+0",1,2,1,1,0,205,,0
+5,SS_net_net_btl_007,Team B1,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+6,SS_net_net_btl_008,Team B2,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+11,SS_net_net_btl_013,You may decide who chooses the battle rules.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+44,SS_net_net_btl_057, Done,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+75,SS_net_net_btl_106,"Which connection would you like to use for
+a battle?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+76,SS_net_net_btl_107,Internet,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+77,SS_net_net_btl_108,Local communication,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+78,SS_net_net_btl_109,Never mind,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+79,SS_net_net_btl_110,Would you like to enter the Colosseum?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+80,SS_net_net_btl_111,I hope you enjoy your time in the Colosseum!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+81,SS_net_net_btl_112,Would you like to leave the Colosseum?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+82,SS_net_net_btl_113,"Ending the communication...
+Please wait.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+84,SS_net_net_btl_114,"Please wait until preparations are complete.
+B Button: Quit",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+85,SS_net_net_btl_115, Quit,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+86,SS_net_net_btl_116,"The opponent has suggested to change the
+battle rules. Is that OK?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+87,SS_net_net_btl_117,"New rules:
+{tag:0}",43,-1,42,504,0,"-1
+0
+0
+-1
+0",0,1,85,0,0,0,,0
+88,SS_net_net_btl_118,The preparations are done! The battle will start!,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+89,SS_net_net_btl_119,"Welcome to the Colosseum! If you have any
+questions, please don’t hesitate to ask!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+83,SS_net_net_btl_124,"Communication will end because somebody
+left the Colosseum.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+90,SS_net_net_btl_121,"You can battle with various rules in
+{pageend:the Colosseum.}
+When everyone is standing in the designated
+areas, the battle will start.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+91,SS_net_net_btl_122,Battle rules will be changed. Is that OK?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+92,SS_net_net_btl_123,"{pageend:You can’t change rules for Multi Battles.}
+Please leave the Colosseum first, and then
+select rules again.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+93,SS_net_net_btl_125,Searching for an opponent...,20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+94,SS_net_net_btl_126,"An opponent has been found!
+A Link Battle will start!",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+95,SS_net_net_btl_127, Quit,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+96,SS_net_net_btl_128, Confirm,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+97,SS_net_net_btl_129, Register Team,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+98,SS_net_net_btl_130, Back,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+99,SS_net_net_btl_131,There is no team.,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+100,SS_net_net_btl_132,Is this team OK?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+101,SS_net_net_btl_133,"There are at least two Pokémon of the
+same species.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+102,SS_net_net_btl_134,You don’t have enough Pokémon.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+108,SS_net_net_btl_135,Are these rules OK?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+109,SS_net_net_btl_136,Opponent,35,-1,42,210,0,"-1
+0
+0
+-1
+0"
+110,SS_net_net_btl_137,Trainers’ Pokémon will be mixed!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+103,SS_net_net_btl_141,Eggs can’t participate.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+104,SS_net_net_btl_142,One or more of your Pokémon can’t participate.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+105,SS_net_net_btl_143,"There are at least two Pokémon with the same
+held item.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+106,SS_net_net_btl_144,"There is a problem with at least one Pokémon
+in this Battle Team.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+107,SS_net_net_btl_145,"There is a problem with your
+participating Pokémon.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+111,SS_net_net_btl_138,Select Team,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+112,SS_net_net_btl_139,Select Battle Rules,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+113,SS_net_net_btl_140,Confirm Rules,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+115,SS_net_net_btl_146,No. of Pokémon,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+116,SS_net_net_btl_147,Pokémon Level,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+117,SS_net_net_btl_148,Special Pokémon,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+118,SS_net_net_btl_149,Same Pokémon,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+119,SS_net_net_btl_150,Same Items,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+120,SS_net_net_btl_151,{tag:0},87,-1,32,384,0,"-1
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+121,SS_net_net_btl_152,Lv. {tag:0} or higher,87,-1,32,384,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+122,SS_net_net_btl_153,{tag:0} to {tag:1},87,-1,32,384,0,"-1
+0
+0
+-1
+0",0,2,0,1,0,205,,0,1,2,0,1,0,205,,0
+123,SS_net_net_btl_154,Set all to Lv. {tag:0},87,-1,32,384,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+124,SS_net_net_btl_155,Up to Lv. {tag:0},87,-1,32,384,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+125,SS_net_net_btl_156,Allowed,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+126,SS_net_net_btl_157,Not allowed,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+127,SS_net_net_btl_158,Allowed,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+128,SS_net_net_btl_159,Not allowed,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+129,SS_net_net_btl_160,No restrictions,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+114,SS_net_net_btl_161,Battle Rules,7,-1,54,540,0,"-1
+0
+0
+-1
+0"
+46,SS_net_net_btl_061,Check battle formats,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+39,SS_net_net_btl_162,Quit,49,-1,42,714,0,"-1
+0
+0
+-1
+0"

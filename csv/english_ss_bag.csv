@@ -1,0 +1,896 @@
+0,SS_bag_000,YOUR MONEY,80,-1,32,192,0,"-1
+0
+0
+-1
+0"
+1,SS_bag_001,{tag:0},172,-1,32,352,0,"-1
+0
+0
+-1
+0",0,2,6,1,0,2,,0
+2,SS_bag_002,{tag:0},91,-1,32,448,0,"-1
+0
+0
+-1
+0",0,1,18,0,0,0,,0
+3,SS_bag_004,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+4,SS_bag_006,Lv. {tag:0},151,-1,42,294,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+5,SS_bag_007,{tag:0},37,-1,42,294,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+6,SS_bag_009,/,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+7,SS_bag_010,{tag:0},150,-1,42,252,0,"-1
+0
+0
+-1
+0",0,2,3,1,0,0,,0
+8,SS_bag_011,{tag:0},150,-1,42,252,0,"-1
+0
+0
+-1
+0",0,2,3,1,0,0,,0
+9,SS_bag_014,Power,80,-1,32,192,0,"-1
+0
+0
+-1
+0"
+10,SS_bag_015,{tag:0},166,-1,32,128,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+11,SS_bag_016,Accuracy,80,-1,32,192,0,"-1
+0
+0
+-1
+0"
+12,SS_bag_017,{tag:0},166,-1,32,128,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+13,SS_bag_018,—,166,-1,32,128,0,"-1
+0
+0
+-1
+0"
+14,SS_bag_019,PP,80,-1,32,192,0,"-1
+0
+0
+-1
+0"
+15,SS_bag_020,{tag:0},165,-1,32,96,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+16,SS_bag_022,{tag:0}/{tag:1},168,-1,32,192,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0,1,2,1,1,0,205,,0
+17,SS_bag_026,{tag:0},39,-1,42,420,0,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+18,SS_bag_028,×,146,-1,42,84,0,"-1
+0
+0
+-1
+0"
+19,SS_bag_029,{tag:0},148,-1,42,168,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+20,SS_bag_030, Confirm,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+21,SS_bag_031, Back,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+22,SS_bag_032, Favorite,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+23,SS_bag_033, Sort,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+24,SS_bag_034,Empty,7,-1,54,540,0,"-1
+0
+0
+-1
+0"
+25,SS_bag_035,Which Pokémon will you use it on?,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+26,SS_bag_036,"{tag:0} can’t be learned by
+{tag:1}! The two are incompatible!",30,-1,42,840,0,"-1
+0
+0
+-1
+0",1,1,7,0,0,0,,0,0,1,2,0,0,0,,0
+27,SS_bag_037,"{tag:0} already knows
+the move {tag:1}.",30,-1,42,840,1,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,7,0,0,0,,0
+28,SS_bag_038,{callback:9.0:You booted up the TM.}{callback:0.0:},30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+29,SS_bag_039,"{tag:0} learned
+{tag:1}{callback:4.0:!}{callback:1.0:}",30,-1,42,840,1,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,7,0,0,0,,0
+30,SS_bag_040,"{tag:0} wants to learn the
+move {tag:1}{pageend:.}
+Should an old move be forgotten and replaced
+with {tag:2}?",30,-1,42,840,1,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,7,0,0,0,,0,1,1,7,0,0,0,,0
+31,SS_bag_041,"{wait:0.19999998807907104:One...}{wait:0.19999998807907104:two...}{wait:0.19999998807907104:and...}{wait:0.19999998807907104:}{callback:3.0:ta-da!}{callback:0.0:}{pageend:}
+{tag:0} forgot {tag:1}{pageend:!}
+And it learned {tag:2}{callback:4.0: instead!}{callback:1.0:}",30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,7,0,0,0,,0,2,1,7,0,0,0,,0
+32,SS_bag_042,"{tag:0} did not learn
+{tag:1}.",30,-1,42,840,1,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,7,0,0,0,,0
+33,SS_bag_043,"Please choose a move that will be replaced
+with {tag:0}.",30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,7,0,0,0,,0
+34,SS_bag_044,You booted up the TR.,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+35,SS_bag_045,A TM can be used only once.,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+36,SS_bag_046,The TM {tag:0} broke.,30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,7,0,0,0,,0
+37,SS_bag_047,The TM will break. Is that OK?,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+38,SS_bag_048,Yes,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+39,SS_bag_049,No,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+40,SS_bag_050,<color=#0064FFFF>Can learn</color>,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+41,SS_bag_051,<color=#F01E1EFF>Cannot learn</color>,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+42,SS_bag_052,</color>Knows this move</color>,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+43,SS_bag_053,<color=#0064FFFF>Compatible</color>,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+44,SS_bag_054,<color=#F01E1EFF>Incompatible</color>,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+45,SS_bag_065,{tag:0},148,-1,42,168,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+46,SS_bag_066,×,146,-1,42,84,0,"-1
+0
+0
+-1
+0"
+47,SS_bag_067,{tag:0},155,-1,42,504,0,"-1
+0
+0
+-1
+0",0,2,6,1,0,2,,0
+48,SS_bag_068,Purchase Price,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+50,SS_bag_069,"I can pay you {tag:0}.
+Would that be OK?",30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,2,6,1,0,2,,0
+51,SS_bag_070,Yes,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+52,SS_bag_071,No,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+53,SS_bag_072,—,34,-1,42,168,0,"-1
+0
+0
+-1
+0"
+54,SS_bag_073,"How many {tag:0}
+would you like to sell?",30,-1,42,840,1,"-1
+0
+0
+-1
+0",0,1,10,0,0,0,,2
+55,SS_bag_074,"Oh, no.
+I can’t buy {tag:0}.",30,-1,42,840,1,"-1
+0
+0
+-1
+0",0,1,10,0,0,0,,2
+56,SS_bag_075,"You turned over the {tag:0}
+and got {tag:1}.",30,-1,42,840,1,"-1
+0
+0
+-1
+0",0,1,10,0,0,0,,0,1,2,6,1,0,2,,0
+57,SS_bag_076,"You turned over the {tag:0}
+and got {tag:1}.",30,-1,42,840,1,"-1
+0
+0
+-1
+0",0,1,10,0,0,0,,2,1,2,6,1,0,0,,0
+58,SS_bag_077,By type,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+59,SS_bag_078,By name,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+60,SS_bag_079,Newest first,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+61,SS_bag_080,By number,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+62,SS_bag_081,Favorites first,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+63,SS_bag_082,Quit,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+64,SS_bag_083,How do you want to sort your items?,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+65,SS_bag_084,Items have been sorted by type!,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+66,SS_bag_085,Items have been sorted by name!,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+67,SS_bag_086,Items have been sorted by number!,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+68,SS_bag_087,You sorted your items so favorites come first!,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+69,SS_bag_088,You sorted your items so new items come first!,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+70,SS_bag_089,Use this item,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+71,SS_bag_090,Give to a Pokémon,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+72,SS_bag_096,Cancel,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+73,SS_bag_098,"{tag:0}’s HP was restored by
+{tag:1} {tag:2}.",30,-1,42,840,1,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,2,2,1,0,205,,0,-1,19,1,5,0,1,"point
+points",0
+74,SS_bag_099,{tag:0} recovered from fainting!,30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+75,SS_bag_100,{tag:0} was cured of its poisoning!,30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+76,SS_bag_101,{tag:0} was cured of paralysis!,30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+77,SS_bag_102,{tag:0}’s burn was healed!,30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+78,SS_bag_103,{tag:0} was thawed out!,30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+79,SS_bag_104,{tag:0} woke up!,30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+80,SS_bag_105,{tag:0} became healthy!,30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+81,SS_bag_106,{tag:0}’s {tag:1} base points rose!,30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,13,0,0,0,,0
+83,SS_bag_107,"{tag:0} became more friendly.
+However, its {tag:1} base points fell!",30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,13,0,0,0,,0
+85,SS_bag_108,"{tag:0} adores you!
+However, its {tag:1} base points fell!",30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,13,0,0,0,,0
+87,SS_bag_109,"{tag:0} became more friendly.
+Its {tag:1} base points can’t go lower.",30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,13,0,0,0,,0
+89,SS_bag_110,You used {tag:0}{tag:1}.,30,-1,42,840,0,"-1
+0
+0
+-1
+0",-1,19,5,5,0,1,,0,1,1,9,0,0,0,,0
+90,SS_bag_111,"You can’t use that now, because the last Repel
+you used is still in effect.",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+91,SS_bag_112,"Your Pokémon is now holding
+the {tag:0}!",30,-1,42,840,1,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+92,SS_bag_113,"You took the Pokémon’s {tag:0}
+and gave it the {tag:1}.",30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0,1,1,9,0,0,0,,0
+93,SS_bag_115,It won’t have any effect.,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+153,SS_bag_346,View contents,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+94,SS_bag_117,You have no Pokémon!,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+95,SS_bag_118,Which Pokémon will you use it on?,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+96,SS_bag_119,Which Pokémon do you want to give this item to?,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+97,SS_bag_120,Eggs can’t hold items.,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+98,SS_bag_121,PP was restored!,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+99,SS_bag_122,"Do you want to swap its {tag:0}
+for the {tag:1}?",30,-1,42,840,1,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0,1,1,9,0,0,0,,0
+100,SS_bag_123,Which move’s PP do you want to restore?,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+101,SS_bag_124,Which move’s PP do you want to boost?,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+102,SS_bag_125,{tag:0}’s PP increased.,30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,7,0,0,0,,0
+103,SS_bag_126,"You can’t receive the item because your Bag
+is full.",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+104,SS_bag_128,PP was restored!,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+105,SS_bag_130,This can’t be used on a fainted Pokémon.,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+106,SS_bag_131,"You can’t separate the Pokémon now.
+There’s not enough room in your party.",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+107,SS_bag_135,{tag:0},39,-1,42,420,0,"-1
+0
+0
+-1
+0",0,1,7,0,0,0,,0
+108,SS_bag_141,Get off your bike,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+109,SS_bag_142,It can’t be fused with a Pokémon that has fainted.,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+110,SS_bag_143,It can’t be fused with that Pokémon.,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+111,SS_bag_144,It can’t be fused with an Egg.,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+112,SS_bag_145,"You can’t separate the Pokémon now.
+There’s not enough room in your party.",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+113,SS_bag_146,{tag:0} transformed!,30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+114,SS_bag_147,"Which Pokémon do you want to fuse this
+Pokémon with?",57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+115,SS_bag_149,"{tag:0} forgot
+{tag:1}...",30,-1,42,840,1,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,7,0,0,0,,0
+116,SS_bag_151,"Do you want to change
+{tag:0}’s Ability?",30,-1,42,840,1,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+117,SS_bag_152,"{callback:5.0:}{callback:1.0:}{tag:0}’s Ability changed!
+Its Ability is now {tag:1}!",30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,6,0,0,0,,0
+118,SS_bag_153,Attack,79,-1,32,160,0,"-1
+0
+0
+-1
+0"
+119,SS_bag_154,Defense,79,-1,32,160,0,"-1
+0
+0
+-1
+0"
+120,SS_bag_155,Sp. Atk,79,-1,32,160,0,"-1
+0
+0
+-1
+0"
+121,SS_bag_156,Sp. Def,79,-1,32,160,0,"-1
+0
+0
+-1
+0"
+122,SS_bag_157,Speed,79,-1,32,160,0,"-1
+0
+0
+-1
+0"
+123,SS_bag_158,{tag:0},166,-1,32,128,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+124,SS_bag_159,+{tag:0},167,-1,32,160,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+125,SS_bag_160,HP,79,-1,32,160,0,"-1
+0
+0
+-1
+0"
+126,SS_bag_161,"It might affect {tag:0}’s stats.
+Are you sure you want to use it?",30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+127,SS_bag_162,"{tag:0}’s stats may have changed due
+to the effects of the {tag:1}{callback:5.0:!}{callback:1.0:}",30,-1,42,840,0,"-1
+0
+0
+-1
+0",1,1,2,0,0,0,,0,0,1,9,0,0,0,,0
+128,SS_bag_163,"How many {tag:0}
+do you want to use?",30,-1,42,840,1,"-1
+0
+0
+-1
+0",1,1,10,0,0,0,,2
+129,SS_bag_165,"How many {tag:0}
+do you want to use?",57,-1,42,840,1,"-1
+0
+0
+-1
+0",1,1,10,0,0,0,,2
+158,SS_bag_356, View tag,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+49,SS_bag_357,Spheres You’ll Receive,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+82,SS_bag_358,{tag:0}’s {tag:1} base points rose!,30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,13,0,0,0,,0
+130,SS_bag_169,Light bulb,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+131,SS_bag_170,Microwave oven,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+132,SS_bag_171,Washing machine,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+133,SS_bag_172,Refrigerator,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+134,SS_bag_173,Electric fan,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+135,SS_bag_174,Lawn mower,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+136,SS_bag_175,Which appliance would you like to order?,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+137,SS_bag_213,Register,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+138,SS_bag_214,Deregister,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+139,SS_bag_337,"Rowan’s words echoed...
+“{tag:0}! There’s a time and place
+for everything! But not now.”",30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+140,SS_bag_338,BAG,34,-1,42,168,0,"-1
+0
+0
+-1
+0"
+141,SS_bag_339,Hype Points,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+142,SS_bag_340,Please select a button to register.,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+143,SS_bag_341,Would you like to change the registered item?,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+144,SS_bag_342,The item has been registered!,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+150,SS_bag_343,Open,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+151,SS_bag_344,View tag,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+152,SS_bag_345,Plant,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+145,SS_bag_347,Where do you want to register this?,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+146,SS_bag_348,Which item would you like to replace?,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+147,SS_bag_349,"Do you want to replace the {tag:0}
+with the {tag:1}?",30,-1,42,840,0,"-1
+0
+0
+-1
+0",1,1,9,0,0,0,,0,0,1,9,0,0,0,,0
+148,SS_bag_350,"You registered the {tag:0}!
+Press the + Button to use it.",30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+149,SS_bag_351,"You replaced the item with
+the {tag:0}{pageend:.}
+Press the + Button to use it.",30,-1,42,840,1,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+154,SS_bag_352,You can’t dismount your bike here.,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+155,SS_bag_353,You turned DS Sounds on!,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+156,SS_bag_354,You turned DS Sounds off!,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+157,SS_bag_355,Saved Battle Points: {tag:0} BP,30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,2,3,1,0,2,,0
+84,SS_bag_359,"{tag:0} became more friendly.
+However, its {tag:1} base points fell!",30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,13,0,0,0,,0
+86,SS_bag_360,"{tag:0} adores you!
+However, its {tag:1} base points fell!",30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,13,0,0,0,,0
+88,SS_bag_361,"{tag:0} became more friendly.
+Its {tag:1} base points can’t go lower.",30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,13,0,0,0,,0
+159,SS_bag_362,Disable,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+160,SS_bag_363,Unova,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+161,SS_bag_364,Kalos,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+162,SS_bag_365,Alola,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+163,SS_bag_366,Hisui,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+164,SS_bag_367,Galar,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+165,SS_bag_368,Which flower would you like to use?,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+166,SS_bag_369,"You remove the flowers,
+and the air returns to normal.",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+167,SS_bag_370,"You sense Pokémon shifting
+as the new scent rises.",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+168,SS_bag_371,Use the Infinite Repel again to turn it off.,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+169,SS_bag_372,The Infinite Repel wore off.,30,-1,42,840,0,"-1
+0
+0
+-1
+0"

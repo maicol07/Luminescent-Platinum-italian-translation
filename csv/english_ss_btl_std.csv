@@ -1,0 +1,1597 @@
+0,BTL_STRID_STD_NULL,●●,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+1,BTL_STRID_STD_Encount_Wild1,You encountered a wild {tag:0}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+2,BTL_STRID_STD_Encount_Wild2,Whoa! A wild {tag:0} leaped out!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+3,BTL_STRID_STD_Encount_WildDouble,You encountered a wild {tag:0} and {tag:1}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",1,1,1,0,0,0,,0,2,1,1,0,0,0,,0
+4,BTL_STRID_STD_Encount_WildDouble_samekind,You encountered two wild {tag:0}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",1,1,1,0,0,0,,0
+5,BTL_STRID_STD_Encount_Wild_Move,Oh! A wild {tag:0} appeared!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+6,BTL_STRID_STD_Encount_Wild_Talk,You encountered a wild {tag:0}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+7,BTL_STRID_STD_Encount_Wild_Ride,Whoa! The {tag:0} you stepped on attacked!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+8,BTL_STRID_STD_Encount_Wild_Legend,{tag:0} appeared!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+9,BTL_STRID_STD_Encount_Band,Whoa! A horde of {tag:0} appeared!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+11,BTL_STRID_STD_Encount_NPC1,"You are challenged by
+{tag:0}{tag:1} {tag:2}!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",-1,19,3,5,0,0,,0,0,1,14,0,0,0,,0,1,1,0,0,0,0,,0
+12,BTL_STRID_STD_Encount_Player1,{tag:0} is issuing a challenge!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+13,BTL_STRID_STD_Encount_NPC2,"You are challenged by
+{tag:0}{tag:1} {tag:2} and
+{tag:3}{tag:4} {tag:5}!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",-1,19,3,5,0,0,,0,0,1,14,0,0,0,,0,1,1,0,0,0,0,,0,-1,19,3,5,0,2,,0,2,1,14,0,0,0,,0,3,1,0,0,0,0,,0
+14,BTL_STRID_STD_Encount_Player2,{tag:0} and {tag:1} issued a challenge!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+15,BTL_STRID_STD_PutSingle,Go! {tag:0}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+16,BTL_STRID_STD_PutDouble,Go! {tag:0} and {tag:1}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,2,0,0,0,,0
+17,BTL_STRID_STD_PutSingle_NPC,"{tag:0}{tag:1} {tag:2} sent
+out {tag:3}!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",-1,19,4,5,0,0,,0,0,1,14,0,0,0,,0,1,1,0,0,0,0,,0,2,1,2,0,0,0,,0
+18,BTL_STRID_STD_PutDouble_NPC,"{tag:0}{tag:1} {tag:2} sent out
+{tag:3} and {tag:4}!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",-1,19,4,5,0,0,,0,0,1,14,0,0,0,,0,1,1,0,0,0,0,,0,2,1,2,0,0,0,,0,3,1,2,0,0,0,,0
+19,BTL_STRID_STD_PutDouble_Tag,"{tag:0}{tag:1} {tag:2} and
+{tag:3} sent out {tag:4} and {tag:5}!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",-1,19,4,5,0,0,,0,0,1,14,0,0,0,,0,1,1,0,0,0,0,,0,2,1,0,0,0,0,,0,3,1,2,0,0,0,,0,4,1,2,0,0,0,,0
+20,BTL_STRID_STD_PutDouble_Tag_samekind,"{tag:0}{tag:1} {tag:2} and
+{tag:3} sent out two {tag:4}!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",-1,19,4,5,0,0,,0,0,1,14,0,0,0,,0,1,1,0,0,0,0,,0,2,1,0,0,0,0,,0,3,1,2,0,0,0,,0
+21,BTL_STRID_STD_PutSingle_Player,{tag:0} sent out {tag:1}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,2,0,0,0,,0
+22,BTL_STRID_STD_PutDouble_Player,{tag:0} sent out {tag:1} and {tag:2}!,2,-1,54,1620,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,2,0,0,0,,0,2,1,2,0,0,0,,0
+23,BTL_STRID_STD_PutTriple_Player,"{tag:0} sent out {tag:1}, {tag:2},
+and {tag:3}!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,2,0,0,0,,0,2,1,2,0,0,0,,0,3,1,2,0,0,0,,0
+24,BTL_STRID_STD_IrekaeConfirm,"{tag:0}{tag:1} {tag:2} is about to
+send out {tag:3}. Will you switch your Pokémon?",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",-1,19,4,5,0,0,,0,0,1,14,0,0,0,,0,1,1,0,0,0,0,,0,2,1,2,0,0,0,,0
+25,BTL_STRID_STD_PutChange1,"You’re in charge, {tag:0}!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+26,BTL_STRID_STD_PutChange2,"Go for it, {tag:0}!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+27,BTL_STRID_STD_PutChange3,"Just a little more! Hang in there, {tag:0}!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+28,BTL_STRID_STD_PutChange4,"Your opponent’s weak! Get ’em, {tag:0}!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+29,BTL_STRID_STD_BackChange1,"{tag:0}, switch out! Come back!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+30,BTL_STRID_STD_BackChange2,"{tag:0}, come back!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+31,BTL_STRID_STD_BackChange3,"{tag:0}, that’s enough! Come back!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+32,BTL_STRID_STD_BackChange4,"OK, {tag:0}! Come back!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+33,BTL_STRID_STD_BackChange5,"Good job, {tag:0}! Come back!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+34,BTL_STRID_STD_BackChange_NPC,"{tag:0}{tag:1} {tag:2}
+withdrew {tag:3}!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",-1,19,4,5,0,0,,0,0,1,14,0,0,0,,0,1,1,0,0,0,0,,0,2,1,2,0,0,0,,0
+35,BTL_STRID_STD_BackChange_Player,{tag:0} withdrew {tag:1}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,2,0,0,0,,0
+36,BTL_STRID_STD_Hit_PluralTimes,The Pokémon was hit {tag:0} {tag:1}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,2,0,1,0,205,,0,-1,19,1,5,0,0,"time
+times",0
+37,BTL_STRID_STD_UseItem_Self,You used {tag:0}{tag:1}.,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",-1,19,5,5,0,1,,0,1,1,10,0,0,0,,0
+38,BTL_STRID_STD_UseItem_Player,{tag:0} used {tag:1}{tag:2}.,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,19,5,5,0,1,,0,1,1,10,0,0,0,,0
+39,BTL_STRID_STD_UseItem_NPC,"{tag:0}{tag:1} {tag:2} used
+{tag:3}{tag:4}!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",-1,19,4,5,0,0,,0,0,1,14,0,0,0,,0,1,1,0,0,0,0,,0,-1,19,5,5,0,2,,0,2,1,10,0,0,0,,0
+40,BTL_STRID_STD_GetExp,{tag:0} gained {tag:1} Exp. {tag:2}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0,1,2,6,1,0,2,,0,-1,19,1,5,0,1,"Point
+Points",0
+41,BTL_STRID_STD_GetExp_Bonus,{tag:0} gained a boosted {tag:1} Exp. {tag:2}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0,1,2,6,1,0,2,,0,-1,19,1,5,0,1,"Point
+Points",0
+192,BTL_STRID_STD_NebaNebaNet,"A sticky web has been laid out on the ground around
+your team!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+42,BTL_STRID_STD_WazaOboe_01,"{tag:0} wants to learn the move {tag:1}{pageend:.}
+Should an old move be forgotten and replaced
+with {tag:2}?",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0,1,1,7,0,0,0,,0,1,1,7,0,0,0,,0
+43,BTL_STRID_STD_WazaOboe_02,"{wait:0.19999998807907104:One...}{wait:0.19999998807907104:two...}{wait:0.19999998807907104:and...}{wait:0.19999998807907104:}{callback:3.0:ta-da!}{callback:6.0:}{pageend:}
+{tag:0} forgot {tag:1}. And...",2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0,1,1,7,0,0,0,,0
+44,BTL_STRID_STD_WazaOboe_03,{tag:0} learned {tag:1}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0,1,1,7,0,0,0,,0
+45,BTL_STRID_STD_WazaOboe_04,"{tag:0} did not learn
+{tag:1}.",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0,1,1,7,0,0,0,,0
+46,BTL_STRID_STD_WinTrainer,You defeated {tag:0}{tag:1} {tag:2}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",-1,19,3,5,0,0,,0,0,1,14,0,0,0,,0,1,1,0,0,0,0,,0
+47,BTL_STRID_STD_WinTrainer2,"You defeated {tag:0}{tag:1} {tag:2}
+and {tag:3}{tag:4} {tag:5}!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",-1,19,3,5,0,0,,0,0,1,14,0,0,0,,0,1,1,0,0,0,0,,0,-1,19,3,5,0,2,,0,2,1,14,0,0,0,,0,3,1,0,0,0,0,,0
+48,BTL_STRID_STD_LoseTrainer,You lost to {tag:0}{tag:1} {tag:2}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",-1,19,3,5,0,0,,0,0,1,14,0,0,0,,0,1,1,0,0,0,0,,0
+49,BTL_STRID_STD_DrawTrainer,"Your battle ended in a draw against
+{tag:0}{tag:1} {tag:2}!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",-1,19,3,5,0,0,,0,0,1,14,0,0,0,,0,1,1,0,0,0,0,,0
+50,BTL_STRID_STD_WinComm,You defeated {tag:0}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+51,BTL_STRID_STD_WinCommMulti,You defeated {tag:0} and {tag:1}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+52,BTL_STRID_STD_LoseComm,You lost to {tag:0}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+53,BTL_STRID_STD_LoseCommMulti,You lost to {tag:0} and {tag:1}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+54,BTL_STRID_STD_DrawComm,You battled to a draw against {tag:0}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+55,BTL_STRID_STD_DrawCommMulti,You battled to a draw against {tag:0} and {tag:1}!,2,-1,54,1620,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+56,BTL_STRID_STD_LoseStart,You have no more Pokémon that can fight!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+57,BTL_STRID_STD_LoseMoneyWild,You panicked and dropped {tag:0}...,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",1,2,4,1,0,2,,0
+58,BTL_STRID_STD_LoseMoneyTrainer,You gave {tag:0} to the winner...,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",1,2,4,1,0,2,,0
+59,BTL_STRID_STD_LoseEnd,You were overwhelmed by your defeat!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+60,BTL_STRID_STD_GetMoney,You got {tag:0} for winning!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",1,2,5,1,0,2,,0
+61,BTL_STRID_STD_PickMoney,You picked up {tag:0}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",1,2,4,1,0,2,,0
+62,BTL_STRID_STD_LevelUp,{tag:0} grew to Lv. {tag:1}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0,1,2,2,1,0,205,,0
+63,BTL_STRID_STD_BallThrow0,Oh no! The Pokémon broke free!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+64,BTL_STRID_STD_BallThrow1,Aww! It appeared to be caught!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+65,BTL_STRID_STD_BallThrow2,Aargh! Almost had it!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+66,BTL_STRID_STD_BallThrow3,"Gah! It was so close, too!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+67,BTL_STRID_STD_BallThrowS,Gotcha! {tag:0} was caught!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+68,BTL_STRID_STD_ZukanRegister,{tag:0}’s data was added to the Pokédex.,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+69,BTL_STRID_STD_BallThrowTrainer,"The Trainer blocked your Poké Ball!
+Don’t be a thief!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+70,BTL_STRID_STD_Ball_NG1,It’s no good! It’s impossible to aim unless there is only one Pokémon!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+71,BTL_STRID_STD_Ball_NG2,Your Boxes are full!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+72,BTL_STRID_STD_Ball_NG3,It’s impossible to aim without being focused!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+73,BTL_STRID_STD_Ball_NG4,It’s no good! It’s impossible to aim at a Pokémon that’s not in sight!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+74,BTL_STRID_STD_UseItem_NoEffect,But it had no effect!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+75,BTL_STRID_STD_SelectAction,What should {tag:0} do?,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+76,BTL_STRID_STD_SelectRotation,What will you do?,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+77,BTL_STRID_STD_SelectFriendship,{tag:0} is awaiting your directions...,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+78,BTL_STRID_STD_WazaFail,But it failed!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+79,BTL_STRID_STD_EscapeSuccess,You got away safely!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+80,BTL_STRID_STD_EscapeFail,You couldn’t get away!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+81,BTL_STRID_STD_EscapeProhibit,You can’t escape!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+82,BTL_STRID_STD_EscapeWild,The wild {tag:0} fled!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+84,BTL_STRID_STD_EscapeCant,No! There’s no running from a Trainer battle!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+85,BTL_STRID_STD_EscapeCheck,Would you like to give up on this battle and quit now?,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+86,BTL_STRID_STD_AffGood,It’s super effective!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+87,BTL_STRID_STD_AffBad,It’s not very effective...,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+88,BTL_STRID_STD_KonranExe,It hurt itself in its confusion!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+89,BTL_STRID_STD_CriticalHit,<color=#FF5000FF>A critical hit!</color>,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+90,BTL_STRID_STD_PP_Short,But there was no PP left for the move!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+91,BTL_STRID_STD_CommSupport,"{tag:0} came to the rescue and restored
+{tag:1}’s health!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,2,0,0,0,,0
+92,BTL_STRID_STD_ShineStart,The sunlight turned harsh!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+93,BTL_STRID_STD_RainStart,It started to rain!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+94,BTL_STRID_STD_StormStart,A sandstorm kicked up!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+95,BTL_STRID_STD_SnowStart,It started to hail!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+96,BTL_STRID_STD_MistStart,Fog crept up as thick as soup!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+97,BTL_STRID_STD_ShineEnd,The harsh sunlight faded.,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+98,BTL_STRID_STD_RainEnd,The rain stopped.,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+99,BTL_STRID_STD_StormEnd,The sandstorm subsided.,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+100,BTL_STRID_STD_SnowEnd,The hail stopped.,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+101,BTL_STRID_STD_MistEnd,The fog lifted.,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+102,BTL_STRID_STD_AirLock,The effects of the weather disappeared.,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+103,BTL_STRID_STD_SandAttack,The sandstorm is raging.,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+104,BTL_STRID_STD_SnowAttack,The hail is crashing down.,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+105,BTL_STRID_STD_Ichigeki,It’s a one-hit KO!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+106,BTL_STRID_STD_KinomiEff_WazaWeak,"The {tag:0} weakened
+{tag:1}’s power!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0,1,1,7,0,0,0,,0
+107,BTL_STRID_STD_KodawariLock,"The {tag:0} only allows the use
+of {tag:1}!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0,1,1,7,0,0,0,,0
+108,BTL_STRID_STD_TotsugekiLock,"The effects of the {tag:0} prevent status moves from
+being used!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+109,BTL_STRID_STD_WazaLock,{tag:0} can only use {tag:1}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0,1,1,7,0,0,0,,0
+110,BTL_STRID_STD_RankReset,All stat changes were eliminated!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+111,BTL_STRID_STD_NotHappen,But nothing happened!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+112,BTL_STRID_STD_TokWin,"{tag:0}’s
+{tag:1}",2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,6,0,0,0,,0
+113,BTL_STRID_STD_IyasinoSuzu,A bell chimed!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+114,BTL_STRID_STD_AlomaTherapy,A soothing aroma wafted through the area!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+115,BTL_STRID_STD_Itamiwake,The battlers shared their pain!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+116,BTL_STRID_STD_TrickRoomOff,The twisted dimensions returned to normal!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+117,BTL_STRID_STD_Jyuryoku,Gravity intensified!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+118,BTL_STRID_STD_JyuryokuOff,Gravity returned to normal!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+119,BTL_STRID_STD_HorobiNoUta,All Pokémon that heard the song will faint in three turns!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+120,BTL_STRID_STD_YubiWoFuru,Waggling a finger let it use {tag:0}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,7,0,0,0,,0
+121,BTL_STRID_STD_SizenNoTikara,Nature Power turned into {tag:0}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,7,0,0,0,,0
+122,BTL_STRID_STD_NekoNiKoban,Coins were scattered everywhere!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+123,BTL_STRID_STD_MigawariFail,But it does not have enough HP left to make a substitute!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+124,BTL_STRID_STD_Reflector,Reflect made your team stronger against physical moves!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+125,BTL_STRID_STD_Reflector_E,Reflect made the opposing team stronger against physical moves!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+126,BTL_STRID_STD_ReflectorOff,Your team’s Reflect wore off!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+127,BTL_STRID_STD_ReflectorOff_E,The opposing team’s Reflect wore off!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+128,BTL_STRID_STD_HikariNoKabe,Light Screen made your team stronger against special moves!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+129,BTL_STRID_STD_HikariNoKabe_E,Light Screen made the opposing team stronger against special moves!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+130,BTL_STRID_STD_HikariNoKabeOff,Your team’s Light Screen wore off!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+131,BTL_STRID_STD_HikariNoKabeOff_E,The opposing team’s Light Screen wore off!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+132,BTL_STRID_STD_AuroraVeil,Aurora Veil made your team stronger against physical and special moves!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+133,BTL_STRID_STD_AuroraVeil_E,"Aurora Veil made the opposing team stronger against physical and
+special moves!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+134,BTL_STRID_STD_AuroraVeilOff,Your team’s Aurora Veil wore off!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+135,BTL_STRID_STD_AuroraVeilOff_E,The opposing team’s Aurora Veil wore off!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+136,BTL_STRID_STD_SinpiNoMamori,Your team cloaked itself in a mystical veil!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+137,BTL_STRID_STD_SinpiNoMamori_E,The opposing team cloaked itself in a mystical veil!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+138,BTL_STRID_STD_SinpiNoMamoriOff,Your team is no longer protected by Safeguard!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+139,BTL_STRID_STD_SinpiNoMamoriOff_E,The opposing team is no longer protected by Safeguard!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+140,BTL_STRID_STD_SiroiKiri,Your team became shrouded in mist!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+141,BTL_STRID_STD_SiroiKiri_E,The opposing team became shrouded in mist!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+142,BTL_STRID_STD_SiroiKiriOff,Your team is no longer protected by mist!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+143,BTL_STRID_STD_SiroiKiriOff_E,The opposing team is no longer protected by mist!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+144,BTL_STRID_STD_Oikaze,The Tailwind blew from behind your team!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+145,BTL_STRID_STD_Oikaze_E,The Tailwind blew from behind the opposing team!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+146,BTL_STRID_STD_OikazeOff,Your team’s Tailwind petered out!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+147,BTL_STRID_STD_OikazeOff_E,The opposing team’s Tailwind petered out!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+148,BTL_STRID_STD_Makibisi,Spikes were scattered on the ground all around your team!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+149,BTL_STRID_STD_Makibisi_E,Spikes were scattered on the ground all around the opposing team!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+150,BTL_STRID_STD_MakibisiOff,The spikes disappeared from the ground around your team!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+151,BTL_STRID_STD_MakibisiOff_E,The spikes disappeared from the ground around the opposing team!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+152,BTL_STRID_STD_Dokubisi,Poison spikes were scattered on the ground all around your team!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+153,BTL_STRID_STD_Dokubisi_E,Poison spikes were scattered on the ground all around the opposing team!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+154,BTL_STRID_STD_DokubisiOff,The poison spikes disappeared from the ground around your team!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+155,BTL_STRID_STD_DokubisiOff_E,"The poison spikes disappeared from the ground around the
+opposing team!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+156,BTL_STRID_STD_StealthRock,Pointed stones float in the air around your team!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+157,BTL_STRID_STD_StealthRock_E,Pointed stones float in the air around the opposing team!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+158,BTL_STRID_STD_StealthRockOff,The pointed stones disappeared from around your team!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+159,BTL_STRID_STD_StealthRockOff_E,The pointed stones disappeared from around the opposing team!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+160,BTL_STRID_STD_WideGuard,Wide Guard protected your team!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+161,BTL_STRID_STD_WideGuard_E,Wide Guard protected the opposing team!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+162,BTL_STRID_STD_FastGuard,Quick Guard protected your team!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+163,BTL_STRID_STD_FastGuard_E,Quick Guard protected the opposing team!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+164,BTL_STRID_STD_Kinchoukan,Your team is too nervous to eat Berries!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+165,BTL_STRID_STD_Kinchoukan_E,The opposing team is too nervous to eat Berries!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+166,BTL_STRID_STD_WonderRoom_Start,It created a bizarre area in which Defense and Sp. Def stats are swapped!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+167,BTL_STRID_STD_WonderRoom_End,"Wonder Room wore off, and Defense and Sp. Def stats returned
+to normal!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+168,BTL_STRID_STD_MagicRoom_Start,It created a bizarre area in which Pokémon’s held items lose their effects!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+169,BTL_STRID_STD_MagicRoom_End,"Magic Room wore off, and held items’ effects returned to normal!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+170,BTL_STRID_STD_Juel,"The {tag:0} strengthened
+{tag:1}’s power!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0,1,1,7,0,0,0,,0
+171,BTL_STRID_STD_BattleTimeOver,Time has run out! The battle is over!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+172,BTL_STRID_STD_BattleTimeOver_Your,The opposing player’s time has run out! The battle is over!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+173,BTL_STRID_STD_BattleTimeOver_My,Your time has run out! The battle is over!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+174,BTL_STRID_STD_BatteRecBufferOver,The battle is too long. Playback canceled.,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+175,BTL_STRID_STD_DarumaOn,Zen Mode triggered!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+176,BTL_STRID_STD_DarumaOff,Zen Mode ended!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+177,BTL_STRID_STD_Sabotage1,{tag:0} won’t obey!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+178,BTL_STRID_STD_Sabotage2,{tag:0} is loafing around!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+179,BTL_STRID_STD_Sabotage3,{tag:0} turned away!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+180,BTL_STRID_STD_Sabotage4,{tag:0} pretended not to notice!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+181,BTL_STRID_STD_Sabotage_OtherWaza,{tag:0} ignored orders!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+182,BTL_STRID_STD_Sabotage_GoSleep,{tag:0} began to nap!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+183,BTL_STRID_STD_Sabotage_Sleeping,{tag:0} ignored orders and kept sleeping!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+184,BTL_STRID_STD_ItemNoEffPos,But the item doesn’t do anything there!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+185,BTL_STRID_STD_Retired,The battle was canceled.,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+186,BTL_STRID_STD_GrassGround_Start,Grass grew to cover the battlefield!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+187,BTL_STRID_STD_GrassGround_End,The grass disappeared from the battlefield.,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+188,BTL_STRID_STD_MistGround_Start,Mist swirled around the battlefield!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+189,BTL_STRID_STD_MistGround_End,The mist disappeared from the battlefield.,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+190,BTL_STRID_STD_ElecField_Start,An electric current ran across the battlefield!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+191,BTL_STRID_STD_ElecField_End,The electricity disappeared from the battlefield.,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+196,BTL_STRID_STD_GeppuWarn,Your Pokémon can’t use this move because it hasn’t eaten any Berries!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+197,BTL_STRID_STD_GetBonusItem,You found {tag:0}{tag:1} in the aftermath!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",-1,19,5,5,0,1,,0,1,1,10,0,0,0,,0
+198,BTL_STRID_STD_FR_Korae,{tag:0} toughed it out so you wouldn’t feel sad!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+199,BTL_STRID_STD_FR_CureNemuri,{tag:0} shook itself awake so you wouldn’t worry!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+200,BTL_STRID_STD_FR_CureDoku,{tag:0} managed to expel the poison so you wouldn’t worry!,2,-1,54,1620,1,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+201,BTL_STRID_STD_FR_CureYakedo,"{tag:0} healed its burn with its sheer determination so you
+wouldn’t worry!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+202,BTL_STRID_STD_FR_CureMahi,"{tag:0} gathered all its energy to break through its paralysis so
+you wouldn’t worry!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+203,BTL_STRID_STD_FR_CureKoori,"{tag:0} melted the ice with its fiery determination so you
+wouldn’t worry!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+204,BTL_STRID_STD_FR_Avoid,{tag:0} avoided the move in time via your shout!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+205,BTL_STRID_STD_FR_Critical,"{tag:0} <color=#FF5000FF>landed a critical hit</color>, wishing to be praised!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+206,BTL_STRID_STD_FR_Ready_Special,"{tag:0} turned back toward you and nodded
+in understanding!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+207,BTL_STRID_STD_FR_Ready_150_01,{tag:0} is looking at you with intense and determined eyes!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+208,BTL_STRID_STD_FR_Ready_150_02,{tag:0} is expecting you to come up with a great strategy!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+209,BTL_STRID_STD_FR_Ready_150_03,You and {tag:0} are breathing in perfect sync with one another!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+210,BTL_STRID_STD_FR_Ready_150_04,{tag:0} seems curious about your fashion.,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+211,BTL_STRID_STD_FR_Ready_150_05,"{tag:0} is relaxed. The sight of you might have made it feel
+more secure.",2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+212,BTL_STRID_STD_FR_Ready_100_01,{tag:0} really wants some time to play with you.,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+213,BTL_STRID_STD_FR_Ready_100_02,{tag:0} seems to be interested in the other Pokémon’s scent...,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+214,BTL_STRID_STD_FR_Ready_100_03,{tag:0} is reassured by your familiar scent...,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+215,BTL_STRID_STD_FR_Ready_100_04,{tag:0} is admiring the surrounding view.,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+216,BTL_STRID_STD_FR_Ready_100_05,{tag:0} is remembering the first time it met you...,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+217,BTL_STRID_STD_FR_Ready_50_02,{tag:0} is dozing off... It must be sleepy.,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+218,BTL_STRID_STD_FR_Ready_50_03,"{tag:0} seems a little bit worried about being able to
+battle well...",2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+219,BTL_STRID_STD_FR_Ready_50_05,{tag:0} seems like it wants to be petted...,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+220,BTL_STRID_STD_FR_PutPoke,"Go on, {tag:0}! I know you can do it!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+221,BTL_STRID_STD_FR_ChangeBack,"Come on back, {tag:0}! You did great out there!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+222,BTL_STRID_STD_FR_AffGood,That’s it! I knew you could do it!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+223,BTL_STRID_STD_FR_Pinch,{tag:0} is in a bit of a pinch. It looks like it might cry...,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+224,BTL_STRID_STD_FR_ItemRecover,{tag:0} is thrilled to bits!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,12,0,0,0,,0
+225,BTL_STRID_STD_FR_Sleep,Zzz... Zzz...,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+226,BTL_STRID_STD_DeadPlural,You defeated {tag:0} Pokémon at the same time!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+227,BTL_STRID_STD_BattleSwitch_Sord,Changed to Blade Forme!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+228,BTL_STRID_STD_BattleSwitch_Shield,Changed to Shield Forme!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+229,BTL_STRID_STD_OmitoosiCont,"{tag:0} was frisked, revealing its {tag:1}!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,9,0,0,0,,0
+230,BTL_STRID_STD_FunjinBakuhatsu,"When the flame touched the powder on the Pokémon, it exploded!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+231,BTL_STRID_STD_YubiFuruDebug,{tag:0}’s Metronome {tag:1}: {tag:2},2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,2,0,1,0,205,,0,1,2,2,1,0,205,,0,2,1,7,0,0,0,,0
+232,BTL_STRID_STD_Encount_Wild_Grass,Whoa! A wild {tag:0} leaped out of the tall grass!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+233,BTL_STRID_STD_RainStormStart,A heavy rain began to fall!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+234,BTL_STRID_STD_RainStormEnd,The heavy rain has lifted!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+235,BTL_STRID_STD_RainStormFail,The Fire-type attack fizzled out in the heavy rain!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+236,BTL_STRID_STD_RainStormFail_Weather,There is no relief from this heavy rain!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+238,BTL_STRID_STD_PutBand_AquaMagma_01,The {tag:0} Grunts sent out a horde of Poochyena!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,14,0,0,0,,0
+239,BTL_STRID_STD_PutBand_AquaMagma_02,The {tag:0} Grunts sent out a horde of Mightyena!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,14,0,0,0,,0
+240,BTL_STRID_STD_Encount_NPC1_Band,"You are challenged by
+{tag:0}{tag:1} {tag:2}!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",-1,19,3,5,0,0,,0,0,1,14,0,0,0,,0,1,1,0,0,0,0,,0
+241,BTL_STRID_STD_WinTrainer_Band,You defeated {tag:0}{tag:1} {tag:2}!,2,-1,54,1620,1,"-1
+0
+0
+-1
+0",-1,19,3,5,0,0,,0,0,1,14,0,0,0,,0,1,1,0,0,0,0,,0
+242,BTL_STRID_STD_AuraWeatherBall,"{tag:0} turned into
+{tag:1} due to the weather!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,53,0,0,0,,0,1,1,53,0,0,0,,0
+243,BTL_STRID_STD_Bibiridama,The Adrenaline Orb makes the wild Pokémon nervous!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+244,BTL_STRID_STD_PhychoField_Start,The battlefield got weird!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+245,BTL_STRID_STD_PhychoField_End,The weirdness disappeared from the battlefield!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+246,BTL_STRID_STD_SwarmChange,You sense the presence of many!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+247,BTL_STRID_STD_Bakenokawa,Its disguise served it as a decoy!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+248,BTL_STRID_STD_Encount_Tag,"You are challenged by {tag:0}{tag:1}
+{tag:2} and {tag:3}!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",-1,19,3,5,0,0,,0,0,1,14,0,0,0,,0,1,1,0,0,0,0,,0,2,1,0,0,0,0,,0
+249,BTL_STRID_STD_WinTrainer_Tag,"You defeated {tag:0}{tag:1}
+{tag:2} and {tag:3}!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",-1,19,3,5,0,0,,0,0,1,14,0,0,0,,0,1,1,0,0,0,0,,0,2,1,0,0,0,0,,0
+250,BTL_STRID_STD_dummy_04,,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+251,BTL_STRID_STD_dummy_05,,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+252,BTL_STRID_STD_dummy_06,,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+253,BTL_STRID_STD_dummy_07,,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+254,BTL_STRID_STD_KagakuHenkaGas,Neutralizing gas filled the area!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+255,BTL_STRID_STD_KagakuHenkaGas_End,The effects of the neutralizing gas wore off!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+256,BTL_STRID_STD_Ball_NG6,You can’t throw a Poké Ball!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+257,BTL_STRID_STD_FairyGymQuiz_RankUp_Atk,{tag:0}’s Attack and Sp. Atk rose!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+258,BTL_STRID_STD_FairyGymQuiz_RankUp_Atk_2,{tag:0}’s Attack and Sp. Atk rose sharply!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+259,BTL_STRID_STD_FairyGymQuiz_RankUp_Def,{tag:0}’s Defense and Sp. Def rose!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+260,BTL_STRID_STD_FairyGymQuiz_RankUp_Def_2,{tag:0}’s Defense and Sp. Def rose sharply!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+261,BTL_STRID_STD_FairyGymQuiz_RankUp_Agi,{tag:0}’s Speed rose!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+262,BTL_STRID_STD_FairyGymQuiz_RankUp_Agi_2,{tag:0}’s Speed rose sharply!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+263,BTL_STRID_STD_FairyGymQuiz_RankDown_Atk,{tag:0}’s Attack and Sp. Atk fell!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+264,BTL_STRID_STD_FairyGymQuiz_RankDown_Atk_2,{tag:0}’s Attack and Sp. Atk harshly fell!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+265,BTL_STRID_STD_FairyGymQuiz_RankDown_Def,{tag:0}’s Defense and Sp. Def fell!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+266,BTL_STRID_STD_FairyGymQuiz_RankDown_Def_2,{tag:0}’s Defense and Sp. Def harshly fell!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+267,BTL_STRID_STD_FairyGymQuiz_RankDown_Agi,{tag:0}’s Speed fell!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+268,BTL_STRID_STD_FairyGymQuiz_RankDown_Agi_2,{tag:0}’s Speed harshly fell!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+269,BTL_STRID_STD_PutSingle_AnotherName,Go! {tag:0}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,69,0,0,0,,0
+270,BTL_STRID_STD_PutDouble_AnotherName,"Go! {tag:0} and
+{tag:1}!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",0,1,69,0,0,0,,0,1,1,69,0,0,0,,0
+271,BTL_STRID_STD_PutSingle_Player_AnotherName,"{tag:0} sent out
+{tag:1}!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,69,0,0,0,,0
+272,BTL_STRID_STD_PutDouble_Player_AnotherName,"{tag:0} sent out {tag:1}
+and {tag:2}!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,69,0,0,0,,0,2,1,69,0,0,0,,0
+273,BTL_STRID_STD_PutChange1_AnotherName,"You’re in charge, {tag:0}!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",0,1,69,0,0,0,,0
+274,BTL_STRID_STD_PutChange2_AnotherName,"Go for it, {tag:0}!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,69,0,0,0,,0
+275,BTL_STRID_STD_PutChange3_AnotherName,"Just a little more! Hang in there,
+{tag:0}!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",0,1,69,0,0,0,,0
+276,BTL_STRID_STD_PutChange4_AnotherName,"Your opponent’s weak!
+Get ’em, {tag:0}!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",0,1,69,0,0,0,,0
+277,BTL_STRID_STD_FR_PutPoke_AnotherName,"Go on, {tag:0}!
+I know you can do it!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",0,1,69,0,0,0,,0
+278,BTL_STRID_STD_Raid_00,The Pokémon are buffeted by the hail!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+279,BTL_STRID_STD_Raid_01,The Pokémon are buffeted by the sandstorm!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+280,BTL_STRID_STD_GrassGround_OnBattleStart,The battlefield is covered with grass!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+281,BTL_STRID_STD_MistGround_OnBattleStart,Mist swirls around the battlefield!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+282,BTL_STRID_STD_ElecField_OnBattleStart,An electric current is running across the battlefield!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+283,BTL_STRID_STD_PhychoField_OnBattleStart,The battlefield seems weird!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+284,BTL_STRID_STD_ShineStart_OnBattleStart,The sunlight is harsh!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+285,BTL_STRID_STD_RainStart_OnBattleStart,It’s raining!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+286,BTL_STRID_STD_StormStart_OnBattleStart,The sandstorm is raging!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+287,BTL_STRID_STD_SnowStart_OnBattleStart,It’s hailing!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+288,BTL_STRID_STD_Waza_NG,You can’t use this move!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+289,BTL_STRID_STD_itemlost,The {tag:0} was used up...,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+290,BTL_STRID_STD_PutMulti_NPC_and_NPC,"{tag:0}{tag:1} {tag:2} sent
+out {tag:3}!
+{tag:4}{tag:5} {tag:6} sent
+out {tag:7}!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",-1,19,4,5,0,0,,0,0,1,14,0,0,0,,0,1,1,0,0,0,0,,0,2,1,2,0,0,0,,0,-1,19,4,5,0,3,,0,3,1,14,0,0,0,,0,4,1,0,0,0,0,,0,5,1,2,0,0,0,,0
+291,BTL_STRID_STD_PutMulti_Myself_and_NPC,"Go! {tag:0}!
+{tag:1}{tag:2} {tag:3} sent
+out {tag:4}!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,-1,19,4,5,0,1,,0,1,1,14,0,0,0,,0,2,1,0,0,0,0,,0,3,1,2,0,0,0,,0
+292,BTL_STRID_STD_PutMulti_Player_and_Player,"{tag:0} sent out {tag:1}!
+{tag:2} sent out {tag:3}!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,2,0,0,0,,0,2,1,0,0,0,0,,0,3,1,2,0,0,0,,0
+293,BTL_STRID_STD_PutMulti_Myself_and_Player,"Go! {tag:0}!
+{tag:1} sent out {tag:2}!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,0,0,0,0,,0,2,1,2,0,0,0,,0
+294,BTL_STRID_STD_GShockWave_PP_Reduce_E,The opposing Pokémon’s PP was reduced!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+295,BTL_STRID_STD_PutMulti_Ally_Player,{tag:0} sent out {tag:1}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,2,0,0,0,,0
+296,BTL_STRID_STD_SafariDousuruMsg,What will you throw?,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+297,BTL_STRID_STD_SafariZoneBallMsg,You used a Safari Ball!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+298,BTL_STRID_STD_SafariZoneEsaMsg1,You threw some Bait to {tag:0}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",1,1,2,0,0,0,,0
+299,BTL_STRID_STD_SafariZoneDoroMsg1,You threw Mud at {tag:0}!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",1,1,2,0,0,0,,0
+237,BTL_STRID_STD_IjigemRushFail_Another,But {tag:0} can’t use the move!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+193,BTL_STRID_STD_NebaNebaNet_E,"A sticky web has been laid out on the ground around the
+opposing team!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+194,BTL_STRID_STD_NebaNebaNetOff,The sticky web has disappeared from the ground around you!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+195,BTL_STRID_STD_NebaNebaNetOff_E,"The sticky web has disappeared from the ground around the
+opposing team!",2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+300,BTL_STRID_STD_SafariZoneYousumiMsg,{tag:0} is watching carefully!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+301,BTL_STRID_STD_SafariZoneEsaMsg2,{tag:0} is eating!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+302,BTL_STRID_STD_SafariZoneEsaMsg3,{tag:0} is busy eating!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+303,BTL_STRID_STD_SafariZoneDoroMsg2,{tag:0} is angry!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+304,BTL_STRID_STD_SafariZoneDoroMsg3,{tag:0} is beside itself with anger!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+305,BTL_STRID_STD_GetdemoSupportMMsg1,All right! Its HP is down! Time to throw a Poké Ball!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+306,BTL_STRID_STD_GetdemoSupportWMsg1,OK! Its HP is down! It’s ready for a Poké Ball!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0"
+307,BTL_STRID_STD_GetdemoUseBallMsg1,{tag:0} used a Poké Ball!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+10,BTL_STRID_STD_Encount_Wild_Mitsu,"A wild {tag:0} appeared from the tree you slathered
+with Honey!",2,-1,54,1620,1,"-1
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+83,BTL_STRID_STD_EscapeWild_Legend,{tag:0} fled!,2,-1,54,1620,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0

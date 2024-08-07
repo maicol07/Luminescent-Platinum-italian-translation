@@ -1,0 +1,2590 @@
+283,DLP_underground_604,C’è uno strano cristallo...,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+284,DLP_underground_605,Il cristallo emette un debole bagliore...,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+285,DLP_underground_606,Il cristallo emette un bagliore intenso...,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+286,DLP_underground_607,Il cristallo emette un bagliore molto intenso...,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+287,DLP_underground_608,"Hai messo
+{tag:0} {tag:1}
+nella tasca {tag:2}.",0,-1,54,1080,1,"0
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,81,0,0,0,,0,4,1,24,0,0,0,,0
+288,DLP_underground_609,"Mmh, mi sa che non hai abbastanza bilie...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+289,DLP_underground_610,"Hai messo
+{tag:0} {tag:1}
+nell’Esplorokit.",0,-1,54,1080,1,"0
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,81,0,0,0,,0
+108,DLP_underground_611,Assegna,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+414,DLP_underground_736,{tag:0}/10,35,-1,42,210,0,"0
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+415,DLP_underground_737,×{tag:0},36,-1,42,252,0,"0
+0
+0
+-1
+0",0,2,6,1,0,1,,0
+290,DLP_underground_612,"Quale modalità vuoi usare per entrare
+nei Grandi Sotterranei?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+291,DLP_underground_613,"{pageend:Potrai giocare con altre persone.}
+Vuoi entrare nei Grandi Sotterranei?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+292,DLP_underground_614,"{pageend:Non fai ancora parte di nessun gruppo.}
+Riprova dopo essere entrat{tag:0} in un gruppo.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+293,DLP_underground_615,Comunica,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+294,DLP_underground_616,Torna in superficie,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+295,DLP_underground_617,"{tag:0} è tornat{tag:1}{pageend: in superficie.}
+Uscirai della sua Base Segreta.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,0,5,0,0,"o
+a",0
+296,DLP_underground_730,Comunicazione locale attivata.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+297,DLP_underground_618,Entrerai di nuovo nei Grandi Sotterranei.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+298,DLP_underground_619,"Poiché è stata spostata, stai per uscire dalla
+Base Segreta di {tag:0}.",0,-1,54,1080,1,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+299,DLP_underground_735,"La configurazione della Base Segreta cambierà.
+Va bene?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+300,DLP_underground_620,"Poiché è stata cambiata la configurazione,
+{pageend:stai per uscire dalla Base Segreta}
+di {tag:0}.",0,-1,54,1080,1,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+301,DLP_underground_621,"Ah, scusa. Adesso ho da fare.
+Facciamo un’altra volta.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+302,DLP_underground_622,"Ah, scusa. Adesso ho da fare.
+Facciamo un’altra volta.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+303,DLP_underground_623,Mi piace!,80,-1,32,192,0,"0
+0
+0
+-1
+0"
+304,DLP_underground_624,"Pensavo di mettermi a cercare tesori...
+Ti va di scavare accanto a me?
+Mi farebbe piacere!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+305,DLP_underground_625,"Pensavo di mettermi a cercare tesori...
+Ti va di scavare accanto a me?
+Mi farebbe piacere!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+184,DLP_underground_498_footer,Effetto delle statue,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+434,DLP_underground_757,"Potrai giocare con amici di tutto il mondo
+{pageend:tramite Internet.}
+Vuoi entrare nei Grandi Sotterranei?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+435,DLP_underground_758,{tag:0} è entrat{tag:1} nei Grandi Sotterranei.,73,-1,42,1092,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,0,5,0,0,"o
+a",0
+436,DLP_underground_759,{tag:0} è tornat{tag:1} in superficie.,73,-1,42,1092,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,0,5,0,0,"o
+a",0
+195,DLP_underground_508,<color=#0064FFFF>Disattiva</color> effetto,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+197,DLP_underground_511,"Hai <color=#0064FFFF>disattivato</color> l’effetto di questa Base
+Segreta.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+437,DLP_underground_760,Qui c’è già qualcuno che sta cercando tesori.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+306,DLP_underground_626,"Dicono che cercare tesori in compagnia
+{pageend:sia più proficuo!}
+Se ti va, cerchiamoli insieme!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+307,DLP_underground_627,"Dicono che cercare tesori in compagnia
+{pageend:sia più proficuo!}
+Se ti va, cerchiamoli insieme!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+0,DLP_underground_153,"Che bilia mi dai se ti do
+{tag:0}{tag:1}?",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,5,5,0,2,,0,2,1,81,0,0,0,,0
+1,DLP_underground_154,Ok! Facciamo lo scambio!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+2,DLP_underground_155,"Oh, aspetta un secondo! Non hai più posto!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+3,DLP_underground_156,Questa non è la bilia che volevo!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+4,DLP_underground_157,"Mmmh... No, questa bilia non è abbastanza
+grande.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+5,DLP_underground_158,"Hai ottenuto
+{tag:0}{tag:1}!",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,5,5,0,2,,0,2,1,81,0,0,0,,0
+6,DLP_underground_159,"Hai ottenuto
+{tag:0}{tag:1}
+di grandezza {tag:2}.",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,5,5,0,2,,0,2,1,81,0,0,0,,0,6,2,1,1,0,205,,0
+7,DLP_underground_160,Ti serve altro?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+8,DLP_underground_161,"Ci vediamo, allora!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+9,DLP_underground_162,"Mi dai
+{tag:0}{tag:1}
+in cambio di
+{tag:2}{tag:3}?",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,5,5,0,2,,0,2,1,81,0,0,0,,0,-1,21,5,5,0,4,,0,4,1,81,0,0,0,,0
+10,DLP_underground_163,Va bene! Facciamo lo scambio!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+11,DLP_underground_164,"Oh, aspetta un momento!
+Non hai più spazio per altre bilie!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+12,DLP_underground_168,Ricevi oggetti,48,-1,42,672,0,"0
+0
+0
+-1
+0"
+13,DLP_underground_169,Dai oggetti,48,-1,42,672,0,"0
+0
+0
+-1
+0"
+14,DLP_underground_170,Annulla,48,-1,42,672,0,"0
+0
+0
+-1
+0"
+15,DLP_underground_171,"Bilie
+disponibili",40,-1,42,420,0,"0
+0
+0
+-1
+0"
+16,DLP_underground_173,"Oggetti
+disponibili",40,-1,42,420,0,"0
+0
+0
+-1
+0"
+17,DLP_underground_174,Annulla,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+18,DLP_underground_175,Bilia necessaria,48,-1,42,672,0,"0
+0
+0
+-1
+0"
+19,DLP_underground_176,Bilia offerta,48,-1,42,672,0,"0
+0
+0
+-1
+0"
+20,DLP_underground_177,{tag:0} {tag:1},48,-1,42,672,0,"0
+0
+0
+-1
+0",2,1,22,0,0,0,,0,6,2,1,1,0,205,,0
+21,DLP_underground_178,Non in vendita,48,-1,42,672,0,"0
+0
+0
+-1
+0"
+22,DLP_underground_179,"Hai qualche tesoro?
+In cambio ti darò qualche bilia.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+23,DLP_underground_180,Dai tesori,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+24,DLP_underground_181,"Tesori
+disponibili",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+25,DLP_underground_243,"Ciao, {tag:0}! È la prima volta
+{pageend:che vieni qui?!}
+Allora benvenut{tag:1} nei Grandi Sotterranei
+{pageend:di Sinnoh!}
+Ti trovi nell’enorme complesso di grotte
+{pageend:nel sottosuolo di Sinnoh.}
+Eh? Cosa ci faccio in un posto così grande?
+{pageend:È un po’ difficile da spiegare.}
+Vedi, qui sotto puoi fare quello che ti pare.
+Ad esempio, puoi scavare in cerca di tesori
+{pageend:o creare una Base Segreta.}
+Dovresti parlare con l’Esperto dei Sotterranei
+{pageend:a Evopoli, se vuoi saperne di più.}
+E ricorda: quando vuoi tornare in superficie,
+{pageend:premi Y!}
+Ora devo lasciarti. Ci si vede in giro!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0
+26,DLP_underground_244,Ehilà! Come va?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+27,DLP_underground_246,"...
+Sembra che al momento abbia da fare.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+28,DLP_underground_247,Saluta,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+29,DLP_underground_248,Fai una domanda,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+30,DLP_underground_249,Dai oggetti,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+31,DLP_underground_250,Annulla,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+32,DLP_underground_251,"Vuoi mostrarmi la tua Teca Allenatore?
+Allora anch’io ti mostrerò la mia!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+33,DLP_underground_252,"{pageend:Mh? Non trovo la mia Teca Allenatore.}
+Mi dispiace molto! Sarà per la prossima volta.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+34,DLP_underground_253,Grazie! Alla prossima!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+35,DLP_underground_254,Ti va di fare qualcos’altro?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+36,DLP_underground_255,"Non importa. Alla prossima, allora!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+37,DLP_underground_256,"Eh? Vuoi darmi
+{tag:0}{tag:1}?",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,5,5,0,2,,0,2,1,81,0,0,0,,0
+38,DLP_underground_257,"Grazie, ma non posso accettare.
+Magari un’altra volta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+39,DLP_underground_258,"{pageend:Grazie!}
+Hai dato
+{tag:0}{tag:1}
+a {tag:2}!",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,5,5,0,2,,0,2,1,81,0,0,0,,0,0,1,0,0,0,0,,0
+40,DLP_underground_259,"Ok, ciao!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+41,DLP_underground_260,"Mi dispiace, ma ho da fare!
+Ciao!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+42,DLP_underground_261,"Ricevi
+{tag:0}{tag:1}!",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,5,5,0,2,,0,2,1,81,0,0,0,,0
+43,DLP_underground_263,"Sulla parete c’è una leggera sporgenza.
+Vuoi provare a scavare qui?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+44,DLP_underground_264,Che peccato! La tua sacca è piena!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+45,DLP_underground_265,Che peccato! La tua sacca è piena!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+46,DLP_underground_266,Ciao!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+47,DLP_underground_268,"Ti mostrerò la mia Teca Allenatore.
+Posso vedere la tua?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+48,DLP_underground_269,"Ah, hai da fare? Scusa, non volevo disturbarti.
+Alla prossima, allora!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+49,DLP_underground_270,"Felice di aver fatto la tua conoscenza,
+{tag:0}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+50,DLP_underground_271,E poi...,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+51,DLP_underground_272,"Ah, già! Vorrei darti
+{tag:0}{tag:1}{pageend:!}
+Non fare complimenti.",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,5,5,0,2,,0,2,1,81,0,0,0,,0
+52,DLP_underground_273,"Ah, ce l’hai già?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+53,DLP_underground_274,"Ah, capisco, non hai spazio.
+Alla prossima, allora!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+54,DLP_underground_275,"{pageend:Ok, ecco qui! Abbine cura!}
+Ricevi
+{tag:0}{tag:1}
+da {tag:2}!",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,5,5,0,2,,0,2,1,81,0,0,0,,0,0,1,0,0,0,0,,0
+55,DLP_underground_276,"Ok, ci vediamo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+56,DLP_underground_277,"Hai usato
+{tag:0}{tag:1}!",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,3,5,0,3,,0,3,1,81,0,0,0,,0
+57,DLP_underground_278,Hai scoperto una piccola grotta!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+58,DLP_underground_279,Vuoi creare qui la tua Base Segreta?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+59,DLP_underground_280,Vuoi spostare qui la tua Base Segreta?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+308,DLP_underground_628,"{pageend:Cerchiamo tesori insieme, dai!}
+Scavando fianco a fianco, vedrai che risultati.
+L’unione fa la forza!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+309,DLP_underground_629,"{pageend:Cerchiamo tesori insieme, dai!}
+Scavando fianco a fianco, vedrai che risultati.
+L’unione fa la forza!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+310,DLP_underground_630,"I Grandi Sotterranei sono bui e intricati
+come un labirinto.
+Mi piacerebbe che li esplorassimo insieme.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+60,DLP_underground_285,"Questa è la tua Base Segreta.
+Vuoi entrarci?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+61,DLP_underground_289,"Hai scoperto una piccola grotta!
+Vuoi entrarci?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+311,DLP_underground_631,"I Grandi Sotterranei sono bui e intricati
+come un labirinto.
+Mi piacerebbe che li esplorassimo insieme.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+62,DLP_underground_294,Vuoi uscire dalla Base Segreta?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+63,DLP_underground_295,"C’è stata una scossa di terremoto!
+Ti sei rifugiat{tag:0} all’esterno per evitare il pericolo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+64,DLP_underground_296,"Vuoi salire in superficie e tornare al luogo
+di ingresso?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+65,DLP_underground_298,Non è utilizzabile qui!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+66,DLP_underground_299,Non si può mettere qui.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+67,DLP_underground_300,Hai chiuso il buco.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+68,DLP_underground_301,"Nella Base Segreta c’è qualcuno.
+Meglio non spostarla adesso.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+312,DLP_underground_632,"Sto per avventurarmi nei Grandi Sotterranei!
+Che ne dici di venire con me?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+313,DLP_underground_633,"Sto per avventurarmi nei Grandi Sotterranei!
+Che ne dici di venire con me?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+314,DLP_underground_634,"Venite tutti qui! Uniamo le forze ed esploriamo
+insieme i Grandi Sotterranei!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+69,DLP_underground_306,{tag:0} oggett{tag:1} rilevat{tag:2}{wait:0.5: all’interno della parete!},0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,2,0,1,0,205,,0,-1,21,1,5,0,0,"o
+i",0,-1,21,1,5,0,0,"o
+i",0
+70,DLP_underground_307,La parete è crollata!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+71,DLP_underground_308,Hai trovato tutto!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+72,DLP_underground_309,Che peccato! La tua sacca è piena!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+73,DLP_underground_310,"Non puoi tornare in superficie
+da una Base Segreta.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+315,DLP_underground_635,"Venite tutti qui! Uniamo le forze ed esploriamo
+insieme i Grandi Sotterranei!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+74,DLP_underground_313,"Hai ottenuto una {tag:0},
+grandezza {tag:1}!",0,-1,54,1080,1,"0
+0
+0
+-1
+0",2,1,22,0,0,0,,0,1,2,1,1,0,205,,0
+316,DLP_underground_636,"Sto per andare in cerca di un Rifugio di
+Pokémon! Vieni anche tu, dai!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+75,DLP_underground_316,"Sto giusto scavando alla ricerca di tesori.
+{pageend:Vuoi cercare con me?}
+Potrebbero essercene qui vicino...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+76,DLP_underground_318,Non puoi scavare buche in una Base Segreta!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+77,DLP_underground_319,"Rispetto a quando è stata sotterrata,
+la sua grandezza è aumentata di {tag:0}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+317,DLP_underground_637,"Sto per andare in cerca di un Rifugio di
+Pokémon! Vieni anche tu, dai!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+78,DLP_underground_324,"La sacca è piena. Non hai potuto riporre
+{tag:0}{tag:1}.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,3,5,0,0,,0,0,1,81,0,0,0,,0
+318,DLP_underground_638,"Cerco qualcuno che mi accompagni per andare
+a catturare Pokémon!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+79,DLP_underground_327,"Hai trovato una bilia, ma la tua sacca è piena.
+La bilia rimane dov’è.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+319,DLP_underground_639,"Cerco qualcuno che mi accompagni per andare
+a catturare Pokémon!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+80,DLP_underground_329,"{pageend:...}
+{pageend:Mh? C’è un appunto nascosto nell’Esplorokit.}
+""Ecco come cercare tesori e bilie.
+Ho messo un martello e una piccozza
+{pageend:nel tuo Esplorokit!}
+Usali e potrai estrarre i tesori nascosti all’interno
+{pageend:delle pareti rocciose.}
+Sono sicuro che riuscirai a trovare belle cose
+{pageend:prima che la parete crolli!}
+Ce la puoi fare!
+Buona fortuna, giovane!""",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+81,DLP_underground_330,Non posso accettare niente di così importante!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+82,DLP_underground_331,"Grazie per l’offerta, ma devo rifiutare.
+Ci vediamo domani!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+83,DLP_underground_332,"{pageend:...}
+La parete ha iniziato a sgretolarsi.
+Entrare è troppo pericoloso.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+84,DLP_underground_335,Anche {tag:0} è nei Sotterranei.,0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+85,DLP_underground_339,"Hai ottenuto
+{tag:0}{tag:1}!",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,5,5,0,2,,0,2,1,81,0,0,0,,0
+86,DLP_underground_348,"{tag:0} è entrat{tag:1} nella Base Segreta
+di {tag:2}.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,0,5,0,0,"o
+a",0,1,1,0,0,0,0,,0
+87,DLP_underground_349,{tag:0} ha dissotterrato dei tesori!,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+88,DLP_underground_355,"{tag:0} ha parlato
+con {tag:1}.",0,-1,54,1080,1,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+89,DLP_underground_356,{tag:0} ha parlato con qualcuno.,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+90,DLP_underground_359,{tag:0} è uscit{tag:1} dai Sotterranei.,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,0,5,0,0,"o
+a",0
+91,DLP_underground_366,Bilie,48,-1,42,672,0,"0
+0
+0
+-1
+0"
+92,DLP_underground_367,Oggetti,48,-1,42,672,0,"0
+0
+0
+-1
+0"
+93,DLP_underground_368,Tesori,48,-1,42,672,0,"0
+0
+0
+-1
+0"
+94,DLP_underground_369,{tag:0},48,-1,42,672,0,"0
+0
+0
+-1
+0",1,1,2,0,0,0,,0
+95,DLP_underground_370,Torna in superficie,48,-1,42,672,0,"0
+0
+0
+-1
+0"
+96,DLP_underground_371,Chiudi,48,-1,42,672,0,"0
+0
+0
+-1
+0"
+97,DLP_underground_372,{tag:0} {tag:1},48,-1,42,672,0,"0
+0
+0
+-1
+0",2,1,9,0,0,0,,0,6,2,1,1,0,205,,0
+98,DLP_underground_373,"Che cosa vuoi fare
+con {tag:0}{tag:1}?",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,3,5,0,2,,0,2,1,81,0,0,0,,0
+99,DLP_underground_374,"Hai buttato
+{tag:0}{tag:1}!",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,3,5,0,2,,0,2,1,81,0,0,0,,0
+100,DLP_underground_376,Butta,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+101,DLP_underground_377,Annulla,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+320,DLP_underground_640,Andiamo a catturare Pokémon tutti insieme!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+102,DLP_underground_379,Metti nella sacca,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+321,DLP_underground_641,Andiamo a catturare Pokémon tutti insieme!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+322,DLP_underground_642,"Mentre cercavo tesori, ho trovato uno strano
+frammento che ricorda un fiore!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+323,DLP_underground_643,"Mentre cercavo tesori ho trovato uno strano
+frammento che ricorda un fiore!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+324,DLP_underground_644,"Non è mica tanto facile scavare tesori!
+Sei lì che pensi di avercela fatta...
+e all’improvviso crolla tutto!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+325,DLP_underground_645,"Non è mica tanto facile scavare tesori!
+Sei lì che pensi di avercela fatta...
+e all’improvviso crolla tutto!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+326,DLP_underground_646,"{pageend:È così emozionante aprire uno scrigno!}
+Spero sempre di trovare una statua che
+non ho mai visto!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+327,DLP_underground_647,"{pageend:È così emozionante aprire uno scrigno!}
+Spero sempre di trovare una statua che
+non ho mai visto!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+328,DLP_underground_648,"{pageend:Sai cosa vuol dire scavare accanto a qualcuno?}
+Significa scavare a fianco di una persona che sta
+cercando tesori, aiutandosi a vicenda.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+329,DLP_underground_649,"{pageend:Sai cosa vuol dire scavare accanto a qualcuno?}
+Significa scavare a fianco di una persona che sta
+cercando tesori, aiutandosi a vicenda.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+330,DLP_underground_650,"Quando scavo accanto a qualcuno, ho come
+la sensazione di poter trovare statue
+che ancora non ho!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+331,DLP_underground_651,"Quando scavo accanto a qualcuno, ho come
+la sensazione di poter trovare statue
+che ancora non ho!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+332,DLP_underground_652,"Quando qualcuno mi aiuta scavando accanto
+a me, la ricerca di tesori procede molto meglio
+del solito!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+333,DLP_underground_653,"Quando qualcuno mi aiuta scavando accanto
+a me, la ricerca di tesori procede molto meglio
+del solito!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+334,DLP_underground_654,"I Pokémon che vivono nei Grandi Sotterranei
+non si nascondono. Che emozione!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+335,DLP_underground_655,"I Pokémon che vivono nei Grandi Sotterranei
+non si nascondono. Che emozione!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+103,DLP_underground_414,Scava,79,-1,32,160,0,"0
+0
+0
+-1
+0"
+104,DLP_underground_415,Cambia,81,-1,32,224,0,"0
+0
+0
+-1
+0"
+105,DLP_underground_416,Usa,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+106,DLP_underground_417,Guarda dentro,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+107,DLP_underground_418,Annulla,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+109,DLP_underground_419,Basi,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+110,DLP_underground_420,Bilie,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+111,DLP_underground_421,Statue,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+112,DLP_underground_423,Comunicazione locale,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+113,DLP_underground_424,Internet,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+114,DLP_underground_425,In solitaria,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+115,DLP_underground_426,"Comunicazione in corso.
+Attendi...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+116,DLP_underground_427,"Impossibile stabilire la comunicazione.
+Vuoi riprovare?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+336,DLP_underground_656,"Ho affrontato dei Pokémon selvatici in un
+Rifugio di Pokémon ed erano tutti fortissimi!
+Sono ancora sbalordito!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+117,DLP_underground_429,Menu Grandi Sotterranei,87,-1,32,384,0,"0
+0
+0
+-1
+0"
+118,DLP_underground_430,Mappa Grandi Sotterranei,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+119,DLP_underground_431,Apri la mappa dei Grandi Sotterranei.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+120,DLP_underground_432,Torni in superficie.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+121,DLP_underground_433,Chiudi il menu.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+122,DLP_underground_434,Cambia,81,-1,32,224,0,"0
+0
+0
+-1
+0"
+123,DLP_underground_435,Indietro,80,-1,32,192,0,"0
+0
+0
+-1
+0"
+124,DLP_underground_436,Buongiorno!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+125,DLP_underground_437,Ciao!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+126,DLP_underground_438,Buonasera!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+127,DLP_underground_439,"{pageend:I Grandi Sotterranei sono enormi!}
+Ti conviene consultare la mappa lungo la strada,
+se non vuoi perderti.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+128,DLP_underground_440,"Il bello di questo posto è poter recuperare tesori
+{pageend:e incontrare Pokémon.}
+Stare qui fa perdere la cognizione del tempo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+129,DLP_underground_441,"{pageend:I Sotterranei sono suddivisi in diverse zone.}
+Per cambiare zona, ti consiglio di fare
+una capatina in superficie!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+130,DLP_underground_442,"Hai già trovato un Rifugio di Pokémon?
+Cercali, ci vivono un sacco di Pokémon!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+131,DLP_underground_443,"I Rifugi di Pokémon possono essere più
+{pageend:o meno larghi.}
+In quelli spaziosi pare si possano incontrare
+Pokémon più grossi!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+132,DLP_underground_444,"Se dai delle bilie al signore che sta sempre
+{pageend:nei cunicoli, puoi scambiarle con altri oggetti.}
+Pare ci sia anche qualcuno che rimette in sesto
+i Pokémon!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+133,DLP_underground_445,"Ho costruito una Base Segreta tutta mia!
+Basta bucare una parete con la Trivella.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+134,DLP_underground_446,"Nella Base Segreta si possono mettere
+{pageend:delle statue.}
+Se ne metti tante, a quanto pare può succedere
+qualcosa di bello!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+135,DLP_underground_447,"Hai mai visitato le Basi Segrete degli altri?
+È bello vederle perché sono tutte diverse!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+136,DLP_underground_448,"Le statue da mettere nelle Basi Segrete
+{pageend:si possono combinare con delle basi apposite.}
+Se hai delle basi, perché non fai una prova?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+137,DLP_underground_449,"Ci sono un sacco di cose nascoste nelle pareti
+{pageend:dei Sotterranei!}
+A volte si trovano perfino dei tesori!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+138,DLP_underground_450,"Nella mappa in genere puoi vedere in quali
+{pageend:pareti si può scavare.}
+Non dimenticarti di controllare con il radar
+quando sei nei paraggi dei punti indicati!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+139,DLP_underground_451,"Quando sei in cerca di tesori, fai attenzione
+alle crepe nelle pareti!
+Se esageri con gli scavi, la parete crollerà!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+140,DLP_underground_452,"Per scavare nelle pareti hai a disposizione
+{pageend:un martello e una piccozza.}
+Ogni attrezzo permette di scavare un’area più o
+meno grande, perciò usali nelle occasioni giuste!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+141,DLP_underground_453,"Mentre cerchi i tesori, potresti trovare pietre
+{pageend:impossibili da rompere.}
+In questi casi ti conviene scavare altrove.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+142,DLP_underground_454,"Scavando nelle pareti, a volte si trovano
+dei Frammenti insoliti. Chissà a che servono!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+143,DLP_underground_455,"Hai mai trovato uno scrigno mentre scavavi?
+Dentro ci sono delle statue!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+144,DLP_underground_456,"Esistono scrigni di diversi tipi. Più sono belli,
+più rare sono le statue che contengono.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+145,DLP_underground_457,"Ti consiglio di raccogliere tante bilie, così
+potrai scambiarle e ottenere diversi strumenti
+dal signore che sta nei Sotterranei!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+146,DLP_underground_458,"Ci sono bilie piccole e grandi. Quelle grandi
+sono rare, perciò trovarle è una bella fortuna!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+147,DLP_underground_459,"Oh, {tag:0}!
+Ti sei svegliat{tag:1}{pageend:, meno male!}
+Ho rimesso in sesto io {tag:2} Pokémon,
+non preoccuparti.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,21,0,5,0,255,"o
+a",0,-1,21,1,5,0,253,"il tuo
+i tuoi",0
+148,DLP_underground_460,"Oh, {tag:0}! Tutto bene?!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+149,DLP_underground_461,"La tua Base Segreta non è nei paraggi, perciò
+per il momento ti ho trascinat{tag:0} fin qui.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+150,DLP_underground_462,"Certo, per te un posto in cui riposare con calma
+qui nei Grandi Sotterranei non sarebbe male...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+151,DLP_underground_463,"I Pokémon dei Grandi Sotterranei sono molto
+{pageend:robusti!}
+Devi stare attent{tag:0} quando vai in esplorazione!
+Beh, io vado! Ci vediamo in giro!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+152,DLP_underground_464,Hai ottenuto uno Scrigno semplice!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+153,DLP_underground_465,Hai ottenuto uno Scrigno grazioso!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+154,DLP_underground_466,Hai ottenuto uno Scrigno sontuoso!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+155,DLP_underground_467,Lo scrigno comincia a brillare!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+156,DLP_underground_468,"È appars{tag:0}
+{tag:1}{tag:2}!",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,0,5,0,0,"o
+a",0,-1,21,5,5,0,0,,0,0,1,22,0,0,0,,0
+157,DLP_underground_469,Scava,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+158,DLP_underground_470,Cambia,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+159,DLP_underground_471,Vuoi costruire una Base Segreta con la Trivella?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+160,DLP_underground_472,"Sei troppo vicin{tag:0} a un Rifugio di Pokémon.
+Prova a scavare un po’ più in là.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+161,DLP_underground_473,Qui c’è già una Base Segreta!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+162,DLP_underground_474,"Non c’è abbastanza spazio nell’angolo.
+Prova in una zona più ampia.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+163,DLP_underground_475,"Questa è la Base Segreta di {tag:0}!
+Vuoi entrarci?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+164,DLP_underground_476,"Ti è arrivato un regalo da qualcuno
+che ha visitato la tua Base Segreta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+165,DLP_underground_477,"Ti è arrivato un regalo per ringraziarti di aver
+dato informazioni utili per cercare tesori!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+166,DLP_underground_478,Hai acceso il PC della Base Segreta!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+167,DLP_underground_479,Posiziona una statua,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+168,DLP_underground_480,Guarda la Base Segreta,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+169,DLP_underground_481,Amplia la Base Segreta,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+170,DLP_underground_482,Annulla,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+171,DLP_underground_483,Cambia visuale,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+172,DLP_underground_484,Indietro,80,-1,32,192,0,"0
+0
+0
+-1
+0"
+337,DLP_underground_657,"Ho affrontato dei Pokémon selvatici in un
+Rifugio di Pokémon ed erano tutti fortissimi!
+Sono ancora sbalordita!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+338,DLP_underground_658,"Ho perso contro un Pokémon selvatico e Pedro
+è venuto in mio soccorso...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+339,DLP_underground_659,"Ho perso contro un Pokémon selvatico e Pedro
+è venuto in mio soccorso...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+173,DLP_underground_488,Vuoi ampliare la tua Base Segreta?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+174,DLP_underground_489,Bilie necessarie,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+175,DLP_underground_490,Amplia,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+176,DLP_underground_491,Hai ampliato la tua Base Segreta!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+177,DLP_underground_492,Conferma,81,-1,32,224,0,"0
+0
+0
+-1
+0"
+178,DLP_underground_493,Cambia modalità,86,-1,32,352,0,"0
+0
+0
+-1
+0"
+179,DLP_underground_494,Lista delle statue,87,-1,32,384,0,"0
+0
+0
+-1
+0"
+180,DLP_underground_495,Filtra,81,-1,32,224,0,"0
+0
+0
+-1
+0"
+181,DLP_underground_496,"Cosa vuoi fare
+con {tag:0}{tag:1}?",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,3,5,0,2,,0,2,1,81,0,0,0,,0
+182,DLP_underground_497,Posiziona,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+183,DLP_underground_498,Effetto delle statue,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+185,DLP_underground_499,"Aumenta di poco le probabilità che appaiano Pokémon
+di tipo {tag:0}!",70,-1,42,1008,0,"0
+0
+0
+-1
+0",0,1,3,0,0,0,,0
+186,DLP_underground_500,"Aumenta le probabilità che appaiano Pokémon
+di tipo {tag:0}!",70,-1,42,1008,0,"0
+0
+0
+-1
+0",0,1,3,0,0,0,,0
+187,DLP_underground_501,"Aumenta di molto le probabilità che appaiano Pokémon
+di tipo {tag:0}!",70,-1,42,1008,0,"0
+0
+0
+-1
+0",0,1,3,0,0,0,,0
+188,DLP_underground_502,Sposta,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+189,DLP_underground_503,Cambia base,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+190,DLP_underground_504,Metti via la base,87,-1,32,384,0,"0
+0
+0
+-1
+0"
+191,DLP_underground_505,Metti via,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+192,DLP_underground_506,Vedi effetto,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+193,DLP_underground_507,<color=#F01E1EFF>Attiva</color> effetto,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+194,DLP_underground_745,<color=#F01E1EFF>Aggiorna </color>effetto,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+196,DLP_underground_509,Hai <color=#F01E1EFF>attivato </color>l’effetto di questa Base Segreta.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+340,DLP_underground_660,"Sono sicuro che il Pokémon che ho catturato
+poco fa è rarissimo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+424,DLP_underground_747,Non hai nessuna statua!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+341,DLP_underground_661,"Sono sicura che il Pokémon che ho catturato
+poco fa è rarissimo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+198,DLP_underground_513,"Non puoi <color=#F01E1EFF>attivare </color>{pageend:altri effetti.}
+Vuoi utilizzare questo al posto di quello
+di un’altra Base Segreta?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+199,DLP_underground_514,{tag:0},42,-1,42,504,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+200,DLP_underground_515,"Hai delle bilie piccole? Se ne hai, posso darti
+qualcosa in cambio!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+201,DLP_underground_516,Scambia con oggetti,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+202,DLP_underground_517,Scambia con bilie,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+342,DLP_underground_662,"{pageend:Stai catturando i Pokémon?}
+Qui ci sono specie che non si trovano
+da nessun’altra parte, quindi approfittane!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+343,DLP_underground_663,"{pageend:Stai catturando i Pokémon?}
+Qui ci sono specie che non si trovano
+da nessun’altra parte, quindi approfittane!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+203,DLP_underground_520,"Hai delle bilie grandi? Se ne hai, posso darti
+qualcosa in cambio!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+204,DLP_underground_521,"Hai degli oggetti? Posso darti delle bilie
+in cambio!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+205,DLP_underground_522,Scambia con bilie,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+206,DLP_underground_523,Serve altro?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+207,DLP_underground_524,Ci vediamo!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+208,DLP_underground_525,Bilie disponibili,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+209,DLP_underground_526,"Quant{tag:0} {tag:1}
+vuoi?",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,0,5,0,0,"i
+e",0,0,1,81,0,0,0,,2
+210,DLP_underground_527,"{tag:0} {tag:1}{pageend:?}
+In cambio, vorrei {tag:2}
+{tag:3},
+va bene?",0,-1,54,1080,1,"0
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,81,0,0,0,,0,4,2,2,1,0,205,,0,3,1,81,0,0,0,,0
+211,DLP_underground_528,Affare fatto! Grazie mille!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+212,DLP_underground_529,Scambio,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+213,DLP_underground_530,"Quant{tag:0} {tag:1}
+mi dai?",0,-1,54,1080,1,"0
+0
+0
+-1
+0",-1,21,0,5,0,3,"i
+e",0,3,1,81,0,0,0,,2
+214,DLP_underground_531,"Allora io posso darti
+{tag:0} {tag:1}.
+Vuoi fare lo scambio?",0,-1,54,1080,1,"0
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,81,0,0,0,,0
+215,DLP_underground_532,"Hai dato
+{tag:0} {tag:1}
+e ricevuto
+{tag:2} {tag:3}.",0,-1,54,1080,1,"0
+0
+0
+-1
+0",4,2,2,1,0,205,,0,3,1,81,0,0,0,,0,1,2,2,1,0,205,,0,0,1,81,0,0,0,,0
+216,DLP_underground_533,"Perché non ti riposi un po’?
+È importante fare una pausa ogni tanto!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+217,DLP_underground_534,Riposa,46,-1,42,588,0,"0
+0
+0
+-1
+0"
+218,DLP_underground_535,Hai deciso di fare un riposino...,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+219,DLP_underground_536,"Tu e {tag:0} Pokémon siete tornati
+in perfetta forma!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,1,5,0,253,"il tuo
+i tuoi",0
+220,DLP_underground_537,Sì,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+221,DLP_underground_538,No,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+222,DLP_underground_539,"Imposta dei criteri e seleziona ""Cerca""
+per visualizzare i risultati.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+223,DLP_underground_540,Azzera,81,-1,32,224,0,"0
+0
+0
+-1
+0"
+224,DLP_underground_541,Cerca,80,-1,32,192,0,"0
+0
+0
+-1
+0"
+225,DLP_underground_542,Tipo 1,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+226,DLP_underground_543,Tipo 2,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+227,DLP_underground_544,Dimensioni,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+228,DLP_underground_545,Categoria,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+229,DLP_underground_547,-,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+230,DLP_underground_548,Normale,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+231,DLP_underground_549,Lotta,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+232,DLP_underground_550,Volante,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+233,DLP_underground_551,Veleno,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+234,DLP_underground_552,Terra,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+235,DLP_underground_553,Roccia,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+236,DLP_underground_554,Coleottero,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+237,DLP_underground_555,Spettro,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+238,DLP_underground_556,Acciaio,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+239,DLP_underground_557,Fuoco,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+240,DLP_underground_558,Acqua,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+241,DLP_underground_559,Erba,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+242,DLP_underground_560,Elettro,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+243,DLP_underground_561,Psico,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+244,DLP_underground_562,Ghiaccio,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+245,DLP_underground_563,Drago,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+246,DLP_underground_564,Buio,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+247,DLP_underground_565,Folletto,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+248,DLP_underground_566,1×1,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+249,DLP_underground_567,1×2,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+250,DLP_underground_568,2×2,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+251,DLP_underground_569,3×3,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+252,DLP_underground_570,Standard,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+253,DLP_underground_571,Colore alternativo,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+254,DLP_underground_574,Pokémon leggendari,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+255,DLP_underground_575,Annulla,80,-1,32,192,0,"0
+0
+0
+-1
+0"
+256,DLP_underground_576,Ruota,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+257,DLP_underground_577,Posiziona statua,87,-1,32,384,0,"0
+0
+0
+-1
+0"
+258,DLP_underground_578,Seleziona statua,90,-1,32,416,0,"0
+0
+0
+-1
+0"
+259,DLP_underground_579,Cambia visuale,87,-1,32,384,0,"0
+0
+0
+-1
+0"
+260,DLP_underground_580,Effetti,80,-1,32,192,0,"0
+0
+0
+-1
+0"
+261,DLP_underground_581,"{pageend:I Grandi Sotterranei sono enormi!}
+Ti conviene consultare la mappa lungo la strada,
+se non vuoi perderti.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+262,DLP_underground_582,"Il bello di questo posto è poter recuperare tesori
+{pageend:e incontrare Pokémon.}
+Stare qui fa perdere la cognizione del tempo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+263,DLP_underground_583,"{pageend:I Sotterranei sono suddivisi in diverse zone.}
+Per cambiare zona, ti consiglio di fare
+una capatina in superficie!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+264,DLP_underground_584,"Hai già trovato un Rifugio di Pokémon?
+Cercali, ci vivono un sacco di Pokémon!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+265,DLP_underground_585,"I Rifugi di Pokémon possono essere più
+{pageend:o meno larghi.}
+In quelli spaziosi pare si possano incontrare
+Pokémon più grossi!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+266,DLP_underground_586,"Se dai delle bilie al signore che sta sempre
+{pageend:nei cunicoli, puoi scambiarle con altri oggetti.}
+Pare ci sia anche un signore che rimette in sesto
+i Pokémon!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+267,DLP_underground_587,"Ho costruito una Base Segreta tutta mia!
+Basta bucare una parete con la Trivella.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+268,DLP_underground_588,"Nella Base Segreta si possono mettere
+{pageend:delle statue.}
+Se ne metti tante, a quanto pare può succedere
+qualcosa di bello!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+269,DLP_underground_589,"Hai mai visitato le Basi Segrete degli altri?
+È bello vederle perché sono tutte diverse!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+270,DLP_underground_590,"Le statue da mettere nelle Basi Segrete
+{pageend:si possono combinare con delle basi apposite.}
+Se hai delle basi, perché non fai una prova?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+271,DLP_underground_591,"Ci sono un sacco di cose nascoste nelle pareti
+{pageend:dei Sotterranei!}
+A volte si trovano perfino dei tesori!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+272,DLP_underground_592,"Nella mappa in genere puoi vedere in quali
+{pageend:pareti si può scavare.}
+Non dimenticarti di controllare con il radar
+vicino a ogni punto!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+273,DLP_underground_593,"Quando sei in cerca di tesori, fai attenzione
+alle crepe nelle pareti!
+Se esageri con gli scavi, la parete crollerà!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+274,DLP_underground_594,"Per scavare nelle pareti hai a disposizione
+{pageend:un martello e una piccozza.}
+Ogni attrezzo permette di scavare un’area più o
+meno grande, perciò usali nelle occasioni giuste!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+275,DLP_underground_595,"Mentre cerchi i tesori, potresti trovare pietre
+{pageend:impossibili da rompere.}
+In questi casi ti conviene scavare altrove.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+276,DLP_underground_596,"Scavando nelle pareti, a volte si trovano
+dei Frammenti insoliti. Chissà a che servono!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+277,DLP_underground_597,"Hai mai trovato uno scrigno mentre scavavi?
+Dentro ci sono delle statue!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+278,DLP_underground_598,"Esistono scrigni di diversi tipi. Più sono belli,
+più rare sono le statue che contengono.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+279,DLP_underground_599,"Ti consiglio di raccogliere tante bilie, così
+potrai scambiarle e ottenere diversi strumenti
+dal signore che sta nei Sotterranei!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+280,DLP_underground_600,"Ci sono bilie piccole e grandi. Quelle grandi
+sono rare, perciò trovarle è una bella fortuna!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+281,DLP_underground_601,4×4,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+282,DLP_underground_602,Vuoi mettere via tutte le statue?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+344,DLP_underground_664,"I Rifugi di Pokémon possono avere diverse
+{pageend:conformazioni.}
+Sapere in che tipo di posti vivono i Pokémon
+che si stanno cercando è fondamentale.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+345,DLP_underground_665,"I Rifugi di Pokémon possono avere diverse
+{pageend:conformazioni.}
+Sapere in che tipo di posti vivono i Pokémon
+che si stanno cercando è fondamentale.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+346,DLP_underground_666,"Com’è la tua Base Segreta?
+Mi piacerebbe visitarla!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+347,DLP_underground_667,"Com’è la tua Base Segreta?
+Mi piacerebbe visitarla!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+348,DLP_underground_668,"Pare che le statue abbiano vari effetti quando
+le metti nella Base Segreta.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+349,DLP_underground_669,"Pare che le statue abbiano vari effetti quando
+le metti nella Base Segreta.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+350,DLP_underground_670,"Sarebbe bello decorare così bene la mia
+Base Segreta da ricevere tanti ""mi piace""!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+351,DLP_underground_671,"Sarebbe bello decorare così bene la mia
+Base Segreta da ricevere tanti ""mi piace""!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+352,DLP_underground_672,"Vieni a visitare la mia Base Segreta, se ti va!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+353,DLP_underground_673,"Vieni a visitare la mia Base Segreta, se ti va!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+354,DLP_underground_674,"Ho sentito che se attivi un effetto nella Base
+Segreta di un’altra persona, ne benefici anche tu.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+355,DLP_underground_675,"Ho sentito che se attivi un effetto nella Base
+Segreta di un’altra persona, ne benefici anche tu.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+356,DLP_underground_676,"Ho messo un ""mi piace"" all’ultima Base Segreta
+che ho visitato.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+357,DLP_underground_677,"Ho messo un ""mi piace"" all’ultima Base Segreta
+che ho visitato.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+358,DLP_underground_678,"Quando raccogli sfavilliti, devi essere
+{pageend:perseverante!}
+Gambe in spalla, e gira in lungo e in largo
+per trovarle!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+359,DLP_underground_679,"Quando raccogli sfavilliti, devi essere
+{pageend:perseverante!}
+Gambe in spalla, e gira in lungo e in largo
+per trovarle!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+360,DLP_underground_680,"Dicono che se accumuli tante sfavilliti
+sia più facile trovare tesori!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+361,DLP_underground_681,"Dicono che se accumuli tante sfavilliti
+sia più facile trovare tesori!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+362,DLP_underground_682,"Quando vado in cerca di sfavilliti e trovo
+un Dugtrio, vado su di giri!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+363,DLP_underground_683,"Quando vado in cerca di sfavilliti e trovo
+un Dugtrio, vado su di giri!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+364,DLP_underground_684,"{pageend:Scava nelle pareti e troverai dei tesori!}
+Nei Grandi Sotterranei si respira proprio
+un’aria d’avventura!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+365,DLP_underground_685,"{pageend:Scava nelle pareti e troverai dei tesori!}
+Nei Grandi Sotterranei si respira proprio
+un’aria d’avventura!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+366,DLP_underground_686,"I Grandi Sotterranei sono enormi, eppure
+ci si imbatte sempre in tanti altri Allenatori!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+367,DLP_underground_687,"I Grandi Sotterranei sono enormi, eppure
+ci si imbatte sempre in tanti altri Allenatori!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+368,DLP_underground_688,"Prima ho incontrato un signore che mi ha
+dato gli strumenti che volevo in cambio di
+alcune bilie!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+369,DLP_underground_689,"Prima ho incontrato un signore che mi ha
+dato gli strumenti che volevo in cambio di
+alcune bilie!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+370,DLP_underground_690,"I Grandi Sotterranei sono vasti e intricati,
+ma il mio sogno è quello di esplorare ogni
+singolo tunnel!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+371,DLP_underground_691,"I Grandi Sotterranei sono vasti e intricati,
+ma il mio sogno è quello di esplorare ogni
+singolo tunnel!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+372,DLP_underground_692,"{pageend:Ci sono tanti tipi diversi di Rifugi di Pokémon...}
+Vulcani sotterranei, laghi ghiacciati e chissà
+cos’altro!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+373,DLP_underground_693,"{pageend:Ci sono tanti tipi diversi di Rifugi di Pokémon...}
+Vulcani sotterranei, laghi ghiacciati e chissà
+cos’altro!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+374,DLP_underground_694,"Che ci si trovi sottoterra o in superficie,
+è buona educazione salutare.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+375,DLP_underground_695,"Che ci si trovi sottoterra o in superficie,
+è buona educazione salutare.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+376,DLP_underground_696,"{pageend:Hai già costruito la tua Base Segreta?}
+Puoi metterci le statue che preferisci
+e renderla il posto dei tuoi sogni!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+377,DLP_underground_697,"{pageend:Hai già costruito la tua Base Segreta?}
+Puoi metterci le statue che preferisci
+e renderla il posto dei tuoi sogni!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+378,DLP_underground_698,"Oggi non ho visto Pedro in giro.
+Chissà dove passa il tempo di solito...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+379,DLP_underground_699,"Oggi non ho visto Pedro in giro.
+Chissà dove passa il tempo di solito...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+380,DLP_underground_700,"Ah! Mi hai spaventato parlandomi così
+all’improvviso!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+381,DLP_underground_701,"Ah! Mi hai spaventata parlandomi così
+all’improvviso!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+382,DLP_underground_702,"I miei Pokémon erano stanchi dopo tante
+esplorazioni, ma un signore che era nei tunnel
+li ha rimessi in sesto!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+383,DLP_underground_703,"I miei Pokémon erano stanchi dopo tante
+esplorazioni, ma un signore che era nei tunnel
+li ha rimessi in sesto!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+384,DLP_underground_704,"Ovunque tu vada nei Grandi Sotterranei,
+si sente martellare.
+A suo modo, è un rumore rassicurante.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+385,DLP_underground_705,"Ovunque tu vada nei Grandi Sotterranei,
+si sente martellare.
+A suo modo, è un rumore rassicurante.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+386,DLP_underground_706,"Andare sottoterra ed esplorare usando il radar...
+è un po’ come essere in un sottomarino!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+387,DLP_underground_707,"Andare sottoterra ed esplorare usando il radar...
+è un po’ come essere in un sottomarino!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+388,DLP_underground_708,"Mmh, dove posso costruire la mia Base Segreta?
+Non riesco a decidermi...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+389,DLP_underground_709,"Mmh, dove posso costruire la mia Base Segreta?
+Non riesco a decidermi...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+390,DLP_underground_710,"Un po’ alla volta mi sono abituato a usare
+il martello e la piccozza...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+391,DLP_underground_711,"Un po’ alla volta mi sono abituata a usare
+il martello e la piccozza...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+392,DLP_underground_712,"Ci vuole la giusta attenzione sia per le statue
+che per le basi.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+393,DLP_underground_713,"Ci vuole la giusta attenzione sia per le statue
+che per le basi.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+394,DLP_underground_714,"Ho l’impressione che i tunnel si stiano allargando
+perché tutti scavano in cerca di tesori.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+395,DLP_underground_715,"Ho l’impressione che i tunnel si stiano allargando
+perché tutti scavano in cerca di tesori.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+396,DLP_underground_716,"Prima stavo scavando in questa zona e ho
+trovato una pietra molto strana!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+397,DLP_underground_717,"Prima stavo scavando in questa zona e ho
+trovato una pietra molto strana!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+398,DLP_underground_718,Mi piacerebbe trovare degli Scrigni sontuosi...,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+399,DLP_underground_719,Mi piacerebbe trovare degli Scrigni sontuosi...,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+400,DLP_underground_720,"Dicono che quando si cercano tesori se ne
+possano trovare al massimo quattro alla volta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+401,DLP_underground_721,"Dicono che quando si cercano tesori se ne
+possano trovare al massimo quattro alla volta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+402,DLP_underground_722,"Sapevi che le statue di Pokémon possono
+{pageend:essere di colori diversi?}
+Dicono che mettere quelle colorate nella Base
+Segreta produrrà un effetto maggiore del solito.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+403,DLP_underground_723,"Sapevi che le statue di Pokémon possono
+{pageend:essere di colori diversi?}
+Dicono che mettere quelle colorate nella Base
+Segreta produrrà un effetto maggiore del solito.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+404,DLP_underground_724,"Occhio che non si può scavare in cerca di tesori
+nelle pareti coperte di assi!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+405,DLP_underground_725,"Occhio che non si può scavare in cerca di tesori
+nelle pareti coperte di assi!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+406,DLP_underground_726,"Ho l’impressione che più miglioro come
+Allenatore, più sono bravo a cercare tesori!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+407,DLP_underground_727,"Ho l’impressione che più miglioro come
+Allenatrice, più sono brava a cercare tesori!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+408,DLP_underground_728,"Se trovi una lastra, dalla a un Pokémon
+dello stesso tipo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+409,DLP_underground_729,"Se trovi una lastra, dalla a un Pokémon
+dello stesso tipo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+410,DLP_underground_731,{tag:0},35,-1,42,210,0,"0
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+411,DLP_underground_732,{tag:0}:{tag:1},150,-1,42,252,0,"0
+0
+0
+-1
+0",0,2,1,1,0,205,,0,1,2,1,1,0,205,,0
+412,DLP_underground_733,{tag:0},35,-1,42,210,0,"0
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+413,DLP_underground_734,/{tag:0},35,-1,42,210,0,"0
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+416,DLP_underground_739,"Sono apparsi dei Diglett e dei Dugtrio!
+Vai a cercarli!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+417,DLP_underground_738,Le attività nei Grandi Sotterranei saranno più fruttuose!,73,-1,42,1092,0,"0
+0
+0
+-1
+0"
+418,DLP_underground_740,"Hai raccolto {tag:0} {tag:1}.
+Ottieni {tag:2} !",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,2,2,1,0,205,,0,-1,21,23,5,0,0,"sfavillite
+sfavilliti
+sfavilliti",0,1,2,3,1,0,1,,0
+419,DLP_underground_741,{tag:0} ({tag:1}),0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,2,2,1,0,205,,0,1,2,2,1,0,205,,0
+420,DLP_underground_742,Non hai abbastanza bilie!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+421,DLP_underground_743,Puoi espandere la Base Segreta!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+422,DLP_underground_744,"Le statue di questa Base Segreta sono state
+{pageend:cambiate.}
+Vuoi aggiornare gli effetti della base?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+423,DLP_underground_746,"Gli effetti della Base Segreta sono stati
+aggiornati!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+425,DLP_underground_748,Non ci sono effetti delle statue attivi.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+426,DLP_underground_749,Non hai niente da scambiare!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+427,DLP_underground_750,Base Segreta di {tag:0},0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+428,DLP_underground_751,Statue posizionate,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+429,DLP_underground_752,{tag:0}/{tag:1},150,-1,42,252,0,"0
+0
+0
+-1
+0",0,2,1,1,0,205,,0,1,2,1,1,0,205,,0
+430,DLP_underground_753,Scegli il primo tipo.,57,-1,42,840,0,"0
+0
+0
+-1
+0"
+431,DLP_underground_754,Scegli il secondo tipo.,57,-1,42,840,0,"0
+0
+0
+-1
+0"
+432,DLP_underground_755,Scegli il formato della statua.,57,-1,42,840,0,"0
+0
+0
+-1
+0"
+433,DLP_underground_756,Scegli il tipo di statua.,57,-1,42,840,0,"0
+0
+0
+-1
+0"

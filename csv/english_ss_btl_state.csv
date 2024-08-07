@@ -1,0 +1,631 @@
+0,BTR_STATE_01_01,Harsh Sunlight,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+1,BTR_STATE_01_02,"The harsh sunlight weather condition.
+It boosts the power of Fire-type moves and
+lowers the power of Water-type moves.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+2,BTR_STATE_02_01,Rain,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+3,BTR_STATE_02_02,"The rain weather condition.
+It boosts the power of Water-type moves and
+lowers the power of Fire-type moves.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+4,BTR_STATE_03_01,Sandstorm,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+5,BTR_STATE_03_02,"The sandstorm weather condition.
+At the end of each turn, it damages all Pokémon
+that are not Rock, Ground, or Steel types.
+It boosts the Sp. Def of Rock-type Pokémon.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+6,BTR_STATE_04_01,Hail,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+7,BTR_STATE_04_02,"The hail weather condition.
+At the end of each turn, it damages all Pokémon
+that are not Ice types.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+14,BTR_STATE_08_01,Trick Room,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+15,BTR_STATE_08_02,Slower Pokémon get to move first for five turns.,60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+20,BTR_STATE_11_01,Critical Hit Boost,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+21,BTR_STATE_11_02,The Pokémon is more likely to land critical hits.,60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+22,BTR_STATE_12_01,Confusion,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+23,BTR_STATE_12_02,"The Pokémon may hurt itself in its confusion.
+The effect lasts for one to four turns.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+24,BTR_STATE_13_01,Infatuation,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+25,BTR_STATE_13_02,"The Pokémon is less likely to unleash an attack
+on Pokémon of the opposite gender.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+8,BTR_STATE_05_01,Electric Terrain,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+9,BTR_STATE_05_02,"For five turns, Pokémon on the ground won’t
+fall asleep.
+The power of Electric-type moves is boosted.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+28,BTR_STATE_16_01,Encore,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+29,BTR_STATE_16_02,"Due to Encore, the Pokémon can use only
+{tag:0} for three turns.",60,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,7,0,0,0,,0
+30,BTR_STATE_17_01,No Ability,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+31,BTR_STATE_17_02,The Pokémon’s Ability loses its effect.,60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+32,BTR_STATE_18_01,Torment,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+33,BTR_STATE_18_02,"The Pokémon can’t use the same move twice
+in a row.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+34,BTR_STATE_19_01,Tailwind,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+35,BTR_STATE_19_02,"The Speed stats of a Pokémon and its allies are
+doubled for four turns.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+36,BTR_STATE_21_01,Grudge,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+37,BTR_STATE_21_02,"If the Pokémon faints by an opponent’s move,
+the PP of that move will be reduced to 0.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+10,BTR_STATE_06_01,Grassy Terrain,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+11,BTR_STATE_06_02,"For five turns, Pokémon on the ground will have
+a little HP restored at the end of each turn.
+The power of Grass-type moves is boosted.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+12,BTR_STATE_07_01,Misty Terrain,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+13,BTR_STATE_07_02,"For five turns, Pokémon on the ground won’t get
+any status conditions.
+Damage from Dragon-type moves is halved.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+38,BTR_STATE_24_01,Move Disabled,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+39,BTR_STATE_24_02,"For four turns, the Pokémon will be unable to
+use {tag:0}.",60,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,7,0,0,0,,0
+40,BTR_STATE_25_01,Can’t Escape,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+41,BTR_STATE_25_02,The Pokémon can’t flee or be switched out.,60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+42,BTR_STATE_26_01,Lock-On,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+43,BTR_STATE_26_02,"The next move used by the Pokémon will be sure
+to hit the target that was locked on to.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+16,BTR_STATE_09_01,Magic Room,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+17,BTR_STATE_09_02,Pokémon can’t use their held items for five turns.,60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+44,BTR_STATE_28_01,Charge,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+45,BTR_STATE_28_02,"The power of an Electric-type move will be
+doubled if used in the turn after charging.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+46,BTR_STATE_29_01,Gravity,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+47,BTR_STATE_29_02,"Moves are more likely to hit for five turns.
+Ground-type moves will hit Flying-type
+Pokémon and Pokémon with the Levitate Ability.
+Moves that require action midair can’t be used.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+48,BTR_STATE_30_01,Mist,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+49,BTR_STATE_30_02,"The Pokémon’s stats won’t be lowered for
+five turns.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+50,BTR_STATE_31_01,Safeguard,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+51,BTR_STATE_31_02,"The Pokémon is protected from status conditions
+for five turns.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+52,BTR_STATE_32_01,Stealth Rock,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+53,BTR_STATE_32_02,"Pokémon that switch into battle will
+take damage.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+54,BTR_STATE_33_01,Stockpile,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+55,BTR_STATE_33_02,"The Pokémon’s Defense and Sp. Def stats
+go up while stockpiling.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+56,BTR_STATE_34_01,Taunt,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+57,BTR_STATE_34_02,"The Pokémon can only use moves that
+deal damage.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+58,BTR_STATE_36_01,Magnet Rise,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+59,BTR_STATE_36_02,"Ground-type moves won’t hit the Pokémon
+for five turns.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+60,BTR_STATE_37_01,Toxic Spikes,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+61,BTR_STATE_37_02,"Pokémon that switch into battle will
+be poisoned.
+Flying-type Pokémon or Pokémon with
+the Levitate Ability will not be affected.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+18,BTR_STATE_10_01,Wonder Room,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+19,BTR_STATE_10_02,"Pokémon’s Defense and Sp. Def are swapped for
+five turns.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+62,BTR_STATE_39_01,Wish,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+63,BTR_STATE_39_02,"The Pokémon in this spot will have its HP restored
+on the turn after Wish was used.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+66,BTR_STATE_41_01,Ingrain,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+67,BTR_STATE_41_02,"The Pokémon regains some HP at the end of
+each turn.
+Ingrained Pokémon can’t be switched out.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+68,BTR_STATE_42_01,Curse,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+69,BTR_STATE_42_02,"The Pokémon takes damage at the end
+of each turn.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+26,BTR_STATE_15_01,Drowsy,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+27,BTR_STATE_15_02,"The Pokémon will fall asleep at the end of the
+turn if it remains on the battlefield.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+70,BTR_STATE_44_01,Light Screen,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+71,BTR_STATE_44_02,"Damage from special moves is halved for
+five turns.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+72,BTR_STATE_45_01,Reflect,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+73,BTR_STATE_45_02,"Damage from physical moves is halved for
+five turns.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+74,BTR_STATE_46_01,Imprison,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+75,BTR_STATE_46_02,"If a Pokémon affected by Imprison knows any
+moves also known by the user of Imprison, it is
+prevented from using those moves.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+76,BTR_STATE_47_01,Counting Down,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+77,BTR_STATE_47_02,"All Pokémon in this battle state will faint after
+three turns.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+78,BTR_STATE_48_01,Spikes,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+79,BTR_STATE_48_02,"Pokémon that switch into battle will
+take damage.
+Flying-type Pokémon or Pokémon with
+the Levitate Ability will not be affected.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+80,BTR_STATE_50_01,Destiny Bond,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+81,BTR_STATE_50_02,"If the Pokémon is knocked out by an opponent,
+that opponent will also faint.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+64,BTR_STATE_40_01,Sticky Web,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+65,BTR_STATE_40_02,"Pokémon that switch into battle will have their
+Speed lowered.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+82,BTR_STATE_52_01,Leech Seed,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+83,BTR_STATE_52_02,"Leech Seed steals some of the Pokémon’s HP
+at the end of each turn and gives it to
+the opponent.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+84,BTR_STATE_53_01,Lock-On,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+85,BTR_STATE_53_02,"Any move used against a locked-on target will
+be sure to hit.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+86,BTR_STATE_54_01,Bound,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+87,BTR_STATE_54_02,"The Pokémon is bound and takes damage
+every turn.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+88,BTR_STATE_56_01,Outrage,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+89,BTR_STATE_56_02,"The Pokémon rampages and attacks for two to
+three turns. It then becomes confused.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+90,BTR_STATE_57_01,Rampaging,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+91,BTR_STATE_57_02,"The Pokémon rampages and attacks for two to
+three turns. It then becomes confused.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+92,BTR_STATE_58_01,Petal Dance,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+93,BTR_STATE_58_02,"The Pokémon rampages and attacks for two to
+three turns. It then becomes confused.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+94,BTR_STATE_59_01,Badly Poisoned,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+95,BTR_STATE_59_02,"The Pokémon is badly poisoned. The damage
+the Pokémon takes from the poison worsens
+every turn.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+96,BTR_STATE_61_01,Uproar,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+97,BTR_STATE_61_02,"The Pokémon attacks and causes an uproar for
+three turns. During this time, no Pokémon can
+fall asleep.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+98,BTR_STATE_62_01,Aqua Ring,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+99,BTR_STATE_62_02,"The Pokémon is enveloped in a veil made of
+water. It regains some HP every turn.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+102,BTR_STATE_64_01,Smack Down,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+103,BTR_STATE_64_02,"The Pokémon has been knocked out of the sky
+and has fallen to the ground.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+100,BTR_STATE_63_01,Autotomize,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+101,BTR_STATE_63_02,"The Pokémon’s weight is reduced, and its Speed
+is sharply increased.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+104,BTR_STATE_73_01,Throat Chop,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+105,BTR_STATE_73_02,"The Pokémon can’t use any sound-based moves
+for two turns.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+108,BTR_STATE_75_01,Laser Focus,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+109,BTR_STATE_75_02,"The next move used will always result in
+a critical hit.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+106,BTR_STATE_74_01,Aurora Veil,124,-1,42,462,0,"-1
+0
+0
+-1
+0"
+107,BTR_STATE_74_02,"For five turns, the power of special and physical
+moves will be halved.",60,-1,42,840,0,"-1
+0
+0
+-1
+0"

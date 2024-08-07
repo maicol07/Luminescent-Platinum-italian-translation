@@ -1,0 +1,579 @@
+0,DLP_net_union_room_001,"{pageend:You can view each other’s Trainer Cards.}
+Don’t you wonder what sort of adventures other
+players are having?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1,DLP_net_union_room_002,"{pageend:Many different people come here.}
+It’s a great opportunity to talk to everyone,
+battle them, and improve your skills as a Trainer!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+2,DLP_net_union_room_003,"You’re much more likely to have a successful
+trade if you choose a Pokémon that you think
+your trade partner would be happy to receive!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+3,DLP_net_union_room_004,"As for record mixing, I hear that something good
+may happen if you mix your records with others’!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+4,DLP_net_union_room_005,"It looks like your connection is unstable.
+Please talk to me again later!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+5,DLP_net_union_room_006,Toggle connection,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+6,DLP_net_union_room_007,"It appears that you are not currently a
+{pageend:Nintendo Switch Online member.}
+A paid Nintendo Switch Online membership is
+{pageend:required to use the Global Club.}
+Please try to access the Global Club again if you
+become a Nintendo Switch Online member.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+7,DLP_net_union_room_008,What would you like to do right now?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+8,DLP_net_union_room_009,No preference!,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+9,DLP_net_union_room_010,I’d like to battle!,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+10,DLP_net_union_room_011,I’d like to trade!,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+11,DLP_net_union_room_012,"Please, come on in.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+12,DLP_net_union_room_013,Would you like to use the Union Room?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+13,DLP_net_union_room_014,Enter the Local Room,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+14,DLP_net_union_room_015,Enter the Global Room,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+15,DLP_net_union_room_016,Never mind,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+16,DLP_net_union_room_017,You will leave the Local Room. Is that OK?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+17,DLP_net_union_room_018,You will leave the Global Room. Is that OK?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+18,DLP_net_union_room_019,You have left the Local Room.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+19,DLP_net_union_room_020,You have left the Global Room.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+20,DLP_net_union_room_021,Thank you. Please come again.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+21,DLP_net_union_room_022,Would you like to set a password?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+22,DLP_net_union_room_023,The password is incorrect.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+23,DLP_net_union_room_024,Searching for members...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+24,DLP_net_union_room_025,Failed to find enough members.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+25,DLP_net_union_room_026,Dividing into teams...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+26,DLP_net_union_room_027,Would you like to join a Multi Battle?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+27,DLP_net_union_room_028,"Sorry. We already have enough members.
+Maybe next time!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+83,DLP_net_union_room_114,Only the Stickers you own have been attached!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+28,DLP_net_union_room_030,Nice to meet you!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+29,DLP_net_union_room_031,Do you want to cancel the battle?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+30,DLP_net_union_room_032,Taking you to the Global Room...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+31,DLP_net_union_room_033,Taking you to the Local Room...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+32,DLP_net_union_room_034,You’re now in the Global Room.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+33,DLP_net_union_room_035,You’re now in the Local Room.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+34,DLP_net_union_room_036,"Oh, you’re in the mood to battle, are you?
+I’ll try to find friends who want to do the same.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+35,DLP_net_union_room_037,"Oh, you’re in the mood to trade, are you?
+I’ll try to find friends who want to do the same.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+36,DLP_net_union_room_038,"Oh, you don’t have any preference, do you?
+I’ll try to find friends for you with that in mind.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+37,DLP_net_union_room_039,Would you like to start a battle with these rules?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+38,DLP_net_union_room_040,Record Mixing,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+39,DLP_net_union_room_041,Please choose your Battle Team.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+40,DLP_net_union_room_042,"You will play with one other person. Each of you
+will bring out one Pokémon to battle.
+Before the battle begins, the participating
+Pokémon will be shuffled between players.",62,-1,42,840,0,"-1
+0
+0
+-1
+0"
+41,DLP_net_union_room_043,"{pageend:Welcome to the Pokémon Local Club!}
+This is the reception desk for the Local Room.
+May I help you with anything?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+42,DLP_net_union_room_044,Yes,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+43,DLP_net_union_room_045,"Yes, with my group",46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+44,DLP_net_union_room_046,"Yes, with a Link Code",46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+45,DLP_net_union_room_047,"No, thanks",46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+47,DLP_net_union_room_048,"You can only communicate with people who are
+in the same group.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+48,DLP_net_union_room_049,"Oh? It seems you haven’t joined a group yet.
+Please join a group before entering the room.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+49,DLP_net_union_room_050,"If you set a Link Code, you can communicate
+only with people who set the same Link Code.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+50,DLP_net_union_room_051,"Right this way, please.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+51,DLP_net_union_room_053,Would you like to use the Global Room?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+52,DLP_net_union_room_054,Would you like to use the Local Room?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+53,DLP_net_union_room_055,You’ll enter the Local Room again.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+54,DLP_net_union_room_056,You’ll be leaving the Local Room. Is that OK?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+55,DLP_net_union_room_057,You’ll be leaving the Global Room. Is that OK?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+56,DLP_net_union_room_061,"{pageend:You can copy each other’s Capsule Decorations.}
+Place the Capsule Decoration you want to show
+{pageend:off at the top of the list.}
+The other Trainer’s Capsule Decorations will be
+{pageend:automatically copied to your list.}
+Even if you don’t have all the same Stickers when
+you make the copy, you can do it with just the
+ones you already own. Go ahead and try it out!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+58,DLP_net_union_room_064,Opponent:,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+59,DLP_net_union_room_065,I’m {tag:0}!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+60,DLP_net_union_room_066,I’m {tag:0}!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+61,DLP_net_union_room_067,{tag:0} is deciding what to do...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+62,DLP_net_union_room_068,Entry to the battle has been closed.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+63,DLP_net_union_room_069,"Sorry! I don’t have a Pokémon that I can trade
+right now. Let’s trade some other time.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+64,DLP_net_union_room_070,"Sorry! I don’t have a Pokémon that I can trade
+right now. Let’s trade some other time.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+65,DLP_net_union_room_071,Would you like to trade?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+66,DLP_net_union_room_072,Would you like to mix records?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+67,DLP_net_union_room_073,Record mixing will be canceled.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+68,DLP_net_union_room_074,Would you like to participate in record mixing?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+69,DLP_net_union_room_075,Your ID will be visible to others. Is that OK?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+70,DLP_net_union_room_076,Thanks for waiting. Here’s my Trainer Card!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+71,DLP_net_union_room_077,Thanks for waiting. Here’s my Trainer Card!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+72,DLP_net_union_room_079,You don’t have any customized Ball Capsules.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+73,DLP_net_union_room_080,Sure thing! I’ll show you my Capsule Decoration!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+74,DLP_net_union_room_081,Sure thing! I’ll show you my Capsule Decoration!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+75,DLP_net_union_room_082,"Oops! I haven’t done any Capsule Decoration.
+Sorry! Next time.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+76,DLP_net_union_room_083,"Oops! I haven’t done any Capsule Decoration.
+Sorry! Next time.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+77,DLP_net_union_room_084,"Thank you for waiting.
+Here’s my Capsule Decoration!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+78,DLP_net_union_room_085,"Thank you for waiting.
+Here’s my Capsule Decoration!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+79,DLP_net_union_room_087,"Would you like to copy {tag:0}’s
+Capsule Decoration?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+80,DLP_net_union_room_088,"Please select a Ball Capsule you would like to
+copy the Capsule Decoration onto.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+81,DLP_net_union_room_089,"Would you like to copy the Capsule Decoration
+onto this Ball Capsule?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+82,DLP_net_union_room_090,All of the Stickers have been attached!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+84,DLP_net_union_room_091,"{tag:0} wants to show you their
+{pageend:Capsule Decoration.}
+Would you like to show yours to them?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+85,DLP_net_union_room_092,"{tag:0} is showing you their
+Capsule Decoration.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+86,DLP_net_union_room_093,You’ll enter the Local Room again.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+87,DLP_net_union_room_094,"It’s fun to show our Capsule Decorations to
+each other!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+88,DLP_net_union_room_095,"It’s fun to show our Capsule Decorations to
+each other!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+89,DLP_net_union_room_096,"I’m just showing my Trainer Card as my way
+of greeting.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+90,DLP_net_union_room_097,"You can’t use the Capsule Decoration
+feature yet.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+91,DLP_net_union_room_098,You don’t have a blank Ball Capsule.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+92,DLP_net_union_room_099,Would you like to have a Single Battle?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+93,DLP_net_union_room_100,Would you like to have a Double Battle?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+94,DLP_net_union_room_101,Would you like to have a Mix Battle?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+95,DLP_net_union_room_102,Would you like to have a Multi Battle?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+96,DLP_net_union_room_103,Leave the room,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+46,DLP_net_union_room_058,Tell me more,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+97,DLP_net_union_room_104,"{pageend:Welcome to the Local Room!}
+Please enjoy trading Pokémon with a lot
+of people!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+57,DLP_net_union_room_063,Battle format:,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+99,DLP_net_union_room_106,Local Room,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+100,DLP_net_union_room_107,Global Room,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+101,DLP_net_union_room_108,Next,37,-1,42,294,0,"-1
+0
+0
+-1
+0"
+102,DLP_net_union_room_109,{tag:0},41,-1,42,462,0,"-1
+0
+0
+-1
+0",0,1,85,0,0,0,,0
+103,DLP_net_union_room_110,{tag:0},41,-1,42,462,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+98,DLP_net_union_room_111,Union Room,8,-1,54,648,0,"-1
+0
+0
+-1
+0"
+104,DLP_net_union_room_112,You don’t have a Pokémon you can trade!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"

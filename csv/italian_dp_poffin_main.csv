@@ -1,0 +1,699 @@
+0,DP_poffin_main_001,Scheda bacca,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+1,DP_poffin_main_002,Pepato,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+2,DP_poffin_main_003,Agro,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+3,DP_poffin_main_004,Dolce,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+4,DP_poffin_main_005,Amaro,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+5,DP_poffin_main_006,Aspro,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+6,DP_poffin_main_007,Nº,166,-1,32,128,0,"0
+0
+0
+-1
+0"
+8,DP_poffin_main_008,{tag:0},37,-1,42,294,0,"0
+0
+0
+-1
+0",0,1,79,0,0,0,,0
+9,DP_poffin_main_009,Dimensioni,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+10,DP_poffin_main_010,"{tag:0},{tag:1} cm",37,-1,42,294,0,"0
+0
+0
+-1
+0",0,2,1,1,0,205,,0,1,2,0,1,0,205,,0
+11,DP_poffin_main_011,Consistenza,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+12,DP_poffin_main_012,Molto tenera,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+13,DP_poffin_main_013,Tenera,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+14,DP_poffin_main_014,Dura,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+15,DP_poffin_main_015,Molto dura,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+16,DP_poffin_main_016,Durissima,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+17,DP_poffin_main_017,La terra è soffice e fertile!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+18,DP_poffin_main_020,Pianta una bacca,51,-1,42,756,0,"0
+0
+0
+-1
+0"
+19,DP_poffin_main_021,Esci,51,-1,42,756,0,"0
+0
+0
+-1
+0"
+20,DP_poffin_main_025,Vuoi piantare una bacca?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+21,DP_poffin_main_026,Sì,51,-1,42,756,0,"0
+0
+0
+-1
+0"
+22,DP_poffin_main_027,No,51,-1,42,756,0,"0
+0
+0
+-1
+0"
+23,DP_poffin_main_029,"Hai piantato una {tag:0}
+nella terra soffice e fertile.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+24,DP_poffin_main_030,Qui è stata piantata una {tag:0}.,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+25,DP_poffin_main_031,"La pianta di {tag:0}
+è germogliata.",0,-1,54,1080,1,"0
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+26,DP_poffin_main_032,"La pianta di {tag:0}
+sta crescendo.",0,-1,54,1080,1,"0
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+27,DP_poffin_main_033,La pianta di {tag:0} è in fiore.,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+28,DP_poffin_main_034,Vuoi annaffiare la pianta?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+29,DP_poffin_main_035,Sì,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+30,DP_poffin_main_036,No,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+31,DP_poffin_main_037,Ecco fatto! Annaffiata e felice!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+32,DP_poffin_main_038,"{tag:0} {tag:1} {tag:2}!
+Vuoi coglierl{tag:3}?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,1,5,0,1,"C'è
+Ci sono",0,1,2,1,1,0,205,,0,0,1,9,0,0,0,,0,-1,21,1,5,0,1,"a
+e",0
+33,DP_poffin_main_039,Sì,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+34,DP_poffin_main_040,No,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+35,DP_poffin_main_041,Non hai raccolto nessuna {tag:0}.,0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,1,9,0,0,0,,0
+36,DP_poffin_main_042,Hai raccolto {tag:0} {tag:1}!,0,-1,54,1080,0,"0
+0
+0
+-1
+0",1,2,1,1,0,205,,0,0,1,9,0,0,0,,0
+37,DP_poffin_main_043,"La tua Borsa è piena. Non puoi raccogliere
+{tag:0}{tag:1}.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,3,5,0,0,,0,0,1,9,0,0,0,,0
+38,DP_poffin_main_044,"Hai riposto {tag:0}{tag:1} nella
+tasca {tag:2}{pageend:.}
+La terra è di nuovo soffice e fertile.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,3,5,0,1,,0,1,1,9,0,0,0,,0,3,1,24,0,0,0,,0
+39,DP_poffin_main_045,La terra è soffice e fertile.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+40,DP_poffin_main_048,Qui è stata piantata una {tag:0}.,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+41,DP_poffin_main_049,"La pianta di {tag:0}
+è germogliata.",0,-1,54,1080,1,"0
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+42,DP_poffin_main_050,"La pianta di {tag:0}
+sta crescendo.",0,-1,54,1080,1,"0
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+43,DP_poffin_main_051,La pianta di {tag:0} è in fiore.,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+116,DP_poffin_main_189,Scegli un poffin.,74,-1,42,1344,0,"0
+0
+0
+-1
+0"
+64,DP_poffin_main_190,{tag:0},147,-1,42,126,0,"0
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+117,DP_poffin_main_191,Cambia,36,-1,42,252,0,"0
+0
+0
+-1
+0"
+118,DP_poffin_main_192,Conferma,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+119,DP_poffin_main_193,Vuoto,7,-1,54,540,0,"0
+0
+0
+-1
+0"
+44,DP_poffin_main_060,"{tag:0} ha mangiato il poffin molto
+volentieri!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+45,DP_poffin_main_061,"{tag:0} ha mangiato il poffin
+malvolentieri...",0,-1,54,1080,1,"0
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+46,DP_poffin_main_062,{tag:0} ha mangiato il poffin.,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+120,DP_poffin_main_194,La Classe aumenta!,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+121,DP_poffin_main_195,La Grinta aumenta!,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+122,DP_poffin_main_196,La Bellezza aumenta!,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+123,DP_poffin_main_197,La Grazia aumenta!,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+124,DP_poffin_main_198,L’Acume aumenta!,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+125,DP_poffin_main_199,Nessun effetto!,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+126,DP_poffin_main_200,Non ne mangia più...,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+65,DP_poffin_main_201,{tag:0},46,-1,42,588,0,"0
+0
+0
+-1
+0",0,1,15,0,0,0,,0
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+47,DP_poffin_main_092,"Benvenut{tag:0}! Qui puoi preparare dei poffin
+con le tue bacche.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+107,DP_poffin_main_179b,"Bene! Gli altri Pokémon possono andare
+a giocare nel parco!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+48,DP_poffin_main_098,Ops! Non hai nemmeno una bacca...,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+49,DP_poffin_main_099,Ops! Il Portapoffin è pieno.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+50,DP_poffin_main_100,"Per cucinare delle bacche devi avere
+un Portapoffin.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+51,DP_poffin_main_101,Cucina,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+52,DP_poffin_main_103,Info,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+53,DP_poffin_main_104,Esci,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+54,DP_poffin_main_123,"{pageend:Ok! Cominciamo a cucinare!}
+Scegli una bacca fra quelle che hai nella Borsa.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+56,DP_poffin_main_125,Torna pure quando avrai voglia di cucinare!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+57,DP_poffin_main_126,{tag:0},39,-1,42,420,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+58,DP_poffin_main_127,ID: {tag:0},39,-1,42,420,0,"0
+0
+0
+-1
+0",0,2,4,1,0,0,,0
+59,DP_poffin_main_128,Portapoffin,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+60,DP_poffin_main_129,Dai,36,-1,42,252,0,"0
+0
+0
+-1
+0"
+61,DP_poffin_main_130,Butta,36,-1,42,252,0,"0
+0
+0
+-1
+0"
+62,DP_poffin_main_131,Indietro,36,-1,42,252,0,"0
+0
+0
+-1
+0"
+63,DP_poffin_main_132,Morbidezza:,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+66,DP_poffin_main_133,L. {tag:0},39,-1,42,420,0,"0
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+67,DP_poffin_main_134,Esci,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+68,DP_poffin_main_135,Vuoi buttare via il {tag:0}?,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,15,0,0,0,,0
+69,DP_poffin_main_136,Hai buttato via il {tag:0}.,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,15,0,0,0,,0
+70,DP_poffin_main_137,Sì,40,-1,42,420,0,"0
+0
+0
+-1
+0"
+71,DP_poffin_main_138,No,40,-1,42,420,0,"0
+0
+0
+-1
+0"
+72,DP_poffin_main_139,Pepato,36,-1,42,252,0,"0
+0
+0
+-1
+0"
+73,DP_poffin_main_140,Agro,36,-1,42,252,0,"0
+0
+0
+-1
+0"
+74,DP_poffin_main_141,Dolce,36,-1,42,252,0,"0
+0
+0
+-1
+0"
+75,DP_poffin_main_142,Amaro,36,-1,42,252,0,"0
+0
+0
+-1
+0"
+76,DP_poffin_main_143,Aspro,36,-1,42,252,0,"0
+0
+0
+-1
+0"
+77,DP_poffin_main_144,Tutti,36,-1,42,252,0,"0
+0
+0
+-1
+0"
+78,DP_poffin_main_145,Mangiare poffin pepati fa aumentare la Classe.,74,-1,42,1344,0,"0
+0
+0
+-1
+0"
+79,DP_poffin_main_146,Mangiare poffin agri fa aumentare la Bellezza.,74,-1,42,1344,0,"0
+0
+0
+-1
+0"
+80,DP_poffin_main_147,Mangiare poffin dolci fa aumentare la Grazia.,74,-1,42,1344,0,"0
+0
+0
+-1
+0"
+81,DP_poffin_main_148,Mangiare poffin amari fa aumentare l’Acume.,74,-1,42,1344,0,"0
+0
+0
+-1
+0"
+82,DP_poffin_main_149,Mangiare poffin aspri fa aumentare la Grinta.,74,-1,42,1344,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+83,DP_poffin_main_152,Hai aggiunto la {tag:0}.,0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+84,DP_poffin_main_153,{tag:0},39,-1,42,420,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+85,DP_poffin_main_154,Mescola o si brucerà!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+86,DP_poffin_main_155,Rallenta! Sta traboccando!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+87,DP_poffin_main_156,Sbrigati! Si brucia!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+88,DP_poffin_main_157,Un po’ più lentamente!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+89,DP_poffin_main_158,Veloce! Veloce!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+90,DP_poffin_main_159,Ecco fatto!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+91,DP_poffin_main_160,Risultati,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+92,DP_poffin_main_161,Tempo di cottura:,65,-1,42,924,0,"0
+0
+0
+-1
+0"
+93,DP_poffin_main_162,{tag:0}:{tag:1}:{tag:2},65,-1,42,924,0,"0
+0
+0
+-1
+0",0,2,1,1,0,205,,0,1,2,1,1,0,205,,0,2,2,1,1,0,205,,0
+94,DP_poffin_main_163,Traboccato:,65,-1,42,924,0,"0
+0
+0
+-1
+0"
+95,DP_poffin_main_164,{tag:0} volt{tag:1},65,-1,42,924,0,"0
+0
+0
+-1
+0",0,2,3,1,0,1,,0,-1,21,1,5,0,0,"a
+e",0
+96,DP_poffin_main_165,Bruciato:,65,-1,42,924,0,"0
+0
+0
+-1
+0"
+97,DP_poffin_main_166,{tag:0} volt{tag:1},65,-1,42,924,0,"0
+0
+0
+-1
+0",0,2,3,1,0,1,,0,-1,21,1,5,0,0,"a
+e",0
+98,DP_poffin_main_167,Tipo e quantità:,65,-1,42,924,0,"0
+0
+0
+-1
+0"
+99,DP_poffin_main_168,{tag:0} di L. {tag:1} x {tag:2},65,-1,42,924,0,"0
+0
+0
+-1
+0",3,1,15,0,0,0,,1,1,2,1,1,0,205,,0,2,2,1,1,0,205,,0
+100,DP_poffin_main_171,"Hai messo {tag:0}{tag:1}
+nel Portapoffin.",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,3,5,0,3,,0,3,1,15,0,0,0,,0
+101,DP_poffin_main_172,Vuoi continuare a preparare poffin?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+102,DP_poffin_main_174,Scegli una bacca fra quelle che hai nella Borsa.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+103,DP_poffin_main_175,Ops! Il Portapoffin è pieno.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+104,DP_poffin_main_176,Non hai bacche da cucinare.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+55,DP_poffin_main_124,"Metti le bacche nella pentola e mescola
+{pageend:nella direzione indicata dalla freccia.}
+Fai attenzione, però! Se mescoli troppo
+{pageend:lentamente, brucerai l’impasto.}
+Se invece ci metti troppa foga, rischierai
+{pageend:di farlo traboccare.}
+Quindi cerca di fare le cose con cura e il tuo
+{pageend:poffin verrà una meraviglia!}
+Infine, ricorda che puoi preparare i poffin
+anche nel Parco Concordia.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+105,DP_poffin_main_178,Con quale Pokémon desideri passeggiare?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+106,DP_poffin_main_179a,"Bene! L’altro Pokémon può andare a giocare
+nel parco!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+108,DP_poffin_main_180a,"Goditi la tua passeggiata!
+Il Pokémon ti aspetta nel parco!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+110,DP_poffin_main_182,Non puoi passeggiare con quel Pokémon.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+111,DP_poffin_main_183,Vuoi riporre la bacca nella Borsa?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+112,DP_poffin_main_184,Vuoi usare la quantità di bacche selezionata?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+113,DP_poffin_main_185,"Metti le bacche nella pentola e mescola
+{pageend:nella direzione indicata dalla freccia.}
+Fai attenzione, però! Se mescoli troppo
+{pageend:lentamente, brucerai l’impasto.}
+Se invece ci metti troppa foga, rischierai
+{pageend:di farlo traboccare.}
+Quindi cerca di fare le cose con cura e il tuo
+poffin verrà una meraviglia!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+7,DP_poffin_main_186,{tag:0},147,-1,42,126,0,"0
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+114,DP_poffin_main_187,Tutto pronto,81,-1,32,224,0,"0
+0
+0
+-1
+0"
+115,DP_poffin_main_188,Metti via le bacche,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+109,DP_poffin_main_180b,"Goditi la tua passeggiata!
+I Pokémon ti aspettano nel parco!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"

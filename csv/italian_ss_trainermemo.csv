@@ -1,0 +1,570 @@
+0,SS_trainermemo_001,Natura <color=#F01E1EFF>Ardita</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+1,SS_trainermemo_002,Natura <color=#F01E1EFF>Schiva</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+2,SS_trainermemo_003,Natura <color=#F01E1EFF>Audace</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+3,SS_trainermemo_004,Natura <color=#F01E1EFF>Decisa</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+4,SS_trainermemo_005,Natura <color=#F01E1EFF>Birbona</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+5,SS_trainermemo_006,Natura <color=#F01E1EFF>Sicura</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+6,SS_trainermemo_007,Natura <color=#F01E1EFF>Docile</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+7,SS_trainermemo_008,Natura <color=#F01E1EFF>Placida</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+8,SS_trainermemo_009,Natura <color=#F01E1EFF>Scaltra</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+9,SS_trainermemo_010,Natura <color=#F01E1EFF>Fiacca</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+10,SS_trainermemo_011,Natura <color=#F01E1EFF>Timida</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+11,SS_trainermemo_012,Natura <color=#F01E1EFF>Lesta</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+12,SS_trainermemo_013,Natura <color=#F01E1EFF>Seria</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+13,SS_trainermemo_014,Natura <color=#F01E1EFF>Allegra</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+14,SS_trainermemo_015,Natura <color=#F01E1EFF>Ingenua</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+15,SS_trainermemo_016,Natura <color=#F01E1EFF>Modesta</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+16,SS_trainermemo_017,Natura <color=#F01E1EFF>Mite</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+17,SS_trainermemo_018,Natura <color=#F01E1EFF>Quieta</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+18,SS_trainermemo_019,Natura <color=#F01E1EFF>Ritrosa</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+19,SS_trainermemo_020,Natura <color=#F01E1EFF>Ardente</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+20,SS_trainermemo_021,Natura <color=#F01E1EFF>Calma</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+21,SS_trainermemo_022,Natura <color=#F01E1EFF>Gentile</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+22,SS_trainermemo_023,Natura <color=#F01E1EFF>Vivace</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+23,SS_trainermemo_024,Natura <color=#F01E1EFF>Cauta</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+24,SS_trainermemo_025,Natura <color=#F01E1EFF>Furba</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+25,SS_trainermemo_026,"Incontrato al L. {tag:0}.
+Data: {tag:1}/{tag:2}/20{tag:3}
+Provenienza: <color=#F01E1EFF>{tag:4}</color>",54,-1,42,756,0,"0
+0
+0
+-1
+0",3,2,2,1,0,205,,0,2,2,1,1,0,205,,0,1,2,1,1,0,205,,0,0,2,1,1,0,205,,0,4,1,5,0,0,0,,0
+26,SS_trainermemo_027,"Probabilmente incontrato al L. {tag:0}.
+Data: {tag:1}/{tag:2}/20{tag:3}
+Provenienza: <color=#F01E1EFF>{tag:4}</color>",54,-1,42,756,0,"0
+0
+0
+-1
+0",3,2,2,1,0,205,,0,2,2,1,1,0,205,,0,1,2,1,1,0,205,,0,0,2,1,1,0,205,,0,4,1,5,0,0,0,,0
+27,SS_trainermemo_028,"Arrivato al L. {tag:0}.
+Data: {tag:1}/{tag:2}/20{tag:3}
+Provenienza: <color=#F01E1EFF>{tag:4}</color>",54,-1,42,756,0,"0
+0
+0
+-1
+0",3,2,2,1,0,205,,0,2,2,1,1,0,205,,0,1,2,1,1,0,205,,0,0,2,1,1,0,205,,0,4,1,5,0,0,0,,0
+28,SS_trainermemo_029,"Probabilmente arrivato al L. {tag:0}.
+Data: {tag:1}/{tag:2}/20{tag:3}
+Provenienza: <color=#F01E1EFF>{tag:4}</color>",54,-1,42,756,0,"0
+0
+0
+-1
+0",3,2,2,1,0,205,,0,2,2,1,1,0,205,,0,1,2,1,1,0,205,,0,0,2,1,1,0,205,,0,4,1,5,0,0,0,,0
+29,SS_trainermemo_030,"Uovo trovato in data {tag:0}/{tag:1}/20{tag:2}.
+Provenienza: <color=#F01E1EFF>{tag:3}</color>
+Schiuso in data: {tag:4}/{tag:5}/20{tag:6}
+Luogo: <color=#F01E1EFF>{tag:7}</color>",54,-1,42,756,0,"0
+0
+0
+-1
+0",7,2,1,1,0,205,,0,6,2,1,1,0,205,,0,5,2,1,1,0,205,,0,8,1,5,0,0,0,,0,2,2,1,1,0,205,,0,1,2,1,1,0,205,,0,0,2,1,1,0,205,,0,4,1,5,0,0,0,,0
+30,SS_trainermemo_031,"Uovo trovato in data {tag:0}/{tag:1}/20{tag:2}.
+Provenienza: <color=#F01E1EFF>{tag:3}</color>
+Schiuso probabilmente
+in data: {tag:4}/{tag:5}/20{tag:6}
+Luogo: <color=#F01E1EFF>{tag:7}</color>",54,-1,42,756,0,"0
+0
+0
+-1
+0",7,2,1,1,0,205,,0,6,2,1,1,0,205,,0,5,2,1,1,0,205,,0,8,1,5,0,0,0,,0,2,2,1,1,0,205,,0,1,2,1,1,0,205,,0,0,2,1,1,0,205,,0,4,1,5,0,0,0,,0
+31,SS_trainermemo_032,"Uovo ottenuto in data {tag:0}/{tag:1}/20{tag:2}.
+Provenienza: <color=#F01E1EFF>{tag:3}</color>
+Schiuso in data: {tag:4}/{tag:5}/20{tag:6}
+Luogo: <color=#F01E1EFF>{tag:7}</color>",54,-1,42,756,0,"0
+0
+0
+-1
+0",7,2,1,1,0,205,,0,6,2,1,1,0,205,,0,5,2,1,1,0,205,,0,8,1,5,0,0,0,,0,2,2,1,1,0,205,,0,1,2,1,1,0,205,,0,0,2,1,1,0,205,,0,4,1,5,0,0,0,,0
+32,SS_trainermemo_033,"Uovo ottenuto in data {tag:0}/{tag:1}/20{tag:2}.
+Provenienza: <color=#F01E1EFF>{tag:3}</color>
+Schiuso probabilmente
+in data: {tag:4}/{tag:5}/20{tag:6}
+Luogo: <color=#F01E1EFF>{tag:7}</color>",54,-1,42,756,0,"0
+0
+0
+-1
+0",7,2,1,1,0,205,,0,6,2,1,1,0,205,,0,5,2,1,1,0,205,,0,8,1,5,0,0,0,,0,2,2,1,1,0,205,,0,1,2,1,1,0,205,,0,0,2,1,1,0,205,,0,4,1,5,0,0,0,,0
+33,SS_trainermemo_034,"Ottenuto durante un evento speciale
+al L. {tag:0}.
+Data: {tag:1}/{tag:2}/20{tag:3}
+Provenienza: <color=#F01E1EFF>{tag:4}</color>",54,-1,42,756,0,"0
+0
+0
+-1
+0",3,2,2,1,0,205,,0,2,2,1,1,0,205,,0,1,2,1,1,0,205,,0,0,2,1,1,0,205,,0,4,1,5,0,0,0,,0
+34,SS_trainermemo_035,"Probabilmente ottenuto durante
+un evento speciale al L. {tag:0}.
+Data: {tag:1}/{tag:2}/20{tag:3}
+Provenienza: <color=#F01E1EFF>{tag:4}</color>",54,-1,42,756,0,"0
+0
+0
+-1
+0",3,2,2,1,0,205,,0,2,2,1,1,0,205,,0,1,2,1,1,0,205,,0,0,2,1,1,0,205,,0,4,1,5,0,0,0,,0
+35,SS_trainermemo_036,"Uovo trovato in data {tag:0}/{tag:1}/20{tag:2}.
+Provenienza: <color=#F01E1EFF>{tag:3}</color>
+Schiuso durante un evento speciale.
+Data: {tag:4}/{tag:5}/20{tag:6}
+Luogo: <color=#F01E1EFF>{tag:7}</color>",54,-1,42,756,0,"0
+0
+0
+-1
+0",7,2,1,1,0,205,,0,6,2,1,1,0,205,,0,5,2,1,1,0,205,,0,8,1,5,0,0,0,,0,2,2,1,1,0,205,,0,1,2,1,1,0,205,,0,0,2,1,1,0,205,,0,4,1,5,0,0,0,,0
+36,SS_trainermemo_037,"Uovo trovato in data {tag:0}/{tag:1}/20{tag:2}.
+Provenienza: <color=#F01E1EFF>{tag:3}</color>
+Schiuso probabilmente durante
+un evento speciale.
+Data: {tag:4}/{tag:5}/20{tag:6}
+Luogo: <color=#F01E1EFF>{tag:7}</color>",54,-1,42,756,0,"0
+0
+0
+-1
+0",7,2,1,1,0,205,,0,6,2,1,1,0,205,,0,5,2,1,1,0,205,,0,8,1,5,0,0,0,,0,2,2,1,1,0,205,,0,1,2,1,1,0,205,,0,0,2,1,1,0,205,,0,4,1,5,0,0,0,,0
+37,SS_trainermemo_038,"Ha attraversato il tempo e lo spazio
+per giungere fino a te.
+Provenienza: <color=#F01E1EFF>{tag:0}</color>",54,-1,42,756,0,"0
+0
+0
+-1
+0",4,1,5,0,0,0,,0
+38,SS_trainermemo_039,"Pare abbia attraversato il tempo e lo spazio
+per giungere fino a te.
+Provenienza: <color=#F01E1EFF>{tag:0}</color>",54,-1,42,756,0,"0
+0
+0
+-1
+0",4,1,5,0,0,0,,0
+39,SS_trainermemo_040,"Un incontro voluto dal destino gli ha fatto
+attraversare il tempo e lo spazio per
+giungere fino a te.
+Provenienza: <color=#F01E1EFF>{tag:0}</color>",54,-1,42,756,0,"0
+0
+0
+-1
+0",4,1,5,0,0,0,,0
+40,SS_trainermemo_041,"Sembra che un incontro voluto dal destino
+gli abbia fatto attraversare il tempo e lo
+spazio per giungere fino a te.
+Provenienza: <color=#F01E1EFF>{tag:0}</color>",54,-1,42,756,0,"0
+0
+0
+-1
+0",4,1,5,0,0,0,,0
+41,SS_trainermemo_042,"Ha attraversato il tempo e lo spazio per
+giungere fino a te affrontando un viaggio
+intriso di ricordi.
+Provenienza: <color=#F01E1EFF>{tag:0}</color>",54,-1,42,756,0,"0
+0
+0
+-1
+0",4,1,5,0,0,0,,0
+42,SS_trainermemo_043,"Pare abbia attraversato il tempo e lo spazio
+per giungere fino a te affrontando un viaggio
+intriso di ricordi.
+Provenienza: <color=#F01E1EFF>{tag:0}</color>",54,-1,42,756,0,"0
+0
+0
+-1
+0",4,1,5,0,0,0,,0
+43,SS_trainermemo_044,"Un incontro voluto dal destino gli ha fatto
+attraversare il tempo e lo spazio per
+giungere fino a te affrontando un viaggio
+intriso di ricordi.
+Provenienza: <color=#F01E1EFF>{tag:0}</color>",54,-1,42,756,0,"0
+0
+0
+-1
+0",4,1,5,0,0,0,,0
+44,SS_trainermemo_045,"Sembra che un incontro voluto dal destino
+gli abbia fatto attraversare il tempo e lo
+spazio per giungere fino a te affrontando
+un viaggio intriso di ricordi.
+Provenienza: <color=#F01E1EFF>{tag:0}</color>",54,-1,42,756,0,"0
+0
+0
+-1
+0",4,1,5,0,0,0,,0
+49,SS_trainermemo_048,"Uovo trovato in data {tag:0}/{tag:1}/20{tag:2}.
+Provenienza: <color=#F01E1EFF>{tag:3}</color>
+Schiuso in data: {tag:4}/{tag:5}/20{tag:6}
+Luogo: <color=#F01E1EFF>{tag:7}</color>",54,-1,42,756,0,"0
+0
+0
+-1
+0",7,2,1,1,0,205,,0,6,2,1,1,0,205,,0,5,2,1,1,0,205,,0,8,1,5,0,0,0,,0,2,2,1,1,0,205,,0,1,2,1,1,0,205,,0,0,2,1,1,0,205,,0,4,1,5,0,0,0,,0
+50,SS_trainermemo_049,"Uovo trovato in data {tag:0}/{tag:1}/20{tag:2}.
+Provenienza: <color=#F01E1EFF>{tag:3}</color>
+Schiuso probabilmente
+in data: {tag:4}/{tag:5}/20{tag:6}
+Luogo: <color=#F01E1EFF>{tag:7}</color>",54,-1,42,756,0,"0
+0
+0
+-1
+0",7,2,1,1,0,205,,0,6,2,1,1,0,205,,0,5,2,1,1,0,205,,0,8,1,5,0,0,0,,0,2,2,1,1,0,205,,0,1,2,1,1,0,205,,0,0,2,1,1,0,205,,0,4,1,5,0,0,0,,0
+51,SS_trainermemo_050,Adora mangiare.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+52,SS_trainermemo_051,Si addormenta spesso.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+53,SS_trainermemo_052,Dorme a lungo.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+54,SS_trainermemo_053,Lascia cose in giro.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+55,SS_trainermemo_054,Adora rilassarsi.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+56,SS_trainermemo_055,La forza è il suo vanto.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+57,SS_trainermemo_056,Adora dimenarsi.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+58,SS_trainermemo_057,Si arrabbia facilmente.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+59,SS_trainermemo_058,Adora lottare.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+60,SS_trainermemo_059,È facilmente irritabile.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+61,SS_trainermemo_060,Ha un corpo robusto.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+62,SS_trainermemo_061,Incassa bene i colpi.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+63,SS_trainermemo_062,È molto ostinato.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+64,SS_trainermemo_063,È molto paziente.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+65,SS_trainermemo_064,È molto tenace.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+66,SS_trainermemo_065,Adora andare veloce.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+67,SS_trainermemo_066,Fa attenzione ai suoni.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+68,SS_trainermemo_067,È irruente e semplice.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+69,SS_trainermemo_068,È una specie di buffone.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+70,SS_trainermemo_069,Sa fuggire velocemente.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+71,SS_trainermemo_070,È un grande ficcanaso.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+72,SS_trainermemo_071,È alquanto vivace.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+73,SS_trainermemo_072,È estremamente sagace.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+74,SS_trainermemo_073,Si perde nel suo mondo.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+75,SS_trainermemo_074,È molto esigente.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+76,SS_trainermemo_075,Sa il fatto suo.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+77,SS_trainermemo_076,È abbastanza superficiale.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+78,SS_trainermemo_077,È molto insolente.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+79,SS_trainermemo_078,Non sopporta perdere.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+80,SS_trainermemo_079,È un po’ testardo.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+81,SS_trainermemo_080,"Un Uovo misterioso ricevuto da qualcuno.
+Data: {tag:0}/{tag:1}/20{tag:2}
+Provenienza: <color=#F01E1EFF>{tag:3}</color>",53,-1,42,756,0,"0
+0
+0
+-1
+0",7,2,1,1,0,205,,0,6,2,1,1,0,205,,0,5,2,1,1,0,205,,0,8,1,5,0,0,0,,0
+82,SS_trainermemo_081,"Un Uovo misterioso.
+Data: {tag:0}/{tag:1}/20{tag:2}
+Provenienza: <color=#F01E1EFF>{tag:3}</color>",53,-1,42,756,0,"0
+0
+0
+-1
+0",2,2,1,1,0,205,,0,1,2,1,1,0,205,,0,0,2,1,1,0,205,,0,4,1,5,0,0,0,,0
+83,SS_trainermemo_082,"Un Uovo misterioso molto insolito.
+Data: {tag:0}/{tag:1}/20{tag:2}
+Provenienza: <color=#F01E1EFF>{tag:3}</color>",53,-1,42,756,0,"0
+0
+0
+-1
+0",7,2,1,1,0,205,,0,6,2,1,1,0,205,,0,5,2,1,1,0,205,,0,8,1,5,0,0,0,,0
+84,SS_trainermemo_083,"Un Uovo misterioso molto insolito.
+Data: {tag:0}/{tag:1}/20{tag:2}
+Provenienza: <color=#F01E1EFF>{tag:3}</color>",53,-1,42,756,0,"0
+0
+0
+-1
+0",2,2,1,1,0,205,,0,1,2,1,1,0,205,,0,0,2,1,1,0,205,,0,4,1,5,0,0,0,,0
+85,SS_trainermemo_084,"Un Uovo misterioso.
+Data: {tag:0}/{tag:1}/20{tag:2}
+Provenienza: <color=#F01E1EFF>{tag:3}</color>",53,-1,42,756,0,"0
+0
+0
+-1
+0",7,2,1,1,0,205,,0,6,2,1,1,0,205,,0,5,2,1,1,0,205,,0,8,1,5,0,0,0,,0
+86,SS_trainermemo_085,"Osservazione Uovo.
+Si sentono dei rumori provenire
+dall’interno. Sta per schiudersi!",52,-1,42,756,0,"0
+0
+0
+-1
+0"
+87,SS_trainermemo_086,"Osservazione Uovo.
+Ogni tanto si muove. Si schiuderà presto.",52,-1,42,756,0,"0
+0
+0
+-1
+0"
+88,SS_trainermemo_087,"Osservazione Uovo.
+Cosa nascerà? Ci vorrà un po’ di tempo.",52,-1,42,756,0,"0
+0
+0
+-1
+0"
+89,SS_trainermemo_088,"Osservazione Uovo.
+Pare che quest’Uovo ci metterà molto
+a schiudersi.",52,-1,42,756,0,"0
+0
+0
+-1
+0"
+90,SS_trainermemo_089,Ama i cibi <color=#F01E1EFF>pepati</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+91,SS_trainermemo_090,Ama i cibi <color=#F01E1EFF>agri</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+92,SS_trainermemo_091,Ama i cibi <color=#F01E1EFF>dolci</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+93,SS_trainermemo_092,Ama i cibi <color=#F01E1EFF>amari</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+94,SS_trainermemo_093,Ama i cibi <color=#F01E1EFF>aspri</color>.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+95,SS_trainermemo_094,Mangia di tutto.,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+45,SS_trainermemo_095,"Ha attraversato il tempo e lo spazio
+per giungere fino a te dall’antica <color=#F01E1EFF>Sinnoh</color>.",54,-1,42,756,0,"0
+0
+0
+-1
+0"
+46,SS_trainermemo_096,"Pare abbia attraversato il tempo e lo spazio
+per giungere fino a te dall’antica <color=#F01E1EFF>Sinnoh</color>.",54,-1,42,756,0,"0
+0
+0
+-1
+0"
+47,SS_trainermemo_097,"Un incontro voluto dal destino gli ha fatto
+attraversare il tempo e lo spazio per
+giungere fino a te dall’antica <color=#F01E1EFF>Sinnoh</color>.",54,-1,42,756,0,"0
+0
+0
+-1
+0"
+48,SS_trainermemo_098,"Pare che un incontro voluto dal destino gli
+abbia fatto attraversare il tempo e lo spazio
+per giungere fino a te dall’antica <color=#F01E1EFF>Sinnoh</color>.",54,-1,42,756,0,"0
+0
+0
+-1
+0"

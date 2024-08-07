@@ -1,0 +1,544 @@
+0,SS_net_live_comm_001,{tag:0},81,-1,32,224,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+1,SS_net_live_comm_003,Trade completed!,91,-1,32,448,0,"-1
+0
+0
+-1
+0"
+2,SS_net_live_comm_004,Link Trade,121,-1,42,420,0,"-1
+0
+0
+-1
+0"
+3,SS_net_live_comm_005,Link Battle,121,-1,42,420,0,"-1
+0
+0
+-1
+0"
+4,SS_net_live_comm_006,Profile,121,-1,42,420,0,"-1
+0
+0
+-1
+0"
+5,SS_net_live_comm_009,{tag:0},81,-1,32,224,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+6,SS_net_live_comm_010,{tag:0},87,-1,32,384,0,"-1
+0
+0
+-1
+0",0,1,5,0,0,0,,0
+7,SS_net_live_comm_011,,57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+8,SS_net_live_comm_015,Seeking,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+9,SS_net_live_comm_016,Link Trade,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+10,SS_net_live_comm_017,Link Battle,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+11,SS_net_live_comm_019,Chatter,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+12,SS_net_live_comm_020, Confirm,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+13,SS_net_live_comm_021, Quit,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+14,SS_net_live_comm_023, Connect to the Internet,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+15,SS_net_live_comm_024, Block,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+16,SS_net_live_comm_028,"You’re broadcasting that you’re looking for
+{pageend:someone to connect with.}
+You can only broadcast one request at a time.",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+17,SS_net_live_comm_029,Do you want to cancel your current request?,57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+18,SS_net_live_comm_030,Yes,33,-1,42,126,0,"-1
+0
+0
+-1
+0"
+19,SS_net_live_comm_031,No,34,-1,42,168,0,"-1
+0
+0
+-1
+0"
+20,SS_net_live_comm_032,"You will now connect to the internet.
+Is that OK?",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+22,SS_net_live_comm_035,"Connecting...
+Please stand by.",20,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+23,SS_net_live_comm_036,You’re now connected to the internet.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+24,SS_net_live_comm_038,You’re now connected to the internet.,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+25,SS_net_live_comm_039,"You’re about to disconnect from the internet.
+Would you like to continue?",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+26,SS_net_live_comm_040,You’ve switched back to local communication.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+27,SS_net_live_comm_043,Disconnecting from the internet...,57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+28,SS_net_live_comm_044,Join in,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+29,SS_net_live_comm_048,Quit,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+30,SS_net_live_comm_053,Friends only,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+31,SS_net_live_comm_054,Seeking,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+32,SS_net_live_comm_055,Link Trades,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+33,SS_net_live_comm_056,Link Battles,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+34,SS_net_live_comm_058,Chatter,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+35,SS_net_live_comm_059,Quit,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+36,SS_net_live_comm_060,Reset filters,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+37,SS_net_live_comm_066,"Your game is being saved.
+Just a moment...",57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+21,SS_net_live_comm_341,"You will now connect to the internet.
+Your game will be saved. Is that OK?",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+38,SS_net_live_comm_109,Start,35,-1,42,210,0,"-1
+0
+0
+-1
+0"
+39,SS_net_live_comm_110,Quit,35,-1,42,210,0,"-1
+0
+0
+-1
+0"
+40,SS_net_live_comm_116,Single Battle,38,-1,42,336,0,"-1
+0
+0
+-1
+0"
+41,SS_net_live_comm_117,Double Battle,38,-1,42,336,0,"-1
+0
+0
+-1
+0"
+42,SS_net_live_comm_119,Link Code,80,-1,32,192,0,"-1
+0
+0
+-1
+0"
+43,SS_net_live_comm_120,{tag:0},79,-1,32,160,0,"-1
+0
+0
+-1
+0",0,2,3,1,0,0,,0
+44,SS_net_live_comm_123,What battle format are you interested in?,57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+45,SS_net_live_comm_124, Set Link Code,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+46,SS_net_live_comm_126, Confirm,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+47,SS_net_live_comm_127, Back,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+48,SS_net_live_comm_128, Reset,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+49,SS_net_live_comm_133,"Select this option for a two-player battle where
+each player sends one Pokémon into battle.",59,-1,42,840,0,"-1
+0
+0
+-1
+0"
+50,SS_net_live_comm_134,"Select this option for a two-player battle where
+each player sends two Pokémon into battle.",59,-1,42,840,0,"-1
+0
+0
+-1
+0"
+51,SS_net_live_comm_135,"Select this option for a four-player battle with
+two Trainers to a side. Each player sends one
+Pokémon into battle at a time.",59,-1,42,840,0,"-1
+0
+0
+-1
+0"
+52,SS_net_live_comm_145,Choose a player icon to represent yourself!,110,-1,32,768,0,"-1
+0
+0
+-1
+0"
+53,SS_net_live_comm_146, Confirm,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+54,SS_net_live_comm_147, Back,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+55,SS_net_live_comm_149,"I’m trading with {tag:0} just now!
+Can’t wait to see what I get!",57,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+73,SS_net_live_comm_309,"Your software version appears to be out of date,
+so you can’t connect to other players.
+If you want to enjoy all current features,
+you must update your software.
+Check the official website for more details.",64,-1,42,840,0,"-1
+0
+0
+-1
+0"
+56,SS_net_live_comm_153,"I’m in the middle of a Single Battle just now!
+And I’m not planning on losing!",57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+57,SS_net_live_comm_154,"I’m in the middle of a Double Battle just now!
+And I’m not planning on losing!",57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+58,SS_net_live_comm_157,"I defeated {tag:0} in a Single Battle!
+How d’you like that?",57,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+59,SS_net_live_comm_158,"I defeated {tag:0} in a Double Battle!
+How d’you like that?",57,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+60,SS_net_live_comm_160,"I joined up with some allies, and together we
+managed to take down {tag:0}!",57,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+61,SS_net_live_comm_161,"I joined up with some allies, and together we
+managed to catch {tag:0}!",57,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+62,SS_net_live_comm_165,"Link Trades help expand your horizons!
+I’m looking to trade. How about you?",57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+63,SS_net_live_comm_166,"Single Battles really get your pulse racing!
+Why don’t you come join in the fun?",57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+64,SS_net_live_comm_167,"Double Battles have some searingly hot strategy!
+Think you’re up for that kind of excitement?",57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+65,SS_net_live_comm_179,I caught myself {tag:0}{tag:1}!,57,-1,42,840,0,"-1
+0
+0
+-1
+0",-1,19,5,5,1,0,,0,0,1,1,0,0,0,,0
+66,SS_net_live_comm_180,"My {tag:0} evolved and now it looks
+entirely different!",57,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+67,SS_net_live_comm_296,Searching...,82,-1,32,256,0,"-1
+0
+0
+-1
+0"
+68,SS_net_live_comm_301,"{pageend:Starting to search for another Trainer!}
+You can also cancel your request by selecting
+another option from the menu.",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+69,SS_net_live_comm_302,"{pageend:Starting to search for another Trainer!}
+You can also cancel your request by selecting
+another option from the menu.",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+70,SS_net_live_comm_303, Block List,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+71,SS_net_live_comm_304,Search canceled.,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+72,SS_net_live_comm_308,"Your system is currently in Airplane Mode,
+so you can’t connect to other players.
+Turn off Airplane Mode and try again.",64,-1,42,840,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+74,SS_net_live_comm_312,Would you like to start trading?,57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+75,SS_net_live_comm_313,Set Link Code,41,-1,42,462,0,"-1
+0
+0
+-1
+0"
+76,SS_net_live_comm_314,Start trading,35,-1,42,210,0,"-1
+0
+0
+-1
+0"
+77,SS_net_live_comm_315,"You’ve set your Link Code to be:
+{tag:0}{pageend:.}
+Would you like to trade using this Link Code?",30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,43,0,0,0,,0
+78,SS_net_live_comm_317,"Would you like to add {tag:0} to your
+block list?",57,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+79,SS_net_live_comm_318,"You won’t be able to connect again with any
+{pageend:player you add to your block list.}
+Are you sure you want to block this player?
+(It’s possible to unblock the player again.)",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+80,SS_net_live_comm_319,"{tag:0} has been added to your
+{pageend:block list.}
+You can check your block list from the Profile
+option in the Y-Comm menu.",30,-1,42,840,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+81,SS_net_live_comm_320,Yes,33,-1,42,126,0,"-1
+0
+0
+-1
+0"
+82,SS_net_live_comm_321,No,34,-1,42,168,0,"-1
+0
+0
+-1
+0"
+83,SS_net_live_comm_322, Local Communication,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+84,SS_net_live_comm_328,Quit,34,-1,42,168,0,"-1
+0
+0
+-1
+0"
+85,SS_net_live_comm_329,"You’ve already added this person to your
+block list.",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+86,SS_net_live_comm_330,You can’t add yourself to your block list!,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+87,SS_net_live_comm_331,"If you and another player set the same Link Code,
+you can be sure to connect with one another.",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+88,SS_net_live_comm_332,"You can’t perform a Link Trade, because your
+your last trade ended without being completed,
+perhaps due to a connection error or turning off
+{pageend:the power to your system.}
+Please wait a while, without changing the time
+on your Nintendo Switch system, then try again.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+89,SS_net_live_comm_333,"You have no Pokémon in your Boxes, so you
+{pageend:can’t carry out a trade.}
+Please start a trade after catching some
+more Pokémon!",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+90,SS_net_live_comm_334,"You don’t have more than two Pokémon, so you
+{pageend:can’t carry out a trade.}
+Please start a trade after catching some
+more Pokémon!",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+91,SS_net_live_comm_335,"You can’t take part in a Double Battle unless you
+{pageend:have at least two Pokémon that can battle.}
+Get your team together, then try again!",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+92,SS_net_live_comm_336,"Communicating...
+Please wait a moment.",57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+93,SS_net_live_comm_337,"There is a problem with the Pokémon
+you’ve selected.",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+94,SS_net_live_comm_338,Communication failed.,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+95,SS_net_live_comm_339,Internet,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+96,SS_net_live_comm_340,Local Communication,83,-1,32,320,0,"-1
+0
+0
+-1
+0"

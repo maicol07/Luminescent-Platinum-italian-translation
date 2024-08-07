@@ -1,0 +1,121 @@
+0,error_o_serial_0031,"An error has occurred on
+the authentication-code server.
+Please wait a little while, and then try again.",26,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+18,error_comm_28,"Failed to connect to the server. Please start over
+and try again.",26,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1,error_o_serial_0091,"You can’t connect to the authentication-code
+server due to ongoing maintenance.
+Please wait a little while, and then try again.",26,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+2,error_o_serial_0092,The service has been discontinued.,26,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+3,error_o_serial_0098,"An error has occurred on
+the authentication-code server.
+Please wait a little while, and then try again.",26,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+4,error_o_serial_0099,"An error has occurred on
+the authentication-code server.
+Please wait a little while, and then try again.",26,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+5,error_o_serial_http500,"The authentication-code server is busy.
+Please wait a little while, and then try again.",26,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+6,error_comm_03,Communication with the server was interrupted.,26,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+8,error_comm_07,"Communication with the other Trainer
+was interrupted.",26,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+9,error_fatal_save_00,"An error occurred.
+You couldn’t trade Pokémon.
+Press the HOME Button to end the game.",26,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+10,erro_fatal_storage,"Save data in the Nintendo Switch couldn’t
+be recognized.
+Please turn off the system, and then try again.",26,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+11,error_comm_21,"The password didn’t match.
+Please try again.",26,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+12,error_comm_24,"You can’t participate because the number of
+allowed participants has been reached.",26,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+13,error_comm_25,No communication partner was found.,26,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+14,error_validation_common,"An error has occurred on the server.
+Please try again.",26,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+15,error_validation_http503,"The server is undergoing maintenance.
+Please try again later.",26,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+16,error_comm_26,Communication was interrupted.,26,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+17,error_comm_27,"Only one participant is left.
+The Link Contest Show will end.",26,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+7,error_comm_05,"Failed to connect with the other Trainer.
+Please start again from the beginning.",26,-1,54,1080,0,"-1
+0
+0
+-1
+0"

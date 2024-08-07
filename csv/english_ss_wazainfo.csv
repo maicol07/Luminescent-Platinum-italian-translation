@@ -1,0 +1,5558 @@
+0,WAZAINFO_000,,109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+1,WAZAINFO_001,"The target is physically pounded with a long tail, a
+foreleg, or the like.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+2,WAZAINFO_002,"The target is attacked with a sharp chop. Critical hits
+land more easily.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+3,WAZAINFO_003,"The target is slapped repeatedly, back and forth, two to
+five times in a row.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+4,WAZAINFO_004,"The target is hit with a flurry of punches that strike
+two to five times in a row.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+5,WAZAINFO_005,"The target is slugged by a punch thrown with
+muscle-packed power.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+6,WAZAINFO_006,"Numerous coins are hurled at the target to inflict
+damage. Money is earned after the battle.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+7,WAZAINFO_007,"The target is punched with a fiery fist. This may also
+leave the target with a burn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+8,WAZAINFO_008,"The target is punched with an icy fist. This may also
+leave the target frozen.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+9,WAZAINFO_009,"The target is punched with an electrified fist.
+This may also leave the target with paralysis.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+10,WAZAINFO_010,"Hard, pointed, sharp claws rake the target to
+inflict damage.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+11,WAZAINFO_011,"The target is gripped and squeezed from both sides
+to inflict damage.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+12,WAZAINFO_012,"A vicious, tearing attack with big pincers. The target
+faints instantly if this attack hits.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+13,WAZAINFO_013,"In this two-turn attack, blades of wind hit opposing
+Pokémon on the second turn. Critical hits land more
+easily.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+14,WAZAINFO_014,"A frenetic dance to uplift the fighting spirit.
+This sharply raises the user’s Attack stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+15,WAZAINFO_015,"The target is cut with a scythe or claw. It’s also one of
+the Pokétch’s hidden moves.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+16,WAZAINFO_016,"A gust of wind is whipped up by wings and launched
+at the target to inflict damage.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+17,WAZAINFO_017,"The target is struck with large, imposing wings
+spread wide to inflict damage.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+18,WAZAINFO_018,"The target is blown away, and a different Pokémon is
+dragged out. In the wild, this ends a battle against a
+single Pokémon.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+19,WAZAINFO_019,"The user flies up into the sky and then strikes its target
+on the next turn. It’s also one of the Pokétch’s
+hidden moves.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+20,WAZAINFO_020,"Things such as long bodies or tentacles are used to
+bind and squeeze the target for four to five turns.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+21,WAZAINFO_021,"The target is slammed with a long tail, vines, or the
+like to inflict damage.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+22,WAZAINFO_022,"The target is struck with slender, whiplike vines to
+inflict damage.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+23,WAZAINFO_023,"The target is stomped with a big foot. This may also
+make the target flinch.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+24,WAZAINFO_024,"The target is quickly kicked twice in succession
+using both feet.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+25,WAZAINFO_025,"The target is attacked by a kick launched with
+muscle-packed power.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+26,WAZAINFO_026,"The user jumps up high, then strikes with a kick. If the
+kick misses, the user hurts itself.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+27,WAZAINFO_027,"The user lashes out with a quick, spinning kick. This
+may also make the target flinch.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+28,WAZAINFO_028,"Sand is hurled in the target’s face, reducing the
+target’s accuracy.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+29,WAZAINFO_029,"The user sticks out its head and attacks by charging
+straight into the target. This may also make the
+target flinch.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+30,WAZAINFO_030,"The target is jabbed with a sharply pointed horn to
+inflict damage.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+31,WAZAINFO_031,"The target is jabbed repeatedly with a horn or beak
+two to five times in a row.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+32,WAZAINFO_032,"The user stabs the target with a horn that rotates
+like a drill. The target faints instantly if this
+attack hits.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+33,WAZAINFO_033,"A physical attack in which the user charges and
+slams into the target with its whole body.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+34,WAZAINFO_034,"The user drops onto the target with its full body
+weight. This may also leave the target with paralysis.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+35,WAZAINFO_035,"A long body, vines, or the like are used to wrap and
+squeeze the target for four to five turns.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+36,WAZAINFO_036,"A reckless, full-body charge attack for slamming into
+the target. This also damages the user a little.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+37,WAZAINFO_037,"The user rampages and attacks for two to three
+turns. The user then becomes confused.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+38,WAZAINFO_038,"A reckless, life-risking tackle in which the user rushes
+the target. This also damages the user quite a lot.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+39,WAZAINFO_039,"The user wags its tail cutely, making opposing
+Pokémon less wary and lowering their Defense stats.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+40,WAZAINFO_040,"The user stabs the target with a poisonous stinger.
+This may also poison the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+41,WAZAINFO_041,"The user damages the target twice in succession by
+jabbing it with two spikes. This may also poison the
+target.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+42,WAZAINFO_042,"Sharp spikes are shot at the target in rapid
+succession. They hit two to five times in a row.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+43,WAZAINFO_043,"The user gives opposing Pokémon an intimidating
+leer that lowers the Defense stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+44,WAZAINFO_044,"The target is bitten with viciously sharp fangs.
+This may also make the target flinch.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+45,WAZAINFO_045,"The user growls in an endearing way, making
+opposing Pokémon less wary. This lowers their
+Attack stats.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+46,WAZAINFO_046,"The target is scared off, and a different Pokémon is
+dragged out. In the wild, this ends a battle against a
+single Pokémon.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+47,WAZAINFO_047,"A soothing lullaby is sung in a calming voice that
+puts the target into a deep slumber.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+48,WAZAINFO_048,"The user generates odd sound waves from its body
+that confuse the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+49,WAZAINFO_049,"The target is hit with a destructive shock wave that
+always inflicts 20 HP damage.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+50,WAZAINFO_050,"For four turns, this move prevents the target from
+using the move it last used.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+51,WAZAINFO_051,"Opposing Pokémon are attacked with a spray of harsh
+acid. This may also lower their Sp. Def stats.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+52,WAZAINFO_052,"The target is attacked with small flames. This may
+also leave the target with a burn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+53,WAZAINFO_053,"The target is scorched with an intense blast of fire.
+This may also leave the target with a burn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+54,WAZAINFO_054,"The user cloaks itself and its allies in a white mist
+that prevents any of their stats from being lowered
+for five turns.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+55,WAZAINFO_055,The target is blasted with a forceful shot of water.,109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+56,WAZAINFO_056,"The target is blasted by a huge volume of water
+launched under great pressure.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+57,WAZAINFO_057,"The user attacks everything around it by swamping its
+surroundings with a giant wave. It’s also one of the
+Pokétch’s hidden moves.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+58,WAZAINFO_058,"The target is struck with an icy-cold beam of energy.
+This may also leave the target frozen.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+59,WAZAINFO_059,"A howling blizzard is summoned to strike opposing
+Pokémon. This may also leave the opposing
+Pokémon frozen.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+60,WAZAINFO_060,"The target is attacked with a peculiar ray. This may
+also leave the target confused.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+61,WAZAINFO_061,"A spray of bubbles is forcefully ejected at the
+target. This may also lower the target’s Speed stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+62,WAZAINFO_062,"The target is hit with a rainbow-colored beam.
+This may also lower the target’s Attack stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+63,WAZAINFO_063,"The target is attacked with a powerful beam.
+The user can’t move on the next turn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+64,WAZAINFO_064,"The target is jabbed with a sharply pointed beak
+or horn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+65,WAZAINFO_065,"A corkscrewing attack that strikes the target with a
+sharp beak acting as a drill.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+66,WAZAINFO_066,"The user grabs the target and recklessly dives for
+the ground. This also damages the user a little.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+67,WAZAINFO_067,"A powerful low kick that makes the target fall over.
+The heavier the target, the greater the move’s power.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+68,WAZAINFO_068,"A retaliation move that counters any physical attack,
+inflicting double the damage taken.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+69,WAZAINFO_069,"The target is thrown using the power of gravity.
+It inflicts damage equal to the user’s level.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+70,WAZAINFO_070,"The target is slugged with a punch thrown at maximum
+power. It’s also one of the Pokétch’s hidden moves.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+71,WAZAINFO_071,"A nutrient-draining attack. The user’s HP is restored
+by half the damage taken by the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+72,WAZAINFO_072,"A nutrient-draining attack. The user’s HP is restored
+by half the damage taken by the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+73,WAZAINFO_073,"A seed is planted on the target. It steals some HP
+from the target every turn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+74,WAZAINFO_074,"The user’s body grows all at once, raising the
+Attack and Sp. Atk stats.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+75,WAZAINFO_075,"Sharp-edged leaves are launched to slash at opposing
+Pokémon. Critical hits land more easily.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+76,WAZAINFO_076,"In this two-turn attack, the user gathers light, then
+blasts a bundled beam on the next turn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+77,WAZAINFO_077,"The user scatters a cloud of poisonous dust that
+poisons the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+78,WAZAINFO_078,"The user scatters a cloud of numbing powder that
+paralyzes the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+79,WAZAINFO_079,"The user scatters a big cloud of sleep-inducing dust
+around the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+80,WAZAINFO_080,"The user attacks the target by scattering petals for
+two to three turns. The user then becomes confused.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+81,WAZAINFO_081,"Opposing Pokémon are bound with silk blown from
+the user’s mouth that harshly lowers the Speed stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+82,WAZAINFO_082,"This attack hits the target with a shock wave of pure
+rage. This attack always inflicts 40 HP damage.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+83,WAZAINFO_083,"The target becomes trapped within a fierce vortex
+of fire that rages for four to five turns.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+84,WAZAINFO_084,"A jolt of electricity crashes down on the target to
+inflict damage. This may also leave the target
+with paralysis.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+85,WAZAINFO_085,"A strong electric blast crashes down on the target.
+This may also leave the target with paralysis.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+86,WAZAINFO_086,"The user launches a weak jolt of electricity that
+paralyzes the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+87,WAZAINFO_087,"A wicked thunderbolt is dropped on the target to
+inflict damage. This may also leave the target
+with paralysis.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+88,WAZAINFO_088,"The user picks up and throws a small rock at the
+target to attack.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+89,WAZAINFO_089,"The user sets off an earthquake that strikes every
+Pokémon around it.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+90,WAZAINFO_090,"The user opens up a fissure in the ground and drops
+the target in. The target faints instantly if this
+attack hits.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+91,WAZAINFO_091,"The user burrows into the ground, then attacks on the
+next turn. It can also be used to exit dungeons.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+92,WAZAINFO_092,"A move that leaves the target badly poisoned.
+Its poison damage worsens every turn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+93,WAZAINFO_093,"The target is hit by a weak telekinetic force.
+This may also confuse the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+94,WAZAINFO_094,"The target is hit by a strong telekinetic force.
+This may also lower the target’s Sp. Def stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+95,WAZAINFO_095,"The user employs hypnotic suggestion to make the
+target fall into a deep sleep.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+96,WAZAINFO_096,"The user meditates to awaken the power deep within its
+body and raise its Attack stat.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+97,WAZAINFO_097,"The user relaxes and lightens its body to move
+faster. This sharply raises the Speed stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+98,WAZAINFO_098,"The user lunges at the target at a speed that makes
+it almost invisible. This move always goes first.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+99,WAZAINFO_099,"As long as this move is in use, the power of rage raises
+the Attack stat each time the user is hit in battle.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+100,WAZAINFO_100,"The user switches places with another party Pokémon.
+It may also be used to warp to the last Pokémon Center
+visited. If a wild Pokémon uses this move, it flees.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+101,WAZAINFO_101,"The user makes the target see a frightening mirage.
+It inflicts damage equal to the user’s level.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+102,WAZAINFO_102,"The user copies the target’s last move. The move
+can be used during battle until the Pokémon is
+switched out.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+103,WAZAINFO_103,"An earsplitting screech harshly lowers the target’s
+Defense stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+104,WAZAINFO_104,"By moving rapidly, the user makes illusory copies of
+itself to raise its evasiveness.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+105,WAZAINFO_105,"Restoring its own cells, the user restores its own HP
+by half of its max HP.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+106,WAZAINFO_106,"The user stiffens all the muscles in its body to raise
+its Defense stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+107,WAZAINFO_107,"The user compresses its body to make itself look
+smaller, which sharply raises its evasiveness.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+108,WAZAINFO_108,"The user releases an obscuring cloud of smoke or
+ink. This lowers the target’s accuracy.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+109,WAZAINFO_109,"The target is exposed to a sinister ray that
+triggers confusion.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+110,WAZAINFO_110,"The user withdraws its body into its hard shell,
+raising its Defense stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+111,WAZAINFO_111,"The user curls up to conceal weak spots and raise
+its Defense stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+112,WAZAINFO_112,"The user throws up a sturdy wall that sharply raises its
+Defense stat.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+113,WAZAINFO_113,"A wondrous wall of light is put up to reduce damage
+from special attacks for five turns.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+114,WAZAINFO_114,"The user creates a haze that eliminates every stat
+change among all the Pokémon engaged in battle.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+115,WAZAINFO_115,"A wondrous wall of light is put up to reduce damage
+from physical attacks for five turns.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+116,WAZAINFO_116,"The user takes a deep breath and focuses so that
+critical hits land more easily.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+117,WAZAINFO_117,"The user endures attacks for two turns, then strikes
+back to cause double the damage taken.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+118,WAZAINFO_118,"The user waggles a finger and stimulates its brain
+into randomly using nearly any move.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+119,WAZAINFO_119,"The user counters the target by mimicking the target's
+last move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+120,WAZAINFO_120,"The user attacks everything around it by causing an
+explosion. The user faints upon using this move.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+121,WAZAINFO_121,"A large egg is hurled at the target with maximum force
+to inflict damage.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+122,WAZAINFO_122,"The target is licked with a long tongue, causing
+damage. This may also leave the target
+with paralysis.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+123,WAZAINFO_123,"The target is attacked with a discharge of filthy
+gases. This may also poison the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+124,WAZAINFO_124,"Unsanitary sludge is hurled at the target. This may
+also poison the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+125,WAZAINFO_125,"The user clubs the target with a bone. This may also
+make the target flinch.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+126,WAZAINFO_126,"The target is attacked with an intense blast of
+all-consuming fire. This may also leave the target
+with a burn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+127,WAZAINFO_127,"The user charges at the target and may make it flinch.
+It’s also one of the Pokétch’s hidden moves.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+128,WAZAINFO_128,"The target is clamped and squeezed by the user's very
+thick and sturdy shell for four to five turns.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+129,WAZAINFO_129,"Star-shaped rays are shot at opposing Pokémon.
+This attack never misses.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+130,WAZAINFO_130,"The user tucks in its head to raise its Defense
+stat on the first turn, then rams the target on the
+next turn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+131,WAZAINFO_131,"Sharp spikes are shot at the target in rapid succession.
+They hit two to five times in a row.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+132,WAZAINFO_132,"The target is attacked with long, creeping tentacles,
+vines, or the like. This may also lower the target's
+Speed stat.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+133,WAZAINFO_133,"The user temporarily empties its mind to forget its
+concerns. This sharply raises the user’s Sp. Def stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+134,WAZAINFO_134,"The user distracts the target by bending a spoon.
+This lowers the target’s accuracy.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+135,WAZAINFO_135,"The user restores its own HP by up to half of its
+max HP. It may also be used to heal an ally’s HP
+outside of battle.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+136,WAZAINFO_136,"The target is attacked with a knee kick from a jump.
+If it misses, the user is hurt instead.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+137,WAZAINFO_137,"The user intimidates the target with the pattern on
+its belly to cause paralysis.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+138,WAZAINFO_138,"The user eats the dreams of a sleeping target.
+The user’s HP is restored by half the damage taken by
+the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+139,WAZAINFO_139,"A cloud of poison gas is sprayed in the face of
+opposing Pokémon, poisoning those it hits.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+140,WAZAINFO_140,"Round objects are hurled at the target to strike two to
+five times in a row.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+141,WAZAINFO_141,"The user drains the target’s blood. The user’s HP is
+restored by half the damage taken by the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+142,WAZAINFO_142,"With a scary face, the user tries to force a kiss on
+the target. If it succeeds, the target falls asleep.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+143,WAZAINFO_143,"A second-turn attack move where critical hits land
+more easily. This may also make the target flinch.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+144,WAZAINFO_144,"The user transforms into a copy of the target right
+down to having the same move set.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+145,WAZAINFO_145,"A spray of countless bubbles is jetted at the opposing
+Pokémon. This may also lower their Speed stat.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+146,WAZAINFO_146,"The target is hit with rhythmically launched punches.
+This may also leave the target confused.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+147,WAZAINFO_147,"The user scatters bursts of spores that
+induce sleep.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+148,WAZAINFO_148,"The user flashes a light that lowers the target’s
+accuracy. It can also be used to illuminate caves.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+149,WAZAINFO_149,"The target is attacked with an odd psychic wave. The
+attack varies in intensity.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+150,WAZAINFO_150,"The user just flops and splashes around to no effect
+at all...",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+151,WAZAINFO_151,"The user alters its cellular structure to liquefy itself,
+sharply raising its Defense stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+152,WAZAINFO_152,"The target is hammered with a large pincer. Critical
+hits land more easily.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+153,WAZAINFO_153,"The user attacks everything around it by causing a
+tremendous explosion. The user faints upon using
+this move.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+154,WAZAINFO_154,"The target is raked with sharp claws or scythes
+quickly two to five times in a row.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+155,WAZAINFO_155,"The user throws the bone it holds. The bone loops
+around to hit the target twice—coming and going.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+156,WAZAINFO_156,"The user goes to sleep for two turns. This fully
+restores the user’s HP and heals any
+status conditions.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+157,WAZAINFO_157,"Large boulders are hurled at opposing Pokémon to
+inflict damage. This may also make the opposing
+Pokémon flinch.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+158,WAZAINFO_158,"The user bites hard on the target with its sharp front
+fangs. This may also make the target flinch.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+159,WAZAINFO_159,"The user makes its edges more jagged, which raises its
+Attack stat.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+160,WAZAINFO_160,"The user changes its type to become the same type
+as the move at the top of the list of moves it knows.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+161,WAZAINFO_161,"The user strikes with a simultaneous three-beam attack.
+This may also burn, freeze, or paralyze the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+162,WAZAINFO_162,"The user chomps hard on the target with its sharp
+front fangs. This cuts the target’s HP in half.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+163,WAZAINFO_163,"The target is attacked with a slash of claws or
+blades. Critical hits land more easily.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+164,WAZAINFO_164,"The user creates a substitute for itself using some of
+its HP. The substitute serves as the user’s decoy.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+165,WAZAINFO_165,"This attack is used in desperation only if the user
+has no PP. It also damages the user a little.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+166,WAZAINFO_166,"It enables the user to permanently learn the move
+last used by the target. Once used,
+Sketch disappears.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+167,WAZAINFO_167,"A consecutive three-kick attack that becomes more
+powerful with each successful hit.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+168,WAZAINFO_168,"The user attacks and steals the target’s held item
+simultaneously. The user can’t steal anything if it
+already holds an item.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+169,WAZAINFO_169,"The user ensnares the target with thin, gooey silk so it
+can't flee from battle.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+170,WAZAINFO_170,"The user senses the target’s movements with its
+mind to ensure its next attack does not miss
+the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+171,WAZAINFO_171,"A sleeping target sees a nightmare that inflicts some
+damage every turn.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+172,WAZAINFO_172,"The user cloaks itself in fire and charges at the
+target. This may also leave the target with a burn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+173,WAZAINFO_173,"This attack can be used only if the user is asleep.
+The harsh noise may also make the target flinch.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+174,WAZAINFO_174,"A move that works differently for the Ghost type
+than for all other types.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+175,WAZAINFO_175,"The user flails about aimlessly to attack. The less HP
+the user has, the greater the move’s power.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+176,WAZAINFO_176,"The user changes its type to make itself resistant to
+the type of the attack the target used last.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+177,WAZAINFO_177,"A vortex of air is shot at the target to inflict damage.
+Critical hits land more easily.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+178,WAZAINFO_178,"The user releases cotton-like spores that cling to
+opposing Pokémon, which harshly lowers their
+Speed stats.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+179,WAZAINFO_179,"An all-out attack that becomes more powerful the
+less HP the user has.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+180,WAZAINFO_180,"The user unleashes its grudge on the move last used
+by the target by cutting 4 PP from it.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+181,WAZAINFO_181,"The user attacks with a chilling gust of powdery snow.
+This may also freeze opposing Pokémon.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+182,WAZAINFO_182,"This move enables the user to protect itself from
+all attacks. Its chance of failing rises if it is used
+in succession.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+183,WAZAINFO_183,"The user throws a punch at blinding speed.
+This move always goes first.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+184,WAZAINFO_184,"The user frightens the target with a scary face to
+harshly lower its Speed stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+185,WAZAINFO_185,"The user approaches the target disarmingly, then throws
+a sucker punch. This attack never misses.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+186,WAZAINFO_186,"The user kisses the target with a sweet, angelic
+cuteness that causes confusion.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+187,WAZAINFO_187,"The user maximizes its Attack stat in exchange for
+HP equal to half its max HP.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+188,WAZAINFO_188,"Unsanitary sludge is hurled at the target. This may
+also poison the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+189,WAZAINFO_189,"The user hurls mud in the target’s face to inflict
+damage and lower its accuracy.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+190,WAZAINFO_190,"The user attacks by spraying ink in the target’s face
+or eyes. This may also lower the target’s accuracy.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+191,WAZAINFO_191,"The user lays a trap of spikes at the opposing
+team’s feet. The trap hurts Pokémon that switch
+into battle.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+192,WAZAINFO_192,"The user fires an electric blast like a cannon to inflict
+damage and cause paralysis.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+193,WAZAINFO_193,"Enables a Ghost-type target to be hit by Normal- and
+Fighting-type attacks. This also enables an evasive
+target to be hit.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+194,WAZAINFO_194,"After using this move, if the user faints, the
+Pokémon that landed the knockout hit also faints.
+Its chance of failing rises if it is used in succession.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+195,WAZAINFO_195,"Any Pokémon that hears this song faints in three
+turns, unless it switches out of battle.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+196,WAZAINFO_196,"The user attacks with a gust of chilled air. This also
+lowers opposing Pokémon’s Speed stats.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+197,WAZAINFO_197,"This move enables the user to protect itself from
+all attacks. Its chance of failing rises if it is used
+in succession.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+198,WAZAINFO_198,"The user strikes the target with a hard bone two to
+five times in a row.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+199,WAZAINFO_199,"The user takes sure aim at the target. This ensures
+the next attack does not miss the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+200,WAZAINFO_200,"The user rampages and attacks for two to three
+turns. The user then becomes confused.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+201,WAZAINFO_201,"A five-turn sandstorm is summoned to hurt all
+combatants except Rock, Ground, and Steel types.
+It raises the Sp. Def stat of Rock types.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+202,WAZAINFO_202,"A nutrient-draining attack. The user’s HP is restored
+by half the damage taken by the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+203,WAZAINFO_203,"The user endures any attack with at least 1 HP.
+Its chance of failing rises if it is used in succession.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+204,WAZAINFO_204,"The user gazes at the target rather charmingly,
+making it less wary. This harshly lowers the target’s
+Attack stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+205,WAZAINFO_205,"The user continually rolls into the target over five
+turns. It becomes more powerful each time it hits.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+206,WAZAINFO_206,"A restrained attack that prevents the target from
+fainting. The target is left with at least 1 HP.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+207,WAZAINFO_207,"The user enrages and confuses the target. However,
+this also sharply raises the target’s Attack stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+208,WAZAINFO_208,"The user restores its own HP by up to half of its
+max HP. It may also be used to heal an ally’s HP
+outside of battle.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+209,WAZAINFO_209,"The user throws an electrically charged tackle at the
+target. This may also leave the target with paralysis.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+210,WAZAINFO_210,"The target is slashed with scythes or claws.
+This attack becomes more powerful if it hits
+in succession.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+211,WAZAINFO_211,"The target is hit with wings of steel. This may also
+raise the user’s Defense stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+212,WAZAINFO_212,"The user pins the target with a dark, arresting look.
+The target becomes unable to flee.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+213,WAZAINFO_213,"If it is the opposite gender of the user, the target
+becomes infatuated and less likely to attack.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+214,WAZAINFO_214,"While it is asleep, the user randomly uses one of the
+moves it knows.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+215,WAZAINFO_215,"The user makes a soothing bell chime to heal the
+status conditions of all the party Pokémon.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+216,WAZAINFO_216,"This full-power attack grows more powerful the more the
+user likes its Trainer.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+217,WAZAINFO_217,"The user attacks by giving the target a gift with a
+hidden trap. It restores HP sometimes, however.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+218,WAZAINFO_218,"This full-power attack grows more powerful the less the
+user likes its Trainer.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+219,WAZAINFO_219,"The user creates a protective field that prevents
+status conditions for five turns.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+220,WAZAINFO_220,"The user adds its HP to the target’s HP, then equally
+shares the combined HP with the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+221,WAZAINFO_221,"The target is razed with a mystical fire of great
+intensity. This may also leave the target with a burn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+222,WAZAINFO_222,"The user attacks everything around it with a
+ground-shaking quake. Its power varies.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+223,WAZAINFO_223,"The user punches the target with full, concentrated
+power. This confuses the target if it hits.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+224,WAZAINFO_224,"Using its tough and impressive horn, the user rams
+into the target with no letup.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+225,WAZAINFO_225,"The user exhales a mighty gust that inflicts damage.
+This may also leave the target with paralysis.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+226,WAZAINFO_226,"The user switches places with a party Pokémon in
+waiting and passes along any stat changes.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+227,WAZAINFO_227,"The user compels the target to keep using the move
+it encored for three turns.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+228,WAZAINFO_228,"The power of this attack move is doubled if it's used on
+a target that's switching out of battle.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+229,WAZAINFO_229,"A spin attack that can also eliminate such moves as
+Bind, Wrap, and Leech Seed. This also raises the user’s
+Speed stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+230,WAZAINFO_230,"A sweet scent that harshly lowers opposing Pokémon’s
+evasiveness. It also lures wild Pokémon if used
+in grass, etc.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+231,WAZAINFO_231,"The target is slammed with a steel-hard tail.
+This may also lower the target’s Defense stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+232,WAZAINFO_232,"The target is raked with steel claws. This may also
+raise the user’s Attack stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+233,WAZAINFO_233,"The user attacks last. In return, this throw move
+never misses.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+234,WAZAINFO_234,"The user restores its own HP. The amount of HP
+regained varies with the weather.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+235,WAZAINFO_235,"The user restores its own HP. The amount of HP
+regained varies with the weather.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+236,WAZAINFO_236,"The user restores its own HP. The amount of HP
+regained varies with the weather.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+237,WAZAINFO_237,"A unique attack that varies in type depending on the
+Pokémon using it.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+238,WAZAINFO_238,"The user delivers a double chop with its forearms
+crossed. Critical hits land more easily.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+239,WAZAINFO_239,"The user whips up a vicious tornado to tear at opposing
+Pokémon. This may also make them flinch.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+240,WAZAINFO_240,"The user summons a heavy rain that falls for five
+turns, powering up Water-type moves. It lowers
+the power of Fire-type moves.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+241,WAZAINFO_241,"The user intensifies the sun for five turns, powering
+up Fire-type moves. It lowers the power of
+Water-type moves.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+242,WAZAINFO_242,"The user crunches up the target with sharp fangs.
+This may also lower the target’s Defense stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+243,WAZAINFO_243,"A retaliation move that counters any special attack,
+inflicting double the damage taken.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+244,WAZAINFO_244,"The user hypnotizes itself into copying any stat
+change made by the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+245,WAZAINFO_245,"The user charges the target at blinding speed.
+This move always goes first.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+246,WAZAINFO_246,"The user attacks with a prehistoric power.
+This may also raise all the user’s stats at once.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+247,WAZAINFO_247,"The user hurls a shadowy blob at the target.
+This may also lower the target’s Sp. Def stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+248,WAZAINFO_248,"Two turns after this move is used, a hunk of psychic
+energy attacks the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+249,WAZAINFO_249,"The user attacks with a punch that may lower the
+target’s Defense stat. It’s also one of the Pokétch’s
+hidden moves.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+250,WAZAINFO_250,"The user traps the target in a violent swirling
+whirlpool for four to five turns.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+251,WAZAINFO_251,"The user gets all party Pokémon to attack the target.
+The more party Pokémon, the greater the number
+of attacks.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+252,WAZAINFO_252,"This attack hits first and makes the target flinch.
+It only works the first turn each time the user
+enters battle.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+253,WAZAINFO_253,"The user attacks in an uproar for three turns.
+During that time, no Pokémon can fall asleep.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+254,WAZAINFO_254,"The user charges up power and raises both its
+Defense and Sp. Def stats. The move can be used
+three times.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+255,WAZAINFO_255,"The power stored using the move Stockpile is
+released at once in an attack. The more power
+is stored, the greater the move’s power.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+256,WAZAINFO_256,"The power stored using the move Stockpile is
+absorbed by the user to heal its HP. Storing more
+power heals more HP.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+257,WAZAINFO_257,"The user attacks by exhaling hot breath on opposing
+Pokémon. This may also leave those Pokémon with
+a burn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+258,WAZAINFO_258,"The user summons a hailstorm lasting five turns.
+It damages all Pokémon except Ice types.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+259,WAZAINFO_259,"The user torments and enrages the target, making it
+incapable of using the same move twice in a row.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+260,WAZAINFO_260,"Flattery is used to confuse the target. However,
+this also raises the target’s Sp. Atk stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+261,WAZAINFO_261,"The user shoots a sinister flame at the target to inflict
+a burn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+262,WAZAINFO_262,"The user faints when using this move. In return, this
+harshly lowers the target’s Attack and Sp. Atk stats.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+263,WAZAINFO_263,"This attack move doubles its power if the user is
+poisoned, burned, or paralyzed.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+264,WAZAINFO_264,"The user focuses its mind before launching a punch.
+This move fails if the user is hit before it is used.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+265,WAZAINFO_265,"This attack's power is doubled when used on a target
+with paralysis. This also cures the target's paralysis,
+however.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+266,WAZAINFO_266,"The user draws attention to itself, making all targets
+take aim only at the user.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+267,WAZAINFO_267,"This attack makes use of nature’s power.
+Its effects vary depending on the user’s environment.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+268,WAZAINFO_268,"The user boosts the power of the Electric move it
+uses on the next turn. This also raises the user’s
+Sp. Def stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+269,WAZAINFO_269,"The target is taunted into a rage that allows it to use
+only attack moves for three turns.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+270,WAZAINFO_270,"The user assists an ally by boosting the power of
+that ally’s attack.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+271,WAZAINFO_271,"The user catches the target off guard and swaps its
+held item with its own.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+272,WAZAINFO_272,"The user mimics the target completely, copying the
+target’s Ability.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+273,WAZAINFO_273,"One turn after this move is used, the user’s or its
+replacement’s HP is restored by half the user’s
+max HP.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+274,WAZAINFO_274,"The user hurriedly and randomly uses a move among those
+known by ally Pokémon.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+275,WAZAINFO_275,"The user lays roots that restore its HP on every turn.
+Because it’s rooted, it can’t switch out.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+276,WAZAINFO_276,"The user attacks the target with great power.
+However, this also lowers the user’s Attack and
+Defense stats.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+277,WAZAINFO_277,"Moves like Leech Seed and moves that inflict status
+conditions are blocked by a barrier and reflected back
+to the user of those moves.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+278,WAZAINFO_278,"The user recycles a held item that has been used in
+battle so it can be used again.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+279,WAZAINFO_279,"This attack move’s power is doubled if the user has
+been hurt by the opponent in the same turn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+280,WAZAINFO_280,"The user attacks with a swift chop. It can also break
+barriers, such as Light Screen and Reflect.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+281,WAZAINFO_281,"The user lets loose a huge yawn that lulls the target
+into falling asleep on the next turn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+282,WAZAINFO_282,"The user slaps down the target’s held item, and that
+item can’t be used in that battle. The move does
+more damage if the target has a held item.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+283,WAZAINFO_283,"This attack move cuts down the target’s HP to equal
+the user’s HP.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+284,WAZAINFO_284,"The user attacks opposing Pokémon with explosive
+fury. The lower the user’s HP, the lower the
+move’s power.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+285,WAZAINFO_285,"The user employs its psychic power to exchange
+Abilities with the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+286,WAZAINFO_286,"If opposing Pokémon know any move also known by
+the user, they are prevented from using it.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+287,WAZAINFO_287,"The user rests to cure itself of poisoning, a burn, or
+paralysis.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+288,WAZAINFO_288,"If the user faints, the user’s grudge fully depletes
+the PP of the opponent’s move that knocked it out.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+289,WAZAINFO_289,"The user steals the effects of any attempts to use a
+healing or stat-changing move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+290,WAZAINFO_290,"The additional effects of this attack depend upon where
+it was used.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+291,WAZAINFO_291,"Diving on the first turn, the user floats up and
+attacks on the next turn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+292,WAZAINFO_292,"The user lets loose a flurry of open-palmed arm
+thrusts that hit two to five times in a row.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+293,WAZAINFO_293,"The user's type is changed depending on its environment,
+such as at water's edge, in grass, or in a cave.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+294,WAZAINFO_294,"The user stares at flashing lights to focus its mind,
+drastically raising its Sp. Atk stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+295,WAZAINFO_295,"The user lets loose a damaging burst of light.
+This may also lower the target’s Sp. Def stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+296,WAZAINFO_296,"A mist-like flurry of down envelops and damages the
+target. This may also lower the target’s Sp. Atk stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+297,WAZAINFO_297,"The user covers the target’s body with a mass of
+down that harshly lowers its Attack stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+298,WAZAINFO_298,"The user performs a wobbly dance that confuses
+the Pokémon around it.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+299,WAZAINFO_299,"The user launches a kick that lands a critical hit
+more easily. This may also leave the target with
+a burn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+300,WAZAINFO_300,"The user kicks up mud on the battlefield. This weakens
+Electric-type moves for five turns.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+301,WAZAINFO_301,"The user attacks the target for five turns. The move's
+power increases each time it hits.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+302,WAZAINFO_302,"The user attacks by wildly swinging its thorny arms.
+This may also make the target flinch.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+303,WAZAINFO_303,"The user slacks off, restoring its own HP by up to
+half of its max HP.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+304,WAZAINFO_304,"The user lets loose a horribly echoing shout with
+the power to inflict damage.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+305,WAZAINFO_305,"The user bites the target with toxic fangs. This may
+also leave the target badly poisoned.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+306,WAZAINFO_306,"The user slashes the target with hard and sharp
+claws. This may also lower the target’s Defense stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+307,WAZAINFO_307,"The target is razed by a fiery explosion. The user
+can’t move on the next turn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+308,WAZAINFO_308,"The target is hit with a watery blast. The user can’t
+move on the next turn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+309,WAZAINFO_309,"The target is hit with a hard punch fired like a
+meteor. This may also raise the user’s Attack stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+310,WAZAINFO_310,"The user attacks the target while shouting in a
+startling fashion. This may also make the
+target flinch.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+311,WAZAINFO_311,"This attack move varies in power and type
+depending on the weather.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+312,WAZAINFO_312,"The user releases a soothing scent that heals all
+status conditions affecting the user’s party.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+313,WAZAINFO_313,"The user feigns crying to fluster the target, harshly
+lowering its Sp. Def stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+314,WAZAINFO_314,"The user launches razor-like wind to slash opposing
+Pokémon. Critical hits land more easily.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+315,WAZAINFO_315,"The user attacks the target at full power. The attack’s
+recoil harshly lowers the user’s Sp. Atk stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+316,WAZAINFO_316,"Enables a Ghost-type target to be hit by Normal- and
+Fighting-type attacks. This also enables an evasive
+target to be hit.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+317,WAZAINFO_317,"Boulders are hurled at the target. This also lowers
+the target’s Speed stat by preventing its movement.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+318,WAZAINFO_318,"The target is attacked with powdery scales blown by the
+wind. This may also raise all the user's stats.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+319,WAZAINFO_319,"A horrible sound like scraping metal harshly lowers
+the target’s Sp. Def stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+320,WAZAINFO_320,"The user plays a pleasant melody that lulls the target
+into a deep sleep.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+321,WAZAINFO_321,"The user tickles the target into laughing, reducing its
+Attack and Defense stats.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+322,WAZAINFO_322,"The user absorbs a mystical power from space to
+raise its Defense and Sp. Def stats.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+323,WAZAINFO_323,"The user spouts water to damage opposing
+Pokémon. The lower the user’s HP, the lower the
+move’s power.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+324,WAZAINFO_324,"The user attacks with a sinister beam of light. This may
+also confuse the target.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+325,WAZAINFO_325,"The user throws a punch from the shadows.
+This attack never misses.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+326,WAZAINFO_326,"The user attacks with an odd, unseeable power.
+This may also make the target flinch.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+327,WAZAINFO_327,"The user attacks the target with an uppercut thrown
+skyward with force.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+328,WAZAINFO_328,"The user traps the target inside a harshly raging
+sandstorm for four to five turns.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+329,WAZAINFO_329,"The target faints instantly. It’s less likely to hit the
+target if it’s used by Pokémon other than Ice types.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+330,WAZAINFO_330,"The user attacks by shooting muddy water at opposing
+Pokémon. This may also lower their accuracy.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+331,WAZAINFO_331,"The user forcefully shoots seeds at the target two
+to five times in a row.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+332,WAZAINFO_332,"The user confounds the target with speed, then
+slashes. This attack never misses.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+333,WAZAINFO_333,"The user launches sharp icicles at the target two to
+five times in a row.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+334,WAZAINFO_334,"The user hardens its body’s surface like iron,
+sharply raising its Defense stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+335,WAZAINFO_335,"The user blocks the target’s way with arms spread
+wide to prevent escape.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+336,WAZAINFO_336,"The user howls loudly to raise the spirit of itself and
+allies. This raises their Attack stats.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+337,WAZAINFO_337,The user slashes the target with huge sharp claws.,109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+338,WAZAINFO_338,"The user slams the target with the roots of an
+enormous tree. The user can’t move on the next turn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+339,WAZAINFO_339,"The user tenses its muscles to bulk up its body,
+raising both its Attack and Defense stats.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+340,WAZAINFO_340,"The user bounces up high, then drops on the target
+on the second turn. This may also leave the target
+with paralysis.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+341,WAZAINFO_341,"The user attacks by hurling a blob of mud at the
+target. This also lowers the target’s Speed stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+342,WAZAINFO_342,"The user hits the target with its tail. This may also
+poison the target. Critical hits land more easily.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+343,WAZAINFO_343,"The user endearingly approaches the target, then
+steals the target’s held item.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+344,WAZAINFO_344,"The user electrifies itself and charges the target.
+This also damages the user quite a lot. This attack
+may leave the target with paralysis.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+345,WAZAINFO_345,"The user scatters curious leaves that chase the
+target. This attack never misses.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+346,WAZAINFO_346,"The user soaks the battlefield with water. This weakens
+Fire-type moves for five turns.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+347,WAZAINFO_347,"The user quietly focuses its mind and calms its
+spirit to raise its Sp. Atk and Sp. Def stats.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+348,WAZAINFO_348,"The user handles a sharp leaf like a sword and
+attacks by cutting its target. Critical hits land
+more easily.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+349,WAZAINFO_349,"The user vigorously performs a mystic, powerful
+dance that raises its Attack and Speed stats.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+350,WAZAINFO_350,"The user hurls hard rocks at the target. Two to five
+rocks are launched in a row.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+351,WAZAINFO_351,"The user strikes the target with a quick jolt of
+electricity. This attack never misses.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+352,WAZAINFO_352,"The user attacks the target with a pulsing blast of
+water. This may also confuse the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+353,WAZAINFO_353,"Two turns after this move is used, a concentrated
+bundle of light blasts the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+354,WAZAINFO_354,"The user attacks the target at full power.
+The attack’s recoil harshly lowers the user’s
+Sp. Atk stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+355,WAZAINFO_355,"The user lands and rests its body. This move restores
+the user’s HP by up to half of its max HP.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+356,WAZAINFO_356,"This move enables Flying-type Pokémon or Pokémon
+with the Levitate Ability to be hit by Ground-type
+moves. Moves that involve flying can’t be used.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+357,WAZAINFO_357,"Enables a Dark-type target to be hit by Psychic-type
+attacks. This also enables an evasive target to be hit.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+358,WAZAINFO_358,"This attack inflicts big damage on a sleeping target.
+This also wakes the target up, however.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+359,WAZAINFO_359,"The user swings and hits with its strong, heavy fist.
+It lowers the user’s Speed, however.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+360,WAZAINFO_360,"The user tackles the target with a high-speed spin.
+The slower the user compared to the target, the
+greater the move’s power.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+361,WAZAINFO_361,"The user faints. In return, the Pokémon taking its
+place will have its HP restored and status
+conditions cured.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+362,WAZAINFO_362,"If the target’s HP is half or less, this attack will hit
+with double the power.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+363,WAZAINFO_363,"The user draws power to attack by using its held Berry.
+The Berry determines the move's type and power.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+364,WAZAINFO_364,"This attack hits a target using a move such as
+Protect or Detect. This also lifts the effects of
+those moves.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+365,WAZAINFO_365,"The user pecks the target. If the target is holding a
+Berry, the user eats it and gains its effect.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+366,WAZAINFO_366,"The user whips up a turbulent whirlwind that ups
+the Speed stats of the user and its allies for
+four turns.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+367,WAZAINFO_367,"The user applies pressure to stress points, sharply
+boosting one of its or its allies’ stats.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+368,WAZAINFO_368,"The user retaliates with much greater force against
+the opponent that last inflicted damage on it.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+369,WAZAINFO_369,"After making its attack, the user rushes back to
+switch places with a party Pokémon in waiting.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+370,WAZAINFO_370,"The user fights the target up close without guarding
+itself. This also lowers the user’s Defense and
+Sp. Def stats.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+371,WAZAINFO_371,"The user stores power, then attacks. If the user
+moves after the target, this attack’s power will
+be doubled.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+372,WAZAINFO_372,"If the target has already taken some damage in the
+same turn, this attack’s power is doubled.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+373,WAZAINFO_373,"This move prevents the target from using its held item
+for five turns. Its Trainer is also prevented from using
+items on it.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+374,WAZAINFO_374,"The user flings its held item at the target to attack.
+This move’s power and effects depend on the item.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+375,WAZAINFO_375,"Using its psychic power of suggestion, the user
+transfers its status conditions to the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+376,WAZAINFO_376,"The fewer PP this move has, the greater its power.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+377,WAZAINFO_377,"For five turns, the user prevents the opposing team from
+using any moves, Abilities, or held items that recover
+HP.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+378,WAZAINFO_378,"The user powerfully wrings the target. The more HP the
+target has, the greater the move's power.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+379,WAZAINFO_379,"The user employs its psychic power to switch its
+Attack stat with its Defense stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+380,WAZAINFO_380,"The user hurls up its stomach acids on the target.
+The fluid eliminates the effect of the target’s Ability.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+381,WAZAINFO_381,"The user chants an incantation toward the sky,
+preventing opposing Pokémon from landing critical hits
+for five turns.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+382,WAZAINFO_382,"The user cuts ahead of the target to copy and use the
+target's intended move with greater power. This move
+fails if it isn't used first.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+383,WAZAINFO_383,"The user mimics the move used immediately before
+it. The move fails if no other move has been
+used yet.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+384,WAZAINFO_384,"The user employs its psychic power to switch
+changes to its Attack and Sp. Atk stats with
+the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+385,WAZAINFO_385,"The user employs its psychic power to switch
+changes to its Defense and Sp. Def stats with
+the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+386,WAZAINFO_386,"The more the target has powered up with stat changes,
+the greater the move's power.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+387,WAZAINFO_387,"This move can be used only after the user has used
+all the other moves it knows in the battle.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+388,WAZAINFO_388,"A seed that causes worry is planted on the target.
+It prevents sleep by making the target’s
+Ability Insomnia.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+389,WAZAINFO_389,"This move enables the user to attack first. This move
+fails if the target is not readying an attack.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+390,WAZAINFO_390,"The user lays a trap of poison spikes at the feet of
+the opposing team. The spikes will poison opposing
+Pokémon that switch into battle.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+391,WAZAINFO_391,"The user employs its psychic power to switch stat
+changes with the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+392,WAZAINFO_392,"The user envelops itself in a veil made of water.
+It regains some HP every turn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+393,WAZAINFO_393,"The user levitates using electrically generated
+magnetism for five turns.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+394,WAZAINFO_394,"The user cloaks itself in fire and charges the target.
+This also damages the user quite a lot. This attack
+may leave the target with a burn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+395,WAZAINFO_395,"The target is attacked with a shock wave. This may
+also leave the target with paralysis.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+396,WAZAINFO_396,"The user lets loose a blast of aura power from deep
+within its body at the target. This attack
+never misses.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+397,WAZAINFO_397,"The user polishes its body to reduce drag.
+This sharply raises the Speed stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+398,WAZAINFO_398,"The target is stabbed with a tentacle, arm, or the like
+steeped in poison. This may also poison the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+399,WAZAINFO_399,"The user releases a horrible aura imbued with dark
+thoughts. This may also make the target flinch.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+400,WAZAINFO_400,"The user slashes the target the instant an
+opportunity arises. Critical hits land more easily.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+401,WAZAINFO_401,"The user attacks by swinging its tail as if it were a
+vicious wave in a raging storm.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+402,WAZAINFO_402,"The user slams a barrage of hard-shelled seeds
+down on the target from above.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+403,WAZAINFO_403,"The user attacks with a blade of air that slices even
+the sky. This may also make the target flinch.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+404,WAZAINFO_404,"The user slashes at the target by crossing its
+scythes or claws as if they were a pair of scissors.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+405,WAZAINFO_405,"The user generates a damaging sound wave by
+vibration. This may also lower the target’s
+Sp. Def stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+406,WAZAINFO_406,"The target is attacked with a shock wave generated
+by the user’s gaping mouth.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+407,WAZAINFO_407,"The user tackles the target while exhibiting
+overwhelming menace. This may also make the
+target flinch.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+408,WAZAINFO_408,"The user attacks with a ray of light that sparkles as
+if it were made of gemstones.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+409,WAZAINFO_409,"An energy-draining punch. The user’s HP is restored
+by half the damage taken by the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+410,WAZAINFO_410,"The user whirls its fists to send a wave of pure
+vacuum at the target. This move always goes first.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+411,WAZAINFO_411,"The user heightens its mental focus and unleashes
+its power. This may also lower the target’s
+Sp. Def stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+412,WAZAINFO_412,"The user draws power from nature and fires it at the
+target. This may also lower the target’s Sp. Def stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+413,WAZAINFO_413,"The user tucks in its wings and charges from a low
+altitude. This also damages the user quite a lot.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+414,WAZAINFO_414,"The user makes the ground under the target erupt
+with power. This may also lower the target’s
+Sp. Def stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+415,WAZAINFO_415,"The user trades held items with the target faster
+than the eye can follow.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+416,WAZAINFO_416,"The user charges at the target using every bit of its
+power. The user can’t move on the next turn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+417,WAZAINFO_417,"The user stimulates its brain by thinking bad
+thoughts. This sharply raises the user’s Sp. Atk stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+418,WAZAINFO_418,"The user strikes the target with tough punches as
+fast as bullets. This move always goes first.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+419,WAZAINFO_419,"The power of this attack move is doubled if the user
+has been hurt by the target in the same turn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+420,WAZAINFO_420,"The user flash-freezes chunks of ice and hurls them
+at the target. This move always goes first.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+421,WAZAINFO_421,"The user slashes with a sharp claw made from
+shadows. Critical hits land more easily.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+422,WAZAINFO_422,"The user bites with electrified fangs. This may also
+make the target flinch or leave it with paralysis.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+423,WAZAINFO_423,"The user bites with cold-infused fangs. This may
+also make the target flinch or leave it frozen.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+424,WAZAINFO_424,"The user bites with flame-cloaked fangs. This may
+also make the target flinch or leave it with a burn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+425,WAZAINFO_425,"The user extends its shadow and attacks the target
+from behind. This move always goes first.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+426,WAZAINFO_426,"The user launches a hard-packed mud ball to attack. This
+may also lower the target's accuracy.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+427,WAZAINFO_427,"The user tears at the target with blades formed by
+psychic power. Critical hits land more easily.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+428,WAZAINFO_428,"The user focuses its willpower to its head and
+attacks the target. This may also make the
+target flinch.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+429,WAZAINFO_429,"The user lets loose a flash of energy at the target from
+its polished body. This may also lower the target's
+accuracy.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+430,WAZAINFO_430,"The user gathers all its light energy and releases it
+all at once. This may also lower the target’s
+Sp. Def stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+431,WAZAINFO_431,"A charging attack that may also leave the foe confused.
+It’s also one of the Pokétch’s hidden moves.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+432,WAZAINFO_432,"A strong wind blows away the target’s barriers, such as
+Reflect or Light Screen, and lowers their evasiveness.
+It’s also one of the Pokétch’s hidden moves.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+433,WAZAINFO_433,"The user creates a bizarre area in which slower
+Pokémon get to move first for five turns.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+434,WAZAINFO_434,"Comets are summoned down from the sky onto the
+target. The attack’s recoil harshly lowers the user’s
+Sp. Atk stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+435,WAZAINFO_435,"The user strikes everything around it by letting loose
+a flare of electricity. This may also cause paralysis.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+436,WAZAINFO_436,"The user torches everything around it in an inferno
+of scarlet flames. This may also leave those it hits
+with a burn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+437,WAZAINFO_437,"The user whips up a storm of leaves around the
+target. The attack’s recoil harshly lowers the user’s
+Sp. Atk stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+438,WAZAINFO_438,"The user violently whirls its vines, tentacles, or the
+like to harshly lash the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+439,WAZAINFO_439,"The user launches a huge boulder at the target to
+attack. The user can’t move on the next turn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+440,WAZAINFO_440,"A slashing attack with a poisonous blade that may
+also poison the target. Critical hits land more easily.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+441,WAZAINFO_441,"The user shoots filthy garbage at the target to
+attack. This may also poison the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+442,WAZAINFO_442,"The user slams the target with its steel-hard head.
+This may also make the target flinch.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+443,WAZAINFO_443,"The user launches steel bombs that stick to the target.
+This attack never misses.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+444,WAZAINFO_444,"The user stabs the target from below with
+sharpened stones. Critical hits land more easily.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+445,WAZAINFO_445,"If any opposing Pokémon is the opposite gender of the
+user, it is charmed, which harshly lowers its Sp. Atk
+stat.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+446,WAZAINFO_446,"The user lays a trap of levitating stones around the
+opposing team. The trap hurts opposing Pokémon
+that switch into battle.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+447,WAZAINFO_447,"The user snares the target with grass and trips it.
+The heavier the target, the greater the
+move’s power.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+448,WAZAINFO_448,"The user attacks the target with sound waves of
+deafening chatter. This confuses the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+449,WAZAINFO_449,"The user releases countless shots of light at the
+target. This move’s type varies depending on the
+kind of Plate the user is holding.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+450,WAZAINFO_450,"The user bites the target. If the target is holding a
+Berry, the user eats it and gains its effect.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+451,WAZAINFO_451,"The user attacks the target with an electric charge.
+The user may use any remaining electricity to raise its
+Sp. Atk stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+452,WAZAINFO_452,"The user slams its rugged body into the target to
+attack. This also damages the user quite a lot.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+453,WAZAINFO_453,"The user lunges at the target at a speed that makes
+it almost invisible. This move always goes first.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+454,WAZAINFO_454,"The user calls out its underlings to pummel the
+target. Critical hits land more easily.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+455,WAZAINFO_455,"The user calls out its underlings to shield its body,
+raising its Defense and Sp. Def stats.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+456,WAZAINFO_456,"The user calls out its underlings to heal it. The user
+regains up to half of its max HP.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+457,WAZAINFO_457,"The user attacks the target with a hazardous,
+full-power headbutt. This also damages the
+user terribly.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+458,WAZAINFO_458,"The user slams the target with a long tail, vines, or a
+tentacle. The target is hit twice in a row.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+459,WAZAINFO_459,"The user blasts the target with power that distorts
+even time. The user can’t move on the next turn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+460,WAZAINFO_460,"The user tears the target along with the space
+around it. Critical hits land more easily.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+461,WAZAINFO_461,"The user faints. In return, the Pokémon taking its
+place will have its status and HP fully restored.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+462,WAZAINFO_462,"The target is crushed with great force. The more HP
+the target has left, the greater this move’s power.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+463,WAZAINFO_463,"The target becomes trapped within a maelstrom of
+fire that rages for four to five turns.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+464,WAZAINFO_464,"Opposing Pokémon are dragged into a world of total
+darkness that makes them sleep.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+465,WAZAINFO_465,"The user emits a shock wave from its body to attack
+its target. This may also harshly lower the target’s
+Sp. Def stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+466,WAZAINFO_466,"The user blasts the target with a gust of repulsive
+wind. This may also raise all the user's stats at once.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+467,WAZAINFO_467,"The user disappears, then strikes the target on the
+next turn. This move hits even if the target
+protects itself.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+468,WAZAINFO_468,"The user sharpens its claws to boost its Attack stat
+and accuracy.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+469,WAZAINFO_469,"The user and its allies are protected from
+wide-ranging attacks for one turn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+470,WAZAINFO_470,"The user employs its psychic power to average its
+Defense and Sp. Def stats with those of the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+471,WAZAINFO_471,"The user employs its psychic power to average its
+Attack and Sp. Atk stats with those of the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+472,WAZAINFO_472,"The user creates a bizarre area in which Pokémon’s
+Defense and Sp. Def stats are swapped for
+five turns.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+473,WAZAINFO_473,"The user materializes an odd psychic wave to attack
+the target. This attack does physical damage.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+474,WAZAINFO_474,"The user drenches the target in a special poisonous
+liquid. This move’s power is doubled if the target
+is poisoned.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+475,WAZAINFO_475,"The user sheds part of its body to make itself lighter
+and sharply raise its Speed stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+476,WAZAINFO_476,"The user scatters a cloud of irritating powder to
+draw attention to itself. Opposing Pokémon aim only at
+the user.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+477,WAZAINFO_477,"The user makes the target float with its psychic power.
+The target is easier to hit for three turns.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+478,WAZAINFO_478,"The user creates a bizarre area in which Pokémon’s
+held items lose their effects for five turns.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+479,WAZAINFO_479,"The user throws a stone or similar projectile to
+attack the target. A flying Pokémon will fall to the
+ground when it’s hit.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+480,WAZAINFO_480,"The user strikes the target with a fierce blow.
+This attack always results in a critical hit.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+481,WAZAINFO_481,"The user attacks the target with a bursting flame. The
+bursting flame damages Pokémon next to the target as
+well.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+482,WAZAINFO_482,"The user strikes everything around it by swamping
+the area with a giant sludge wave. This may also
+poison those hit.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+483,WAZAINFO_483,"The user lightly performs a beautiful, mystic dance.
+This boosts the user’s Sp. Atk, Sp. Def, and
+Speed stats.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+484,WAZAINFO_484,"The user slams into the target with its heavy body.
+The more the user outweighs the target, the greater
+the move’s power.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+485,WAZAINFO_485,"Using an odd shock wave, the user inflicts damage on any
+Pokémon of the same type in the area around it.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+486,WAZAINFO_486,"The user hurls an electric orb at the target.
+The faster the user is than the target, the greater
+the move’s power.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+487,WAZAINFO_487,"The user shoots a torrent of water at the target and
+changes the target’s type to Water.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+488,WAZAINFO_488,"Cloaking itself in flame, the user attacks the target.
+Then, building up more power, the user raises its
+Speed stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+489,WAZAINFO_489,"The user coils up and concentrates. This raises its
+Attack and Defense stats as well as its accuracy.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+490,WAZAINFO_490,"The user makes a swift attack on the target’s legs,
+which lowers the target’s Speed stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+491,WAZAINFO_491,"The user spits fluid that works to melt the target.
+This harshly lowers the target’s Sp. Def stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+492,WAZAINFO_492,"The user turns the target’s power against it.
+The higher the target’s Attack stat, the greater
+the damage it deals.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+493,WAZAINFO_493,"The user’s mysterious psychic wave changes the
+target’s Ability to Simple.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+494,WAZAINFO_494,"The user dances with an odd rhythm that compels
+the target to mimic it, making the target’s Ability
+the same as the user’s.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+495,WAZAINFO_495,"The user helps the target and makes it use its move
+right after the user.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+496,WAZAINFO_496,"The user attacks the target with a song. Others can
+join in the Round to increase the power of
+the attack.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+497,WAZAINFO_497,"The user attacks the target with an echoing voice.
+If this move is used every turn, its power
+is increased.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+498,WAZAINFO_498,"Looking for an opening, the user strikes consistently.
+The target's stat changes don't affect this attack's
+damage.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+499,WAZAINFO_499,"The user attacks the target by throwing a clump of
+special mud. All stat changes are returned to normal.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+500,WAZAINFO_500,"The user attacks the target with stored power.
+The more the user’s stats are raised, the greater
+the move’s power.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+501,WAZAINFO_501,"The user protects itself and its allies from
+priority moves.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+502,WAZAINFO_502,"The user teleports using a strange power and
+switches places with one of its allies.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+503,WAZAINFO_503,"The user shoots boiling hot water at its target.
+This may also leave the target with a burn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+504,WAZAINFO_504,"The user breaks its shell, which lowers Defense and
+Sp. Def stats but sharply raises its Attack, Sp. Atk,
+and Speed stats.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+505,WAZAINFO_505,"The user emits a healing pulse that restores the
+target’s HP by up to half of its max HP.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+506,WAZAINFO_506,"This relentless attack does massive damage to a
+target affected by status conditions.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+507,WAZAINFO_507,"The user takes the target into the sky, then drops it
+during the next turn. The target cannot attack while in
+the sky.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+508,WAZAINFO_508,"The user rotates its gears, raising its Attack stat and
+sharply raising its Speed stat.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+509,WAZAINFO_509,"The target is thrown, and a different Pokémon is
+dragged out. In the wild, this ends a battle against
+a single Pokémon.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+510,WAZAINFO_510,"The user attacks opposing Pokémon with fire.
+If a Pokémon is holding a certain item, such as a
+Berry, the item becomes burned up and unusable.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+511,WAZAINFO_511,"The user suppresses the target and makes its move
+go last.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+512,WAZAINFO_512,"The user nimbly strikes the target. If the user is not
+holding an item, this attack inflicts massive damage.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+513,WAZAINFO_513,"The user reflects the target’s type, making the user the
+same type as the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+514,WAZAINFO_514,"The user gets revenge for a fainted ally. If an ally
+fainted in the previous turn, this move’s power
+is increased.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+515,WAZAINFO_515,"The user risks everything to attack its target.
+The user faints but does damage equal to its HP.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+516,WAZAINFO_516,"The user passes its held item to the target when the
+target isn't holding an item.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+517,WAZAINFO_517,"The user attacks by engulfing the target in an
+intense fire. This leaves the target with a burn.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+518,WAZAINFO_518,"A column of water hits the target. When used with its
+fire equivalent, its power increases and a rainbow
+appears.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+519,WAZAINFO_519,"A column of fire hits the target. When used with its
+grass equivalent, its power increases and a vast sea of
+fire appears.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+520,WAZAINFO_520,"A column of grass hits the target. When used with its
+water equivalent, its power increases and a vast swamp
+appears.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+521,WAZAINFO_521,"After making its attack, the user rushes back to
+switch places with a party Pokémon in waiting.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+522,WAZAINFO_522,"While resisting, the user attacks opposing Pokémon.
+This lowers the Sp. Atk stats of those hit.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+523,WAZAINFO_523,"The user strikes everything around it by stomping
+down on the ground. This lowers the Speed stats of
+those hit.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+524,WAZAINFO_524,"The user blows its cold breath on the target.
+This attack always results in a critical hit.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+525,WAZAINFO_525,"The target is knocked away, and a different Pokémon
+is dragged out. In the wild, this ends a battle against
+a single Pokémon.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+526,WAZAINFO_526,"The user is roused, and its Attack and Sp. Atk
+stats increase.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+527,WAZAINFO_527,"The user attacks and captures opposing Pokémon using an
+electric net. This lowers their Speed stats.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+528,WAZAINFO_528,"The user shrouds itself in electricity and smashes
+into its target. This also damages the user a little.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+529,WAZAINFO_529,"The user crashes into its target while rotating its
+body like a drill. Critical hits land more easily.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+530,WAZAINFO_530,"The user attacks its target by hitting it with brutal
+strikes. The target is hit twice in a row.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+531,WAZAINFO_531,"The user unleashes a vicious blow after its cute act
+makes the target less wary. This may also make the
+target flinch.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+532,WAZAINFO_532,"The user drains the target's energy with its horns. The
+user's HP is restored by half the damage taken by the
+target.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+533,WAZAINFO_533,"The user attacks by slicing with a long horn. The
+target's stat changes don't affect this attack's damage.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+534,WAZAINFO_534,"The user cuts its target with sharp shells. This may
+also lower the target’s Defense stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+535,WAZAINFO_535,"The user slams its target with its flame-covered body.
+The more the user outweighs the target, the greater the
+move's power.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+536,WAZAINFO_536,"The user attacks its target by encircling it in sharp
+leaves. This attack may also lower the
+target’s accuracy.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+537,WAZAINFO_537,"The user crushes its target by rolling over the target
+with its rolled-up body. This may also make the target
+flinch.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+538,WAZAINFO_538,"The user protects itself by wrapping its body in soft
+cotton, which drastically raises the user’s
+Defense stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+539,WAZAINFO_539,"The user lets loose a pitch-black shock wave at its
+target. This may also lower the target's accuracy.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+540,WAZAINFO_540,"The user materializes an odd psychic wave to attack
+the target. This attack does physical damage.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+541,WAZAINFO_541,"The user attacks by striking the target with its hard
+tail. It hits the target two to five times in a row.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+542,WAZAINFO_542,"The user attacks by wrapping its opponent in a
+fierce wind that flies up into the sky. This may also
+confuse the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+543,WAZAINFO_543,"The user charges its head into its target, using its
+powerful guard hair. This also damages the user a
+little.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+544,WAZAINFO_544,"The user attacks by throwing steel gears at its target
+twice.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+545,WAZAINFO_545,"The user torches everything around it in an inferno of
+scarlet flames. This may also leave those it hits with a
+burn.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+546,WAZAINFO_546,"The user fires a beam of light at its target. The move's
+type changes depending on the Drive the user holds.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+547,WAZAINFO_547,"The user sings an ancient song and attacks by appealing
+to the hearts of the listening opposing Pokémon. This
+may also induce sleep.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+548,WAZAINFO_548,"The user cuts with its long horn. The odd power
+contained in the horn does physical damage to the
+target.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+549,WAZAINFO_549,"The user attacks by blowing freezing cold air at
+opposing Pokémon. This lowers their Speed stats.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+550,WAZAINFO_550,"The user surrounds itself with a great amount of
+electricity and charges its target. This may also leave
+the target with paralysis.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+551,WAZAINFO_551,"The user attacks by engulfing the target in an intense,
+yet beautiful, blue flame. This may also leave the
+target with a burn.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+552,WAZAINFO_552,"Cloaked in flames, the user attacks the target by
+dancing and flapping its wings. This may also raise the
+user's Sp. Atk stat.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+553,WAZAINFO_553,"On the second turn, the user hits the target with
+electrically charged ice. This may also leave the target
+with paralysis.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+554,WAZAINFO_554,"On the second turn, an ultracold, freezing wind
+surrounds the target. This may leave the target with a
+burn.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+555,WAZAINFO_555,"The user yells as if it’s ranting about something,
+which lowers the Sp. Atk stats of opposing Pokémon.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+556,WAZAINFO_556,"The user attacks by harshly dropping large icicles
+onto the target. This may also make the target flinch.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+557,WAZAINFO_557,"With a hot flame on its forehead, the user hurls itself
+at its target. This lowers the user's Defense, Sp. Def,
+and Speed stats.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+558,WAZAINFO_558,"The user brings down a giant flame. This move's power is
+increased when influenced by an enormous lightning bolt.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+559,WAZAINFO_559,"The user throws down a giant lightning bolt. This move's
+power is increased when influenced by an enormous flame.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+560,WAZAINFO_560,"The user dives down onto the target from the sky. This
+move is Fighting and Flying type simultaneously.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+561,WAZAINFO_561,"Using a pulled-up mat as a shield, the user protects
+itself and its allies from damaging moves. This does not
+stop status moves.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+562,WAZAINFO_562,"The user lets out a damaging belch at the target.
+The user must eat a held Berry to use this move.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+563,WAZAINFO_563,"Tilling the soil, the user makes it easier for plants to
+grow. This raises the Attack and Sp. Atk stats of
+Grass-type Pokémon.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+564,WAZAINFO_564,"The user weaves a sticky net around the opposing
+team, which lowers their Speed stats upon switching
+into battle.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+565,WAZAINFO_565,"When the user knocks out a target with this move,
+the user’s Attack stat rises drastically.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+566,WAZAINFO_566,"The user vanishes somewhere, then strikes the
+target on the next turn. This move hits even if the
+target protects itself.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+567,WAZAINFO_567,"The user takes the target trick-or-treating. This adds
+Ghost type to the target's type.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+568,WAZAINFO_568,"Letting out a noble roar, the user intimidates the
+target and lowers its Attack and Sp. Atk stats.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+569,WAZAINFO_569,"The user disperses electrically charged particles, which
+changes Normal-type moves to Electric-type moves.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+570,WAZAINFO_570,"The user attacks everything around it. The user's HP is
+restored by half the damage taken by those hit.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+571,WAZAINFO_571,"The user puts a forest curse on the target. The target
+is now Grass type as well.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+572,WAZAINFO_572,"The user stirs up a violent petal blizzard and attacks
+everything around it.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+573,WAZAINFO_573,"The user rapidly cools the target. This may also
+leave the target frozen. This move is super effective
+on Water types.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+574,WAZAINFO_574,"Letting out a charming cry, the user does emotional
+damage to opposing Pokémon. This attack
+never misses.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+575,WAZAINFO_575,"With a parting threat, the user lowers the target’s
+Attack and Sp. Atk stats. Then it switches with a
+party Pokémon.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+576,WAZAINFO_576,"All stat changes affecting the target turn topsy-turvy
+and become the opposite of what they were.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+577,WAZAINFO_577,"The user steals the target’s HP with a kiss. The user’s
+HP is restored by over half of the damage taken by
+the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+578,WAZAINFO_578,"The user protects itself and its allies from status
+moves with a mysterious power. This does not stop moves
+that do damage.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+579,WAZAINFO_579,"The user raises the Defense stats of all Grass-type
+Pokémon in battle with a mysterious power.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+580,WAZAINFO_580,"The user turns the ground to grass for five turns.
+This restores the HP of Pokémon on the ground a
+little every turn and powers up Grass-type moves.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+581,WAZAINFO_581,"This protects Pokémon on the ground from status
+conditions and halves damage from Dragon-type
+moves for five turns.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+582,WAZAINFO_582,"If the target is electrified before it uses a move
+during that turn, the target's move becomes Electric
+type.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+583,WAZAINFO_583,"The user plays rough with the target and attacks it.
+This may also lower the target’s Attack stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+584,WAZAINFO_584,"The user stirs up a fairy wind and strikes the target
+with it.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+585,WAZAINFO_585,"Borrowing the power of the moon, the user attacks
+the target. This may also lower the target’s
+Sp. Atk stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+586,WAZAINFO_586,"The user attacks everything around it with the
+destructive power of a terrible, explosive sound.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+587,WAZAINFO_587,"By locking down the battlefield, the user keeps all
+Pokémon from fleeing during the next turn.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+588,WAZAINFO_588,"The user takes a defensive stance while it protects
+itself from damage. It also lowers the Attack stat of
+any attacker that makes direct contact.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+589,WAZAINFO_589,"The user and the target become friends, and the
+target loses its will to fight. This lowers the target’s
+Attack stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+590,WAZAINFO_590,"The user tells the target a secret, and the target
+loses its ability to concentrate. This lowers
+the target’s Sp. Atk stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+591,WAZAINFO_591,"The user whips up a storm of diamonds to damage opposing
+Pokémon. This may also sharply raise the user's Defense
+stat.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+592,WAZAINFO_592,"The user immerses the target in superheated steam. This
+may also leave the target with a burn.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+593,WAZAINFO_593,"Using a hyperspace hole, the user appears right next to
+the target and strikes. This also hits a target using a
+move such as Protect or Detect.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+594,WAZAINFO_594,"The user hits the target with throwing stars two to five
+times in a row. This move always goes first.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+595,WAZAINFO_595,"The user attacks by breathing a special, hot fire.
+This also lowers the target’s Sp. Atk stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+596,WAZAINFO_596,"In addition to protecting the user from attacks, this
+move also damages any attacker that makes
+direct contact.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+597,WAZAINFO_597,"The user raises the Sp. Def stat of an ally Pokémon
+by using a mysterious aroma.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+598,WAZAINFO_598,"The user’s body generates an eerie impulse.
+Exposing the target to it harshly lowers the target’s
+Sp. Atk stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+599,WAZAINFO_599,"Opposing Pokémon are drenched in an odd
+poisonous liquid. This lowers the Attack, Sp. Atk, and
+Speed stats of a poisoned target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+600,WAZAINFO_600,"The user covers the target in a combustible powder. If
+the target uses a Fire-type move, the powder explodes
+and damages the target.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+601,WAZAINFO_601,"The user absorbs energy and sharply raises its Sp. Atk,
+Sp. Def, and Speed stats on the next turn.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+602,WAZAINFO_602,"The user manipulates magnetic fields, which raises
+the Defense and Sp. Def stats of ally Pokémon with
+the Plus or Minus Ability.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+603,WAZAINFO_603,"The user swings itself around to attack with its huge hammer.
+This move can't be used twice in a row.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+604,WAZAINFO_604,"The user electrifies the ground for five turns,
+powering up Electric-type moves. Pokémon on the
+ground no longer fall asleep.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+605,WAZAINFO_605,"The user damages opposing Pokémon by emitting a
+powerful flash.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+606,WAZAINFO_606,"The Pokémon congratulates you on your special day!
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+607,WAZAINFO_607,"The user and an ally hold hands. This makes them very
+happy.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+608,WAZAINFO_608,"The user stares at the target with its baby-doll
+eyes, which lowers the target’s Attack stat. This move
+always goes first.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+609,WAZAINFO_609,"The user attacks by nuzzling its electrified cheeks
+against the target. This also leaves the target
+with paralysis.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+610,WAZAINFO_610,"The user holds back when it attacks, and the target is
+left with at least 1 HP.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+611,WAZAINFO_611,"The target is infested and attacked for four to five
+turns. The target can’t flee during this time.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+612,WAZAINFO_612,"Striking opponents over and over makes the user’s
+fists harder. Hitting a target raises the Attack stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+613,WAZAINFO_613,"The user absorbs its target's HP. The user's HP is
+restored by over half of the damage taken by the target.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+614,WAZAINFO_614,"This move also hits opposing Pokémon that are in the
+air. Those Pokémon are knocked down to the ground.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+615,WAZAINFO_615,"The user attacks with a wave that crawls along the
+ground. Those it hits can't flee from battle.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+616,WAZAINFO_616,"The user gathers the energy of the land and focuses that
+power on opposing Pokémon to damage them.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+617,WAZAINFO_617,"Drawing power from the Eternal Flower, the user fires a
+powerful beam of light. This also damages the user quite
+a lot.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+618,WAZAINFO_618,"The user attacks opposing Pokémon with countless
+beams of light that glow a deep and brilliant blue.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+619,WAZAINFO_619,"The user attacks opposing Pokémon by manifesting
+the power of the land in fearsome blades of stone.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+620,WAZAINFO_620,"After soaring upward, the user attacks its target by
+dropping out of the sky at high speeds. But it lowers
+its own Defense and Sp. Def stats in the process.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+621,WAZAINFO_621,"Using its many arms, the user unleashes a barrage of
+attacks that ignore the effects of moves like Protect
+and Detect. But the user's Defense stat falls.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+622,WAZAINFO_622,"The user builds up its momentum using its Z-Power and
+crashes into the target at full speed. The power varies,
+depending on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+623,WAZAINFO_623,"The user builds up its momentum using its Z-Power and
+crashes into the target at full speed. The power varies,
+depending on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+624,WAZAINFO_624,"The user rams an energy orb created by its Z-Power into
+the target with full force. The power varies, depending
+on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+625,WAZAINFO_625,"The user rams an energy orb created by its Z-Power into
+the target with full force. The power varies, depending
+on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+626,WAZAINFO_626,"The user soars up with its Z-Power and plummets toward
+the target at full speed. The power varies, depending on
+the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+627,WAZAINFO_627,"The user soars up with its Z-Power and plummets toward
+the target at full speed. The power varies, depending on
+the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+628,WAZAINFO_628,"The user creates a poisonous swamp using its Z-Power and
+sinks the target into it at full force. The power
+varies, depending on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+629,WAZAINFO_629,"The user creates a poisonous swamp using its Z-Power and
+sinks the target into it at full force. The power
+varies, depending on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+630,WAZAINFO_630,"The user burrows deep into the ground and slams into the
+target with the full force of its Z-Power. The power
+varies, depending on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+631,WAZAINFO_631,"The user burrows deep into the ground and slams into the
+target with the full force of its Z-Power. The power
+varies, depending on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+632,WAZAINFO_632,"The user summons a huge rock mountain using its Z-Power
+and drops it onto the target with full force. The power
+varies, depending on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+633,WAZAINFO_633,"The user summons a huge rock mountain using its Z-Power
+and drops it onto the target with full force. The power
+varies, depending on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+634,WAZAINFO_634,"The user binds the target with full force with threads
+of silk that the user spits using its Z-Power. The power
+varies, depending on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+635,WAZAINFO_635,"The user binds the target with full force with threads
+of silk that the user spits using its Z-Power. The power
+varies, depending on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+636,WAZAINFO_636,"Deep-seated grudges summoned by the user's Z-Power trap
+the target. The power varies, depending on the original
+move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+637,WAZAINFO_637,"Deep-seated grudges summoned by the user's Z-Power trap
+the target. The power varies, depending on the original
+move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+638,WAZAINFO_638,"The user spins very fast and rams into the target with
+the full force of its Z-Power. The power varies,
+depending on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+639,WAZAINFO_639,"The user spins very fast and rams into the target with
+the full force of its Z-Power. The power varies,
+depending on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+640,WAZAINFO_640,"The user breathes a stream of intense fire toward the
+target with the full force of its Z-Power. The power
+varies depending on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+641,WAZAINFO_641,"The user breathes a stream of intense fire toward the
+target with the full force of its Z-Power. The power
+varies depending on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+642,WAZAINFO_642,"The user creates a huge whirling current using its
+Z-Power to swallow the target with full force. The power
+varies, depending on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+643,WAZAINFO_643,"The user creates a huge whirling current using its
+Z-Power to swallow the target with full force. The power
+varies, depending on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+644,WAZAINFO_644,"The user collects energy from plants using its Z-Power
+and attacks the target with full force. The power
+varies, depending on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+645,WAZAINFO_645,"The user collects energy from plants using its Z-Power
+and attacks the target with full force. The power
+varies, depending on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+646,WAZAINFO_646,"The user hits the target with a powerful electric
+current collected by its Z-Power. The power varies,
+depending on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+647,WAZAINFO_647,"The user hits the target with a powerful electric
+current collected by its Z-Power. The power varies,
+depending on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+648,WAZAINFO_648,"The user controls the target with its Z-Power and hurts
+the target with full force. The power varies, depending
+on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+649,WAZAINFO_649,"The user controls the target with its Z-Power and hurts
+the target with full force. The power varies, depending
+on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+650,WAZAINFO_650,"The user dramatically drops the temperature using its
+Z-Power and freezes the target with full force. The
+power varies, depending on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+651,WAZAINFO_651,"The user dramatically drops the temperature using its
+Z-Power and freezes the target with full force. The
+power varies, depending on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+652,WAZAINFO_652,"The user materializes its aura using its Z-Power and
+attacks the target with full force. The power varies,
+depending on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+653,WAZAINFO_653,"The user materializes its aura using its Z-Power and
+attacks the target with full force. The power varies,
+depending on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+654,WAZAINFO_654,"The user gathers dark energy using its Z-Power and sucks
+the target into it. The power varies, depending on the
+original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+655,WAZAINFO_655,"The user gathers dark energy using its Z-Power and sucks
+the target into it. The power varies, depending on the
+original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+656,WAZAINFO_656,"The user creates a very charming space using its Z-Power
+and totally toys with the target. The power varies,
+depending on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+657,WAZAINFO_657,"The user creates a very charming space using its Z-Power
+and totally toys with the target. The power varies,
+depending on the original move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+658,WAZAINFO_658,"The user, Pikachu, surrounds itself with the maximum
+amount of electricity using its Z-Power and pounces on
+its target with full force.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+659,WAZAINFO_659,"The user regains up to half of its max HP. It restores
+more HP in a sandstorm.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+660,WAZAINFO_660,"Although this move has great power, it only works the
+first turn each time the user enters battle.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+661,WAZAINFO_661,"In addition to protecting the user from attacks, this
+move also poisons any attacker that makes direct
+contact.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+662,WAZAINFO_662,"The user attacks while simultaneously stitching the
+target's shadow to the ground to prevent the target from
+escaping.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+663,WAZAINFO_663,"The user swings both arms and hits the target. The
+target's stat changes don't affect this attack's damage.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+664,WAZAINFO_664,"The user bursts into song, emitting many bubbles. Any
+Pokémon suffering from a burn will be healed by the
+touch of these bubbles.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+665,WAZAINFO_665,"The user swings and hits with its strong, heavy fist. It
+lowers the user's Speed, however.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+666,WAZAINFO_666,"The user restores the target's HP by up to half of its
+max HP. It restores more HP when the terrain is grass.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+667,WAZAINFO_667,"The user fiercely attacks the target using its
+entire body.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+668,WAZAINFO_668,"The user restores its HP by the same amount as the
+target’s Attack stat. It also lowers the target’s
+Attack stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+669,WAZAINFO_669,"In this two-turn attack, the user gathers light and
+fills a blade with the light's energy, attacking the
+target on the next turn.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+670,WAZAINFO_670,The user attacks by pelting the target with leaves.,109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+671,WAZAINFO_671,"The user shines a spotlight on the target so that only
+the target will be attacked during the turn.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+672,WAZAINFO_672,"The user shoots poisonous threads to poison the
+target and lower the target’s Speed stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+673,WAZAINFO_673,"The user concentrates intensely. The attack on the
+next turn always results in a critical hit.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+674,WAZAINFO_674,"The user engages its gears to raise the Attack and Sp.
+Atk stats of ally Pokémon with the Plus or Minus
+Ability.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+675,WAZAINFO_675,"The user attacks the target’s throat, and the
+resultant suffering prevents the target from using
+moves that emit sound for two turns.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+676,WAZAINFO_676,"The user attacks the enemy with a pollen puff that
+explodes. If the target is an ally, it gives the ally a
+pollen puff that restores its HP instead.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+677,WAZAINFO_677,"The user entangles the target with its anchor chain
+while attacking. The target becomes unable to flee.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+678,WAZAINFO_678,"This protects Pokémon on the ground from priority moves
+and powers up Psychic-type moves for five turns.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+679,WAZAINFO_679,"The user makes a lunge at the target, attacking with
+full force. This also lowers the target’s Attack stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+680,WAZAINFO_680,"The user strikes the target with a burning lash. This
+also lowers the target's Defense stat.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+681,WAZAINFO_681,"The user boasts its strength and attacks the target. The
+more the user's stats are raised, the greater the move's
+power.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+682,WAZAINFO_682,"To inflict massive damage, the user burns itself out.
+After using this move, the user will no longer be
+Fire type.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+683,WAZAINFO_683,"The user exchanges Speed stats with the target.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+684,WAZAINFO_684,"The user stabs the target with a sharp horn.
+This attack never misses.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+685,WAZAINFO_685,"The user heals the target's status condition. If the
+move succeeds, it also restores the user's own HP.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+686,WAZAINFO_686,"The user attacks the target by dancing very hard. The
+user's type determines the type of this move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+687,WAZAINFO_687,"If the Pokémon the user has inflicted damage on have
+already used their moves, this move eliminates the
+effect of the target's Ability.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+688,WAZAINFO_688,"The user lands an intense kick of tropical origins on
+the target. This also lowers the target's Attack stat.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+689,WAZAINFO_689,"The user instructs the target to use the target's last
+move again.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+690,WAZAINFO_690,"The user first heats up its beak, and then it attacks
+the target. Making direct contact with the Pokémon while
+it's heating up its beak results in a burn.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+691,WAZAINFO_691,"The user rubs the scales on its entire body and makes a
+huge noise to attack opposing Pokémon. The user's
+Defense stat goes down after the attack.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+692,WAZAINFO_692,"The user uses its body like a hammer to attack the
+target and inflict damage.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+693,WAZAINFO_693,"The user swings its body around violently to inflict
+damage on everything in its vicinity.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+694,WAZAINFO_694,"This move reduces damage from physical and
+special moves for five turns. This can be used only
+in a hailstorm.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+695,WAZAINFO_695,"The user, Decidueye, creates countless arrows using its
+Z-Power and shoots the target with full force.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+696,WAZAINFO_696,"The user, Incineroar, strengthens its body using its
+Z-Power and crashes into the target with full force.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+697,WAZAINFO_697,"The user, Primarina, summons a massive amount of water
+using its Z-Power and attacks the target with full
+force.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+698,WAZAINFO_698,"The user, the Land Spirit Pokémon, obtains Alola's
+energy using its Z-Power and attacks the target with
+full force. This reduces the target's HP greatly.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+699,WAZAINFO_699,"After obtaining Z-Power, the user, Marshadow, punches
+and kicks the target consecutively with full force.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+700,WAZAINFO_700,"After obtaining Z-Power, the user, Alolan Raichu,
+attacks the target with full force. This move leaves the
+target with paralysis.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+701,WAZAINFO_701,"Z-Power brings out the true capabilities of the user,
+Snorlax. The Pokémon moves its enormous body
+energetically and attacks the target with full force.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+702,WAZAINFO_702,"After obtaining Z-Power, the user, Eevee, gets energy
+from its evolved friends and boosts its stats sharply.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+703,WAZAINFO_703,"After obtaining Z-Power, the user, Mew, attacks the
+target with full force. The terrain will be charged with
+psychic energy.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+704,WAZAINFO_704,"The user sets a shell trap. If the user is hit by a
+physical move, the trap will explode and inflict damage
+on opposing Pokémon.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+705,WAZAINFO_705,"The user unleashes a strong beam. The attack's recoil
+harshly lowers the user's Sp. Atk stat.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+706,WAZAINFO_706,"The user bites the target with its psychic capabilities.
+This can also destroy Light Screen and Reflect.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+707,WAZAINFO_707,"Driven by frustration, the user attacks the target.
+If the user’s previous move has failed, the power of
+this move doubles.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+708,WAZAINFO_708,"The user attacks by beating the target with a bone that
+contains a spirit. This may also lower the target's
+Defense stat.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+709,WAZAINFO_709,"The user smashes into the target at high speed. This
+move always goes first.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+710,WAZAINFO_710,"The user slams into the target using a full-force
+blast of water. This may also lower the target’s
+Defense stat.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+711,WAZAINFO_711,"The user shoots powerful lasers using the power of a
+prism. The user can't move on the next turn.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+712,WAZAINFO_712,"The user hides in the target's shadow, steals the
+target's stat boosts, and then attacks.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+713,WAZAINFO_713,"The user slams into the target with the force of a
+meteor. This move can be used on the target regardless
+of its Abilities.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+714,WAZAINFO_714,"The user emits a sinister ray to attack the target. This
+move can be used on the target regardless of its
+Abilities.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+715,WAZAINFO_715,"The user gets teary eyed to make the target lose
+its combative spirit. This lowers the target’s
+Attack and Sp. Atk stats.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+716,WAZAINFO_716,"A strong electric blast crashes down on the target,
+giving it an electric shock. This may also make the
+target flinch.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+717,WAZAINFO_717,"The user hits the target with the force of nature. It
+halves the target's HP.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+718,WAZAINFO_718,"Cloaking itself in high energy, the user slams into the
+target. The memory held determines the move's type.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+719,WAZAINFO_719,"The user, Pikachu wearing a cap, powers up a jolt of
+electricity using its Z-Power and unleashes it. Critical
+hits land more easily.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+720,WAZAINFO_720,"The user attacks everything around it by causing its own
+head to explode. This also damages the user.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+721,WAZAINFO_721,"The user attacks with electrically charged fists. This
+move changes Normal-type moves to Electric-type moves.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+722,WAZAINFO_722,"The user attacks a target with a pillar of light. This
+move inflicts Attack or Sp. Atk damage—whichever stat is
+higher for the user.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+723,WAZAINFO_723,"This attack inflicts Attack or Sp. Atk damage— whichever
+stat is higher for the user, Necrozma. This move ignores
+the target's Ability.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+724,WAZAINFO_724,"After obtaining Z-Power, the user, Solgaleo, attacks the
+target with full force. This move can ignore the effect
+of the target's Ability.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+725,WAZAINFO_725,"After obtaining Z-Power, the user, Lunala, attacks the
+target with full force. This move can ignore the effect
+of the target's Ability.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+726,WAZAINFO_726,"After obtaining Z-Power, the user, Mimikyu, punches the
+target with full force.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+727,WAZAINFO_727,"After obtaining Z-Power, the user, Lycanroc, attacks the
+target with full force. This move negates the effect on
+the battlefield.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+728,WAZAINFO_728,"After obtaining Z-Power, the user, Kommo-o, attacks the
+opposing Pokémon with full force. This move boosts the
+user's stats.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+729,WAZAINFO_729,"The user attacks the target with bursts of electricity
+at high speed. This move always goes first and results
+in a critical hit.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+730,WAZAINFO_730,"The user charges a huge wave with electricity and hits
+the opposing Pokémon with the wave. This may also leave
+the opposing Pokémon with paralysis.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+731,WAZAINFO_731,"The user floats in the air, and then dives at a steep
+angle to attack the target. This may also make the
+target flinch.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+732,WAZAINFO_732,"The more Pikachu loves its Trainer, the greater the
+move’s power. It never misses.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+733,WAZAINFO_733,"The user attacks by shooting water bubbles at the
+target. It then absorbs water and restores its HP by
+half the damage taken by the target.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+734,WAZAINFO_734,"The user shoots a jolt of electricity to attack the
+target. This also leaves the target with paralysis.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+735,WAZAINFO_735,"The user cloaks itself in fire and charges at the
+target. This also leaves the target with a burn.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+736,WAZAINFO_736,"The user bombards the target with telekinetic force. A
+wondrous wall of light is put up to weaken the power of
+the opposing Pokémon’s special moves.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+737,WAZAINFO_737,"The user acts bad and attacks the target. A wondrous
+wall of light is put up to weaken the power of the
+opposing Pokémon’s physical moves.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+738,WAZAINFO_738,"The user grows a gigantic stalk that scatters seeds to
+attack the target. The seeds drain the target’s HP every
+turn.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+739,WAZAINFO_739,"The user attacks with a crystal made of cold frozen
+haze. It eliminates every stat change among all the
+Pokémon engaged in battle.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+740,WAZAINFO_740,"The user attacks the target by wrapping it with a
+whirlwind of an overpowering scent. This also heals all
+status conditions of the user’s party.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+741,WAZAINFO_741,"The more Eevee loves its Trainer, the greater the move’s
+power. It never misses.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+742,WAZAINFO_742,"The user rotates, centering the hex nut in its chest,
+and then strikes with its arms twice in a row. This may
+also make the target flinch.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+743,WAZAINFO_743,"This move enables the user to protect itself from all
+attacks. Its chance of failing rises if it is used in
+succession.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+744,WAZAINFO_744,"The user unleashes a strong beam from its core. This
+move deals twice the damage if the target is Dynamaxed.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+745,WAZAINFO_745,"The user ignores the effects of opposing Pokémon's moves
+and Abilities that draw in moves, allowing this move to
+hit the chosen target.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+746,WAZAINFO_746,"This move prevents the user and the target from
+switching out until either of them faints. The effect
+goes away if either of the Pokémon leaves the field.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+747,WAZAINFO_747,"The user eats its held Berry, then sharply raises its
+Defense stat.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+748,WAZAINFO_748,"This move raises all the user's stats but prevents the
+user from switching out or fleeing.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+749,WAZAINFO_749,"The user pours sticky tar over the target, lowering the
+target's Speed stat. The target becomes weaker to
+Fire-type moves.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+750,WAZAINFO_750,"The user scatters a cloud of magic powder that changes
+the target to Psychic type.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+751,WAZAINFO_751,"The user attacks twice using Dreepy. If there are two
+targets, this move hits each target once.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+752,WAZAINFO_752,"The user has teatime with all the Pokémon in the battle.
+Each Pokémon eats its held Berry.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+753,WAZAINFO_753,"The user locks the target in and prevents it from
+fleeing. This move also lowers the target's Defense and
+Sp. Def every turn.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+754,WAZAINFO_754,"The user stabs the target with its electrified beak. If
+the user attacks before the target, the power of this
+move is doubled.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+755,WAZAINFO_755,"The user rends the target with its hard gills. If the
+user attacks before the target, the power of this move
+is doubled.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+756,WAZAINFO_756,"With its mysterious power, the user swaps the effects on
+either side of the field.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+757,WAZAINFO_757,"This is a Fire-type attack Dynamax Pokémon use. The user
+intensifies the sun for five turns.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+758,WAZAINFO_758,"This is a Bug-type attack Dynamax Pokémon use. This
+lowers the target's Sp. Atk stat.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+759,WAZAINFO_759,"This is an Electric-type attack Dynamax Pokémon use. The
+user turns the ground into Electric Terrain for five
+turns.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+760,WAZAINFO_760,"This is a Normal-type attack Dynamax Pokémon use. This
+lowers the target's Speed stat.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+761,WAZAINFO_761,"This is a Fighting-type attack Dynamax Pokémon use. This
+raises ally Pokémon's Attack stats.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+762,WAZAINFO_762,"This is a Ghost-type attack Dynamax Pokémon use. This
+lowers the target's Defense stat.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+763,WAZAINFO_763,"This is an Ice-type attack Dynamax Pokémon use. The user
+summons a hailstorm lasting five turns.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+764,WAZAINFO_764,"This is a Poison-type attack Dynamax Pokémon use. This
+raises ally Pokémon's Sp. Atk stats.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+765,WAZAINFO_765,"This is a Water-type attack Dynamax Pokémon use. The
+user summons a heavy rain that falls for five turns.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+766,WAZAINFO_766,"This is a Flying-type attack Dynamax Pokémon use. This
+raises ally Pokémon's Speed stats.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+767,WAZAINFO_767,"This is a Fairy-type attack Dynamax Pokémon use. The
+user turns the ground into Misty Terrain for five turns.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+768,WAZAINFO_768,"This is a Dragon-type attack Dynamax Pokémon use. This
+lowers the target's Attack stat.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+769,WAZAINFO_769,"This is a Psychic-type attack Dynamax Pokémon use. The
+user turns the ground into Psychic Terrain for five
+turns.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+770,WAZAINFO_770,"This is a Rock-type attack Dynamax Pokémon use. The user
+summons a sandstorm lasting five turns.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+771,WAZAINFO_771,"This is a Ground-type attack Dynamax Pokémon use. This
+raises ally Pokémon's Sp. Def stats.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+772,WAZAINFO_772,"This is a Dark-type attack Dynamax Pokémon use. This
+lowers the target's Sp. Def stat.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+773,WAZAINFO_773,"This is a Grass-type attack Dynamax Pokémon use. The
+user turns the ground into Grassy Terrain for five
+turns.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+774,WAZAINFO_774,"This is a Steel-type attack Dynamax Pokémon use. This
+raises ally Pokémon's Defense stats.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+775,WAZAINFO_775,"The user raises all its stats by using some of its HP.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+776,WAZAINFO_776,"The user attacks by slamming its body into the target.
+The higher the user’s Defense, the more damage it can
+inflict on the target.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+777,WAZAINFO_777,"The user sharply raises the target's Attack and Sp. Atk
+stats by decorating the target.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+778,WAZAINFO_778,"The user plays its drum, controlling the drum's roots to
+attack the target. This also lowers the target's Speed
+stat.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+779,WAZAINFO_779,"The user snares the target in a snap trap for four to
+five turns.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+780,WAZAINFO_780,"The user attacks by igniting a small stone and launching
+it as a fiery ball at the target. This may also leave
+the target with a burn.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+781,WAZAINFO_781,"The user becomes a gigantic sword and cuts the target.
+This move deals twice the damage if the target is
+Dynamaxed.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+782,WAZAINFO_782,"The user becomes a gigantic shield and slams into the
+target. This move deals twice the damage if the target
+is Dynamaxed.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+783,WAZAINFO_783,"Morpeko attacks and raises its Speed with the energy
+stored in its cheeks. This move's type changes depending
+on the user's form.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+784,WAZAINFO_784,"The user swings its tough tail wildly and attacks
+opposing Pokémon. This also lowers their Attack stats.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+785,WAZAINFO_785,"The user attacks the target by poking it with a sharply
+pointed branch.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+786,WAZAINFO_786,"The user attacks opposing Pokémon by twanging a guitar
+or bass guitar, causing a huge echo and strong
+vibration.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+787,WAZAINFO_787,"The user attacks the target with an acidic liquid
+created from tart apples. This also lowers the target's
+Sp. Def stat.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+788,WAZAINFO_788,"The user inflicts damage by dropping an apple from high
+above. This also lowers the target's Defense stat.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+789,WAZAINFO_789,"The user attacks the target with so much force that it
+could break the target's spirit. This also lowers the
+target's Sp. Atk stat.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+790,WAZAINFO_790,"The user attacks the target by emitting steam. This may
+also confuse the target.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+791,WAZAINFO_791,"The user scatters mysterious water around and restores
+the HP of itself and its ally Pokémon in the battle.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+792,WAZAINFO_792,"This move enables the user to protect itself from all
+attacks. Its chance of failing rises if it is used in
+succession. Direct contact harshly lowers the attacker's
+Defense stat.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+793,WAZAINFO_793,"The user pretends to bow its head, but then it stabs the
+target with its disheveled hair. This attack never
+misses.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+794,WAZAINFO_794,"The user attacks wildly with its thick leek. The user
+can't move on the next turn, because the force of this
+move makes it stagger.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+795,WAZAINFO_795,"This is Eternatus's most powerful attack in its original
+form. The user can't move on the next turn.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+796,WAZAINFO_796,"The user fires a beam of steel that it collected from
+its entire body. This also damages the user.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+797,WAZAINFO_797,"The user attacks the target with its psychic power. This
+move's power goes up and damages all opposing Pokémon on
+Psychic Terrain.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+798,WAZAINFO_798,"The user attacks while destroying the terrain. This move
+fails when the ground hasn't turned into a terrain.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+799,WAZAINFO_799,"The user attacks by shooting scales two to five times in
+a row. This move boosts the user's Speed stat but lowers
+its Defense stat.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+800,WAZAINFO_800,"In this two-turn attack, the user gathers space power
+and boosts its Sp. Atk stat, then attacks the target on
+the next turn.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+801,WAZAINFO_801,"This move inflicts physical or special damage, whichever
+will be more effective. This may also poison the target.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+802,WAZAINFO_802,"The user attacks everything around it and faints upon
+using this move. This move's power is increased on Misty
+Terrain.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+803,WAZAINFO_803,"Gliding on the ground, the user attacks the target. This
+move always goes first on Grassy Terrain.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+804,WAZAINFO_804,"The user attacks with electric voltage rising from the
+ground. This move's power doubles when the target is on
+Electric Terrain.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+805,WAZAINFO_805,"The user utilizes the power of the terrain to attack.
+This move's type and power changes depending on the
+terrain when it's used.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+806,WAZAINFO_806,"The user skitters behind the target to attack. This also
+lowers the target's Sp. Atk stat.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+807,WAZAINFO_807,"The user attacks with energy from jealousy. This leaves
+all opposing Pokémon that have had their stats boosted
+during the turn with a burn.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+808,WAZAINFO_808,"The user lashes out to vent its frustration toward the
+target. If the user's stats were lowered during this
+turn, the power of this move is doubled.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+809,WAZAINFO_809,"The user attacks the target by controlling the target's
+item. The move fails if the target doesn't have an item.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+810,WAZAINFO_810,"The user surrounds everything around it with highly
+acidic gas and melts away items they hold.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+811,WAZAINFO_811,"The user properly coaches its ally Pokémon, boosting
+their Attack and Defense stats.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+812,WAZAINFO_812,"After making its attack, the user rushes back to switch
+places with a party Pokémon in waiting.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+813,WAZAINFO_813,"A consecutive three-kick attack that becomes more
+powerful with each successful hit.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+814,WAZAINFO_814,"The user slams the target with its wings. The target is
+hit twice in a row.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+815,WAZAINFO_815,"The user throws scorching sand at the target to attack.
+This may also leave the target with a burn.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+816,WAZAINFO_816,"The user becomes one with the jungle, restoring HP and
+healing any status conditions of itself and its ally
+Pokémon in battle.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+817,WAZAINFO_817,"The user, having mastered the Dark style, strikes the
+target with a fierce blow. This attack always results in
+a critical hit.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+818,WAZAINFO_818,"The user, having mastered the Water style, strikes the
+target with a flowing motion three times in a row. This
+attack always results in a critical hit.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+819,WAZAINFO_819,"The user traps the target in a cage of sparking
+electricity for four to five turns.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+820,WAZAINFO_820,"Converting its life-force into power, the user attacks
+opposing Pokémon. The lower the user's HP, the lower the
+move's power.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+821,WAZAINFO_821,"The user shoots its psychic power from its eyes to
+attack. This may also leave the target frozen.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+822,WAZAINFO_822,"The user transforms its wrath into a fire-like aura to
+attack. This may also make opposing Pokémon flinch.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+823,WAZAINFO_823,"The user overwhelms the target with lightning-like
+movement before delivering a kick. This also lowers the
+target's Defense stat.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+824,WAZAINFO_824,"The user attacks by hurling a blizzard-cloaked icicle
+lance at opposing Pokémon.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+825,WAZAINFO_825,"The user attacks by sending a frightful amount of small
+ghosts at opposing Pokémon.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+826,WAZAINFO_826,"The user attacks with its tremendous psychic power. This
+also removes 3 PP from the target's last move.
+",109,-1,32,736,0,"-1
+0
+0
+-1
+0"

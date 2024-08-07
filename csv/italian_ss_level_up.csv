@@ -1,0 +1,113 @@
+0,SS_level_up_00_01,L. {tag:0},151,-1,42,294,0,"0
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+1,SS_level_up_00_02,{tag:0},37,-1,42,294,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+2,SS_level_up_00_03,Sale di livello!,160,-1,42,798,0,"0
+0
+0
+-1
+0"
+3,SS_level_up_01_01,{tag:0},143,-1,54,270,0,"0
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+4,SS_level_up_01_02,+{tag:0},143,-1,54,270,0,"0
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+5,SS_level_up_01_03,PS,4,-1,54,270,0,"0
+1
+2
+-1
+0"
+6,SS_level_up_01_04,Attacco,4,-1,54,270,0,"0
+0
+0
+-1
+0"
+7,SS_level_up_01_05,Difesa,4,-1,54,270,0,"1
+0
+0
+-1
+0"
+8,SS_level_up_01_06,Att. Sp.,4,-1,54,270,0,"0
+0
+0
+-1
+0"
+9,SS_level_up_01_07,Dif. Sp.,4,-1,54,270,0,"1
+0
+0
+-1
+0"
+10,SS_level_up_01_08,Velocità,4,-1,54,270,0,"1
+0
+0
+-1
+0"
+11,SS_level_up_02_00,+{tag:0},155,-1,42,504,0,"0
+0
+0
+-1
+0",1,2,6,1,0,1,,0
+12,SS_level_up_02_01,{tag:0} Punti Esperienza!,0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,1,5,0,253,"Il Pokémon riceve
+I Pokémon ricevono",0
+14,SS_level_up_02_02,{callback:5.0:}{tag:0} sale al livello {tag:1}{callback:1.0:!},0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,2,2,1,0,205,,0
+15,SS_level_up_02_03,{tag:0} impara {tag:1}{callback:4.0:!}{callback:1.0:},0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,7,0,0,0,,0
+16,SS_level_up_02_04,"{tag:0} vorrebbe imparare
+{tag:1}{pageend:.}
+Vuoi che dimentichi una mossa e
+al suo posto impari {tag:2}?",0,-1,54,1080,1,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0,1,1,7,0,0,0,,0,1,1,7,0,0,0,,0
+17,SS_level_up_02_05,"{wait:0.19999998807907104:Uno,}{wait:0.19999998807907104: due}{wait:0.19999998807907104: e}{wait:0.19999998807907104:...}{callback:3.0: ta-daaaa!}{callback:0.0:}
+{tag:0} dimentica {tag:1}{pageend:!}
+Al suo posto...
+{tag:2} impara {tag:3}{callback:4.0:!}{callback:1.0:}",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,7,0,0,0,,0,0,1,2,0,0,0,,0,2,1,7,0,0,0,,0
+18,SS_level_up_02_06,"{tag:0} non ha imparato
+{tag:1}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",0,1,12,0,0,0,,0,1,1,7,0,0,0,,0
+19,SS_level_up_03_01,Fai dimenticare,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+20,SS_level_up_03_02,Non far dimenticare,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+13,SS_level_up_02_08,Il Pokémon riceve Punti Esperienza!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"

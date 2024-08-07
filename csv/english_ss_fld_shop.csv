@@ -1,0 +1,661 @@
+0,SS_fld_shop_098,"Get a whiff of that fragrance...
+How about some incense for you, {tag:0}?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",-1,19,0,5,0,255,"boy
+girl",0
+1,SS_fld_shop_099,Come back anytime.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+2,SS_fld_shop_101,"The {tag:0}, is it?
+And how many would you like?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,10,0,0,0,,0
+3,SS_fld_shop_102,"If you’d like {tag:0} {tag:1},
+it’s going to cost you {tag:2}. All right?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,10,0,0,0,,0,2,2,6,1,0,2,,0
+4,SS_fld_shop_103,"If you’d like {tag:0} {tag:1},
+it’s going to cost you {tag:2}. All right?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,10,0,0,0,,0,2,2,6,1,0,2,,0
+5,SS_fld_shop_104,"And here is your incense.
+I look forward to serving you again.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+6,SS_fld_shop_105,"I’m sorry, but it looks like you have no space
+to carry more incense.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+7,SS_fld_shop_106,"I’m sorry...
+You simply don’t have the funds.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+8,SS_fld_shop_112,"How many {tag:0}
+do you want?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,10,0,0,0,,2
+9,SS_fld_shop_113,"Right, {tag:0} {tag:1}!
+That’ll be {tag:2}!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,10,0,0,0,,1,2,2,6,1,0,2,,0
+10,SS_fld_shop_114,"Right, {tag:0} {tag:1}!
+That’ll be {tag:2}!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,10,0,0,0,,2,2,2,6,1,0,2,,0
+11,SS_fld_shop_115,"And here you go!
+They’ll work like a charm—I promise!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+12,SS_fld_shop_116,"Come on! Give us a break. You can’t carry
+any more!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+13,SS_fld_shop_117,"Oh. You’re looking a bit light on cash, friend.
+Save up and come back later!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+14,SS_fld_shop_120,"Berries! I’ve got your fresh-picked Berries!
+What do you say? Interested in something?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+15,SS_fld_shop_121,Thanks for stopping by! Come again!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+16,SS_fld_shop_123,How many {tag:0} shall it be?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,2
+17,SS_fld_shop_124,"So, just {tag:0} of those {tag:1}...
+That’ll be {tag:2}.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,9,0,0,0,,2,2,2,6,1,0,2,,0
+18,SS_fld_shop_125,"So, {tag:0} of those {tag:1}...
+That’ll put you at {tag:2}.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,9,0,0,0,,2,2,2,6,1,0,2,,0
+19,SS_fld_shop_126,"And here you are!
+Give one to your Pokémon, won’t you?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+20,SS_fld_shop_127,"Whoops! looks like you can’t carry any more of
+those Berries, friend.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+21,SS_fld_shop_128,"Seems you can’t pay the bill!
+I’m sorry to say it, but I can’t give my goods away.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+22,SS_fld_shop_149,"Welcome to Metronome Style Shop!
+Anything I can help you find?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+23,SS_fld_shop_150,"Thank you for coming by! And do feel free to use
+our changing room whenever you’d like to.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+24,SS_fld_shop_151,"Welcome to the uniform shop!
+Are you looking for anything in particular?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+25,SS_fld_shop_161,"Congratulations! Now you can purchase more
+items. So...",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+50,SS_fld_shop_314,So how many {tag:0}?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,22,0,0,0,,2
+54,SS_fld_shop_315,"So you want {tag:0} {tag:1}?
+It’ll be {tag:2}. All right?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,22,0,0,0,,0,2,2,6,1,0,2,,0
+26,SS_fld_shop_197,I’m here to buy,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+27,SS_fld_shop_198,I’m here to sell,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+28,SS_fld_shop_199,"No, thanks",50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+29,SS_fld_shop_200,"Welcome to the Poké Mart!
+May I help you?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+30,SS_fld_shop_201,Is there anything else I can do for you?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+31,SS_fld_shop_202,Do come again!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+32,SS_fld_shop_203,"We sell Technical Machines here!
+Are you in the market for a TM?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+33,SS_fld_shop_204,YOUR MONEY,82,-1,32,256,0,"-1
+0
+0
+-1
+0"
+34,SS_fld_shop_205,Battle Points,82,-1,32,256,0,"-1
+0
+0
+-1
+0"
+37,SS_fld_shop_211,{tag:0} BP,154,-1,42,462,0,"-1
+0
+0
+-1
+0",0,2,3,1,0,2,,0
+38,SS_fld_shop_212,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+39,SS_fld_shop_213,{tag:0},39,-1,42,420,0,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+40,SS_fld_shop_214,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",0,1,7,0,0,0,,0
+45,SS_fld_shop_216,{tag:0},154,-1,42,462,0,"-1
+0
+0
+-1
+0",0,2,6,1,0,2,,0
+46,SS_fld_shop_217,{tag:0},148,-1,42,168,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+47,SS_fld_shop_218,×,146,-1,42,84,0,"-1
+0
+0
+-1
+0"
+48,SS_fld_shop_219,So how many {tag:0}?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,10,0,0,0,,2
+49,SS_fld_shop_281,"{tag:0} {tag:1},
+right? How many would you like?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0,4,1,7,0,0,0,,0
+52,SS_fld_shop_220,"So you want {tag:0} {tag:1}?
+It’ll be {tag:2}. All right?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,10,0,0,0,,0,2,2,6,1,0,2,,0
+53,SS_fld_shop_282,"{tag:0} {tag:1}
+will be {tag:2} for {tag:3}. OK?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0,4,1,7,0,0,0,,0,2,2,6,1,0,2,,0,1,2,2,1,0,205,,0
+56,SS_fld_shop_221,"Then here you are.
+Thank you for your business!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+57,SS_fld_shop_222,You don’t have enough money.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+58,SS_fld_shop_223,"I’m sorry, but it looks like you can’t carry any
+more than you have now.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+59,SS_fld_shop_226,And have {tag:0} {tag:1} on the house!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0,-1,19,1,5,0,0,"Premier Ball
+Premier Balls",0
+60,SS_fld_shop_227,"{tag:0}, for the move
+{tag:1}? That’ll be {tag:2}, OK?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0,1,1,7,0,0,0,,0,2,2,6,1,0,2,,0
+61,SS_fld_shop_228,You already have that one!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+62,SS_fld_shop_229,"Welcome to the BP Shop!
+And how might I help you?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+63,SS_fld_shop_230,"So you want {tag:0} {tag:1}?
+It’ll be {tag:2}. All right?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,10,0,0,0,,0,2,2,6,1,0,2,,0
+64,SS_fld_shop_231,"You want {tag:0} {tag:1}?
+That’ll be {tag:2} BP, all right?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,10,0,0,0,,1,2,2,6,1,0,2,,0
+65,SS_fld_shop_232,"You want {tag:0} {tag:1}?
+That’ll be {tag:2} BP, all right?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,10,0,0,0,,2,2,2,6,1,0,2,,0
+66,SS_fld_shop_236,"How many {tag:0}, then?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,10,0,0,0,,2
+67,SS_fld_shop_237,Here you are!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+68,SS_fld_shop_238,You can’t carry any more!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+69,SS_fld_shop_239,You don’t have enough BP for that.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+70,SS_fld_shop_240,"You’ve been doing some Link Battles, eh?
+Have some fun with Ranked Battles, too!
+I’ll even give you a special uniform for ’em!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+71,SS_fld_shop_243,Yes,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+72,SS_fld_shop_244,No,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+76,SS_fld_shop_247,{tag:0},148,-1,42,168,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+77,SS_fld_shop_248,Power,79,-1,32,160,0,"-1
+0
+0
+-1
+0"
+78,SS_fld_shop_249,Accuracy,80,-1,32,192,0,"-1
+0
+0
+-1
+0"
+79,SS_fld_shop_250,PP,165,-1,32,96,0,"-1
+0
+0
+-1
+0"
+80,SS_fld_shop_251,{tag:0},167,-1,32,160,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+81,SS_fld_shop_252,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",0,1,7,0,0,0,,0
+82,SS_fld_shop_254,{tag:0},166,-1,32,128,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+83,SS_fld_shop_255,—,166,-1,32,128,0,"-1
+0
+0
+-1
+0"
+84,SS_fld_shop_257,——,170,-1,32,256,0,"-1
+0
+0
+-1
+0"
+90,SS_fld_shop_258,"Love to cook? You’ve come to the right place!
+I’ve got all the finest ingredients right here!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+91,SS_fld_shop_259,Give us another visit tomorrow!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+92,SS_fld_shop_261,"How many {tag:0}, then?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,10,0,0,0,,2
+93,SS_fld_shop_262,"If it’s to be {tag:0} {tag:1}...
+I’ll be asking for {tag:2}! All right by you?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,10,0,0,0,,0,2,2,6,1,0,2,,0
+94,SS_fld_shop_263,"If it’s to be {tag:0} {tag:1}...
+I’ll be asking for {tag:2}! All right by you?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,10,0,0,0,,0,2,2,6,1,0,2,,0
+95,SS_fld_shop_264,"And here you are!
+Cook up something tasty, won’t you?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+96,SS_fld_shop_265,"Oh? Looks like you’re full up and can’t carry
+any more of those!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+97,SS_fld_shop_266,"You don’t seem to have enough money! Save up
+a bit and come again.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+98,SS_fld_shop_267,YOUR WATTS,82,-1,32,256,0,"-1
+0
+0
+-1
+0"
+99,SS_fld_shop_268,{tag:0} W,154,-1,42,462,0,"-1
+0
+0
+-1
+0",0,2,6,1,0,2,,0
+35,SS_fld_shop_206,{tag:0},172,-1,32,352,0,"-1
+0
+0
+-1
+0",0,2,6,1,0,2,,0
+73,SS_fld_shop_245, Quit,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+74,SS_fld_shop_246, Confirm,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+75,SS_fld_shop_287, Move Info,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+85,SS_fld_shop_283,Hype Points,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+86,SS_fld_shop_284,{tag:0},148,-1,42,168,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+87,SS_fld_shop_285,×,146,-1,42,84,0,"-1
+0
+0
+-1
+0"
+88,SS_fld_shop_286,{tag:0},172,-1,32,352,0,"-1
+0
+0
+-1
+0",0,2,6,1,0,2,,0
+100,SS_fld_shop_288,Which Sticker would you like to get?,65,-1,42,924,0,"-1
+0
+0
+-1
+0"
+101,SS_fld_shop_289,Which items do you want to get?,65,-1,42,924,0,"-1
+0
+0
+-1
+0"
+102,SS_fld_shop_290,Which slate do you want to get?,65,-1,42,924,0,"-1
+0
+0
+-1
+0"
+103,SS_fld_shop_291,Which goods do you want to get?,65,-1,42,924,0,"-1
+0
+0
+-1
+0"
+104,SS_fld_shop_292,Which goods do you want to give to me?,65,-1,42,924,0,"-1
+0
+0
+-1
+0"
+105,SS_fld_shop_293,{tag:0},46,-1,42,588,0,"-1
+0
+0
+-1
+0",0,1,78,0,0,0,,0
+106,SS_fld_shop_294,{tag:0},46,-1,42,588,0,"-1
+0
+0
+-1
+0",0,1,22,0,0,0,,0
+107,SS_fld_shop_295,{tag:0},148,-1,42,168,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+108,SS_fld_shop_296,×,146,-1,42,84,0,"-1
+0
+0
+-1
+0"
+109,SS_fld_shop_297,{tag:0},83,-1,32,320,0,"-1
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+110,SS_fld_shop_298,{tag:0},46,-1,42,588,0,"-1
+0
+0
+-1
+0",0,1,78,0,0,0,,0
+111,SS_fld_shop_299,{tag:0},46,-1,42,588,0,"-1
+0
+0
+-1
+0",0,1,22,0,0,0,,0
+112,SS_fld_shop_300,Needed: {tag:0},50,-1,42,756,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+114,SS_fld_shop_301,In Bag,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+115,SS_fld_shop_302,{tag:0},148,-1,42,168,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+116,SS_fld_shop_303,×,146,-1,42,84,0,"-1
+0
+0
+-1
+0"
+117,SS_fld_shop_304,{tag:0},91,-1,32,448,0,"-1
+0
+0
+-1
+0",0,1,78,0,0,0,,0
+118,SS_fld_shop_305,{tag:0},91,-1,32,448,0,"-1
+0
+0
+-1
+0",0,1,22,0,0,0,,0
+119,SS_fld_shop_306,{tag:0},148,-1,42,168,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+120,SS_fld_shop_307,×,146,-1,42,84,0,"-1
+0
+0
+-1
+0"
+36,SS_fld_shop_308,{tag:0} BP,172,-1,32,352,0,"-1
+0
+0
+-1
+0",0,2,3,1,0,2,,0
+89,SS_fld_shop_309,{tag:0} BP,172,-1,32,352,0,"-1
+0
+0
+-1
+0",0,2,3,1,0,2,,0
+41,SS_fld_shop_310,{tag:0},42,-1,42,504,0,"-1
+0
+0
+-1
+0",0,1,77,0,0,0,,0
+42,SS_fld_shop_311,{tag:0},87,-1,32,384,0,"-1
+0
+0
+-1
+0",0,1,77,0,0,0,,0
+51,SS_fld_shop_312,"How many {tag:0} would
+you like to purchase?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,77,0,0,0,,2
+55,SS_fld_shop_313,"You would like to purchase
+{tag:0} {tag:1}{pageend:, right?}
+That’ll be {tag:2}.
+Is that all right?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,77,0,0,0,,0,2,2,6,1,0,2,,0
+121,SS_fld_shop_316,"You put {tag:0} {tag:1}
+in your Explorer Kit.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,22,0,0,0,,0
+43,SS_fld_shop_317,{tag:0},46,-1,42,588,0,"-1
+0
+0
+-1
+0",0,1,22,0,0,0,,0
+44,SS_fld_shop_318,{tag:0},91,-1,32,448,0,"-1
+0
+0
+-1
+0",0,1,22,0,0,0,,0
+113,SS_fld_shop_319,{tag:0},50,-1,42,756,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0

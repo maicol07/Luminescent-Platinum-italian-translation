@@ -1,0 +1,262 @@
+0,SS_trainer_license_common_02,{tag:0},81,-1,32,224,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+1,SS_trainer_license_common_04,Pokédex,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+2,SS_trainer_license_common_07,{tag:0} Pokémon,81,-1,32,224,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+3,SS_trainer_license_common_09,{tag:0}/{tag:1}/{tag:2},173,-1,32,384,0,"-1
+0
+0
+-1
+0",1,2,1,1,0,205,,0,2,2,1,1,0,205,,0,0,2,3,1,0,0,,0
+4,SS_trainer_license_common_10,ID No.,171,-1,32,320,0,"-1
+0
+0
+-1
+0"
+5,SS_trainer_license_common_11,{tag:0},169,-1,32,224,0,"-1
+0
+0
+-1
+0",0,2,5,1,0,0,,0
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+6,SS_trainer_license_common_32,Name,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+7,SS_trainer_license_common_33,Money,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+8,SS_trainer_license_common_34,{tag:0},172,-1,32,352,0,"-1
+0
+0
+-1
+0",0,2,6,1,0,2,,0
+9,SS_trainer_license_common_35,Play time,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+10,SS_trainer_license_common_36,{tag:0}:{tag:1},169,-1,32,224,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0,1,2,1,1,0,205,,0
+11,SS_trainer_license_common_37,Adventure started,93,-1,32,512,0,"-1
+0
+0
+-1
+0"
+12,SS_trainer_license_common_38,Hall of Fame debut,93,-1,32,512,0,"-1
+0
+0
+-1
+0"
+13,SS_trainer_license_common_39,Fossil digging sessions,94,-1,32,544,0,"-1
+0
+0
+-1
+0"
+14,SS_trainer_license_common_40,{tag:0},169,-1,32,224,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+15,SS_trainer_license_common_41,Statue variants found,94,-1,32,544,0,"-1
+0
+0
+-1
+0"
+16,SS_trainer_license_common_42,{tag:0},169,-1,32,224,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+17,SS_trainer_license_common_63,Contest ranks,93,-1,32,512,0,"-1
+0
+0
+-1
+0"
+18,SS_trainer_license_common_43,Coolness Contest,93,-1,32,512,0,"-1
+0
+0
+-1
+0"
+19,SS_trainer_license_common_44,Beauty Contest,93,-1,32,512,0,"-1
+0
+0
+-1
+0"
+20,SS_trainer_license_common_45,Cuteness Contest,93,-1,32,512,0,"-1
+0
+0
+-1
+0"
+21,SS_trainer_license_common_46,Cleverness Contest,93,-1,32,512,0,"-1
+0
+0
+-1
+0"
+22,SS_trainer_license_common_47,Toughness Contest,93,-1,32,512,0,"-1
+0
+0
+-1
+0"
+23,SS_trainer_license_common_48,Normal,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+24,SS_trainer_license_common_49,Great,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+25,SS_trainer_license_common_50,Ultra,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+26,SS_trainer_license_common_51,Master,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+27,SS_trainer_license_common_52,Poffin making sessions,94,-1,32,544,0,"-1
+0
+0
+-1
+0"
+28,SS_trainer_license_common_53,{tag:0},169,-1,32,224,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+29,SS_trainer_license_common_54,Battle Tower winning streaks,93,-1,32,512,0,"-1
+0
+0
+-1
+0"
+30,SS_trainer_license_common_55,Single Battles,93,-1,32,512,0,"-1
+0
+0
+-1
+0"
+31,SS_trainer_license_common_56,{tag:0},169,-1,32,224,0,"-1
+0
+0
+-1
+0",0,2,3,1,0,2,,0
+32,SS_trainer_license_common_57,Double Battles,93,-1,32,512,0,"-1
+0
+0
+-1
+0"
+33,SS_trainer_license_common_58,{tag:0},169,-1,32,224,0,"-1
+0
+0
+-1
+0",0,2,3,1,0,2,,0
+34,SS_trainer_license_common_59,Master Class Single Battles,93,-1,32,512,0,"-1
+0
+0
+-1
+0"
+35,SS_trainer_license_common_60,{tag:0},169,-1,32,224,0,"-1
+0
+0
+-1
+0",0,2,3,1,0,2,,0
+36,SS_trainer_license_common_61,Master Class Double Battles,93,-1,32,512,0,"-1
+0
+0
+-1
+0"
+37,SS_trainer_license_common_62,{tag:0},169,-1,32,224,0,"-1
+0
+0
+-1
+0",0,2,3,1,0,2,,0
+40,SS_trainer_license_common_66, Flip to Back,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+43,SS_trainer_license_common_67, View Badges,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+44,SS_trainer_license_common_68, View Card,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+45,SS_trainer_license_common_69, Open Case,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+46,SS_trainer_license_common_70, Close Case,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+47,SS_trainer_license_common_71, Polish Badges,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+48,SS_trainer_license_common_72, Tap Badges,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+49,SS_trainer_license_common_73, Toggle Mode,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+50,SS_trainer_license_common_74,Tap,80,-1,32,192,0,"-1
+0
+0
+-1
+0"
+51,SS_trainer_license_common_75,Polish,80,-1,32,192,0,"-1
+0
+0
+-1
+0"
+38,SS_trainer_license_common_64, Confirm,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+39,SS_trainer_license_common_65, Back,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+41,SS_trainer_license_common_76, Flip to Front,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+42,SS_trainer_license_common_77, Rotate,83,-1,32,320,0,"-1
+0
+0
+-1
+0"

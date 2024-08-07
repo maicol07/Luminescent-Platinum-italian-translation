@@ -1,0 +1,1654 @@
+0,35-msg_c01r0201_idol_01,"Adoro i Pokémon! Ancor più che ballare...
+{pageend:Ancor più che cantare!}
+Allora, che ne dici, lottiamo?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+1,35-msg_c01r0201_idol_02,"Se riesci a battermi, ti farò entrare nel mio
+fan club!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+2,35-msg_c01r0201_idol_03,"Ah... mi spezzi il cuore... Come puoi dire di no
+a una Pop star come me...?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+3,35-msg_c01r0201_idol_04,"Io e i miei Pokémon non siamo granché, ma
+{pageend:continua a fare il tifo per noi, per favore!}
+E mi raccomando, compra il nostro ultimo
+singolo, ""Il mio Pokémon del cuore""!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+4,35-msg_c01r0201_reporter_01,"Sto lavorando a un servizio.
+Hai qualche minuto per lottare con me?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+5,35-msg_c01r0201_reporter_02,"Stai per far parte di un reportage sulla
+nostra lotta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+6,35-msg_c01r0201_reporter_03,"Spegnete le telecamere... Peccato, saresti
+stat{tag:0} perfett{tag:1} per il mio reportage!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0,-1,21,0,5,0,255,"o
+a",0
+7,35-msg_c01r0201_reporter_04,Per fare un’intervista ci vuole spirito d’iniziativa.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+8,35-msg_c01r0201_cameraman_01,"Ho individuato {tag:0} grintos{tag:1}!
+Va bene se faccio uno scoop su di te?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"un Allenatore
+un'Allenatrice",0,-1,21,0,5,0,255,"o
+a",0
+9,35-msg_c01r0201_cameraman_02,"Sono un Cameraman professionista,
+cerco sempre la migliore inquadratura!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+10,35-msg_c01r0201_cameraman_03,"Che delusione... E dire che avevo trovato
+{tag:0} e {tag:1} così telegenici!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"un Allenatore
+un'Allenatrice",0,-1,21,1,5,0,253,"un Pokémon
+dei Pokémon",0
+11,35-msg_c01r0201_cameraman_04,"Tu e {tag:0} Pokémon avete un’espressione
+davvero allegra... Siete proprio telegenici!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,1,5,0,253,"il tuo
+i tuoi",0
+12,35-msg_c01r0201_pierrot_01,"Allora, bambini, tutti pronti a divertirci
+con una bella lotta Pokémon?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+13,35-msg_c01r0201_pierrot_02,"Ok, tutti pronti? Sta per cominciare
+uno spettacolo davvero mirabolante!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+14,35-msg_c01r0201_pierrot_03,"Oh, che peccato... Allora me ne starò qui,
+tutto solo soletto...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+15,35-msg_c01r0201_pierrot_04,"Noi Clown siamo sempre truccati così, con
+{pageend:un volto che piange e ride al tempo stesso.}
+È il simbolo del nostro mestiere!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+16,35-msg_c01r0201_interview1_01,"Due Pokémon! Se tu avessi due Pokémon,
+potremmo girare una bella scena!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+17,35-msg_c01r0201_interview1_02,Oh! Che ne dici di lottare con noi?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+18,35-msg_c01r0201_interview1_03,"Sei in onda, ma non ti agitare!
+Cerca di comportarti in maniera naturale!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+19,35-msg_c01r0201_interview1_04,"Ah beh, così è la vita... Che posso farci?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+20,35-msg_c01r0201_interview1_05,"Vorrei trasmettere le immagini della nostra lotta
+in tutto il mondo.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+21,35-msg_c01r0201_interview2_01,"Se avessi almeno due Pokémon, potremmo girare
+una scena di Lotta in Doppio...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+22,35-msg_c01r0201_interview2_02,Uh uh uh! Ti andrebbe di lottare con noi?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+23,35-msg_c01r0201_interview2_03,"Lascia che ti faccia un paio di domandine
+per capire che tipo di {tag:0} sei!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"Allenatore
+Allenatrice",0
+24,35-msg_c01r0201_interview2_04,"Oh, peccato! Volevo vedere di che cosa
+erano capaci i tuoi Pokémon!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+25,35-msg_c01r0201_interview2_05,"Ho perso, ma sono su di giri! Abbiamo girato
+una scena da urlo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+26,35-msg_c01r0201_pokegirl_01,"{pageend:Po-Po-Pokémon!}
+Voglio esercitarmi per assomigliare di più
+a Pikachu... Vuoi lottare?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+27,35-msg_c01r0201_pokegirl_02,Pi... Pikachu!!!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+28,35-msg_c01r0201_pokegirl_03,Pi-Pikachu!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+29,35-msg_c01r0201_pokegirl_04,"Devo trovare un modo per entrare ancora di più
+nel personaggio di un Pokémon...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+30,35-msg_c01r0201_guitarist_01,"Mettiamo in mostra i nostri Pokémon!
+Lottiamo, {tag:0}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"Allenatore
+Allenatrice",0
+31,35-msg_c01r0201_guitarist_02,"Tu hai un’anima rock... Lo sento forte e chiaro,
+{tag:0}!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"fratello
+sorella",0
+32,35-msg_c01r0201_guitarist_03,"Ma dai, ma che risposta è?
+Devi dar sfogo alla tua passione!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+33,35-msg_c01r0201_guitarist_04,"Il rock è una questione di spirito!
+E anche le lotte di Pokémon!
+Ecco perché lotto a suon di rock!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+34,54-msg_c01r0701_trainer_boy_01,"La pratica è meglio della teoria!
+Ti va di lottare con me?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+35,54-msg_c01r0701_trainer_boy_02,"Vai, mio Pokémon!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+36,54-msg_c01r0701_trainer_boy_03,"Guarda che lottare è il modo migliore
+per imparare qualcosa sui Pokémon!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+37,54-msg_c01r0701_trainer_boy_04,"Non è facile vincere se non si hanno molti
+Pokémon fra cui scegliere!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+38,54-msg_c01r0701_trainer_boy_05,"{pageend:Wow! Sei veramente in gamba!}
+Noi studiamo diligentemente ogni giorno, ma
+sei riuscit{tag:0}{pageend: comunque a darci una bella lezione!}
+Sento che saprai usare al massimo queste MT.
+Tieni pure!",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+39,54-msg_c01r0701_trainer_boy_06,"Se usi la MT10, potrai insegnare la mossa
+{pageend:Cuordileone a uno dei tuoi Pokémon!}
+Quando un Pokémon usa questa mossa,
+{pageend:il suo Attacco e Attacco Speciale salgono!}
+Ricordati, però: una MT può essere usata
+una volta sola... Non sprecarla!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+40,54-msg_c01r0701_trainer_girl3_01,"Io e il mio Pokémon abbiamo fatto amicizia
+{pageend:solo poco fa...}
+Non so se abbiamo qualche speranza, ma
+mi piacerebbe lottare con te. Ti va?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+41,54-msg_c01r0701_trainer_girl3_02,"Devo mettere in pratica le cose che ho imparato,
+altrimenti me le dimentico!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+42,54-msg_c01r0701_trainer_girl3_03,"{pageend:Uffa! Ma dov’è il tuo senso dell’avventura?}
+Non devi aver paura di parlare o lottare
+con la gente!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+43,54-msg_c01r0701_trainer_girl3_04,"Forse se avessi usato qualche pozione
+saremmo riusciti a spuntarla...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+44,54-msg_c01r0701_trainer_girl3_05,"Speravo di fare meglio di così...
+{pageend:Ma la tua abilità mi ha impressionato!}
+Se vuoi, puoi parlare al mio amico e farti dare
+qualche Macchina Tecnica.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+45,115-msg_l02r0101_0100a_01,"Prima di mettermi a mangiare, avrei fatto
+{pageend:volentieri una bella lotta...}
+Però mi sembri un po’ a corto di Pokémon,
+al momento.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+46,115-msg_l02r0101_0100b_01,"Se vuoi fare una lotta, dovrai tornare
+con più Pokémon.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+47,115-msg_l02r0101_0101a_01,"Ispirandomi a una Bellezza come te, non potrò
+che produrre un capolavoro!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+48,115-msg_l02r0101_0101a_02,Cosa c’è? Vorresti fare una lotta?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+49,115-msg_l02r0101_0101a_04,"{pageend:Abbiamo perso la lotta...}
+Ma questo non toglie nulla alla tua bellezza,
+a cui neanche un dipinto può rendere
+pienamente onore!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+50,115-msg_l02r0101_0101b_01,"Hai detto che mi avresti invitato a mangiare
+{pageend:un boccone, se avessi posato per te...}
+E allora, eccomi qua! Anche se non ho ancora
+preso una decisione...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+51,115-msg_l02r0101_0101b_02,"Quando non riesco a prendere una decisione,
+me la gioco con una lotta! Ci stai?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+52,115-msg_l02r0101_0101b_04,"E va bene, ho deciso che poserò per te!
+Ma che appetito che mi è venuto...!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+53,115-msg_l02r0101_0102a_01,"{pageend:La mia arte non ha prezzo...}
+Ma... anche i prezzi di questi piatti
+non scherzano!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+54,115-msg_l02r0101_0102a_02,"Che c’è? Hai fame anche tu?
+Ah, no! Fammi indovinare... Vuoi lottare?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+55,115-msg_l02r0101_0102a_04,Gli antipasti si sono raffreddati...,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+56,115-msg_l02r0101_0102b_01,"Questi antipasti sono squisiti, ma non posso
+{pageend:mica rimpinzarmi di stuzzichini!}
+Altrimenti avrò la pancia piena ancora prima
+di arrivare al primo...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+57,115-msg_l02r0101_0102b_02,"Ci vorrebbe una lottarella per stimolare
+{pageend:l’appetito...}
+Che ne dici? Ti andrebbe di partecipare?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+58,115-msg_l02r0101_0102b_04,"Non è che gli antipasti si sono raffreddati...
+vanno proprio serviti freddi!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+59,115-msg_l02r0101_0103a_01,"Il valore di un piatto non si decide solo in base
+{pageend:al suo sapore...}
+Da quanto ho capito, conta moltissimo anche
+l’equilibrio tra i colori...
+{pageend:Per non parlare di come è impiattato!}
+In pratica, un buon piatto è paragonabile
+all’opera d’arte più pregiata...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+60,115-msg_l02r0101_0103a_02,"Per me, anche nelle lotte Pokémon l’occhio
+{pageend:vuole la sua parte!}
+Sei d’accordo anche tu, vero?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+61,115-msg_l02r0101_0103a_04,"I piatti preparati qui non sono solo saporiti,
+{pageend:ma anche sani!}
+I clienti di questo ristorante non rischiano certo
+di tornarsene a casa col mal di pancia!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+62,115-msg_l02r0101_0103b_01,"{pageend:Il piatto del giorno è... una vera delizia!}
+Finché mi offrirai questi manicaretti, puoi stare
+sicuro che non rifiuterò mai di posare per te!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+63,115-msg_l02r0101_0103b_02,"Se continuo a mangiare tutte queste
+{pageend:prelibatezze, mi sentirò in colpa...}
+Ho deciso! Parteciperò a una lotta!
+Vuoi sfidarmi?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+64,115-msg_l02r0101_0103b_04,"Fare la modella è più semplice di quanto
+{pageend:immaginassi...}
+E si mangia davvero benissimo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+65,115-msg_l02r0101_0200a_01,"Se vuoi lottare con noi, torna con più Pokémon!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+66,115-msg_l02r0101_0200b_01,"Se vuoi lottare con noi, devi avere almeno
+due Pokémon!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+67,115-msg_l02r0101_0201a_01,"Devi sapere che il cuoco di questo ristorante
+è mio padre.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+68,115-msg_l02r0101_0201a_02,"Come sarebbe? Una lotta?
+Eh eh... Credi davvero di battermi?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+69,115-msg_l02r0101_0201a_04,"Abbiamo perso, ma almeno possiamo consolarci
+pensando al nostro futuro insieme!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+70,115-msg_l02r0101_0201b_01,Il cuoco è tuo padre? Davvero? Ma è stupendo!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+71,115-msg_l02r0101_0201b_02,"Che resti tra noi, ma mio padre è il proprietario
+{pageend:sia del ristorante che dell’hotel...}
+Ma poco importa! Che ne diresti di una
+bella lotta?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+72,115-msg_l02r0101_0201b_04,"Questo è un ristorante coi fiocchi!
+Lunga vita al ristorante!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+73,115-msg_l02r0101_0202a_01,"Devo riconoscere che mio padre ha preparato
+degli antipasti davvero deliziosi!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+74,115-msg_l02r0101_0202a_02,"Mi stai forse chiedendo di lottare?
+Beh, io non dico mai di no a una sfida!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+75,115-msg_l02r0101_0202a_04,"Adesso possiamo finalmente goderci questi
+piatti prelibati senza interruzioni!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+76,115-msg_l02r0101_0202b_01,"Assaggiamo un po’ questo piatto...
+{pageend:Mmmh! Squisito!}
+Merita proprio di essere servito all’hotel!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+77,115-msg_l02r0101_0202b_02,"Per favore, non dire al mio amico che il ristorante
+{pageend:è di mio padre...!}
+Per ringraziarti, ti concederò una lotta.
+Che ne dici?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+78,115-msg_l02r0101_0202b_04,"Il mio amico ha fatto del suo meglio, ma contro
+di te non ce l’abbiamo fatta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+79,115-msg_l02r0101_0203a_01,"Uh uh uh, si vede che la cucina di mio papà
+{pageend:le va proprio a genio...}
+Mi basta vedere la sua espressione sognante
+per capirlo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+80,115-msg_l02r0101_0203a_02,"Ah, sono proprio dell’umore giusto...
+Se è una lotta che cerchi, ti accontenterò!
+È per questo che sei venut{tag:0} a parlarmi, no?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+81,115-msg_l02r0101_0203a_04,"Come Allenatore devo ancora affinare la
+{pageend:mia tecnica...}
+Certo non è paragonabile alle doti culinarie
+di mio padre...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+82,115-msg_l02r0101_0203b_01,"Che sapore ricco! Mi ricorda un viaggio
+{pageend:che ho fatto assieme a mio padre...}
+Abbiamo girato il mondo alla ricerca
+dei ristoranti migliori in cui mangiare!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+83,115-msg_l02r0101_0203b_02,"Questi piatti sopraffini mi riempiono di gioia!
+Ti andrebbe una lotta?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+84,115-msg_l02r0101_0203b_04,"La cucina di tuo padre ha davvero qualcosa
+{pageend:di magico...}
+Sembra capace di ravvivare gli animi della gente!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+85,115-msg_l02r0101_0300a_01,"Se hai intenzione di mettere alla prova
+la tua abilità con noi, dovrai munirti
+di almeno un altro Pokémon.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+86,115-msg_l02r0101_0300b_01,"Sei davvero gentile a offrirti di lottare
+{pageend:contro di noi!}
+Però noi siamo in due, quindi avrai bisogno
+di qualche Pokémon in più, non trovi?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+87,115-msg_l02r0101_0301a_01,"Aaah, questo sì che è godersi la pensione!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+88,115-msg_l02r0101_0301a_02,"Da quando sono in pensione ho iniziato
+{pageend:a viaggiare con mia moglie...}
+Siamo sempre alla ricerca di qualche bel
+{pageend:ristorantino che soddisfi il nostro palato!}
+Tu invece sembri alla ricerca di Allenatori
+da sfidare... Giusto?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+89,115-msg_l02r0101_0301a_04,"Beh, riprendiamoci dallo smacco di questa
+sconfitta... E concentriamoci, invece, sul cibo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+90,115-msg_l02r0101_0301b_01,Evviva la pensione e la buona cucina!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+91,115-msg_l02r0101_0301b_02,"Un po’ di moto prima di mangiare stimola
+l’appetito! Ti andrebbe di fare una lotta?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+92,115-msg_l02r0101_0301b_04,"Prelibati pranzetti da buongustai ed esaltanti
+{pageend:lotte Pokémon...}
+Certo che la nostra è proprio una bella vita!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+93,115-msg_l02r0101_0302a_01,"Mmmh! Che delizia! Sembra che per cucinare
+questo piatto gli abbiano dato appena
+{pageend:una passatina sul fuoco...}
+Ma in realtà la preparazione ha richiesto
+moltissima cura!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+94,115-msg_l02r0101_0302a_02,"A un gourmet come me basta un solo sguardo
+{pageend:per capire la qualità di un piatto...}
+Sei sicur{tag:0} di voler affrontare un buongustaio
+del mio calibro?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+95,115-msg_l02r0101_0302a_04,"Beh, riprendiamoci dallo smacco di questa
+sconfitta...
+pregustando la prossima buonissima portata!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+96,115-msg_l02r0101_0302b_01,"{pageend:Questi antipasti sono davvero deliziosi!}
+Sembrano preannunciare un primo piatto
+sublime!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+97,115-msg_l02r0101_0302b_02,"Ah, speravo che finalmente fosse arrivato
+{pageend:il primo... Che peccato!}
+Sei {tag:0} in cerca di lotte, giusto?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"un Allenatore
+un'Allenatrice",0
+98,115-msg_l02r0101_0302b_04,"Direi che gli antipasti si sono rivelati
+davvero sostanziosi!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+99,115-msg_l02r0101_0303a_01,"Mmmh! Che delizia! La cottura flambé è proprio
+{pageend:la più adeguata per piatti del genere!}
+Questi ricchi sapori sono una gioia per il mio
+fortunatissimo palato!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+100,115-msg_l02r0101_0303a_02,"Mmh? Vuoi interrompere questo nostro
+{pageend:squisito pasto con una lotta?}
+Beh, sei giovane, ma la passione non ti manca!
+Allora, sei pront{tag:0}?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+101,115-msg_l02r0101_0303a_04,Che cibo squisito... Che lotta squisita!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+102,115-msg_l02r0101_0303b_01,"Mmmh... Hai assaggiato questa salsina?
+{pageend:Davvero squisita!}
+È una salsa pepata tipica di Hoenn, a base
+di estratto di Baccaliegia!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+103,115-msg_l02r0101_0303b_02,"Mmh? Cosa c’è, vuoi assaggiare anche tu
+{pageend:questa salsina?}
+...
+Ah, vuoi lottare?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+104,115-msg_l02r0101_0303b_04,"{pageend:Le lotte non sono male, certo!}
+Però, se fosse per me, farei volentieri a cambio
+con dei buoni pranzetti.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+105,115-msg_l02r0101_0400a_01,"Uhm... Se vuoi lottare contro di noi, ti servono
+almeno due Pokémon.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+106,115-msg_l02r0101_0400b_01,"Non hai due Pokémon? Allora dovremo lottare
+un’altra volta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+107,115-msg_l02r0101_0401a_01,"Violet, uhm, io, dunque...
+Beh, insomma...
+Grazie per essere venuta...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+108,115-msg_l02r0101_0401a_02,"Violet è la ragazza del negozio di prodotti
+{pageend:per Pokémon dove vado sempre...}
+Stiamo molto bene insieme!
+Ti andrebbe di lottare con noi?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+109,115-msg_l02r0101_0401a_04,"Oh, no, mi dispiace che abbiamo perso...
+Violet, non sei delusa, vero?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+110,115-msg_l02r0101_0401b_01,"Uh uh uh... Randolph, cosa ti prende?
+Non sei mica così timido quando sei al negozio!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+111,115-msg_l02r0101_0401b_02,"Lavoro in un negozio di prodotti per Pokémon
+{pageend:perché i Pokémon sono la mia vita!}
+Per via del mio lavoro, ho sempre a che fare
+{pageend:con i Pokémon...}
+E così sono diventata anche abbastanza brava
+nella lotta! Che ne dici, vuoi sfidarmi?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+112,115-msg_l02r0101_0401b_04,"{pageend:Sai, non mi importa molto se vinco o perdo!}
+Finché sono al fianco dei miei Pokémon,
+per me non fa differenza!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+113,115-msg_l02r0101_0402a_01,"Se i miei Pokémon scoprissero di questo
+nostro appuntamento, mia dolce Violet...
+Penso proprio che ne sarebbero invidiosi...!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+114,115-msg_l02r0101_0402a_02,Anche tu sei {tag:0} fan di Violet?,0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"un
+una",0
+115,115-msg_l02r0101_0402a_04,"{pageend:Violet, il tuo sorriso mi stordisce...}
+Sono così ammaliato che non riesco nemmeno
+a sentire il sapore di questi antipasti!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+116,115-msg_l02r0101_0402b_01,"{pageend:Come hai detto? Un appuntamento?}
+Ma Randolph... È vero, sei uno dei migliori
+clienti del mio negozio, ma...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+117,115-msg_l02r0101_0402b_02,"In fondo, devo ammettere che il suo invito
+{pageend:mi ha lusingato... Altrimenti non avrei accettato!}
+Lascerò che la mia squadra di Pokémon decida
+per me. Lottiamo?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+118,115-msg_l02r0101_0402b_04,"Sai come si dice... Se ti piacciono i Pokémon,
+significa che sei una brava persona!
+Questo vale sia per te che per Randolph!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+119,115-msg_l02r0101_0403a_01,"Ah, ma ecco che arrivano i nostri piatti!
+Non fare complimenti, mangia pure!
+Oggi offro io, se permetti!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+120,115-msg_l02r0101_0403a_02,"Ti batterò e pagherò con i soldi del premio!
+Sei pront{tag:0}?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+121,115-msg_l02r0101_0403a_04,"Certo che questa sconfitta mi ha davvero
+{pageend:prosciugato il portafoglio...}
+Ah, ma non preoccuparti! Ho sempre
+qualche soldo nascosto da qualche parte!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+122,115-msg_l02r0101_0403b_01,"Randolph, mi sembri un tipo un po’ impacciato...
+Ma hai un buon cuore.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+123,115-msg_l02r0101_0403b_02,"Lottare in squadra con Randolph non sarebbe
+{pageend:un’idea affatto malvagia...}
+Anzi, potrebbe essere interessante!
+Che ne dici, ti va di sfidarci?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+124,115-msg_l02r0101_0403b_04,"Il pranzetto è stato davvero delizioso,
+{pageend:e la lotta molto divertente...}
+Dividiamo il conto, dai! Insisto!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+125,115-msg_l02r0101_0500a_01,"Se hai almeno due Pokémon, io e mia mamma
+possiamo sfidarti.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+126,115-msg_l02r0101_0500b_01,"Potrei sfidarti assieme a mio figlio, la mia gioia,
+{pageend:la luce dei miei occhi...}
+Ma ti servono più Pokémon in squadra!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+127,115-msg_l02r0101_0501a_01,"Allora, vediamo, cosa ordinerò oggi? Del succo,
+del gelato, una fetta di torta, e poi, e poi...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+128,115-msg_l02r0101_0501a_02,"Ciao, {tag:0}{pageend:!}
+Stiamo per mangiare un pasto gustosissimo,
+ma prima ci andrebbe una lotta! Ci stai?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"Allenatore
+Allenatrice",0
+129,115-msg_l02r0101_0501a_04,"Quando vanno al ristorante, i grandi sono felici
+{pageend:come se gli avessero regalato un giocattolo...}
+Ma non ho mai capito perché!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+130,115-msg_l02r0101_0501b_01,"{pageend:Tesoro mio, la mamma è davvero fiera di te!}
+Hai preso un ottimo voto, e quindi ti meriti
+un premio... Ordina pure tutto ciò che vuoi!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+131,115-msg_l02r0101_0501b_02,"Mio figlio non è solo bravo a scuola, ma anche
+{pageend:con i Pokémon!}
+Vuoi metterci alla prova con una sfida?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+132,115-msg_l02r0101_0501b_04,"{pageend:Un attimo di attenzione!}
+Il mio caro Fleride ha preso 10 in un compito
+in classe!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+133,115-msg_l02r0101_0502a_01,"Wow, ma qui portano il cibo un piatto alla volta!
+Mica come quando mangiamo a casa!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+134,115-msg_l02r0101_0502a_02,"Faccio i compiti anche mentre mangio...
+Quindi non c’è problema! Posso anche lottare!
+Ci stai?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+135,115-msg_l02r0101_0502a_04,"Beh, adesso voglio mangiarmi queste cose
+buone! Ciao ciao!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+136,115-msg_l02r0101_0502b_01,"Questo ristorante è molto rinomato per i suoi
+piatti deliziosi.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+137,115-msg_l02r0101_0502b_02,"Come? Vuoi fare una lotta adesso...?
+Certo, certo, a me va bene.
+Non mi tiro mica indietro! Iniziamo?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+138,115-msg_l02r0101_0502b_04,"Grazie per aver permesso a mio figlio di vivere
+un’esperienza impagabile!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+139,115-msg_l02r0101_0503a_01,"Ma... Quindi le mamme e i papà vanno sempre
+a mangiare fuori di nascosto?
+Senza portarsi dietro i figli, intendo...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+140,115-msg_l02r0101_0503a_02,"{pageend:Beh, per me non è un problema!}
+Tanto io preferisco comunque lottare che 
+andare al ristorante! Ti va una lotta?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+141,115-msg_l02r0101_0503a_04,"Mamma, perché non mi prepari questo piatto
+qualche volta?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+142,115-msg_l02r0101_0503b_01,"Questa è un’occasione speciale, Fleride!
+È per festeggiare i tuoi bei voti!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+143,115-msg_l02r0101_0503b_02,"Oh? Una lotta, hai detto? Ma certo, perché no!
+Sei pront{tag:0}?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+144,115-msg_l02r0101_0503b_04,C’è da aspettare molto per il dolce?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+145,115-msg_l02r0101_0600a_01,"Mia figlia e io lottiamo sempre in coppia.
+Non facciamo mai sfide singole!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+146,115-msg_l02r0101_0600b_01,"Se porti più Pokémon, potrai affrontare
+me e il mio papà!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+147,115-msg_l02r0101_0601a_01,"Un pensiero speciale per la mamma, perché
+goda sempre di ottima salute!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+148,115-msg_l02r0101_0601a_02,"{pageend:Mia moglie è in ospedale, in attesa di partorire!}
+Sono venuto qui con nostra figlia, perché io non
+{pageend:sono granché come cuoco...}
+Che ne diresti di una lotta contro di noi,
+prima di mangiare?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+149,115-msg_l02r0101_0601a_04,"La casa sarà molto più allegra e vivace, con
+l’arrivo di un nuovo bebè!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+150,115-msg_l02r0101_0601b_01,"Chissà se la mamma porterà a casa un fratellino
+o una sorellina...?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+151,115-msg_l02r0101_0601b_02,"{pageend:Forse avrò un fratellino, forse una sorellina...}
+Beh, in quanto sorella maggiore devo affinare
+le mie tecniche con i Pokémon! Mi aiuti?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+152,115-msg_l02r0101_0601b_04,"A volte il pianto di un neonato sembra quasi
+il verso di un Pokémon! Ueeeh, ueeeh!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+153,115-msg_l02r0101_0602a_01,"Wow! Ma hai visto che antipasti? Questa è roba
+per palati fini!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+154,115-msg_l02r0101_0602a_02,"Non sono un cuoco e non ho problemi
+{pageend:ad ammetterlo.}
+Ma quando si tratta di lottare con i Pokémon...
+so il fatto mio! Vuoi una dimostrazione?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+155,115-msg_l02r0101_0602a_04,"Cerchiamo di superare questa brutta sconfitta
+godendoci queste delizie!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+156,115-msg_l02r0101_0602b_01,Wow! Che piatti incredibili!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+157,115-msg_l02r0101_0602b_02,"Papà è un pessimo cuoco, ma la cosa positiva
+{pageend:è che possiamo mangiare fuori!}
+Tu sei qui perché vuoi fare una lotta Pokémon,
+giusto?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+158,115-msg_l02r0101_0602b_04,"Quanti piatti mai visti! Questo cos’è? Mah...
+E quella, che pietanza è?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+159,115-msg_l02r0101_0603a_01,È arrivata la portata principale!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+160,115-msg_l02r0101_0603a_02,Cosa c’è? Volevi lottare con noi?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+161,115-msg_l02r0101_0603a_04,"Ludovica, spero che il nuovo bebè sia gentile
+quanto te!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+162,115-msg_l02r0101_0603b_01,"Come vorrei che la mamma fosse qui a mangiare
+assieme a noi...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+163,115-msg_l02r0101_0603b_02,"Questi Pokémon mi sono stati dati dalla mamma.
+Vuoi vedere che forza?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+164,115-msg_l02r0101_0603b_04,"La prossima volta torneremo tutti insieme,
+e porteremo anche il nuovo bebè!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+165,115-msg_l02r0101_0700a_01,"Sì? Cosa c’è? Fammi indovinare...
+{pageend:Vuoi andare anche tu in TV?}
+{pageend:Ah no? Ho capito, vuoi lottare!}
+Beh, se vuoi sfidarci, ti servono almeno
+due Pokémon.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+166,115-msg_l02r0101_0700b_01,"Mi dispiace, ma niente autografi finché
+{pageend:non abbiamo finito di filmare!}
+Ah! Se vuoi lottare, non dimenticarti di portare
+almeno due Pokémon, ok?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+167,115-msg_l02r0101_0701a_01,"Cominciamo con una ripresa delle bibite,
+per provare la telecamera.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+168,115-msg_l02r0101_0701a_02,"Come? Vuoi lottare con noi, in un momento
+come questo?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+169,115-msg_l02r0101_0701a_04,"Oh, no! Le nostre bevande si sono intiepidite...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+170,115-msg_l02r0101_0701b_01,"La bevanda che vi presentiamo oggi è una fresca
+spremuta a base di Baccapesca!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+171,115-msg_l02r0101_0701b_02,"{pageend:Come? Pokémon...?}
+E va bene, una lotta veloce veloce prima
+di cominciare con le riprese. Ci sei?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+172,115-msg_l02r0101_0701b_04,"{pageend:Pensi che dovremmo rifare la scena? E va bene...}
+La bevanda che vi presentiamo oggi è una fresca
+spremuta di...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+173,115-msg_l02r0101_0702a_01,"Ehi, questi stuzzichini sembrano davvero
+{pageend:deliziosi... Ho un’idea!}
+Portatemi uno spruzzatore, così sembreranno
+ancora più freschi!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+174,115-msg_l02r0101_0702a_02,"Grazie, che velocità! Ma, un attimo...
+{pageend:Dov’è lo spruzzatore?}
+Ah, vorresti lottare? Nessun problema,
+accettiamo la sfida! Sei pront{tag:0}?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+175,115-msg_l02r0101_0702a_04,"Riprendere il cibo non è facile...
+Anzi, richiede molta tecnica!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+176,115-msg_l02r0101_0702b_01,"Questi piatti sono davvero telegenici...
+Mi raccomando, Cameraman, fai un bello zoom!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+177,115-msg_l02r0101_0702b_02,"Per favore, non interrompermi mentre faccio
+{pageend:le riprese!}
+{pageend:No, un attimo...}
+{tag:0} che irrompe mentre siamo
+{pageend:a tavola...? Che idea!}
+È proprio quello che ci serve per aggiungere
+un po’ di pathos alla storia! Allora, vuoi lottare?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"Un Allenatore
+Un'Allenatrice",0
+178,115-msg_l02r0101_0702b_04,"{pageend:Caro Gandolfo, sei pronto a girare?}
+Fammi un bel primo piano quando assaggio
+questo buon cibo, ok?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+179,115-msg_l02r0101_0703a_01,"Wow! Finalmente è arrivata la portata
+{pageend:principale...!}
+Finiamo in fretta con le riprese, così posso
+mettere in moto la mandibola anch’io!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+180,115-msg_l02r0101_0703a_02,"Ho visto che ti piace molto curiosare...
+Che c’è, vuoi sabotare le nostre riprese?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+181,115-msg_l02r0101_0703a_04,"Oh, no! Mentre lottavamo si è raffreddato tutto...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+182,115-msg_l02r0101_0703b_01,"{pageend:Gnam, gnam!}
+Mmmh... Questo piatto è delicato, e al tempo
+stesso ricco di sapore e profondità...
+{pageend:Si scioglie in bocca...}
+Ha un retrogusto leggero, ma deciso...
+Né troppo dolce, né troppo amaro...
+Le mie parole non gli rendono giustizia!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+183,115-msg_l02r0101_0703b_02,"Non è facile descrivere il cibo mentre si mangia.
+Ma lottare mentre si filma, invece, è facilissimo!
+Allora, ci stai?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+184,115-msg_l02r0101_0703b_04,"Sai qual è la cosa più importante in un servizio
+{pageend:culinario?}
+La precisione dei termini!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+185,115-msg_l02r0101_0800a_01,"Te lo dirò solo una volta, quindi apri bene
+{pageend:le orecchie...}
+Per lottare contro due Allenatori, hai bisogno
+{pageend:di almeno due Pokémon.}
+Se porterai più Pokémon, lotterò con te!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+186,115-msg_l02r0101_0800b_01,"Oh, mi spiace, ma dovrai portare più Pokémon
+se vuoi lottare con noi!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+187,115-msg_l02r0101_0801a_01,"Un’altra giornata memorabile per i mercati
+azionari! Tutto grazie a te, mia dea della fortuna!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+188,115-msg_l02r0101_0801a_02,"Da quando sono con lei, la sorte mi sorride
+{pageend:in borsa.}
+Sto cavalcando un’onda fortunata!
+Vuoi proprio lottare con noi?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+189,115-msg_l02r0101_0801a_04,"Questo è solo un piccolo ostacolo.
+Posso senz’altro passarci sopra!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+190,115-msg_l02r0101_0801b_01,"Ooh! Le tue azioni sono salite di nuovo?
+Le tue previsioni non sbagliano mai!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+191,115-msg_l02r0101_0801b_02,"{pageend:Il mio ragazzo è un mago della borsa!}
+E oltre a essere così fortunato, non poteva
+{pageend:che essere un Allenatore in gamba.}
+Sei sicur{tag:0} di voler sfidare la sorte lottando
+contro di noi?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+192,115-msg_l02r0101_0801b_04,"Cosa vuoi che sia una sconfitta!
+Ci rifaremo la prossima volta.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+193,115-msg_l02r0101_0802a_01,"La tecnica non serve. Basta scrutare nel cuore
+dell’avversario.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+194,115-msg_l02r0101_0802a_02,"Con questo non mi riferisco a quello che pensa
+una persona, ma a come vuole essere vista
+{pageend:dagli altri.}
+Tu... vorresti che ti considerassi {tag:0}
+espert{tag:1}?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"un Allenatore
+un'Allenatrice",0,-1,21,0,5,0,255,"o
+a",0
+195,115-msg_l02r0101_0802a_04,"Avevo un brutto presentimento nei confronti
+di {tag:0}...",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"questo Allenatore
+quest'Allenatrice",0
+196,115-msg_l02r0101_0802b_01,"No, davvero? Oh!
+Come facevi a saperlo?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+197,115-msg_l02r0101_0802b_02,"{pageend:Il mio ragazzo ha un intuito formidabile!}
+Ha capito che, sotto sotto, io soffro molto
+{pageend:la solitudine.}
+Quando lotto insieme a lui, ho l’impressione
+che nessuno ci possa battere. Vuoi provare?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+198,115-msg_l02r0101_0802b_04,"Incredibile. Hai predetto che avremmo perso
+e così è stato!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+199,115-msg_l02r0101_0803a_01,"Gustiamoci questo sontuoso banchetto e
+speriamo che stimoli la nostra fame di vittoria!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+200,115-msg_l02r0101_0803a_02,"Per quanto mi riguarda, credo che esistano
+{pageend:due tipi di persone.}
+Quelle che affrontano le sfide a testa alta
+{pageend:e quelle che si nascondono.}
+Tu sei un{tag:0} che affronta le sfide, vero?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0
+201,115-msg_l02r0101_0803a_04,"Se potessi prevedere il futuro, sarei il re
+{pageend:dei mercati azionari.}
+Ma purtroppo è impossibile.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+202,115-msg_l02r0101_0803b_01,"{pageend:Come fai a indovinare tutte le volte, Broderick?}
+Sai prevedere il futuro, per caso?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+203,115-msg_l02r0101_0803b_02,"Sono sicura che Broderick abbia dei poteri
+{pageend:speciali o qualcosa del genere.}
+Faccio squadra con un tipo così, vuoi davvero
+lottare contro di noi?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+204,115-msg_l02r0101_0803b_04,"Se non si tratta di premonizioni, allora...
+Cos’è, vieni dal futuro?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+205,115-msg_l02r0101_0900a_01,"Un Pokémon non basta, se vuoi lottare
+contro di noi.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+206,115-msg_l02r0101_0900b_01,"Se tornerai con almeno due Pokémon,
+potremo lottare contro di te.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+207,115-msg_l02r0101_0901a_01,"Mmmh... questa bevanda ha un colore
+{pageend:davvero insolito...}
+Però le mie analisi chimiche indicano che è fatta
+con ingredienti naturali.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+208,115-msg_l02r0101_0901a_02,"{pageend:E tu chi saresti...?}
+Mmh, capisco, sei {tag:0}. Dunque?
+Vuoi lottare?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"un Allenatore
+un'Allenatrice",0
+209,115-msg_l02r0101_0901a_04,"Lasciamo perdere i risultati di questa lotta
+e pensiamo al cibo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+210,115-msg_l02r0101_0901b_01,"{pageend:Oh, no! Per favore...}
+Davvero ti vuoi mettere ad analizzare il cibo
+in un ristorante così elegante?!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+211,115-msg_l02r0101_0901b_02,"Ah, non ti avevo vist{tag:0}... Sei {tag:1}?",0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0,-1,21,0,5,0,255,"un Allenatore
+un'Allenatrice",0
+212,115-msg_l02r0101_0901b_04,"{pageend:Buon appetito, caro!}
+No, ti prego, non cominciare ad analizzare
+le nostre bevande!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+213,115-msg_l02r0101_0902a_01,"Singolare... Questi antipasti sono davvero
+{pageend:interessanti.}
+20% di fibre vegetali, 5% di ferro,
+35% di proteine. Curioso, davvero...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+214,115-msg_l02r0101_0902a_02,"Come? Vorresti che analizzassi la tua abilità
+nella lotta?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+215,115-msg_l02r0101_0902a_04,"Sento l’obbligo di analizzare tutto ciò
+{pageend:che non conosco.}
+Capirne la composizione mi dà sicurezza.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+216,115-msg_l02r0101_0902b_01,"Ma caro... perché continui così? Mi rovini
+{pageend:il piacere del cibo...}
+Perché non metti da parte le tue ricerche,
+quando siamo fuori a cena?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+217,115-msg_l02r0101_0902b_02,"Mio marito non fa che pensare alla ricerca.
+È ammirevole, certo, ma anche un po’
+{pageend:estenuante...}
+Ti andrebbe di lottare contro di noi?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+218,115-msg_l02r0101_0902b_04,"Per quanto mi riguarda, le cose sconosciute
+{pageend:dovrebbero rimanere tali...}
+Penso che sia meglio così, ecco!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+219,115-msg_l02r0101_0903a_01,"Secondo i miei calcoli, il primo piatto dovrebbe
+{pageend:essere già arrivato...}
+Forse il forno non è ancora riuscito a raggiungere
+la temperatura ottimale?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+220,115-msg_l02r0101_0903a_02,"Ehi, tu! Aiutaci a ingannare l’attesa con una
+bella lotta!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+221,115-msg_l02r0101_0903a_04,"Hanno portato il primo mentre stavamo
+{pageend:lottando, ma...}
+Sembra avere un contenuto calorico
+quantomeno allarmante!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+222,115-msg_l02r0101_0903b_01,"Non c’è motivo di essere impazienti perché
+{pageend:il cibo non arriva, caro.}
+Non è per questo che hai portato con te
+la tua squadra di Pokémon?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+223,115-msg_l02r0101_0903b_02,"Oh, che tempismo! Ti andrebbe una lotta
+veloce veloce?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+224,115-msg_l02r0101_0903b_04,"Ma caro, se assumiamo troppe calorie,
+possiamo sempre bruciarle lottando!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+225,1-ARTIST_03_TRMSG_FIGHT_LOSE,"Mi sembra di capire che il mio unico talento
+sia quello di Artista...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+226,1-SISTER_10_TRMSG_FIGHT_LOSE,Sei stat{tag:0} fortunat{tag:1}...,0,-1,54,1080,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,255,"o
+a",0,-1,21,0,5,0,255,"o
+a",0
+227,1-PRINCE_06_TRMSG_FIGHT_LOSE,"Che smacco, perdere nel ristorante di papà...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+228,1-PRINCESS_04_TRMSG_FIGHT_LOSE,"Che umiliazione, perdere nell’hotel di papà...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+229,1-GENTLE_03_TRMSG_FIGHT_LOSE,"Accidenti! Il conto, per favore...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+230,1-MADAM_03_TRMSG_FIGHT_LOSE,"Sei giovane, eppure così forte! Complimenti!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+231,1-COLLECTOR_10_TRMSG_FIGHT_LOSE,Non m’importa se ho perso. Sono felice lo stesso!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+232,1-AROMA_06_TRMSG_FIGHT_LOSE,Uaaah! Sei troppo forte!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+233,1-SCHOOLB_06_TRMSG_FIGHT_LOSE,Wow... Sei troppo forte!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+234,1-DAISUKIW_05_TRMSG_FIGHT_LOSE,Qualcuno si è fatto male?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+235,1-VETERAN_11_TRMSG_FIGHT_LOSE,Sei proprio forte!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+236,1-MINI_13_TRMSG_FIGHT_LOSE,Ma com’è possibile... Ero con mio papà...!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+237,1-CAMERAMAN_03_TRMSG_FIGHT_LOSE,Hai proprio stoffa da vendere!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+238,1-REPORTER_02_TRMSG_FIGHT_LOSE,Mmmh... Avrei dovuto aspettarmelo.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+239,1-GAMBLER_03_TRMSG_FIGHT_LOSE,La fortuna mi ha abbandonato...,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+240,1-SISTER_11_TRMSG_FIGHT_LOSE,"Credo di avere tutto ciò che serve per diventare
+una modella di successo!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+241,1-SCIENTIST_08_TRMSG_FIGHT_LOSE,"Mmmh... Non sono riuscito a prevedere l’esito
+di questa lotta...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+242,1-BREEDERW_04_TRMSG_FIGHT_LOSE,"E dire che avevo anche fiducia nelle mie
+capacità!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+243,1-SCHOOLB_04_TRMSG_FIGHT_LOSE,"Accidenti! Beh, è andata così...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+244,1-SCHOOLG_04_TRMSG_FIGHT_LOSE,"Con tutto quello che ho studiato, pensavo
+di avere delle buone chance!",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+245,00_msg_c01r0701_trainer_boy_06,"{pageend:Una Macchina Tecnica, o MT, contiene una mossa.}
+Usando una MT, puoi insegnare la mossa
+{pageend:contenuta ad un Pokémon.}
+Riceverai diverse copie di una MT quando la
+ottieni, perciò non temere di utilizzarla!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"

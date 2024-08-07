@@ -1,0 +1,2520 @@
+283,DLP_underground_604,There’s a strange crystal here...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+284,DLP_underground_605,The crystal is shining faintly.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+285,DLP_underground_606,The crystal is shining somewhat brightly.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+286,DLP_underground_607,The crystal is shining brightly.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+287,DLP_underground_608,"You put {tag:0} {tag:1}
+in your Bag’s {tag:2} pocket.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,22,0,0,0,,0,4,1,24,0,0,0,,0
+288,DLP_underground_609,"Hmm... Looks like you don’t have
+enough spheres.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+289,DLP_underground_610,"You put {tag:0} {tag:1}
+in your Explorer Kit.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,22,0,0,0,,0
+108,DLP_underground_611,Register,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+414,DLP_underground_736,{tag:0}/10,35,-1,42,210,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+415,DLP_underground_737,×{tag:0},36,-1,42,252,0,"-1
+0
+0
+-1
+0",0,2,6,1,0,0,,0
+290,DLP_underground_612,"Which mode would you like to use to enter the
+Grand Underground?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+291,DLP_underground_613,"You can play with nearby people.
+Would you like to enter the Grand Underground?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+292,DLP_underground_614,"Oh? It seems you haven’t joined a group yet.
+Please join a group first.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+293,DLP_underground_615,Call,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+294,DLP_underground_616,Return to the surface,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+295,DLP_underground_617,"{tag:0} is returning to the surface.
+You’ll be moved out of their Secret Base.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+296,DLP_underground_730,You’ll be switched back to local communication.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+297,DLP_underground_618,You’ll enter the Grand Underground again.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+298,DLP_underground_619,"{tag:0}’s Secret Base has been moved!
+You’ll be moved out of their Secret Base.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+299,DLP_underground_735,"The layout of your Secret Base will be changed.
+Is that OK?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+300,DLP_underground_620,"{tag:0} changed their layout!
+You’ll be moved out of their Secret Base.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+301,DLP_underground_621,"Oh, sorry! I’m busy right now. Maybe later.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+302,DLP_underground_622,"Oh, sorry! I’m busy right now. Maybe later.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+303,DLP_underground_623, Great!,80,-1,32,192,0,"-1
+0
+0
+-1
+0"
+304,DLP_underground_624,"I’m thinking about doing some Fossil digging...
+I’d really appreciate it if you dug next to me.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+305,DLP_underground_625,"I’m thinking about doing some Fossil digging...
+I’d really appreciate it if you dug next to me.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+184,DLP_underground_498_footer,Statue effect,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+434,DLP_underground_757,"You’ll be able to play with friends all over the
+{pageend:world via the internet.}
+Would you like to enter the Grand Underground?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+435,DLP_underground_758,{tag:0} has entered the Grand Underground.,73,-1,42,1092,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+436,DLP_underground_759,{tag:0} has returned to the surface.,73,-1,42,1092,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+195,DLP_underground_508,Turn effect <color=#0064FFFF>OFF</color>,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+197,DLP_underground_511,You turned this Secret Base’s effect <color=#0064FFFF>OFF</color>.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+437,DLP_underground_760,Someone is already fossil digging here.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+306,DLP_underground_626,"I heard that digging for Fossils is more efficient
+{pageend:when you cooperate with others.}
+If you’d like, let’s dig together!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+307,DLP_underground_627,"I heard that digging for Fossils is more efficient
+{pageend:when you cooperate with others.}
+If you’d like, let’s dig together!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+0,DLP_underground_153,"Which sphere will you trade me for
+my {tag:0}?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",2,1,22,0,0,0,,0
+1,DLP_underground_154,All right! Let’s do this trade!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+2,DLP_underground_155,Wait a second! You don’t have any room for this!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+3,DLP_underground_156,That’s not the right kind of sphere!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+4,DLP_underground_157,"Hmm... No, this sphere’s not big enough.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+5,DLP_underground_158,You got {tag:0}{tag:1}!,0,-1,54,1080,1,"-1
+0
+0
+-1
+0",-1,19,5,5,0,2,,0,2,1,22,0,0,0,,0
+6,DLP_underground_159,"You got {tag:0}{tag:1},
+size {tag:2}.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",-1,19,5,5,0,2,,0,2,1,22,0,0,0,,0,6,2,1,1,0,205,,0
+7,DLP_underground_160,Do you need anything else?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+8,DLP_underground_161,See you around!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+9,DLP_underground_162,"Trade your {tag:0}
+for my {tag:1}?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",2,1,22,0,0,0,,0,4,1,22,0,0,0,,0
+10,DLP_underground_163,OK then! Let’s trade!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+11,DLP_underground_164,"Oh, now wait a second! You don’t have enough
+room for another sphere!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+12,DLP_underground_168,Get goods,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+13,DLP_underground_169,Give goods,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+14,DLP_underground_170,Quit,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+15,DLP_underground_171,Spheres on hand,40,-1,42,420,0,"-1
+0
+0
+-1
+0"
+16,DLP_underground_173,Goods on hand,40,-1,42,420,0,"-1
+0
+0
+-1
+0"
+17,DLP_underground_174,Cancel,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+18,DLP_underground_175,Required sphere,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+19,DLP_underground_176,Offered sphere,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+20,DLP_underground_177,{tag:0} ×{tag:1},48,-1,42,672,0,"-1
+0
+0
+-1
+0",2,1,22,0,0,0,,0,6,2,1,1,0,205,,0
+21,DLP_underground_178,Not for Sale,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+22,DLP_underground_179,"Do you have any treasures? I’ll trade you some
+spheres for them.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+23,DLP_underground_180,Give treasures,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+24,DLP_underground_181,Treasures on hand,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+25,DLP_underground_243,"Hey, {tag:0}! This your first time here?
+{pageend:Welcome to Sinnoh’s Grand Underground!}
+This is a network of tunnels, caves, and caverns
+{pageend:lying beneath Sinnoh.}
+Huh? What am I doing down in this expanse of
+{pageend:a place?}
+That’s kind of hard to answer. I mean, you can do
+{pageend:pretty much anything you want down here.}
+For instance, you can dig up Fossils and treasure,
+{pageend:or you can make your own Secret Base.}
+You should talk to the Underground Man in
+{pageend:Eterna City to learn more.}
+Y is the way to go back to the surface!
+{pageend:Remember: Y!}
+I have to get going now. I’ll see you around!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+26,DLP_underground_244,Hey there! What’s up?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+27,DLP_underground_246,This person seems to be occupied.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+28,DLP_underground_247,Greet,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+29,DLP_underground_248,Question,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+30,DLP_underground_249,Give goods,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+31,DLP_underground_250,Never mind,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+32,DLP_underground_251,"You’re going to show me your Trainer Case?
+I’ll show you my Trainer Case as well!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+33,DLP_underground_252,"Huh? I can’t seem to find my Trainer Case.
+Sorry about that! Maybe next time.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+34,DLP_underground_253,Thank you. Don’t be a stranger!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+35,DLP_underground_254,Would you like to do something else?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+36,DLP_underground_255,"Oh, that’s OK. There’s always next time.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+37,DLP_underground_256,"Huh? You want to give me your
+{tag:0}?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",2,1,22,0,0,0,,0
+38,DLP_underground_257,"Thanks, but I couldn’t take that away from you.
+Maybe another time!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+39,DLP_underground_258,"{pageend:Thank you!}
+You gave {tag:0}
+to {tag:1}.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",2,1,22,0,0,0,,0,0,1,0,0,0,0,,0
+40,DLP_underground_259,"OK, see you!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+41,DLP_underground_260,Sorry! Something’s come up!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+42,DLP_underground_261,You got {tag:0}{tag:1}!,0,-1,54,1080,1,"-1
+0
+0
+-1
+0",-1,19,5,5,0,2,,0,2,1,22,0,0,0,,0
+43,DLP_underground_263,"The wall is bulging slightly. Would you like to try
+digging into it?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+44,DLP_underground_264,Too bad! Your Bag is full!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+45,DLP_underground_265,Too bad! Your Explorer Kit is full!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+46,DLP_underground_266,Hello!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+47,DLP_underground_268,I’ll let you see my Trainer Case. May I see yours?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+48,DLP_underground_269,"Oh, you’re busy right now? Sorry to bother you.
+Maybe next time!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+49,DLP_underground_270,"Glad to have met you, {tag:0}!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+50,DLP_underground_271,So...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+51,DLP_underground_272,"{pageend:Oh, right!}
+Take this {tag:0}!
+I’d really like you to have it.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",2,1,22,0,0,0,,0
+52,DLP_underground_273,Oh? Do you have one already?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+53,DLP_underground_274,"{pageend:Oh? You don’t have room for it in your Bag.}
+OK, next time, then!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+54,DLP_underground_275,"{pageend:OK, here you go. Take good care of it!}
+You received {tag:0}’s
+{tag:1}!",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,2,1,22,0,0,0,,0
+55,DLP_underground_276,"OK, see you around!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+56,DLP_underground_277,You used the {tag:0}!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",3,1,22,0,0,0,,0
+57,DLP_underground_278,You discovered a cave!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+58,DLP_underground_279,Would you like to set up your Secret Base here?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+59,DLP_underground_280,Would you like to move your Secret Base here?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+308,DLP_underground_628,"Let’s dig for Fossils together! It’d be a huge help
+if I had someone working next to me.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+309,DLP_underground_629,"Let’s dig for Fossils together! It’d be a huge help
+if I had someone working next to me.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+310,DLP_underground_630,"The Grand Underground is like a dark maze,
+so I’d be happy if you could go with me.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+60,DLP_underground_285,It’s your Secret Base. Would you like to go in?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+61,DLP_underground_289,You discovered a cave! Would you like to go in?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+311,DLP_underground_631,"The Grand Underground is like a dark maze,
+so I’d be happy if you could go with me.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+62,DLP_underground_294,Would you like to exit the Secret Base?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+63,DLP_underground_295,"{pageend:It’s an earthquake!}
+You escaped into the corridor to avoid danger!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+64,DLP_underground_296,"Would you like to return to the surface from
+where you entered?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+65,DLP_underground_298,You can’t use that here.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+66,DLP_underground_299,You can’t place that there.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+67,DLP_underground_300,You closed up the hole.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+68,DLP_underground_301,"You cannot move your Secret Base while
+someone is still inside it.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+312,DLP_underground_632,"I’m going to explore the Grand Underground!
+Let’s go together if you’d like!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+313,DLP_underground_633,"I’m going to explore the Grand Underground!
+Let’s go together if you’d like!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+314,DLP_underground_634,"Everyone, gather around! Let’s work together
+and explore the Grand Underground!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+69,DLP_underground_306,Something pinged in the wall! {tag:0}{wait:0.5: confirmed!},0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+70,DLP_underground_307,The wall collapsed!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+71,DLP_underground_308,Everything was dug up!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+72,DLP_underground_309,Too bad! Your Bag is full!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+73,DLP_underground_310,"You can’t return to the surface from inside a
+Secret Base.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+315,DLP_underground_635,"Everyone, gather around! Let’s work together
+and explore the Grand Underground!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+74,DLP_underground_313,"You got {tag:0}{tag:1},
+size {tag:2}!",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",-1,19,5,5,0,2,,0,2,1,22,0,0,0,,0,1,2,1,1,0,205,,0
+316,DLP_underground_636,"I’m going to search for a Pokémon Hideaway!
+Come with me!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+75,DLP_underground_316,"I’m digging for Fossils right now. Want to dig
+{pageend:with me?}
+There just might be another dig spot close by...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+76,DLP_underground_318,You can’t drill holes inside a Secret Base!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+77,DLP_underground_319,Its size has grown by {tag:0} since it was buried!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+317,DLP_underground_637,"I’m going to search for a Pokémon Hideaway!
+Come with me!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+78,DLP_underground_324,"Your Bag is full. You can’t put away
+the {tag:0}.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,22,0,0,0,,0
+318,DLP_underground_638,"I’m looking for someone to catch Pokémon
+with me!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+79,DLP_underground_327,"You found a sphere, but your Bag is full.
+The sphere was left as is.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+319,DLP_underground_639,"I’m looking for someone to catch Pokémon
+with me!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+80,DLP_underground_329,"{pageend:Oh?}
+{pageend:There is a note tucked inside the Explorer Kit.}
+{pageend:“Digging for Fossils!}
+“I’ve put a sledgehammer and pickax in your
+Explorer Kit. Use them, and you’ll be able to
+dig out all sorts of stuff from the walls—
+{pageend:before the wall comes tumbling down, that is!}
+“I’m sure you can do it! Good luck, youngster!”",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+81,DLP_underground_330,I can’t accept anything that important!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+82,DLP_underground_331,"Thanks for the offer, but I’ll pass.
+See you again tomorrow.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+83,DLP_underground_332,"{pageend:...}
+The wall started to crumble.
+It’s too dangerous to go in.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+84,DLP_underground_335,{tag:0} has entered the Underground.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,1,0,0,0,0,,0
+85,DLP_underground_339,"{tag:0}{tag:1}
+was obtained!",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",-1,19,6,5,0,2,,0,2,1,22,0,0,0,,0
+86,DLP_underground_348,"{tag:0} entered
+{tag:1}’s Secret Base.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+87,DLP_underground_349,{tag:0} dug up a Fossil!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+88,DLP_underground_355,{tag:0} talked with {tag:1}.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,1,1,0,0,0,0,,0
+89,DLP_underground_356,{tag:0} talked with someone.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+90,DLP_underground_359,{tag:0} left the Grand Underground.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+91,DLP_underground_366,Spheres,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+92,DLP_underground_367,Goods,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+93,DLP_underground_368,Treasures,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+94,DLP_underground_369,{tag:0},48,-1,42,672,0,"-1
+0
+0
+-1
+0",1,1,2,0,0,0,,0
+95,DLP_underground_370,Go up,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+96,DLP_underground_371,Close,48,-1,42,672,0,"-1
+0
+0
+-1
+0"
+97,DLP_underground_372,{tag:0} {tag:1},48,-1,42,672,0,"-1
+0
+0
+-1
+0",2,1,9,0,0,0,,0,6,2,1,1,0,205,,0
+98,DLP_underground_373,"What would you like to do with
+this {tag:0}?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",2,1,22,0,0,0,,0
+99,DLP_underground_374,"You threw away
+the {tag:0}.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",2,1,22,0,0,0,,0
+100,DLP_underground_376,Trash,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+101,DLP_underground_377,Cancel,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+320,DLP_underground_640,Let’s go catch all kinds of Pokémon together!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+102,DLP_underground_379,Put in Bag,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+321,DLP_underground_641,Let’s go catch all kinds of Pokémon together!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+322,DLP_underground_642,"I found a rare, flower-shaped shard when I was
+digging for Fossils!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+323,DLP_underground_643,"I found a rare, flower-shaped shard when I was
+digging for Fossils!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+324,DLP_underground_644,"Digging for Fossils is difficult! I got thiiis close,
+but then the wall collapsed!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+325,DLP_underground_645,"Digging for Fossils is difficult! I got thiiis close,
+but then the wall collapsed!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+326,DLP_underground_646,"I get super excited whenever I open a stone box!
+I can’t help but hope I’ll find a statue I’ve never
+seen before!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+327,DLP_underground_647,"I get super excited whenever I open a stone box!
+I can’t help but hope I’ll find a statue I’ve never
+seen before!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+328,DLP_underground_648,"Have you ever tried digging for Fossils right next
+to a friend? When there’s digging to be done,
+two diggers are better than one!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+329,DLP_underground_649,"Have you ever tried digging for Fossils right next
+to a friend? When there’s digging to be done,
+two diggers are better than one!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+330,DLP_underground_650,"When I’m digging next to a friend, I feel like I
+could find a statue I’ve never found before!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+331,DLP_underground_651,"When I’m digging next to a friend, I feel like I
+could find a statue I’ve never found before!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+332,DLP_underground_652,"Whenever a friend and I help each other out,
+digging for Fossils goes much more smoothly!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+333,DLP_underground_653,"Whenever a friend and I help each other out,
+digging for Fossils goes much more smoothly!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+334,DLP_underground_654,"Pokémon living in the Grand Underground show
+up right where you can see them. It’s so exciting!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+335,DLP_underground_655,"Pokémon living in the Grand Underground show
+up right where you can see them. It’s so exciting!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+103,DLP_underground_414,Dig,79,-1,32,160,0,"-1
+0
+0
+-1
+0"
+104,DLP_underground_415,Toggle,81,-1,32,224,0,"-1
+0
+0
+-1
+0"
+105,DLP_underground_416,Use,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+106,DLP_underground_417,Look inside,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+107,DLP_underground_418,Cancel,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+109,DLP_underground_419,Pedestals,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+110,DLP_underground_420,Spheres,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+111,DLP_underground_421,Statues,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+112,DLP_underground_423,Local communication,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+113,DLP_underground_424,Internet,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+114,DLP_underground_425,Play alone,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+115,DLP_underground_426,Communicating... Please stand by.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+116,DLP_underground_427,"Communication failed.
+Would you like to try again?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+336,DLP_underground_656,"I battled my way through a Pokémon Hideaway
+just now. Imagine my surprise when I found that
+every one of the wild Pokémon was super strong!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+117,DLP_underground_429,Grand Underground Menu,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+118,DLP_underground_430,Grand Underground Map,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+119,DLP_underground_431,Open the Grand Underground Map,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+120,DLP_underground_432,Return to the surface,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+121,DLP_underground_433,Close menu,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+122,DLP_underground_434,Toggle,81,-1,32,224,0,"-1
+0
+0
+-1
+0"
+123,DLP_underground_435,Back,80,-1,32,192,0,"-1
+0
+0
+-1
+0"
+124,DLP_underground_436,Good morning!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+125,DLP_underground_437,Good afternoon!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+126,DLP_underground_438,Good evening!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+127,DLP_underground_439,"{pageend:The Grand Underground is really massive!}
+You should keep your eye on the map as you go
+so you don’t get lost.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+128,DLP_underground_440,"The true thrills of being underground are digging
+{pageend:for Fossils and meeting Pokémon!}
+I completely lose track of time when I’m
+down here.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+129,DLP_underground_441,"{pageend:The Underground is divided into separate zones.}
+If you want to go to a different zone, you should
+go up to the surface first!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+130,DLP_underground_442,"{pageend:Have you found a Pokémon Hideaway yet?}
+There are lots of Pokémon there,
+so keep looking!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+131,DLP_underground_443,"Some Pokémon Hideaways are small, while
+{pageend:others are much larger.}
+In the larger ones, you’re more likely to see
+bigger Pokémon!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+132,DLP_underground_444,"Try giving spheres to the folks standing around
+the Underground—they might trade you
+{pageend:something nice!}
+You may even find someone that’ll heal your
+Pokémon for you!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+133,DLP_underground_445,"{pageend:I made a Secret Base all for myself!}
+You can bore a hole in a wall with the
+Digger Drill to build your own.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+134,DLP_underground_446,"{pageend:You can place statues in your Secret Base.}
+Apparently something good will happen if you
+place lots of them.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+135,DLP_underground_447,"Have you ever visited someone else’s
+{pageend:Secret Base?}
+It’s fun to look and see how differently people
+arrange them.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+136,DLP_underground_448,"You can set pedestals for the statues you place
+{pageend:in your Secret Base.}
+If you’ve got a pedestal, go ahead and try it.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+137,DLP_underground_449,"There are all sorts of things buried in the
+{pageend:walls of the Underground.}
+Sometimes you’ll even find treasure!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+138,DLP_underground_450,"You can usually tell which walls you can dig into
+{pageend:by looking at the map.}
+And don’t forget to check your radar when
+you’re near a digging point!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+139,DLP_underground_451,"When you’re digging for Fossils, watch out for
+{pageend:cracks in the wall!}
+If you dig too much, the wall will collapse.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+140,DLP_underground_452,"You can dig into walls using a sledgehammer or
+{pageend:a pickax.}
+Each tool affects a differently sized area, so you
+should use the one that’s best for the situation!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+141,DLP_underground_453,"When you’re digging for Fossils, you’ll find some
+{pageend:rocks that you can’t break.}
+If you come across those, you should find
+somewhere else to dig.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+142,DLP_underground_454,"Sometimes when you’re digging in the walls,
+{pageend:you’ll find a Mysterious Shard.}
+What do you suppose they’re used for?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+143,DLP_underground_455,"Have you ever dug up a stone box? There are
+statues inside of those!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+144,DLP_underground_456,"{pageend:There are a few different types of stone boxes.}
+The prettier the box, the rarer the statue you’ll
+find inside.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+145,DLP_underground_457,"{pageend:It’s a good idea to collect lots of spheres.}
+You can exchange them for all sorts of things
+with some folks in the Underground.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+146,DLP_underground_458,"{pageend:Spheres come in large and small sizes.}
+The larger spheres are rare, so you’re
+lucky if you find one!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+147,DLP_underground_459,"Oh! {tag:0}{pageend:! I’m so glad you’re awake!}
+I helped out your Pokémon, and {tag:1}
+doing fine now.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0,-1,19,1,5,0,253,"it's
+they're all",0
+148,DLP_underground_460,Oh! {tag:0}! Are you OK?!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+149,DLP_underground_461,"Your Secret Base was too far away, so I dragged
+you here for now.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+150,DLP_underground_462,"It would be nice if you had a place where you
+could rest and relax down here in the
+Grand Underground.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+151,DLP_underground_463,"The Pokémon down here in the Grand
+Underground are extremely tough!
+{pageend:Be careful while you’re exploring!}
+Anyway, see you later!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+152,DLP_underground_464,You obtained a Stone Box!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+153,DLP_underground_465,You obtained a Pretty Stone Box!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+154,DLP_underground_466,You obtained a Gorgeous Stone Box!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+155,DLP_underground_467,The stone box started to shine!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+156,DLP_underground_468,{tag:0}{tag:1} appeared!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",-1,19,6,5,0,0,,0,0,1,22,0,0,0,,0
+157,DLP_underground_469,Dig,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+158,DLP_underground_470,Toggle,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+159,DLP_underground_471,"Would you like to use the Digger Drill to make a
+Secret Base?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+160,DLP_underground_472,"You’re too close to a Pokémon Hideaway.
+Try digging a little farther away.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+161,DLP_underground_473,There’s already a Secret Base here!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+162,DLP_underground_474,"There’s not enough room in a corner.
+Try somewhere with more space.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+163,DLP_underground_475,"This is {tag:0}’s Secret Base!
+Would you like to go inside?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+164,DLP_underground_476,"You received a gift from someone who visited
+your Secret Base!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+165,DLP_underground_477,"You received a gift as thanks for providing useful
+Fossil-digging information!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+166,DLP_underground_478,You booted up the PC in your Secret Base!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+167,DLP_underground_479,Place a statue,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+168,DLP_underground_480,View Secret Base,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+169,DLP_underground_481,Expand Secret Base,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+170,DLP_underground_482,Quit,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+171,DLP_underground_483, Toggle View,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+172,DLP_underground_484, Back,80,-1,32,192,0,"-1
+0
+0
+-1
+0"
+337,DLP_underground_657,"I battled my way through a Pokémon Hideaway
+just now. Imagine my surprise when I found that
+every one of the wild Pokémon was super strong!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+338,DLP_underground_658,"I lost against a wild Pokémon, and Roark had to
+carry me away...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+339,DLP_underground_659,"I lost against a wild Pokémon, and Roark had to
+carry me away...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+173,DLP_underground_488,Do you want to make your Secret Base bigger?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+174,DLP_underground_489,Spheres required,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+175,DLP_underground_490,Expand,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+176,DLP_underground_491,You expanded your Secret Base!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+177,DLP_underground_492, Confirm,81,-1,32,224,0,"-1
+0
+0
+-1
+0"
+178,DLP_underground_493,Toggle mode,86,-1,32,352,0,"-1
+0
+0
+-1
+0"
+179,DLP_underground_494, Statue List,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+180,DLP_underground_495, Filter,81,-1,32,224,0,"-1
+0
+0
+-1
+0"
+181,DLP_underground_496,"What would you like to do with
+this {tag:0}?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",2,1,22,0,0,0,,0
+182,DLP_underground_497,Place,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+183,DLP_underground_498,Statue Effect,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+185,DLP_underground_499,"Slightly raises the appearance rate of
+{tag:0}-type Pokémon!",70,-1,42,1008,1,"-1
+0
+0
+-1
+0",0,1,3,0,0,0,,0
+186,DLP_underground_500,"Raises the appearance rate of
+{tag:0}-type Pokémon!",70,-1,42,1008,1,"-1
+0
+0
+-1
+0",0,1,3,0,0,0,,0
+187,DLP_underground_501,"Sharply raises the appearance rate of
+{tag:0}-type Pokémon!",70,-1,42,1008,1,"-1
+0
+0
+-1
+0",0,1,3,0,0,0,,0
+188,DLP_underground_502,Move,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+189,DLP_underground_503,Pedestal,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+190,DLP_underground_504, Put Pedestal Away,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+191,DLP_underground_505,Put away,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+192,DLP_underground_506,View effect,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+193,DLP_underground_507,Turn effect <color=#F01E1EFF>ON</color>,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+194,DLP_underground_745,<color=#F01E1EFF>Update </color>effect,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+196,DLP_underground_509,You turned this Secret Base’s effect <color=#F01E1EFF>ON</color>.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+340,DLP_underground_660,"I’m pretty sure that the Pokémon I just caught is
+very rare!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+424,DLP_underground_747,You don’t have any statues.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+341,DLP_underground_661,"I’m pretty sure that the Pokémon I just caught is
+very rare!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+198,DLP_underground_513,"You cannot have any more effects turned <color=#F01E1EFF>ON</color>{pageend:.}
+Would you like to use this effect instead of
+another Secret Base’s?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+199,DLP_underground_514,{tag:0},42,-1,42,504,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+200,DLP_underground_515,"Got any small spheres?
+If you do, I’ll trade you something.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+201,DLP_underground_516,Exchange for goods,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+202,DLP_underground_517,Exchange for spheres,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+342,DLP_underground_662,"Caught many Pokémon yet? Some of the ones
+here can’t be found anywhere else, so keep at it!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+343,DLP_underground_663,"Caught many Pokémon yet? Some of the ones
+here can’t be found anywhere else, so keep at it!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+203,DLP_underground_520,"Got any large spheres?
+If you do, I’ll trade you something.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+204,DLP_underground_521,"Got any interesting goods?
+I’ll trade you some for spheres!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+205,DLP_underground_522,Exchange for spheres,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+206,DLP_underground_523,Got anything else?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+207,DLP_underground_524,See you around!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+208,DLP_underground_525,Spheres on hand,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+209,DLP_underground_526,"How many {tag:0}
+do you want?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",0,1,22,0,0,0,,2
+210,DLP_underground_527,"{tag:0}, right?
+For {tag:1} of them, I’ll take...
+{tag:2} {tag:3}.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,22,0,0,0,,0,1,2,2,1,0,205,,0,4,2,2,1,0,205,,0,3,1,22,0,0,0,,0
+211,DLP_underground_528,"OK, it’s a deal. Thanks for your business!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+212,DLP_underground_529,Trade,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+213,DLP_underground_530,"How many {tag:0}
+will you give me?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",3,1,22,0,0,0,,2
+214,DLP_underground_531,"Then I’ll give you
+{tag:0} {tag:1}{pageend: in exchange.}
+Still wanna trade?",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",1,2,2,1,0,205,,0,0,1,22,0,0,0,,0
+215,DLP_underground_532,"You traded {tag:0} {tag:1}
+for {tag:2} {tag:3}.",0,-1,54,1080,1,"-1
+0
+0
+-1
+0",4,2,2,1,0,205,,0,3,1,22,0,0,0,,0,1,2,2,1,0,205,,0,0,1,22,0,0,0,,0
+216,DLP_underground_533,"Feel like taking a break? Rest is important too,
+you know!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+217,DLP_underground_534,Rest,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+218,DLP_underground_535,You decided to rest.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+219,DLP_underground_536,"You and your Pokémon became fully healed from
+the rest!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+220,DLP_underground_537,Yes,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+221,DLP_underground_538,No,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+222,DLP_underground_539,"Choose conditions and press Search to
+start filtering!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+223,DLP_underground_540, Reset,81,-1,32,224,0,"-1
+0
+0
+-1
+0"
+224,DLP_underground_541, Search,80,-1,32,192,0,"-1
+0
+0
+-1
+0"
+225,DLP_underground_542,Type 1,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+226,DLP_underground_543,Type 2,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+227,DLP_underground_544,Size,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+228,DLP_underground_545,Category,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+229,DLP_underground_547,—,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+230,DLP_underground_548,Normal,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+231,DLP_underground_549,Fighting,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+232,DLP_underground_550,Flying,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+233,DLP_underground_551,Poison,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+234,DLP_underground_552,Ground,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+235,DLP_underground_553,Rock,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+236,DLP_underground_554,Bug,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+237,DLP_underground_555,Ghost,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+238,DLP_underground_556,Steel,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+239,DLP_underground_557,Fire,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+240,DLP_underground_558,Water,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+241,DLP_underground_559,Grass,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+242,DLP_underground_560,Electric,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+243,DLP_underground_561,Psychic,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+244,DLP_underground_562,Ice,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+245,DLP_underground_563,Dragon,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+246,DLP_underground_564,Dark,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+247,DLP_underground_565,Fairy,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+248,DLP_underground_566,1×1,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+249,DLP_underground_567,1×2,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+250,DLP_underground_568,2×2,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+251,DLP_underground_569,3×3,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+252,DLP_underground_570,Standard,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+253,DLP_underground_571,Color,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+254,DLP_underground_574,Legendary Pokémon only,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+255,DLP_underground_575,Quit,80,-1,32,192,0,"-1
+0
+0
+-1
+0"
+256,DLP_underground_576, Rotate,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+257,DLP_underground_577, Place Statue,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+258,DLP_underground_578, Select Statue,90,-1,32,416,0,"-1
+0
+0
+-1
+0"
+259,DLP_underground_579, Toggle View,87,-1,32,384,0,"-1
+0
+0
+-1
+0"
+260,DLP_underground_580, Effect,80,-1,32,192,0,"-1
+0
+0
+-1
+0"
+261,DLP_underground_581,"{pageend:The Grand Underground is really massive!}
+You should keep your eye on the map as you go
+so you don’t get lost.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+262,DLP_underground_582,"The true thrills of the Grand Underground are
+{pageend:digging for Fossils and meeting new Pokémon!}
+I always lose track of time when I’m down here.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+263,DLP_underground_583,"{pageend:The Underground is divided into separate zones.}
+If you want to go to a different zone, you should
+go up to the surface first!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+264,DLP_underground_584,"{pageend:Have you found a Pokémon Hideaway yet?}
+There are lots of Pokémon there, so
+keep looking!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+265,DLP_underground_585,"Some Pokémon Hideaways are small, while
+{pageend:others are much larger.}
+In the larger ones, you’re more likely to see
+bigger Pokémon!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+266,DLP_underground_586,"Try giving spheres to the folks standing around
+the Underground—they might trade you
+{pageend:something nice!}
+You may even find someone that’ll heal your
+Pokémon for you!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+267,DLP_underground_587,"{pageend:I made a Secret Base all for myself!}
+You can bore a hole in a wall with the
+Digger Drill to build your own.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+268,DLP_underground_588,"{pageend:You can place statues in your Secret Base.}
+Apparently something good will happen if you
+place lots of them.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+269,DLP_underground_589,"Have you ever visited someone else’s
+{pageend:Secret Base?}
+It’s fun to look and see how differently people
+arrange them.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+270,DLP_underground_590,"You can set pedestals for the statues you place
+{pageend:in your Secret Base.}
+If you’ve got a pedestal, go ahead and try it.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+271,DLP_underground_591,"There are all sorts of things buried in the
+{pageend:walls of the Underground.}
+Sometimes you’ll even find treasure!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+272,DLP_underground_592,"You can usually tell which walls you can dig into
+{pageend:by looking at the map.}
+And don’t forget to check your radar when
+you’re near a digging point!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+273,DLP_underground_593,"When you’re digging for Fossils, watch out for
+{pageend:cracks in the wall!}
+If you dig too much, the wall will collapse.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+274,DLP_underground_594,"You can dig into walls using a sledgehammer or
+{pageend:a pickax.}
+Each tool affects a differently sized area, so you
+should use the one that’s best for the situation!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+275,DLP_underground_595,"When you’re digging for Fossils, you’ll find some
+{pageend:rocks that you can’t break.}
+If you come across those, you should find
+somewhere else to dig.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+276,DLP_underground_596,"Sometimes when you’re digging in the walls,
+{pageend:you’ll find a Mysterious Shard.}
+What do you suppose they’re used for?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+277,DLP_underground_597,"Have you ever dug up a stone box? There are
+statues inside of those!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+278,DLP_underground_598,"{pageend:There are a few different types of stone boxes.}
+The prettier the box, the rarer the statue you’ll
+find inside.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+279,DLP_underground_599,"{pageend:It’s a good idea to collect lots of spheres.}
+You can exchange them for all sorts of things
+with some folks in the Underground.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+280,DLP_underground_600,"{pageend:Spheres come in large and small sizes.}
+The larger spheres are rare, so you’re
+lucky if you find one!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+281,DLP_underground_601,4×4,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+282,DLP_underground_602,Would you like to put all the statues away?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+344,DLP_underground_664,"{pageend:Pokémon Hideaways have different terrains.}
+It’s very important to know what kind of place
+the wild Pokémon you’re searching for lives in.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+345,DLP_underground_665,"{pageend:Pokémon Hideaways have different terrains.}
+It’s very important to know what kind of place
+the wild Pokémon you’re searching for lives in.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+346,DLP_underground_666,"I wonder what your Secret Base looks like.
+I really want to see it!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+347,DLP_underground_667,"I wonder what your Secret Base looks like.
+I really want to see it!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+348,DLP_underground_668,"I hear that placing statues in your Secret Base
+has various effects!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+349,DLP_underground_669,"I hear that placing statues in your Secret Base
+has various effects!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+350,DLP_underground_670,"I’d be so happy if I could make my Secret Base
+super cool and get a lot of Greats!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+351,DLP_underground_671,"I’d be so happy if I could make my Secret Base
+super cool and get a lot of Greats!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+352,DLP_underground_672,Please come visit my Secret Base if you’d like.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+353,DLP_underground_673,Please come visit my Secret Base if you’d like.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+354,DLP_underground_674,"They say that if you turn on an effect in someone
+else’s Secret Base, the effect’ll work for you, too!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+355,DLP_underground_675,"They say that if you turn on an effect in someone
+else’s Secret Base, the effect’ll work for you, too!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+356,DLP_underground_676,"I couldn’t help but give a Great to someone’s
+Secret Base I saw earlier!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+357,DLP_underground_677,"I couldn’t help but give a Great to someone’s
+Secret Base I saw earlier!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+358,DLP_underground_678,"Collecting Glossy Stones takes a lot of patience.
+Walk around all over to search for them!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+359,DLP_underground_679,"Collecting Glossy Stones takes a lot of patience.
+Walk around all over to search for them!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+360,DLP_underground_680,"Collecting a lot of Glossy Stones can give you an
+advantage in Fossil digging. That’s what I heard.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+361,DLP_underground_681,"Collecting a lot of Glossy Stones can give you an
+advantage in Fossil digging. That’s what I heard.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+362,DLP_underground_682,"Isn’t it exciting when you find a Dugtrio while
+searching for Glossy Stones?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+363,DLP_underground_683,"Isn’t it exciting when you find a Dugtrio while
+searching for Glossy Stones?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+364,DLP_underground_684,"Dig into walls, and you’ll find treasures galore.
+What an adventure!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+365,DLP_underground_685,"Dig into walls, and you’ll find treasures galore.
+What an adventure!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+366,DLP_underground_686,"The Grand Underground is so vast, yet I always
+pass by a lot of people!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+367,DLP_underground_687,"The Grand Underground is so vast, yet I always
+pass by a lot of people!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+368,DLP_underground_688,"I met a guy who trades goods for spheres and
+got something I’d been wanting for a while now!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+369,DLP_underground_689,"I met a guy who trades goods for spheres and
+got something I’d been wanting for a while now!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+370,DLP_underground_690,"The Grand Underground is wide and complex,
+but someday I’ll explore every last tunnel!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+371,DLP_underground_691,"The Grand Underground is wide and complex,
+but someday I’ll explore every last tunnel!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+372,DLP_underground_692,"Subterranean volcanoes and icy lakes...
+Pokémon Hideaways have all kinds of terrains!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+373,DLP_underground_693,"Subterranean volcanoes and icy lakes...
+Pokémon Hideaways have all kinds of terrains!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+374,DLP_underground_694,"Whether you’re on the surface or underground,
+greeting people you meet is very important!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+375,DLP_underground_695,"Whether you’re on the surface or underground,
+greeting people you meet is very important!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+376,DLP_underground_696,"Have you set up a Secret Base yet? I’ll place my
+favorite statues in mine to create my own space!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+377,DLP_underground_697,"Have you set up a Secret Base yet? I’ll place my
+favorite statues in mine to create my own space!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+378,DLP_underground_698,"I haven’t seen Roark today. I wonder where he
+usually hangs out.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+379,DLP_underground_699,"I haven’t seen Roark today. I wonder where he
+usually hangs out.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+380,DLP_underground_700,"Whoa! You startled me! Don’t speak to me out of
+the blue!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+381,DLP_underground_701,"Whoa! You startled me! Don’t speak to me out of
+the blue!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+382,DLP_underground_702,"All our exploration tuckered my Pokémon out,
+so I got a guy in the tunnel to restore their HP!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+383,DLP_underground_703,"All our exploration tuckered my Pokémon out,
+so I got a guy in the tunnel to restore their HP!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+384,DLP_underground_704,"No matter where you’re at underground, you can
+hear people hammering. I find it really reassuring!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+385,DLP_underground_705,"No matter where you’re at underground, you can
+hear people hammering. I find it really reassuring!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+386,DLP_underground_706,"Going deep down and using a radar to explore...
+It’s like I’m in an underground submarine!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+387,DLP_underground_707,"Going deep down and using a radar to explore...
+It’s like I’m in an underground submarine!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+388,DLP_underground_708,"Where should I set up my Secret Base?
+I can’t make up my mind!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+389,DLP_underground_709,"Where should I set up my Secret Base?
+I can’t make up my mind!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+390,DLP_underground_710,"I’m finally getting the hang of the sledgehammer
+and the pickax...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+391,DLP_underground_711,"I’m finally getting the hang of the sledgehammer
+and the pickax...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+392,DLP_underground_712,"I like to give a lot of thought to both statues
+and pedestals!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+393,DLP_underground_713,"I like to give a lot of thought to both statues
+and pedestals!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+394,DLP_underground_714,"It feels like tunnels are getting wider because
+everyone is digging for Fossils.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+395,DLP_underground_715,"It feels like tunnels are getting wider because
+everyone is digging for Fossils.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+396,DLP_underground_716,"I was digging around here earlier and found an
+unusual stone!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+397,DLP_underground_717,"I was digging around here earlier and found an
+unusual stone!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+398,DLP_underground_718,What I’d give to find a Gorgeous Stone Box...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+399,DLP_underground_719,What I’d give to find a Gorgeous Stone Box...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+400,DLP_underground_720,"Rumor has it you can get up to four treasures
+per digging session!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+401,DLP_underground_721,"Rumor has it you can get up to four treasures
+per digging session!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+402,DLP_underground_722,"Did you know that statues of the same Pokémon
+{pageend:species can come in different colors?}
+I hear placing differently-colored statues in your
+Secret Base has better-than-normal effects!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+403,DLP_underground_723,"Did you know that statues of the same Pokémon
+{pageend:species can come in different colors?}
+I hear placing differently-colored statues in your
+Secret Base has better-than-normal effects!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+404,DLP_underground_724,"Please remember that you can’t dig into the
+boarded walls.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+405,DLP_underground_725,"Please remember that you can’t dig into the
+boarded walls.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+406,DLP_underground_726,"I feel like the more experience I get as a Trainer,
+the better I become at digging for Fossils.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+407,DLP_underground_727,"I feel like the more experience I get as a Trainer,
+the better I become at digging for Fossils.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+408,DLP_underground_728,"If you find a Plate, try giving it to a Pokémon of
+the same type!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+409,DLP_underground_729,"If you find a Plate, try giving it to a Pokémon of
+the same type!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+410,DLP_underground_731,{tag:0},35,-1,42,210,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+411,DLP_underground_732,{tag:0}:{tag:1},150,-1,42,252,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0,1,2,1,1,0,205,,0
+412,DLP_underground_733,{tag:0},35,-1,42,210,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+413,DLP_underground_734,/{tag:0},35,-1,42,210,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+416,DLP_underground_739,"Diglett and Dugtrio have appeared. Try searching
+for them!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+417,DLP_underground_738,Something good may happen in the Grand Underground!,73,-1,42,1092,0,"-1
+0
+0
+-1
+0"
+418,DLP_underground_740,"You got {tag:0} because you collected
+{tag:1} {tag:2}.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",1,2,3,1,0,2,,0,0,2,2,1,0,205,,0,-1,19,10,5,0,0,"Glossy Stone
+Glossy Stones
+Glossy Stones",0
+419,DLP_underground_741,{tag:0} ({tag:1}),0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0,1,2,2,1,0,205,,0
+420,DLP_underground_742,You don’t have enough spheres!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+421,DLP_underground_743,You can expand your Secret Base!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+422,DLP_underground_744,"This Secret Base’s statues have been changed.
+Would you like to update to its latest effect?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+423,DLP_underground_746,The Secret Base’s effect has been <color=#F01E1EFF>updated</color>!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+425,DLP_underground_748,There is no statue effect!,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+426,DLP_underground_749,You have nothing to trade.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+427,DLP_underground_750,{tag:0}’s Secret Base,0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+428,DLP_underground_751,Statues placed:,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+429,DLP_underground_752,{tag:0}/{tag:1},150,-1,42,252,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0,1,2,1,1,0,205,,0
+430,DLP_underground_753,Please choose a first type.,57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+431,DLP_underground_754,Please choose a second type.,57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+432,DLP_underground_755,Please choose a statue size.,57,-1,42,840,0,"-1
+0
+0
+-1
+0"
+433,DLP_underground_756,Please choose a statue category.,57,-1,42,840,0,"-1
+0
+0
+-1
+0"

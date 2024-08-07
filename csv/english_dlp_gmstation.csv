@@ -1,0 +1,482 @@
+0,DLP_GMStation_001,"A paid Nintendo Switch Online membership is
+{pageend:required to use the Global Wonder Station.}
+Please try to access GWS features again if you
+become a Nintendo Switch Online member.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+1,DLP_GMStation_002,Please check your connection.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+2,DLP_GMStation_003,Are you finished using the GWS?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+3,DLP_GMStation_004,This icon will be deleted. Is that OK?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+7,DLP_GMStation_006,"Would you like to save your progress and start
+a Wonder Trade?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+8,DLP_GMStation_007,Searching for a Trainer to trade with...,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+9,DLP_GMStation_008,"This point already has a Pokémon’s icon on it.
+Please choose which Pokémon’s icon to display.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+10,DLP_GMStation_009,The new Pokémon’s icon has been set.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+11,DLP_GMStation_010,The Pokémon icon has been left as it was.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+12,DLP_GMStation_011,See details,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+13,DLP_GMStation_012,Delete,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+14,DLP_GMStation_013,"Would you like to change the Pokémon icon
+displayed on this point?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+15,DLP_GMStation_014,A new Pokémon icon has been set on the Globe.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+16,DLP_GMStation_015,The icon has been deleted.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+17,DLP_GMStation_016,Global Wonder Station,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+18,DLP_GMStation_017,New,35,-1,42,210,0,"-1
+0
+0
+-1
+0"
+19,DLP_GMStation_018,Point {tag:0},39,-1,42,420,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+20,DLP_GMStation_019,Records,35,-1,42,210,0,"-1
+0
+0
+-1
+0"
+21,DLP_GMStation_020,{tag:0},174,-1,32,416,0,"-1
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+22,DLP_GMStation_021,♀,165,-1,32,96,0,"-1
+0
+0
+-1
+0"
+23,DLP_GMStation_022,♂,165,-1,32,96,0,"-1
+0
+0
+-1
+0"
+24,DLP_GMStation_023,Lv. {tag:0},169,-1,32,224,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+25,DLP_GMStation_024,No. {tag:0},169,-1,32,224,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+26,DLP_GMStation_025,No. {tag:0},169,-1,32,224,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+27,DLP_GMStation_026,{tag:0},174,-1,32,416,0,"-1
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+28,DLP_GMStation_027,JPN,166,-1,32,128,0,"-1
+0
+0
+-1
+0"
+29,DLP_GMStation_028,ENG,167,-1,32,160,0,"-1
+0
+0
+-1
+0"
+30,DLP_GMStation_029,SPA,167,-1,32,160,0,"-1
+0
+0
+-1
+0"
+31,DLP_GMStation_030,FRA,167,-1,32,160,0,"-1
+0
+0
+-1
+0"
+32,DLP_GMStation_031,GER,167,-1,32,160,0,"-1
+0
+0
+-1
+0"
+33,DLP_GMStation_032,ITA,167,-1,32,160,0,"-1
+0
+0
+-1
+0"
+34,DLP_GMStation_033,KOR,167,-1,32,160,0,"-1
+0
+0
+-1
+0"
+35,DLP_GMStation_034,CHT,167,-1,32,160,0,"-1
+0
+0
+-1
+0"
+36,DLP_GMStation_035,CHS,167,-1,32,160,0,"-1
+0
+0
+-1
+0"
+37,DLP_GMStation_036,{tag:0}/{tag:1}/{tag:2},155,-1,42,504,0,"-1
+0
+0
+-1
+0",1,2,1,1,0,205,,0,2,2,1,1,0,205,,0,0,2,3,1,0,0,,0
+38,DLP_GMStation_037,{tag:0}/{tag:1},39,-1,42,420,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0,1,2,2,1,0,205,,0
+39,DLP_GMStation_038, Rotate,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+40,DLP_GMStation_039, Zoom In,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+41,DLP_GMStation_040, Zoom Out,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+42,DLP_GMStation_041,Use the GWS,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+43,DLP_GMStation_042,Tell me more,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+44,DLP_GMStation_043,"No, thanks",42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+48,DLP_GMStation_044,Trade,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+49,DLP_GMStation_045,View globe,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+50,DLP_GMStation_046,Select,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+51,DLP_GMStation_047,Check summary,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+52,DLP_GMStation_048,Yes,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+53,DLP_GMStation_049,No,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+55,DLP_GMStation_050, Quit,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+56,DLP_GMStation_051,The trade has been canceled.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+57,DLP_GMStation_052,No trade partner was found.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+58,DLP_GMStation_053,"A trade partner has been found for you!
+Beginning trade...",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+59,DLP_GMStation_054,"Your Pokémon records are full. Please select a
+Pokémon to replace.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+60,DLP_GMStation_055,Would you like to replace this Pokémon record?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+61,DLP_GMStation_056,The Pokémon record has been replaced.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+62,DLP_GMStation_057,"Would you like to leave the Pokémon records as
+they are?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+63,DLP_GMStation_058,The Pokémon records have been left as is.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+64,DLP_GMStation_059,Would you like to leave the Pokémon icon as is?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+65,DLP_GMStation_060,You’ve successfully marked {tag:0} points!,50,-1,42,756,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+66,DLP_GMStation_061,You’ve collected all marks!,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+67,DLP_GMStation_062,—,172,-1,32,352,0,"-1
+0
+0
+-1
+0"
+68,DLP_GMStation_063,Nickname,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+69,DLP_GMStation_064,Pokédex No.,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+70,DLP_GMStation_065,Name,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+71,DLP_GMStation_066,Type,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+72,DLP_GMStation_067,Original Trainer,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+73,DLP_GMStation_068,{tag:0},37,-1,42,294,0,"-1
+0
+0
+-1
+0",0,1,3,0,0,0,,0
+74,DLP_GMStation_069,{tag:0},37,-1,42,294,0,"-1
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+75,DLP_GMStation_070,Currently marked,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+76,DLP_GMStation_071,--/--/----,46,-1,42,588,0,"-1
+0
+0
+-1
+0"
+77,DLP_GMStation_072,Mark,39,-1,42,420,0,"-1
+0
+0
+-1
+0"
+78,DLP_GMStation_073,The Pokémon’s records have been deleted.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+79,DLP_GMStation_074,Try trading Pokémon!,45,-1,42,546,0,"-1
+0
+0
+-1
+0"
+80,DLP_GMStation_075, Confirm,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+81,DLP_GMStation_076, Back,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+82,DLP_GMStation_077,Would you like to continue the Wonder Trade?,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+83,DLP_GMStation_078,Please select a point.,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+84,DLP_GMStation_079,"The Pokémon’s records will be deleted.
+Is that OK?",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+4,DLP_GMStation_083,"At the GWS, you can connect with people all
+over the world through the internet to conduct
+{pageend:Pokémon Wonder Trades.}
+When a Wonder Trade is complete, an icon of a
+{pageend:Pokémon will appear on the globe.}
+You’ll collect rewards as you fill more points on
+{pageend:the globe with icons!}
+Keep making Wonder Trades to complete your
+very own globe!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+5,DLP_GMStation_084,"To make a Wonder Trade, first select a Pokémon
+{pageend:you want to trade.}
+Be warned that there are some Pokémon you
+{pageend:can’t trade, though.}
+{pageend:Next, choose any point you like on the globe.}
+For example, it could be a place where you think
+{pageend:your chosen Pokémon might live.}
+When the Wonder Trade is complete, an icon of
+your trade partner’s Pokémon will appear on
+{pageend:your globe.}
+Likewise, your Pokémon’s icon will appear on
+{pageend:your trade partner’s globe.}
+You won’t know what Pokémon you’ll receive
+{pageend:until it arrives.}
+I think that’s pretty exciting!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+6,DLP_GMStation_085,"As you make more Wonder Trades, you can view
+{pageend:the points on the globe you’re filling in.}
+Each point marked on the globe can hold records
+{pageend:of up to five Pokémon.}
+You can change the Pokémon icon shown or
+{pageend:delete records.}
+You can also spin the globe, or enlarge or shrink
+it, so go ahead and try it out!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+45,DLP_GMStation_080,The GWS,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+46,DLP_GMStation_081,Wonder Trades,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+47,DLP_GMStation_082,Viewing the globe,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+54,DLP_GMStation_086,Quit,42,-1,42,504,0,"-1
+0
+0
+-1
+0"
+85,DLP_GMStation_087,"You received {tag:0} Rare {tag:1} as a reward for
+filling in your globe!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0",0,2,2,1,0,205,,0,-1,19,1,5,0,0,"Candy
+Candies",0
+86,DLP_GMStation_088, Cry,83,-1,32,320,0,"-1
+0
+0
+-1
+0"
+87,DLP_GMStation_089,Speed Up,82,-1,32,256,0,"-1
+0
+0
+-1
+0"

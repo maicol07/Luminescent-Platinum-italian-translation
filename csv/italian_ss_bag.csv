@@ -1,0 +1,918 @@
+0,SS_bag_000,Soldi,80,-1,32,192,0,"0
+0
+0
+-1
+0"
+1,SS_bag_001,{tag:0} ,172,-1,32,352,0,"0
+0
+0
+-1
+0",0,2,6,1,0,1,,0
+2,SS_bag_002,{tag:0},91,-1,32,448,0,"0
+0
+0
+-1
+0",0,1,18,0,0,0,,0
+3,SS_bag_004,{tag:0},83,-1,32,320,0,"0
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+4,SS_bag_006,L. {tag:0},151,-1,42,294,0,"0
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+5,SS_bag_007,{tag:0},37,-1,42,294,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+6,SS_bag_009,/,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+7,SS_bag_010,{tag:0},150,-1,42,252,0,"0
+0
+0
+-1
+0",0,2,3,1,0,1,,0
+8,SS_bag_011,{tag:0},150,-1,42,252,0,"0
+0
+0
+-1
+0",0,2,3,1,0,1,,0
+9,SS_bag_014,Potenza,80,-1,32,192,0,"1
+0
+0
+-1
+0"
+10,SS_bag_015,{tag:0},166,-1,32,128,0,"1
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+11,SS_bag_016,Precisione,80,-1,32,192,0,"1
+0
+0
+-1
+0"
+12,SS_bag_017,{tag:0},166,-1,32,128,0,"0
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+13,SS_bag_018,-,166,-1,32,128,0,"0
+0
+0
+-1
+0"
+14,SS_bag_019,PP,80,-1,32,192,0,"0
+0
+0
+-1
+0"
+15,SS_bag_020,{tag:0},165,-1,32,96,0,"0
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+16,SS_bag_022,{tag:0}/{tag:1},168,-1,32,192,0,"0
+0
+0
+-1
+0",0,2,1,1,0,205,,0,1,2,1,1,0,205,,0
+17,SS_bag_026,{tag:0},39,-1,42,420,0,"0
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+18,SS_bag_028,×,146,-1,42,84,0,"0
+0
+0
+-1
+0"
+19,SS_bag_029,{tag:0},148,-1,42,168,0,"0
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+20,SS_bag_030,Seleziona,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+21,SS_bag_031,Indietro,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+22,SS_bag_032,Preferiti,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+23,SS_bag_033,Ordina,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+24,SS_bag_034,Vuota,7,-1,54,540,0,"0
+0
+0
+-1
+0"
+25,SS_bag_035,Su quale Pokémon vuoi usare lo strumento?,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+26,SS_bag_036,"La mossa {tag:0} non è
+compatibile con {tag:1}{pageend:.}
+Non puoi insegnargliela.",30,-1,42,840,0,"0
+0
+0
+-1
+0",1,1,7,0,0,0,,0,0,1,2,0,0,0,,0
+27,SS_bag_037,"{tag:0} conosce già
+{tag:1}!",30,-1,42,840,1,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,7,0,0,0,,0
+28,SS_bag_038,{callback:9.0:Hai attivato una Macchina Tecnica.}{callback:0.0:},30,-1,42,840,0,"0
+0
+0
+-1
+0"
+29,SS_bag_039,{tag:0} impara {tag:1}{callback:4.0:!}{callback:1.0:},30,-1,42,840,1,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,7,0,0,0,,0
+30,SS_bag_040,"{tag:0} vorrebbe imparare
+{tag:1}{pageend:.}
+Vuoi che dimentichi una mossa e
+al suo posto impari {tag:2}?",30,-1,42,840,1,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,7,0,0,0,,0,1,1,7,0,0,0,,0
+31,SS_bag_041,"{wait:0.19999998807907104:Uno,}{wait:0.19999998807907104: due}{wait:0.19999998807907104: e}{wait:0.19999998807907104:...}{callback:3.0: ta-daaaa!}{callback:0.0:}{pageend:}
+{tag:0} dimentica {tag:1}{pageend:!}
+{pageend:Al suo posto...}
+{tag:2} impara {tag:3}{callback:4.0:!}{callback:1.0:}",30,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,7,0,0,0,,0,0,1,2,0,0,0,,0,2,1,7,0,0,0,,0
+32,SS_bag_042,"{tag:0} non ha imparato
+{tag:1}!",30,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,7,0,0,0,,0
+33,SS_bag_043,"Scegli una mossa da sostituire
+con {tag:0}.",30,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,7,0,0,0,,0
+34,SS_bag_044,Hai attivato un Disco Tecnico.,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+35,SS_bag_045,Le MT possono essere usate una volta sola.,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+36,SS_bag_046,La MT {tag:0} si è rotta.,30,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,7,0,0,0,,0
+37,SS_bag_047,La MT si romperà. Vuoi continuare?,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+38,SS_bag_048,Sì,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+39,SS_bag_049,No,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+40,SS_bag_050,<color=#0064FFFF>Sì!</color>,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+41,SS_bag_051,<color=#F01E1EFF>No!</color>,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+42,SS_bag_052,</color>La conosce!</color>,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+43,SS_bag_053,<color=#0064FFFF>Sì!</color>,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+44,SS_bag_054,<color=#F01E1EFF>No!</color>,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+45,SS_bag_065,{tag:0},148,-1,42,168,0,"0
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+46,SS_bag_066,×,146,-1,42,84,0,"0
+0
+0
+-1
+0"
+47,SS_bag_067,{tag:0} ,155,-1,42,504,0,"0
+0
+0
+-1
+0",0,2,6,1,0,1,,0
+48,SS_bag_068,Valore,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+50,SS_bag_069,Posso darti {tag:0} . Va bene?,30,-1,42,840,0,"0
+0
+0
+-1
+0",0,2,6,1,0,1,,0
+51,SS_bag_070,Sì,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+52,SS_bag_071,No,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+53,SS_bag_072,---,34,-1,42,168,0,"0
+0
+0
+-1
+0"
+54,SS_bag_073,"Quant{tag:0} {tag:1} vuoi
+vendere?",30,-1,42,840,1,"0
+0
+0
+-1
+0",-1,21,2,5,0,0,"o
+a
+i
+e",2,0,1,10,0,0,0,,2
+55,SS_bag_074,"{tag:0}? Peccato!
+Non posso comprare questo strumento.",30,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,9,0,0,0,,0
+56,SS_bag_075,"Consegni {tag:0}{tag:1}
+e ricevi {tag:2} .",30,-1,42,840,1,"0
+0
+0
+-1
+0",-1,21,3,5,0,0,,0,0,1,10,0,0,0,,0,1,2,6,1,0,1,,0
+57,SS_bag_076,"Consegni {tag:0}{tag:1}
+e ricevi {tag:2} .",30,-1,42,840,1,"0
+0
+0
+-1
+0",-1,21,3,5,0,0,,2,0,1,10,0,0,0,,2,1,2,6,1,0,1,,0
+58,SS_bag_077,Per categoria,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+59,SS_bag_078,Per nome,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+60,SS_bag_079,Più recenti,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+61,SS_bag_080,Per numero,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+62,SS_bag_081,Preferiti,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+63,SS_bag_082,Indietro,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+64,SS_bag_083,Scegli come visualizzare gli strumenti.,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+65,SS_bag_084,Strumenti riordinati per categoria!,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+66,SS_bag_085,Strumenti riordinati per nome!,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+67,SS_bag_086,Strumenti riordinati per numero!,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+68,SS_bag_087,"Strumenti riordinati mettendo i preferiti
+all’inizio!",30,-1,42,840,0,"0
+0
+0
+-1
+0"
+69,SS_bag_088,"Strumenti riordinati dai più recenti ai meno
+recenti!",30,-1,42,840,0,"0
+0
+0
+-1
+0"
+70,SS_bag_089,Usa,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+71,SS_bag_090,Dai,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+72,SS_bag_096,Indietro,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+73,SS_bag_098,{tag:0} ha recuperato {tag:1} PS.,30,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,2,2,1,0,205,,0
+74,SS_bag_099,{tag:0} torna in forze!,30,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+75,SS_bag_100,{tag:0} guarisce dall’avvelenamento.,30,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+76,SS_bag_101,{tag:0} guarisce dalla paralisi.,30,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+77,SS_bag_102,{tag:0} guarisce dalla scottatura.,30,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+78,SS_bag_103,{tag:0} guarisce dal congelamento.,30,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+79,SS_bag_104,{tag:0} si sveglia.,30,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+80,SS_bag_105,{tag:0} è di nuovo in forma.,30,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+81,SS_bag_106,"I punti base della statistica {tag:0}
+di {tag:1} sono aumentati!",30,-1,42,840,0,"0
+0
+0
+-1
+0",1,1,13,0,0,0,,0,0,1,2,0,0,0,,0
+83,SS_bag_107,"{tag:0}{pageend: ora è più affezionato.}
+I punti base della statistica {tag:1}
+però sono diminuiti!",30,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,13,0,0,0,,0
+85,SS_bag_108,"{tag:0}{pageend: ti adora!}
+I punti base della statistica {tag:1}
+però sono diminuiti!",30,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,13,0,0,0,,0
+87,SS_bag_109,"{tag:0}{pageend: ora è più affezionato.}
+I punti base della statistica {tag:1}
+non possono più diminuire!",30,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,13,0,0,0,,0
+89,SS_bag_110,"Hai usato
+{tag:0}{tag:1}!",30,-1,42,840,1,"0
+0
+0
+-1
+0",-1,21,5,5,0,1,,0,1,1,10,0,0,0,,0
+90,SS_bag_111,È ancora attivo il repellente usato prima.,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+91,SS_bag_112,"Hai dato {tag:0}{tag:1}
+al Pokémon!",30,-1,42,840,0,"0
+0
+0
+-1
+0",-1,21,3,5,0,0,,0,0,1,9,0,0,0,,0
+92,SS_bag_113,"Gli hai tolto {tag:0}{tag:1} e
+gli hai dato {tag:2}{tag:3}!",30,-1,42,840,0,"0
+0
+0
+-1
+0",-1,21,3,5,0,0,,0,0,1,9,0,0,0,,0,-1,21,3,5,0,1,,0,1,1,9,0,0,0,,0
+93,SS_bag_115,Non avrebbe alcun effetto!,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+153,SS_bag_346,Vedi contenuto,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+94,SS_bag_117,Non hai nessun Pokémon.,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+95,SS_bag_118,Su quale Pokémon vuoi usare lo strumento?,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+96,SS_bag_119,A quale Pokémon vuoi dare lo strumento?,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+97,SS_bag_120,Non puoi dare uno strumento a un Uovo.,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+98,SS_bag_121,I PP sono stati ricaricati.,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+99,SS_bag_122,"Vuoi scambiare {tag:0}{tag:1} con
+{tag:2}{tag:3}?",30,-1,42,840,0,"0
+0
+0
+-1
+0",-1,21,3,5,0,0,,0,0,1,9,0,0,0,,0,-1,21,5,5,0,1,,0,1,1,9,0,0,0,,0
+100,SS_bag_123,Quale mossa vuoi ricaricare?,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+101,SS_bag_124,Quale mossa vuoi potenziare?,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+102,SS_bag_125,I PP di {tag:0} aumentano!,30,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,7,0,0,0,,0
+103,SS_bag_126,Hai raggiunto il limite per questo strumento!,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+104,SS_bag_128,I PP sono stati ricaricati.,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+105,SS_bag_130,Non si può usare su un Pokémon esausto.,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+106,SS_bag_131,"Non puoi effettuare la separazione
+perché la tua squadra è al completo.",30,-1,42,840,0,"0
+0
+0
+-1
+0"
+107,SS_bag_135,{tag:0},39,-1,42,420,0,"0
+0
+0
+-1
+0",0,1,7,0,0,0,,0
+108,SS_bag_141,Scendi,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+109,SS_bag_142,"Non puoi sottoporre un Pokémon esausto
+all’Endofusione.",30,-1,42,840,0,"0
+0
+0
+-1
+0"
+110,SS_bag_143,"Non puoi sottoporre questo Pokémon
+all’Endofusione.",30,-1,42,840,0,"0
+0
+0
+-1
+0"
+111,SS_bag_144,Non puoi sottoporre un Uovo all’Endofusione.,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+112,SS_bag_145,"Non puoi effettuare la separazione
+perché la tua squadra è al completo.",30,-1,42,840,0,"0
+0
+0
+-1
+0"
+113,SS_bag_146,{tag:0} ha cambiato forma!,30,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,1,0,0,0,,0
+114,SS_bag_147,Quale Pokémon vuoi sottoporre all’Endofusione?,57,-1,42,840,0,"0
+0
+0
+-1
+0"
+115,SS_bag_149,"{tag:0} ha dimenticato
+{tag:1}...",30,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,7,0,0,0,,0
+116,SS_bag_151,Vuoi cambiare l’abilità di {tag:0}?,30,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+117,SS_bag_152,"Hai sostituito l’abilità di {tag:0}
+con l’abilità {tag:1}{callback:5.0:!}{callback:1.0:}",30,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,6,0,0,0,,0
+118,SS_bag_153,Attacco,79,-1,32,160,0,"0
+0
+0
+-1
+0"
+119,SS_bag_154,Difesa,79,-1,32,160,0,"1
+0
+0
+-1
+0"
+120,SS_bag_155,Att. Sp.,79,-1,32,160,0,"0
+0
+0
+-1
+0"
+121,SS_bag_156,Dif. Sp.,79,-1,32,160,0,"1
+0
+0
+-1
+0"
+122,SS_bag_157,Velocità,79,-1,32,160,0,"1
+0
+0
+-1
+0"
+123,SS_bag_158,{tag:0},166,-1,32,128,0,"0
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+124,SS_bag_159,+{tag:0},167,-1,32,160,0,"0
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+125,SS_bag_160,PS,79,-1,32,160,0,"0
+1
+2
+-1
+0"
+126,SS_bag_161,Vuoi modificare le statistiche di {tag:0}?,30,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0
+127,SS_bag_162,"Le statistiche di {tag:0} sono cambiate
+per effetto {tag:1}{tag:2}{callback:5.0:!}{callback:1.0:}",30,-1,42,840,0,"0
+0
+0
+-1
+0",1,1,2,0,0,0,,0,-1,21,7,5,0,0,,0,0,1,9,0,0,0,,0
+128,SS_bag_163,Quant{tag:0} {tag:1} vuoi usare?,30,-1,42,840,0,"0
+0
+0
+-1
+0",-1,21,0,5,0,1,"i
+e",0,1,1,10,0,0,0,,2
+129,SS_bag_165,Quant{tag:0} {tag:1} vuoi usare?,57,-1,42,840,0,"0
+0
+0
+-1
+0",-1,21,1,5,0,1,"i
+e",0,1,1,10,0,0,0,,2
+158,SS_bag_356,Vedi scheda,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+49,SS_bag_357,Bilie ottenibili in cambio,87,-1,32,384,0,"0
+0
+0
+-1
+0"
+82,SS_bag_358,"I punti base della statistica {tag:0}
+di {tag:1} sono aumentati!",30,-1,42,840,0,"0
+0
+0
+-1
+0",1,1,13,0,0,0,,0,0,1,2,0,0,0,,0
+130,SS_bag_169,Lampadina,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+131,SS_bag_170,Forno a microonde,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+132,SS_bag_171,Lavatrice,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+133,SS_bag_172,Frigorifero,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+134,SS_bag_173,Ventilatore,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+135,SS_bag_174,Falciatrice,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+136,SS_bag_175,Quale articolo vuoi ordinare?,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+137,SS_bag_213,Assegna,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+138,SS_bag_214,Rimuovi assegnazione,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+139,SS_bag_337,"Senti riecheggiare le parole del Professor Rowan:
+""{tag:0}! C’è un luogo e un momento
+per ogni cosa!""",30,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,0,0,0,0,,0
+140,SS_bag_338,Borsa,34,-1,42,168,0,"0
+0
+0
+-1
+0"
+141,SS_bag_339,Punti show,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+142,SS_bag_340,Scegli che pulsante assegnare.,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+143,SS_bag_341,Vuoi sostituire lo strumento assegnato?,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+144,SS_bag_342,Hai assegnato lo strumento!,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+150,SS_bag_343,Apri,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+151,SS_bag_344,Vedi scheda,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+152,SS_bag_345,Pianta,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+145,SS_bag_347,Scegli in che posizione assegnare lo strumento.,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+146,SS_bag_348,Quale strumento vuoi sostituire?,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+147,SS_bag_349,"Vuoi sostituire {tag:0}{tag:1}
+con {tag:2}{tag:3}?",30,-1,42,840,0,"0
+0
+0
+-1
+0",-1,21,3,5,0,1,,0,1,1,9,0,0,0,,0,-1,21,3,5,0,0,,0,0,1,9,0,0,0,,0
+148,SS_bag_350,"{tag:0}{tag:1} {tag:2}
+{tag:3}!
+Premi il pulsante + per {tag:4}.",30,-1,42,840,1,"0
+0
+0
+-1
+0",-1,21,4,5,0,0,,0,0,1,9,0,0,0,,0,-1,21,2,5,0,0,"è stato
+è stata
+sono stati
+sono state",0,-1,21,2,5,0,0,"assegnato
+assegnata
+assegnati
+assegnate",0,-1,21,2,5,0,0,"usarlo
+usarla
+usarli
+usarle",0
+149,SS_bag_351,"Hai assegnato {tag:0}{tag:1}
+al posto dell’altro strumento!
+Premi il pulsante + per {tag:2}.",30,-1,42,840,0,"0
+0
+0
+-1
+0",-1,21,3,5,0,0,,0,0,1,9,0,0,0,,0,-1,21,2,5,0,0,"usarlo
+usarla
+usarli
+usarle",0
+154,SS_bag_352,Qui non puoi smontare dalla Bicicletta.,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+155,SS_bag_353,Hai acceso il Lettore DS!,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+156,SS_bag_354,Hai spento il Lettore DS!,30,-1,42,840,0,"0
+0
+0
+-1
+0"
+157,SS_bag_355,Punti Lotta accumulati: {tag:0},30,-1,42,840,0,"0
+0
+0
+-1
+0",0,2,3,1,0,1,,0
+84,SS_bag_359,"{tag:0}{pageend: ora è più affezionato.}
+I punti base della statistica {tag:1}
+però sono diminuiti!",30,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,13,0,0,0,,0
+86,SS_bag_360,"{tag:0}{pageend: ti adora!}
+I punti base della statistica {tag:1}
+però sono diminuiti!",30,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,13,0,0,0,,0
+88,SS_bag_361,"{tag:0}{pageend: ora è più affezionato.}
+I punti base della statistica {tag:1}
+non possono più diminuire!",30,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,2,0,0,0,,0,1,1,13,0,0,0,,0
+159,SS_bag_362,Disable,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+160,SS_bag_363,Unova,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+161,SS_bag_364,Kalos,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+162,SS_bag_365,Alola,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+163,SS_bag_366,Hisui,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+164,SS_bag_367,Galar,50,-1,42,756,0,"-1
+0
+0
+-1
+0"
+165,SS_bag_368,Which flower would you like to use?,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+166,SS_bag_369,"You remove the flowers,
+and the air returns to normal.",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+167,SS_bag_370,"You sense Pokémon shifting
+as the new scent rises.",30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+168,SS_bag_371,Use the Infinite Repel again to turn it off.,30,-1,42,840,0,"-1
+0
+0
+-1
+0"
+169,SS_bag_372,The Infinite Repel wore off.,30,-1,42,840,0,"-1
+0
+0
+-1
+0"

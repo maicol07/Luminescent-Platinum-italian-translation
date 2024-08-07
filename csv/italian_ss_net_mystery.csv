@@ -1,0 +1,810 @@
+0,SS_net_mystery_001,Vuoi ricevere un Dono Segreto?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+1,SS_net_mystery_002,"Non c’è spazio per altri Pokémon.
+Vuoi provare comunque a ricevere un dono?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+2,SS_net_mystery_003,"Attenzione!
+Se la console si spegne o la connessione
+si interrompe mentre stai ricevendo un dono
+tramite codice seriale o password, potresti
+non essere più in grado di utilizzare
+lo stesso codice seriale o la stessa password
+per ricevere il dono.
+Controlla il livello di carica della batteria
+della console o la connessione per assicurarti
+che non ci siano problemi.",64,-1,42,840,0,"0
+0
+0
+-1
+0"
+3,SS_net_mystery_005,"Attenzione!
+Hai inserito più volte un codice seriale
+o una password errati e per un po’ non
+potrai inserire codici o password.
+Attendi un po’ prima di riprovare.",64,-1,42,840,0,"0
+0
+0
+-1
+0"
+4,SS_net_mystery_007,"Controllo in corso.
+Non spegnere la console.",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+5,SS_net_mystery_305,Controllo in corso. Attendi...,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+6,SS_net_mystery_008,"Collegamento in corso.
+Non spegnere la console.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+7,SS_net_mystery_009,"Vuoi inserire nuovamente il codice seriale
+o la password?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+8,SS_net_mystery_010,Ricerca di un dono in corso.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+9,SS_net_mystery_011,"Si è verificato un problema con la ricezione
+del dono.",64,-1,42,840,0,"0
+0
+0
+-1
+0"
+10,SS_net_mystery_012,Non sono stati trovati doni.,64,-1,42,840,0,"0
+0
+0
+-1
+0"
+11,SS_net_mystery_013,"Interruzione della comunicazione.
+Attendi...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+12,SS_net_mystery_014,Seleziona il dono che vuoi ricevere.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+13,SS_net_mystery_015,Vuoi annullare la ricezione?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+14,SS_net_mystery_016,"Hai già ricevuto questo dono.
+Non puoi riceverlo di nuovo.",64,-1,42,840,0,"0
+0
+0
+-1
+0"
+15,SS_net_mystery_017,"Non c’è spazio per altri Pokémon.
+Riprova dopo aver fatto un po’ di spazio
+in squadra o nei Box.",64,-1,42,840,0,"0
+0
+0
+-1
+0"
+16,SS_net_mystery_018,"Ricezione del dono in corso.
+Non spegnere la console.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+17,SS_net_mystery_019,"È stato trovato un dono, ma non puoi ottenerlo
+con questo software.",64,-1,42,840,0,"0
+0
+0
+-1
+0"
+18,SS_net_mystery_020,"Verrà stabilito il collegamento a Internet.
+Il gioco verrà salvato. Vuoi continuare?",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+19,SS_net_mystery_021,"Connessione in corso.
+Attendi...",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+20,SS_net_mystery_022,Collegamento a Internet riuscito.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+21,SS_net_mystery_023,"Salvataggio in corso.
+Attendi...",20,-1,54,1080,0,"0
+0
+0
+-1
+0"
+22,SS_net_mystery_024,Controlla i Box!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+23,SS_net_mystery_025,Controlla la squadra!,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+24,SS_net_mystery_026,"Comunicazione in corso.
+Non spegnere la console.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+25,SS_net_mystery_027,"Connessione in corso.
+Attendi...",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+67,SS_net_mystery_307,"Hai ricevuto il seguente strumento:
+{tag:0} ×{tag:1}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,22,0,0,0,,0,6,2,2,1,0,205,,0
+68,SS_net_mystery_308,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,22,0,0,0,,0,6,2,2,1,0,205,,0
+69,SS_net_mystery_309,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}
+{tag:2} ×{tag:3}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,22,0,0,0,,0,6,2,2,1,0,205,,0,7,1,22,0,0,0,,0,8,2,2,1,0,205,,0
+70,SS_net_mystery_310,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}
+{tag:2} ×{tag:3}
+{tag:4} ×{tag:5}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,22,0,0,0,,0,6,2,2,1,0,205,,0,7,1,22,0,0,0,,0,8,2,2,1,0,205,,0,9,1,22,0,0,0,,0,10,2,2,1,0,205,,0
+71,SS_net_mystery_311,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}
+{tag:2} ×{tag:3}
+{tag:4} ×{tag:5}
+{tag:6} ×{tag:7}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,22,0,0,0,,0,6,2,2,1,0,205,,0,7,1,22,0,0,0,,0,8,2,2,1,0,205,,0,9,1,22,0,0,0,,0,10,2,2,1,0,205,,0,11,1,22,0,0,0,,0,12,2,2,1,0,205,,0
+26,SS_net_mystery_037,"Puoi ricevere questo dono solo una volta
+al giorno.
+Potrai riceverlo nuovamente il giorno
+successivo.",64,-1,42,840,0,"0
+0
+0
+-1
+0"
+27,SS_net_mystery_038,"Puoi ricevere questo dono una volta al giorno.
+Oggi lo hai già ricevuto. Riprova domani.",64,-1,42,840,0,"0
+0
+0
+-1
+0"
+28,SS_net_mystery_039,"Puoi ricevere al massimo 10 doni giornalieri.
+Hai già raggiunto il numero massimo per
+questo genere di doni. Riprova domani.",64,-1,42,840,0,"0
+0
+0
+-1
+0"
+29,SS_net_mystery_040,Collegamento a Internet stabilito.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+30,SS_net_mystery_041,"Codice seriale o password errati.
+Attenzione!
+Hai inserito più volte un codice seriale
+o una password errati. L’accesso è stato
+temporaneamente bloccato.
+Attendi un po’ prima di riprovare.",64,-1,42,840,0,"0
+0
+0
+-1
+0"
+31,SS_net_mystery_042,"Codice seriale o password errati.
+Attenzione!
+Hai inserito più volte un codice seriale
+o una password errati. L’accesso è stato
+temporaneamente bloccato.
+Attendi un po’ prima di riprovare.",26,-1,54,1080,0,"0
+0
+0
+-1
+0"
+32,SS_net_mystery_043,Comunicazione locale attivata.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+33,SS_net_mystery_044,"Codice seriale o password errati.
+Verifica di averli inseriti correttamente.
+Attenzione: se inserisci più volte un codice
+seriale o una password errati, l’accesso sarà
+bloccato temporaneamente.",64,-1,42,840,0,"0
+0
+0
+-1
+0"
+34,SS_net_mystery_045,"Codice seriale o password errati.
+Verifica di averli inseriti correttamente.
+Attenzione: se inserisci più volte un codice
+seriale o una password errati, l’accesso sarà
+bloccato temporaneamente.",64,-1,42,840,0,"0
+0
+0
+-1
+0"
+35,SS_net_mystery_046,"Questo codice seriale è già stato utilizzato
+con altri dati di gioco.",64,-1,42,840,0,"0
+0
+0
+-1
+0"
+36,SS_net_mystery_048,"Non puoi ancora ricevere il dono relativo
+a questo codice seriale o a questa password.",64,-1,42,840,0,"0
+0
+0
+-1
+0"
+37,SS_net_mystery_049,Non puoi ancora ricevere Mew.,64,-1,42,840,0,"0
+0
+0
+-1
+0"
+38,SS_net_mystery_050,"Questo codice seriale o questa password sono
+scaduti. Non è stato possibile ricevere il dono.",64,-1,42,840,0,"0
+0
+0
+-1
+0"
+39,SS_net_mystery_051,Il periodo di ricezione di Mew è terminato.,64,-1,42,840,0,"0
+0
+0
+-1
+0"
+40,SS_net_mystery_052,"Il dono relativo a questo codice seriale
+o a questa password non può essere
+ricevuto in questo gioco.",64,-1,42,840,0,"0
+0
+0
+-1
+0"
+41,SS_net_mystery_053,"Il dono relativo a questo codice seriale
+o a questa password non può essere
+ricevuto in questo gioco.",64,-1,42,840,0,"0
+0
+0
+-1
+0"
+42,SS_net_mystery_054,"Non è stato possibile aggiornare il codice seriale
+o la password.
+Il dono corrispondente non è stato ricevuto.",64,-1,42,840,0,"0
+0
+0
+-1
+0"
+43,SS_net_mystery_055,"Non è stato possibile ricevere Mew.
+Riprova più tardi.",64,-1,42,840,0,"0
+0
+0
+-1
+0"
+44,SS_net_mystery_056,"Hai già ricevuto il dono corrispondente
+a questo codice seriale o a questa password.",64,-1,42,840,0,"0
+0
+0
+-1
+0"
+45,SS_net_mystery_057,Hai già ricevuto Mew.,64,-1,42,840,0,"0
+0
+0
+-1
+0"
+46,SS_net_mystery_058,"Questo codice seriale è già stato utilizzato.
+Un codice seriale già utilizzato non può essere
+usato di nuovo con altri dati di gioco.",64,-1,42,840,0,"0
+0
+0
+-1
+0"
+47,SS_net_mystery_060,"Hai inserito più volte un codice seriale
+o una password errati.
+La connessione al server è
+temporaneamente sospesa.
+Attendi un po’ prima di riprovare.",64,-1,42,840,0,"0
+0
+0
+-1
+0"
+48,SS_net_mystery_061,"Hai inserito più volte un codice seriale
+o una password errati.
+La connessione al server è
+temporaneamente sospesa.
+Attendi un po’ prima di riprovare.",64,-1,42,840,0,"0
+0
+0
+-1
+0"
+49,SS_net_mystery_062,Sì,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+50,SS_net_mystery_063,No,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+51,SS_net_mystery_064,Tramite Internet,65,-1,42,924,0,"0
+0
+0
+-1
+0"
+52,SS_net_mystery_065,Tramite codice seriale/password,65,-1,42,924,0,"0
+0
+0
+-1
+0"
+53,SS_net_mystery_066,Controlla i doni,65,-1,42,924,0,"0
+0
+0
+-1
+0"
+54,SS_net_mystery_067,Esci,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+72,SS_net_mystery_312,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}
+{tag:2} ×{tag:3}
+{tag:4} ×{tag:5}
+{tag:6} ×{tag:7}
+{tag:8} ×{tag:9}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,22,0,0,0,,0,6,2,2,1,0,205,,0,7,1,22,0,0,0,,0,8,2,2,1,0,205,,0,9,1,22,0,0,0,,0,10,2,2,1,0,205,,0,11,1,22,0,0,0,,0,12,2,2,1,0,205,,0,13,1,22,0,0,0,,0,14,2,2,1,0,205,,0
+55,SS_net_mystery_072,Conferma,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+73,SS_net_mystery_313,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}
+{tag:2} ×{tag:3}
+{tag:4} ×{tag:5}
+{tag:6} ×{tag:7}
+{tag:8} ×{tag:9}
+{tag:10} ×{tag:11}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,22,0,0,0,,0,6,2,2,1,0,205,,0,7,1,22,0,0,0,,0,8,2,2,1,0,205,,0,9,1,22,0,0,0,,0,10,2,2,1,0,205,,0,11,1,22,0,0,0,,0,12,2,2,1,0,205,,0,13,1,22,0,0,0,,0,14,2,2,1,0,205,,0,15,1,22,0,0,0,,0,16,2,2,1,0,205,,0
+99,SS_net_mystery_314,"Hai ricevuto il seguente strumento:
+{tag:0} ×{tag:1}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,22,0,0,0,,0,6,2,2,1,0,205,,0
+56,SS_net_mystery_077,{tag:0},140,-1,54,108,0,"0
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+57,SS_net_mystery_078,{tag:0},56,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,43,0,0,0,,0
+58,SS_net_mystery_080,Hai ricevuto {tag:0}{tag:1}!,63,-1,42,840,0,"0
+0
+0
+-1
+0",-1,21,5,5,0,5,,3,5,1,1,0,0,0,,3
+59,SS_net_mystery_081,"Hai ricevuto il seguente strumento:
+{tag:0} ×{tag:1}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,9,0,0,0,,0,6,2,2,1,0,205,,0
+60,SS_net_mystery_082,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,9,0,0,0,,0,6,2,2,1,0,205,,0
+61,SS_net_mystery_083,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}
+{tag:2} ×{tag:3}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,9,0,0,0,,0,6,2,2,1,0,205,,0,7,1,9,0,0,0,,0,8,2,2,1,0,205,,0
+62,SS_net_mystery_084,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}
+{tag:2} ×{tag:3}
+{tag:4} ×{tag:5}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,9,0,0,0,,0,6,2,2,1,0,205,,0,7,1,9,0,0,0,,0,8,2,2,1,0,205,,0,9,1,9,0,0,0,,0,10,2,2,1,0,205,,0
+63,SS_net_mystery_085,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}
+{tag:2} ×{tag:3}
+{tag:4} ×{tag:5}
+{tag:6} ×{tag:7}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,9,0,0,0,,0,6,2,2,1,0,205,,0,7,1,9,0,0,0,,0,8,2,2,1,0,205,,0,9,1,9,0,0,0,,0,10,2,2,1,0,205,,0,11,1,9,0,0,0,,0,12,2,2,1,0,205,,0
+64,SS_net_mystery_086,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}
+{tag:2} ×{tag:3}
+{tag:4} ×{tag:5}
+{tag:6} ×{tag:7}
+{tag:8} ×{tag:9}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,9,0,0,0,,0,6,2,2,1,0,205,,0,7,1,9,0,0,0,,0,8,2,2,1,0,205,,0,9,1,9,0,0,0,,0,10,2,2,1,0,205,,0,11,1,9,0,0,0,,0,12,2,2,1,0,205,,0,13,1,9,0,0,0,,0,14,2,2,1,0,205,,0
+65,SS_net_mystery_087,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}
+{tag:2} ×{tag:3}
+{tag:4} ×{tag:5}
+{tag:6} ×{tag:7}
+{tag:8} ×{tag:9}
+{tag:10} ×{tag:11}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,9,0,0,0,,0,6,2,2,1,0,205,,0,7,1,9,0,0,0,,0,8,2,2,1,0,205,,0,9,1,9,0,0,0,,0,10,2,2,1,0,205,,0,11,1,9,0,0,0,,0,12,2,2,1,0,205,,0,13,1,9,0,0,0,,0,14,2,2,1,0,205,,0,15,1,9,0,0,0,,0,16,2,2,1,0,205,,0
+75,SS_net_mystery_088,{tag:0}/{tag:1}/20{tag:2} {tag:3}:{tag:4},102,-1,32,640,0,"0
+0
+0
+-1
+0",2,2,1,1,0,205,,0,1,2,1,1,0,205,,0,0,2,1,1,0,205,,0,3,2,1,1,0,205,,0,4,2,1,1,0,205,,0
+76,SS_net_mystery_091,{tag:0}/{tag:1}/20{tag:2} {tag:3}:{tag:4} (UTC +{tag:5}:{tag:6}),102,-1,32,640,0,"0
+0
+0
+-1
+0",2,2,1,1,0,205,,0,1,2,1,1,0,205,,0,0,2,1,1,0,205,,0,3,2,1,1,0,205,,0,4,2,1,1,0,205,,0,5,2,1,1,0,205,,0,6,2,1,1,0,205,,0
+77,SS_net_mystery_092,{tag:0}/{tag:1}/20{tag:2} {tag:3}:{tag:4} (UTC -{tag:5}:{tag:6}),102,-1,32,640,0,"0
+0
+0
+-1
+0",2,2,1,1,0,205,,0,1,2,1,1,0,205,,0,0,2,1,1,0,205,,0,3,2,1,1,0,205,,0,4,2,1,1,0,205,,0,5,2,1,1,0,205,,0,6,2,1,1,0,205,,0
+78,SS_net_mystery_093,{tag:0}/{tag:1}/20{tag:2} {tag:3}:{tag:4} (UTC ±{tag:5}),102,-1,32,640,0,"0
+0
+0
+-1
+0",2,2,1,1,0,205,,0,1,2,1,1,0,205,,0,0,2,1,1,0,205,,0,3,2,1,1,0,205,,0,4,2,1,1,0,205,,0,5,2,1,1,0,205,,0
+79,SS_net_mystery_094,{tag:0}/{tag:1}/20{tag:2} {tag:3}:{tag:4} (UTC +{tag:5}),102,-1,32,640,0,"0
+0
+0
+-1
+0",2,2,1,1,0,205,,0,1,2,1,1,0,205,,0,0,2,1,1,0,205,,0,3,2,1,1,0,205,,0,4,2,1,1,0,205,,0,5,2,1,1,0,205,,0
+80,SS_net_mystery_095,{tag:0}/{tag:1}/20{tag:2} {tag:3}:{tag:4} (UTC -{tag:5}),102,-1,32,640,0,"0
+0
+0
+-1
+0",2,2,1,1,0,205,,0,1,2,1,1,0,205,,0,0,2,1,1,0,205,,0,3,2,1,1,0,205,,0,4,2,1,1,0,205,,0,5,2,1,1,0,205,,0
+81,SS_net_mystery_097,{tag:0},56,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,43,0,0,0,,0
+82,SS_net_mystery_098,Hai ricevuto {tag:0}{tag:1}!,63,-1,42,840,0,"0
+0
+0
+-1
+0",-1,21,5,5,0,5,,3,5,1,1,0,0,0,,3
+83,SS_net_mystery_099,"Hai ricevuto il seguente strumento:
+{tag:0} ×{tag:1}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,9,0,0,0,,0,6,2,2,1,0,205,,0
+84,SS_net_mystery_100,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,9,0,0,0,,0,6,2,2,1,0,205,,0
+85,SS_net_mystery_101,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}
+{tag:2} ×{tag:3}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,9,0,0,0,,0,6,2,2,1,0,205,,0,7,1,9,0,0,0,,0,8,2,2,1,0,205,,0
+86,SS_net_mystery_102,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}
+{tag:2} ×{tag:3}
+{tag:4} ×{tag:5}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,9,0,0,0,,0,6,2,2,1,0,205,,0,7,1,9,0,0,0,,0,8,2,2,1,0,205,,0,9,1,9,0,0,0,,0,10,2,2,1,0,205,,0
+87,SS_net_mystery_103,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}
+{tag:2} ×{tag:3}
+{tag:4} ×{tag:5}
+{tag:6} ×{tag:7}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,9,0,0,0,,0,6,2,2,1,0,205,,0,7,1,9,0,0,0,,0,8,2,2,1,0,205,,0,9,1,9,0,0,0,,0,10,2,2,1,0,205,,0,11,1,9,0,0,0,,0,12,2,2,1,0,205,,0
+88,SS_net_mystery_104,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}
+{tag:2} ×{tag:3}
+{tag:4} ×{tag:5}
+{tag:6} ×{tag:7}
+{tag:8} ×{tag:9}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,9,0,0,0,,0,6,2,2,1,0,205,,0,7,1,9,0,0,0,,0,8,2,2,1,0,205,,0,9,1,9,0,0,0,,0,10,2,2,1,0,205,,0,11,1,9,0,0,0,,0,12,2,2,1,0,205,,0,13,1,9,0,0,0,,0,14,2,2,1,0,205,,0
+89,SS_net_mystery_105,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}
+{tag:2} ×{tag:3}
+{tag:4} ×{tag:5}
+{tag:6} ×{tag:7}
+{tag:8} ×{tag:9}
+{tag:10} ×{tag:11}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,9,0,0,0,,0,6,2,2,1,0,205,,0,7,1,9,0,0,0,,0,8,2,2,1,0,205,,0,9,1,9,0,0,0,,0,10,2,2,1,0,205,,0,11,1,9,0,0,0,,0,12,2,2,1,0,205,,0,13,1,9,0,0,0,,0,14,2,2,1,0,205,,0,15,1,9,0,0,0,,0,16,2,2,1,0,205,,0
+91,SS_net_mystery_106,{tag:0},56,-1,42,840,0,"0
+0
+0
+-1
+0",0,1,43,0,0,0,,0
+92,SS_net_mystery_107,"Hai ricevuto il seguente articolo:
+{tag:0}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,59,0,0,0,,0
+93,SS_net_mystery_108,"Hai ricevuto i seguenti articoli:
+{tag:0}
+{tag:1}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,59,0,0,0,,0,6,1,59,0,0,0,,0
+94,SS_net_mystery_109,"Hai ricevuto i seguenti articoli:
+{tag:0}
+{tag:1}
+{tag:2}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,59,0,0,0,,0,6,1,59,0,0,0,,0,7,1,59,0,0,0,,0
+95,SS_net_mystery_110,"Hai ricevuto i seguenti articoli:
+{tag:0}
+{tag:1}
+{tag:2}
+{tag:3}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,59,0,0,0,,0,6,1,59,0,0,0,,0,7,1,59,0,0,0,,0,8,1,59,0,0,0,,0
+96,SS_net_mystery_111,"Hai ricevuto i seguenti articoli:
+{tag:0}
+{tag:1}
+{tag:2}
+{tag:3}
+{tag:4}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,59,0,0,0,,0,6,1,59,0,0,0,,0,7,1,59,0,0,0,,0,8,1,59,0,0,0,,0,9,1,59,0,0,0,,0
+97,SS_net_mystery_112,"Hai ricevuto i seguenti articoli:
+{tag:0}
+{tag:1}
+{tag:2}
+{tag:3}
+{tag:4}
+{tag:5}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,59,0,0,0,,0,6,1,59,0,0,0,,0,7,1,59,0,0,0,,0,8,1,59,0,0,0,,0,9,1,59,0,0,0,,0,10,1,59,0,0,0,,0
+100,SS_net_mystery_315,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,22,0,0,0,,0,6,2,2,1,0,205,,0
+107,SS_net_mystery_114,Hai ricevuto: {tag:0} ,63,-1,42,840,0,"0
+0
+0
+-1
+0",5,2,5,1,0,1,,0
+108,SS_net_mystery_115,Hai ricevuto un Uovo!,63,-1,42,840,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+110,SS_net_mystery_181,Sì,50,-1,42,756,0,"0
+1
+0
+-1
+0"
+111,SS_net_mystery_182,No,50,-1,42,756,0,"0
+1
+0
+-1
+0"
+112,SS_net_mystery_306,Dono Segreto,8,-1,54,648,0,"0
+0
+0
+-1
+0"
+101,SS_net_mystery_316,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}
+{tag:2} ×{tag:3}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,22,0,0,0,,0,6,2,2,1,0,205,,0,7,1,22,0,0,0,,0,8,2,2,1,0,205,,0
+102,SS_net_mystery_317,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}
+{tag:2} ×{tag:3}
+{tag:4} ×{tag:5}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,22,0,0,0,,0,6,2,2,1,0,205,,0,7,1,22,0,0,0,,0,8,2,2,1,0,205,,0,9,1,22,0,0,0,,0,10,2,2,1,0,205,,0
+103,SS_net_mystery_318,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}
+{tag:2} ×{tag:3}
+{tag:4} ×{tag:5}
+{tag:6} ×{tag:7}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,22,0,0,0,,0,6,2,2,1,0,205,,0,7,1,22,0,0,0,,0,8,2,2,1,0,205,,0,9,1,22,0,0,0,,0,10,2,2,1,0,205,,0,11,1,22,0,0,0,,0,12,2,2,1,0,205,,0
+104,SS_net_mystery_319,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}
+{tag:2} ×{tag:3}
+{tag:4} ×{tag:5}
+{tag:6} ×{tag:7}
+{tag:8} ×{tag:9}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,22,0,0,0,,0,6,2,2,1,0,205,,0,7,1,22,0,0,0,,0,8,2,2,1,0,205,,0,9,1,22,0,0,0,,0,10,2,2,1,0,205,,0,11,1,22,0,0,0,,0,12,2,2,1,0,205,,0,13,1,22,0,0,0,,0,14,2,2,1,0,205,,0
+105,SS_net_mystery_320,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}
+{tag:2} ×{tag:3}
+{tag:4} ×{tag:5}
+{tag:6} ×{tag:7}
+{tag:8} ×{tag:9}
+{tag:10} ×{tag:11}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,22,0,0,0,,0,6,2,2,1,0,205,,0,7,1,22,0,0,0,,0,8,2,2,1,0,205,,0,9,1,22,0,0,0,,0,10,2,2,1,0,205,,0,11,1,22,0,0,0,,0,12,2,2,1,0,205,,0,13,1,22,0,0,0,,0,14,2,2,1,0,205,,0,15,1,22,0,0,0,,0,16,2,2,1,0,205,,0
+109,SS_net_mystery_321,Hai ricevuto un Uovo di Manaphy!,63,-1,42,840,0,"0
+0
+0
+-1
+0"
+66,SS_net_mystery_322,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}
+{tag:2} ×{tag:3}
+{tag:4} ×{tag:5}
+{tag:6} ×{tag:7}
+{tag:8} ×{tag:9}
+{tag:10} ×{tag:11}
+{tag:12} ×{tag:13}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,9,0,0,0,,0,6,2,2,1,0,205,,0,7,1,9,0,0,0,,0,8,2,2,1,0,205,,0,9,1,9,0,0,0,,0,10,2,2,1,0,205,,0,11,1,9,0,0,0,,0,12,2,2,1,0,205,,0,13,1,9,0,0,0,,0,14,2,2,1,0,205,,0,15,1,9,0,0,0,,0,16,2,2,1,0,205,,0,17,1,9,0,0,0,,0,18,2,2,1,0,205,,0
+74,SS_net_mystery_323,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}
+{tag:2} ×{tag:3}
+{tag:4} ×{tag:5}
+{tag:6} ×{tag:7}
+{tag:8} ×{tag:9}
+{tag:10} ×{tag:11}
+{tag:12} ×{tag:13}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,22,0,0,0,,0,6,2,2,1,0,205,,0,7,1,22,0,0,0,,0,8,2,2,1,0,205,,0,9,1,22,0,0,0,,0,10,2,2,1,0,205,,0,11,1,22,0,0,0,,0,12,2,2,1,0,205,,0,13,1,22,0,0,0,,0,14,2,2,1,0,205,,0,15,1,22,0,0,0,,0,16,2,2,1,0,205,,0,17,1,22,0,0,0,,0,18,2,2,1,0,205,,0
+90,SS_net_mystery_324,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}
+{tag:2} ×{tag:3}
+{tag:4} ×{tag:5}
+{tag:6} ×{tag:7}
+{tag:8} ×{tag:9}
+{tag:10} ×{tag:11}
+{tag:12}×{tag:13}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,9,0,0,0,,0,6,2,2,1,0,205,,0,7,1,9,0,0,0,,0,8,2,2,1,0,205,,0,9,1,9,0,0,0,,0,10,2,2,1,0,205,,0,11,1,9,0,0,0,,0,12,2,2,1,0,205,,0,13,1,9,0,0,0,,0,14,2,2,1,0,205,,0,15,1,9,0,0,0,,0,16,2,2,1,0,205,,0,17,1,9,0,0,0,,0,18,2,2,1,0,205,,0
+106,SS_net_mystery_325,"Hai ricevuto i seguenti strumenti:
+{tag:0} ×{tag:1}
+{tag:2} ×{tag:3}
+{tag:4} ×{tag:5}
+{tag:6} ×{tag:7}
+{tag:8} ×{tag:9}
+{tag:10} ×{tag:11}
+{tag:12} ×{tag:13}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,22,0,0,0,,0,6,2,2,1,0,205,,0,7,1,22,0,0,0,,0,8,2,2,1,0,205,,0,9,1,22,0,0,0,,0,10,2,2,1,0,205,,0,11,1,22,0,0,0,,0,12,2,2,1,0,205,,0,13,1,22,0,0,0,,0,14,2,2,1,0,205,,0,15,1,22,0,0,0,,0,16,2,2,1,0,205,,0,17,1,22,0,0,0,,0,18,2,2,1,0,205,,0
+98,SS_net_mystery_326,"Hai ricevuto i seguenti articoli:
+{tag:0}
+{tag:1}
+{tag:2}
+{tag:3}
+{tag:4}
+{tag:5}
+{tag:6}",63,-1,42,840,0,"0
+0
+0
+-1
+0",5,1,59,0,0,0,,0,6,1,59,0,0,0,,0,7,1,59,0,0,0,,0,8,1,59,0,0,0,,0,9,1,59,0,0,0,,0,10,1,59,0,0,0,,0,11,1,59,0,0,0,,0

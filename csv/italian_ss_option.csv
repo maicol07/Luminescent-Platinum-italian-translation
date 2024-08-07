@@ -1,0 +1,482 @@
+0,SS_option_000,Ok,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+1,SS_option_001,Velocità testo,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+2,SS_option_002,Lenta,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+3,SS_option_003,Normale,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+4,SS_option_004,Veloce,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+5,SS_option_005,Scegli la velocità di scorrimento del testo.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+6,SS_option_006,Animazioni,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+7,SS_option_007,Sì,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+8,SS_option_008,No,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+9,SS_option_009,"Scegli se vuoi vedere le animazioni durante
+le lotte.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+10,SS_option_010,Pokémon in lotta,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+11,SS_option_011,Chiedi se sostituire,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+12,SS_option_012,Non sostituire,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+13,SS_option_013,"Scegli se avere la possibilità di sostituire
+il tuo Pokémon quando il nemico va KO.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+14,SS_option_014,Caratteri,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+15,SS_option_015,Hiragana,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+16,SS_option_016,Kanji,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+17,SS_option_017,Scegli come visualizzare i caratteri giapponesi.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+18,SS_option_022,Invio automatico ai Box,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+19,SS_option_023,No,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+20,SS_option_024,Sì,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+21,SS_option_025,"Scegli se inviare automaticamente ai Box il Pokémon
+catturato quando la tua squadra è al completo.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+22,SS_option_026,Vuoi salvare le modifiche?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+23,SS_option_027,Sì,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+24,SS_option_028,No,50,-1,42,756,0,"0
+0
+0
+-1
+0"
+25,SS_option_029,Opzioni,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+26,SS_option_030,Giroscopio,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+27,SS_option_031,Usa,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+28,SS_option_032,Non usare,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+29,SS_option_033,"Scegli se usare i sensori di movimento dei
+Joy-Con per impartire i comandi in certi posti.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+30,SS_option_034,Salvataggio automatico,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+31,SS_option_035,Scegli se attivare il salvataggio automatico.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+64,SS_option_079,Cambia cornice,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+65,SS_option_080,Tipo 1,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+32,SS_option_040,Musica,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+33,SS_option_041,Regola il volume della musica di sottofondo.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+34,SS_option_042,Effetti sonori,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+35,SS_option_043,Regola il volume degli effetti sonori.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+36,SS_option_044,Versi Pokémon,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+37,SS_option_045,Regola il volume dei versi dei Pokémon.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+38,SS_option_047,Vuoi ripristinare le impostazioni predefinite?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+39,SS_option_048,Sì,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+40,SS_option_049,No,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+41,SS_option_050,Conferma ed esci,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+42,SS_option_051,Indietro,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+43,SS_option_052,Sì,81,-1,32,224,0,"0
+0
+0
+-1
+0"
+44,SS_option_053,No,81,-1,32,224,0,"0
+0
+0
+-1
+0"
+45,SS_option_054,Predefinite,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+46,SS_option_055,Vuoi applicare le modifiche?,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+47,SS_option_056,{callback:10.0:Le opzioni sono state modificate.}{callback:0.0:},0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+48,SS_option_060,{tag:0},148,-1,42,168,0,"0
+0
+0
+-1
+0",0,2,2,1,0,205,,0
+49,SS_option_061,Telecamera (verticale),42,-1,42,504,0,"0
+0
+0
+-1
+0"
+50,SS_option_062,Normale,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+51,SS_option_063,Invertita,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+52,SS_option_064,"Permette di invertire i comandi per lo spostamento
+della telecamera lungo l’asse verticale.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+53,SS_option_065,Telecamera (orizzontale),42,-1,42,504,0,"0
+0
+0
+-1
+0"
+54,SS_option_066,"Permette di invertire i comandi per lo spostamento
+della telecamera lungo l’asse orizzontale.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+55,SS_option_067,Visualizza soprannomi,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+56,SS_option_068,Sì,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+57,SS_option_069,No,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+58,SS_option_070,"Scegli se visualizzare o meno i soprannomi dei
+Pokémon dell’avversario durante le lotte in link.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+59,SS_option_071,Dai soprannomi,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+60,SS_option_072,Sì,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+61,SS_option_073,No,37,-1,42,294,0,"0
+0
+0
+-1
+0"
+62,SS_option_074,"Scegli se avere la possibilità di dare un
+soprannome a un Pokémon quando lo ottieni.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+63,SS_option_077,"Connessione non riuscita.
+Riprova più tardi.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+66,SS_option_081,Tipo 2,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+67,SS_option_082,Tipo 3,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+68,SS_option_083,Tipo 4,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+69,SS_option_084,Tipo 5,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+70,SS_option_085,Tipo 6,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+71,SS_option_086,Tipo 7,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+72,SS_option_087,Tipo 8,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+73,SS_option_088,Tipo 9,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+74,SS_option_089,Tipo 10,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+75,SS_option_090,Tipo 11,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+76,SS_option_091,Tipo 12,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+77,SS_option_092,Tipo 13,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+78,SS_option_093,Tipo 14,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+79,SS_option_094,Tipo 15,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+80,SS_option_095,Tipo 16,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+81,SS_option_096,Tipo 17,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+82,SS_option_097,Tipo 18,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+83,SS_option_098,Tipo 19,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+84,SS_option_099,Tipo 20,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+89,SS_option_100,Scegli il tipo di cornice per i riquadri di testo.,0,-1,54,1080,0,"0
+0
+0
+-1
+0"
+85,SS_option_101,Tipo 21,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+86,SS_option_102,Tipo 22,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+87,SS_option_103,Tipo 23,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+88,SS_option_104,Tipo 24,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+90,SS_option_105,Vibrazione ricerca tesori,42,-1,42,504,0,"0
+0
+0
+-1
+0"
+91,SS_option_106,Sì,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+92,SS_option_107,No,39,-1,42,420,0,"0
+0
+0
+-1
+0"
+93,SS_option_108,"Scegli se far vibrare lo schermo durante
+la ricerca dei tesori.",0,-1,54,1080,0,"0
+0
+0
+-1
+0"

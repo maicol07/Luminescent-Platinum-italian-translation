@@ -1,0 +1,1916 @@
+0,DLP_adventure_note_001_00,La tua avventura ha inizio,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+1,DLP_adventure_note_001_01,"Sta per avere inizio una grande avventura nel mondo
+dei Pokémon di cui tu sarai protagonista!",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+2,DLP_adventure_note_001_02,"Nelle città, nelle case, lungo i percorsi, tra l’erba alta
+e persino nelle grotte e nei boschi... Ovunque andrai,
+incontrerai sempre delle persone. Parla con loro,
+perché potrebbero darti informazioni preziose!",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+3,DLP_adventure_note_001_03,"Aiuta chi si trova in difficoltà e risolvi i misteri in cui
+ti imbatterai, e vedrai che ti si apriranno nuove strade.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+4,DLP_adventure_note_001_04,"A volte, lungo il cammino, ti troverai ad affrontare
+altri Allenatori o Pokémon selvatici, ma è proprio
+superando questi ostacoli che tu e la tua squadra
+diventerete sempre più forti.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+5,DLP_adventure_note_001_05,"Tuttavia, la tua avventura sarà molto più che
+una semplice prova di forza.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+6,DLP_adventure_note_001_06,"Questo meraviglioso viaggio ti porterà a conoscere
+tantissime persone, e ti permetterà di vivere
+un’esperienza importante che ti farà crescere.
+È questo il vero, grande scopo della tua avventura.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+7,DLP_adventure_note_002_00,Nuove features,12,-1,54,756,0,"-1
+0
+0
+-1
+0"
+8,DLP_adventure_note_002_01,"Usando il PC ora potrai modificare queste opzioni:
+{pageend:■ Cambiare i tuoi vestiti.}
+{pageend:■ Attivare o disattivare il condividi esperienza.}
+■ Attivare o disattivare l’amicizia con i pokemon
+{pageend:(non influisce sulle evoluzioni tramite felicità).}
+{pageend:■ Attivare o disattivare il livello massimo a 100.}
+Puoi cambiare queste impostazioni da ogni PC
+presente nel gioco.",67,-1,42,924,0,"-1
+0
+0
+-1
+0"
+10,DLP_adventure_note_003_00,Il menu principale,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+11,DLP_adventure_note_003_01,"Premi il <color=#F01E1EFF>pulsante X </color>per aprire il <color=#F01E1EFF>menu principale</color>.
+All’interno troverai la <color=#F01E1EFF>Borsa </color>da cui puoi selezionare
+gli strumenti che vuoi usare. Per <color=#F01E1EFF>salvare i progressi</color>,
+invece, ti basterà premere il <color=#F01E1EFF>pulsante R</color>, sempre
+dal <color=#F01E1EFF>menu principale</color>. Man mano che avanzerai nella
+tua avventura, il gioco si arricchirà di nuove funzioni.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+12,DLP_adventure_note_004_00,Il Pokédex,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+13,DLP_adventure_note_004_01,"Il Professor Rowan ti ha affidato una missione
+importante: completare il <color=#F01E1EFF>Pokédex</color>. Tutti i dati dei
+Pokémon che incroceranno il tuo cammino verranno
+registrati automaticamente e potranno essere
+consultati nella sezione <color=#F01E1EFF>Pokédex </color>del menu principale.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+14,DLP_adventure_note_004_02,"Lì potrai controllare una varietà di informazioni
+sui Pokémon come la categoria, l’aspetto, il tipo,
+i particolari sul loro sesso e molto altro.
+Inoltre, nella sezione dedicata all’habitat, potrai
+farti un’idea su dove è possibile trovarli.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+15,DLP_adventure_note_004_03,"Nella sezione ""Animazione e verso"", puoi ascoltare
+i versi caratteristici dei Pokémon. Muovi il Joy-Con
+in modi diversi per ascoltare tutte le varianti, dal tono
+più attenuato fino a un coro di voci.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+16,DLP_adventure_note_005_00,I Centri Pokémon,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+17,DLP_adventure_note_005_01,"I <color=#F01E1EFF>Centri Pokémon</color> si trovano un po’ ovunque a Sinnoh
+e sono facilmente riconoscibili grazie al caratteristico
+tetto rosso. Ti saranno utili per rimettere in sesto la
+tua squadra.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+18,DLP_adventure_note_005_02,"Al loro interno troverai dei <color=#F01E1EFF>PC </color>che ti permetteranno
+di depositare i tuoi Pokémon nei <color=#F01E1EFF>Box</color>. I Pokémon
+depositati potranno essere ritirati dal <color=#F01E1EFF>PC </color>di qualsiasi
+<color=#F01E1EFF>Centro Pokémon</color> della regione.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+19,DLP_adventure_note_006_00,I Box Pokémon,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+20,DLP_adventure_note_006_01,"Grazie ai <color=#F01E1EFF>Box Pokémon</color> puoi spostare liberamente
+i Pokémon in squadra e quelli che hai affidato ai PC
+dei Centri Pokémon. Per usarli, visualizza
+la lista dei <color=#F01E1EFF>Pokémon </color>dal menu principale e premi
+il <color=#F01E1EFF>pulsante R</color>.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+21,DLP_adventure_note_007_00,Il PokéKron,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+22,DLP_adventure_note_007_01,"Nella sua pratica versione aggiornata, il <color=#F01E1EFF>PokéKron</color>
+è un compagno d’avventure irrinunciabile per ogni
+Allenatore. È dotato di Orologio digitale, Calcolatrice
+e altre comodissime applicazioni.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+23,DLP_adventure_note_007_02,"Premi il <color=#F01E1EFF>pulsante R</color> per accedervi. Premi ancora
+il <color=#F01E1EFF>pulsante R</color> per ingrandire o rimpicciolire lo schermo.
+Usa lo <color=#F01E1EFF>stick sinistro</color> per spostare il cursore e premi
+il <color=#F01E1EFF>pulsante A </color>o tocca lo schermo per controllare
+l’applicazione. Tramite il <color=#F01E1EFF>pulsante rosso</color> a destra
+puoi cambiare applicazione. Per chiudere il PokéKron,
+tieni premuto il <color=#F01E1EFF>pulsante R</color>.",67,-1,42,924,0,"0
+0
+0
+-1
+0"
+24,DLP_adventure_note_007_03,"Interagendo con le persone che incontrerai durante
+il tuo viaggio, potrai via via aumentare il numero
+di applicazioni a tua disposizione. Alcune applicazioni
+ti saranno indispensabili per il proseguimento
+del gioco, quindi non lasciare inesplorato nessun
+angolo della regione!",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+26,DLP_adventure_note_008_00,Le mosse MN,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+27,DLP_adventure_note_008_01,"A volte potrai aver bisogno di liberarti di alberi e
+rocce che intralciano la via, o magari di tornare
+in un luogo che hai già visitato. In momenti come
+questi, usa l’applicazione <color=#F01E1EFF>Mosse MN</color> del <color=#F01E1EFF>PokéKron
+</color>e un Pokémon selvatico accorrerà in tuo aiuto.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+28,DLP_adventure_note_008_02,"Quando entri in possesso di determinate MT, le mosse
+che contengono verranno aggiunte all’applicazione
+<color=#F01E1EFF>Mosse MN </color>del <color=#F01E1EFF>PokéKron</color>. L’uso di queste mosse
+dal PokéKron, però, è condizionato all’ottenimento
+di Medaglie nelle Palestre della regione.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+30,DLP_adventure_note_009_00,La pesca,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+31,DLP_adventure_note_009_01,"Lanciando un <color=#F01E1EFF>Amo </color>in acqua, potrai darti alla <color=#F01E1EFF>pesca</color>
+di Pokémon. Quando vedrai apparire il simbolo ""!"",
+saprai che qualcosa ha abboccato e ti basterà
+premere il <color=#F01E1EFF>pulsante A </color>per tirarlo su. Prova a pescare
+in più luoghi per catturare Pokémon differenti!",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+32,DLP_adventure_note_010_00,La Bicicletta,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+33,DLP_adventure_note_010_01,"Nella tasca degli <color=#F01E1EFF>strumenti base</color> della <color=#F01E1EFF>Borsa </color>troverai
+la <color=#F01E1EFF>Bicicletta</color>. Usala ogni volta che ne avrai bisogno,
+ma ricorda: benché ti permetta di passare facilmente
+su piccoli tronchi, non potrai usarla per attraversare
+aree ricoperte dall’erba alta.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+34,DLP_adventure_note_010_02,"Mentre pedali, puoi cambiare le marce della <color=#F01E1EFF>Bicicletta</color>
+tramite il <color=#F01E1EFF>pulsante B</color>. Con la prima marcia potrai
+correre e avere il totale controllo del veicolo. Con la
+seconda, invece, potrai sfrecciare, riuscendo persino
+a sprintare sulle dune e a superarle.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+36,DLP_adventure_note_011_00,Andare a spasso con i Pokémon,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+37,DLP_adventure_note_011_01,"Puoi sempre goderti una passeggiata con i tuoi
+Pokémon all’interno del Parco Concordia, e non solo!
+Dalla sezione <color=#F01E1EFF>Pokémon </color>del menu principale, seleziona
+""<color=#F01E1EFF>Portalo a spasso</color>"" se vuoi che il tuo Pokémon
+preferito ti segua mentre cammini.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+38,DLP_adventure_note_012_00,La preparazione dei poffin,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+39,DLP_adventure_note_012_01,"I <color=#F01E1EFF>poffin </color>sono pasticcini a base di <color=#F01E1EFF>bacche </color>da dare
+ai Pokémon. Puoi prepararli nel Parco Concordia
+o alla Casa del poffin di <color=#F01E1EFF>Cuoripoli</color>.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+40,DLP_adventure_note_012_02,"Metti nella pentola un massimo di quattro <color=#F01E1EFF>bacche </color>e
+mescola l’impasto, facendo attenzione a non bruciarlo
+e a non farlo traboccare. Otterrai <color=#F01E1EFF>poffin</color> diversi
+a seconda delle <color=#F01E1EFF>bacche </color>che abbini e dal modo
+in cui mescoli il tutto.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+41,DLP_adventure_note_012_03,"Una volta pronti, puoi dare i <color=#F01E1EFF>poffin </color>a un Pokémon
+per esaltarne virtù come, ad esempio, la Classe o
+la Grazia, e aumentare le sue possibilità di ottenere
+valutazioni strabilianti nelle Super Gare-show.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+42,DLP_adventure_note_013_00,Le Super Gare-show,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+43,DLP_adventure_note_013_01,"Nell’<color=#F01E1EFF>Arena delle Virtù </color>di <color=#F01E1EFF>Cuoripoli </color>potrai prendere
+parte alle <color=#F01E1EFF>Super Gare-show</color>.
+Si tratta di competizioni in cui quattro Pokémon si
+esibiscono per aggiudicarsi il titolo di performance
+migliore, rivaleggiando in personalità, danza e mosse.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+44,DLP_adventure_note_013_02,"Nella Valutazione della personalità i riflettori vengono
+puntati sullo stile. Per fare incetta di punti, puoi
+accrescere le virtù del tuo Pokémon con un poffin o
+decorare la sua capsula con i bolli.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+45,DLP_adventure_note_013_03_01,"La Valutazione della danza, invece, giudica il senso
+del ritmo. Tutto sta nel premere il <color=#F01E1EFF>pulsante A </color>a tempo
+con le note che scorrono sullo schermo seguendo
+la musica. Dai il meglio di te per puntare a ottenere
+un punteggio ""Favoloso"", ossia la valutazione massima.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+46,DLP_adventure_note_013_03_02,"La Valutazione della danza, invece, giudica il senso
+del ritmo. Tutto sta nel premere il <color=#F01E1EFF>pulsante A</color> a tempo
+con le note che scorrono sullo schermo seguendo
+la musica. Dai il meglio di te per puntare a ottenere
+un punteggio ""Stellare"", ossia la valutazione massima.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+47,DLP_adventure_note_013_04,"Nella Valutazione della mossa l’attenzione si focalizza
+sulle mosse Gara. Queste mosse possono avere diversi
+effetti e possono essere usate <color=#F01E1EFF>una sola volta </color>durante
+l’esibizione. Scegline una al momento dell’iscrizione.
+E ricorda: il trucco è sfoggiare la mossa al momento
+giusto!",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+48,DLP_adventure_note_013_05,"Lo scopo delle <color=#F01E1EFF>Super Gare-show</color> non è solo
+contendersi il titolo della performance migliore.
+L’obiettivo, infatti, è anche collaborare per far sì
+che lo show sia un successo. Se riuscissi a mandare
+il pubblico in visibilio, potresti aumentare il livello
+dell’arena e renderla ancora più spettacolare!",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+49,DLP_adventure_note_014_00,Cambiare il look,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+50,DLP_adventure_note_014_01,"Nell’<color=#F01E1EFF>Angolo del look Il Metronomo </color>di <color=#F01E1EFF>Rupepoli </color>puoi
+divertirti a comprare abiti e a cambiare look.
+Inventa uno stile tutto tuo come e quando ti va!",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+51,DLP_adventure_note_015_00,L’Esplorokit,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+52,DLP_adventure_note_015_01,"L’<color=#F01E1EFF>Esplorokit </color>ti servirà per accedere ai Grandi
+Sotterranei e, ogni volta che ne avrai bisogno,
+lo troverai nella tasca degli <color=#F01E1EFF>strumenti base
+</color>della <color=#F01E1EFF>Borsa</color>. Ricorda però che in alcuni luoghi, come
+stanze e ambienti chiusi, non ti sarà possibile usarlo.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+54,DLP_adventure_note_016_00,I Grandi Sotterranei,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+55,DLP_adventure_note_016_01,"I <color=#F01E1EFF>Grandi Sotterranei </color>sono un’enorme rete di cunicoli
+che si estende al di sotto dell’intera Sinnoh.
+Si suddividono in diverse aree, tutte accessibili
+con l’<color=#F01E1EFF>Esplorokit </color>da luoghi diversi.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+56,DLP_adventure_note_016_02,"Ci sono dei luoghi nei <color=#F01E1EFF>Grandi Sotterranei</color>, i cosiddetti
+<color=#F01E1EFF>Rifugi di Pokémon</color>, in cui i Pokémon tendono a
+radunarsi. I Pokémon che potrai incontrare in questi
+luoghi cambiano in base all’ampiezza del rifugio e alla
+conformazione del terreno, quindi fai leva su tutto
+il tuo spirito esplorativo e scandaglia ogni angolo!",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+57,DLP_adventure_note_016_03,"In alcuni tratti dei cunicoli potrai scavare nelle pareti
+per estrarre <color=#F01E1EFF>tesori</color>. Premi il <color=#F01E1EFF>pulsante R</color> per attivare
+il radar e illuminare i punti in cui è possibile scavare.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+58,DLP_adventure_note_016_04,"Nei <color=#F01E1EFF>Grandi Sotterranei</color> puoi anche allestire la tua
+<color=#F01E1EFF>Base Segreta </color>personale. Ti basterà semplicemente
+puntare al muro la <color=#F01E1EFF>Trivella</color> per crearne una all’istante,
+che potrai decorare con statue o come più ti piace.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+59,DLP_adventure_note_017_00,La ricerca di tesori,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+60,DLP_adventure_note_017_01,"Mentre sei <color=#F01E1EFF>in cerca di tesori</color>, può capitarti di trovare
+fossili e altri strumenti. Man mano che scavi, creerai
+fenditure che diventeranno via via più grandi e che
+alla fine causeranno il crollo della parete, quindi fai
+attenzione!",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+61,DLP_adventure_note_017_02,"Per scavare in maniera efficiente, usa con astuzia
+gli strumenti a tua disposizione. La <color=#F01E1EFF>piccozza </color>ha
+un’area di scavo ridotta, ma proprio per questo
+limita la grandezza delle fenditure che crei.
+Il <color=#F01E1EFF>martello</color>, invece, produce fenditure più profonde,
+ma ti dà un’area di scavo più ampia.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+62,DLP_adventure_note_017_03,"Alcune pareti sono più dure di altre, ed è facile
+capirlo dalla grandezza e dal colore delle loro pietre.
+Inoltre, è bene tenere a mente che non tutte le pareti
+possono essere scavate in profondità.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+63,DLP_adventure_note_017_04,"A volte nelle pareti troverai degli scrigni. Questi
+scrigni contengono delle statue che puoi usare per
+decorare la tua Base Segreta e che possono avere
+degli effetti molto, molto particolari.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+64,DLP_adventure_note_018_00,I Rifugi di Pokémon,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+65,DLP_adventure_note_018_01,"I <color=#F01E1EFF>Rifugi di Pokémon </color>sono spazi in cui i Pokémon si
+riuniscono in pace e tranquillità e, a differenza di
+quando sono in superficie, non sentono la necessità
+di nascondersi. Ma fa’ attenzione: se entri in contatto
+con uno di loro, parte la sfida!",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+66,DLP_adventure_note_018_02,"Questi rifugi sono caratterizzati da ambienti molto
+diversi tra loro. Ad esempio, possono trovarsi in
+luoghi sabbiosi o in lagune sotterranee, e i Pokémon
+che vi incontrerai cambieranno di conseguenza.
+Anche la grandezza dei rifugi è variabile. I Pokémon
+di grossa taglia tendono a preferire quelli più spaziosi.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+67,DLP_adventure_note_019_00,La Base Segreta,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+68,DLP_adventure_note_019_01,"Nella tua <color=#F01E1EFF>Base Segreta</color> puoi posizionare le <color=#F01E1EFF>statue
+</color>che hai ottenuto.
+Puoi anche scegliere di piazzare le <color=#F01E1EFF>statue </color>sopra
+delle basi.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+69,DLP_adventure_note_019_02,"Le <color=#F01E1EFF>statue </color>sembrano influenzare le specie e il numero
+di Pokémon che puoi incontrare nei <color=#F01E1EFF>Rifugi
+di Pokémon</color>, quindi prova a posizionarne diverse
+per scoprire gli effetti che sortiscono.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+70,DLP_adventure_note_019_03,"Ti sarà anche possibile ampliare la tua <color=#F01E1EFF>Base Segreta</color>.
+Più la ingrandirai, più <color=#F01E1EFF>statue </color>potrai piazzare al suo
+interno.
+Per farlo, avrai bisogno delle <color=#F01E1EFF>bilie</color>, che potrai
+ottenere scavando in cerca di tesori.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+71,DLP_adventure_note_019_04,"Entrando nei <color=#F01E1EFF>Grandi Sotterranei</color> con la funzione di
+comunicazione attivata, potrai imbatterti nelle <color=#F01E1EFF>Basi
+Segrete</color> di altri giocatori. Tramite il <color=#F01E1EFF>menu </color>di queste
+basi, potrai azionare le <color=#F01E1EFF>statue </color>che sono all’interno.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+72,DLP_adventure_note_020_00,Parco Ribelle,12,-1,54,756,0,"-1
+0
+0
+-1
+0"
+73,DLP_adventure_note_020_01,"Situato alla fine del
+{pageend:<color=#F01E1EFF>}
+{pageend:Percorso 221}
+{pageend:</color>}
+{pageend:,}
+{pageend:il}
+{pageend:<color=#F01E1EFF>}
+{pageend:Parco Ribelle}
+{pageend:</color>}
+{pageend:è}
+visitato da Allenatori e Pokémon provenienti da
+{pageend:ogni dove.}
+{pageend:Si dice che l'abbondanza di rose in fiore nel}
+Parco Ribelle attiri coloro che possiedono
+{pageend:grande forza,}
+come avviene sin dai tempi antichi della regione di
+Sinnoh.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+74,DLP_adventure_note_020_02,"I <color=#F01E1EFF>
+{pageend:Frammenti Misteriosi}
+{pageend:</color>}
+{pageend:che trovi scavando nel}
+{pageend:Gran Sottoterra possono essere scambiati per}
+{pageend:<color=#F01E1EFF>}
+{pageend:tavolette}
+{pageend:</color>}
+{pageend:.}
+{pageend:Puoi poi usare queste tavolette in varie stanze}
+{pageend:nel}
+{pageend:<color=#F01E1EFF>}
+{pageend:Parco Ribelle}
+{pageend:</color>}
+.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+75,DLP_adventure_note_020_03,"Ogni stanza del
+{pageend:<color=#F01E1EFF>}
+{pageend:Parco Ribelle}
+{pageend:</color>}
+{pageend:contiene un}
+{pageend:<color=#F01E1EFF>}
+{pageend:piedistallo}
+{pageend:</color>}
+{pageend:.}
+{pageend:Se usi la}
+{pageend:<color=#F01E1EFF>}
+{pageend:tavoletta}
+{pageend:</color>}
+{pageend:che corrisponde a un dato piedistallo,}
+{pageend:potresti trovarti in uno spazio misterioso.}
+{pageend:In questi spazi, puoi incontrare}
+{pageend:<color=#F01E1EFF>}
+{pageend:Pokémon Leggendari}
+{pageend:</color>}
+!",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+76,DLP_adventure_note_021_00,La Sala contatto,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+77,DLP_adventure_note_021_01a,"Nella <color=#F01E1EFF>Sala contatto</color> potrai scambiare Pokémon o
+partecipare a delle lotte con altri Allenatori tramite
+la comunicazione locale o Internet. Puoi accedervi
+da un <color=#F01E1EFF>Centro Pokémon</color>.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+80,DLP_adventure_note_021_02,"Per giocare con giocatori nelle tue vicinanze, dovrai
+attivare la comunicazione locale che ti darà accesso
+alla <color=#F01E1EFF>Sala locale</color>. Connettendoti a Internet, invece, ti
+verranno aperte le porte della <color=#F01E1EFF>Sala globale</color> e potrai
+giocare con giocatori da tutto il mondo.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+82,DLP_adventure_note_022_00,La SPG,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+83,DLP_adventure_note_022_01,"Nella <color=#F01E1EFF>Stazione Prodigiosa Globale</color> di <color=#F01E1EFF>Giubilopoli
+</color>potrai effettuare <color=#F01E1EFF>scambi prodigiosi</color> con giocatori
+da tutto il mondo. Il bello sta nello scoprire quale
+Pokémon hai ricevuto solo a scambio concluso!",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+84,DLP_adventure_note_022_02,"I Pokémon che scambi vengono registrati su
+un mappamondo chiamato Geonet. Effettuando
+una certa quantità di <color=#F01E1EFF>scambi prodigiosi</color>, potrai creare
+la tua mappa personale della distribuzione dei
+Pokémon che hai ricevuto nel mondo!",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+86,DLP_adventure_note_023_00,La Gran Palude,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+87,DLP_adventure_note_023_01,"Nella <color=#F01E1EFF>Gran Palude </color>di <color=#F01E1EFF>Pratopoli </color>potrai divertirti
+con il <color=#F01E1EFF>Gioco Safari</color>. Per catturare i Pokémon che
+la popolano ti serviranno le <color=#F01E1EFF>Safari Ball</color>, un tipo
+di Poké Ball speciale pensato per questo scopo.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+88,DLP_adventure_note_023_02,"All’inizio del gioco riceverai <color=#F01E1EFF>30 Safari Ball</color>.
+Il divertimento terminerà all’esaurirsi delle <color=#F01E1EFF>Safari Ball
+</color>a tua disposizione o quando avrai percorso <color=#F01E1EFF>500 passi</color>.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+89,DLP_adventure_note_023_03,"Prova a sbirciare dai binocoli situati al primo piano
+dell’<color=#F01E1EFF>entrata dell’Osservatorio</color>. Scoprirai come sono
+distribuiti i vari Pokémon che abitano la <color=#F01E1EFF>Gran Palude</color>.
+E chissà, potresti anche adocchiare Pokémon
+introvabili altrove!",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+90,DLP_adventure_note_024_00,I bolli e la funzione DecoraBall,12,-1,54,756,0,"0
+0
+0
+-1
+0"
+91,DLP_adventure_note_024_01,"Per aggiungere effetti speciali all’entrata in scena
+del tuo Pokémon preferito, decora la capsula della
+sua Poké Ball con i <color=#F01E1EFF>bolli</color>!",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+92,DLP_adventure_note_024_02,"Puoi scegliere tra una varietà di <color=#F01E1EFF>bolli</color>, tutti con effetti
+differenti. Alcuni rilasciano intorno un’ondata di cuori,
+altri invece sprigionano una miriade di coriandoli.
+E non solo: la Poké Ball si aprirà in modi diversi
+in base a come posizioni i <color=#F01E1EFF>bolli</color>.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+93,DLP_adventure_note_024_03,"Per applicare i <color=#F01E1EFF>bolli </color>su una capsula, ti basterà
+selezionare l’opzione ""<color=#F01E1EFF>DecoraBall</color>""<color=#F01E1EFF> </color>del menu
+principale. Posiziona i <color=#F01E1EFF>bolli </color>dove più ti piace,
+scegliendo tra modalità 2D e modalità 3D.
+La Poké Ball decorata potrà essere assegnata
+al Pokémon che preferisci.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+94,DLP_adventure_note_uitext_001,{tag:0}/{tag:1},168,-1,32,192,0,"0
+0
+0
+-1
+0",0,2,1,1,0,205,,0,1,2,1,1,0,205,,0
+95,DLP_adventure_note_uitext_002,Avanti,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+96,DLP_adventure_note_uitext_003,Chiudi,83,-1,32,320,0,"0
+0
+0
+-1
+0"
+9,DLP_adventure_note_002_simplified,"Qui verranno registrate informazioni utili per la tua
+avventura. Puoi consultarle accedendo alla tasca
+degli strumenti base nella Borsa.",27,-1,54,1188,0,"0
+0
+0
+-1
+0"
+25,DLP_adventure_note_007_simplified,"Puoi attivare il PokéKron premendo il pulsante R
+e usare le applicazioni toccando lo schermo.
+Per chiuderlo tieni premuto il pulsante R.",27,-1,54,1188,0,"0
+0
+0
+-1
+0"
+29,DLP_adventure_note_008_simplified,"Puoi usare le mosse MN tramite l’applicazione del
+PokéKron apposita. Queste mosse ti permettono
+di rimuovere gli ostacoli che intralciano il cammino.",27,-1,54,1188,0,"0
+0
+0
+-1
+0"
+35,DLP_adventure_note_010_simplified,"Puoi salire in Bicicletta accedendo alla tasca degli
+strumenti base della Borsa. Cambia la marcia con
+il pulsante B per andare più veloce.",27,-1,54,1188,0,"0
+0
+0
+-1
+0"
+53,DLP_adventure_note_015_simplified,"Usa l’Esplorokit che trovi nella tasca strumenti base
+della Borsa per andare nei Grandi Sotterranei.",27,-1,54,1188,0,"0
+0
+0
+-1
+0"
+79,DLP_adventure_note_021_01b,"In una <color=#F01E1EFF>Sala contatto </color>potrai scambiare Pokémon con
+altri giocatori nelle vicinanze tramite la comunicazione
+locale. Puoi accedervi da un <color=#F01E1EFF>Centro Pokémon</color>.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+81,DLP_adventure_note_021_simplified,"Vai in un Centro Pokémon e accedi alla Sala contatto
+per interagire con altri giocatori.",27,-1,54,1188,0,"0
+0
+0
+-1
+0"
+85,DLP_adventure_note_022_simplified,"Nella SPG potrai fare scambi prodigiosi e creare
+il tuo mappamondo personale!",27,-1,54,1188,0,"0
+0
+0
+-1
+0"
+78,DLP_adventure_note_021_01a_patch1,"Nella <color=#F01E1EFF>Sala contatto</color> potrai scambiare Pokémon
+con altri Allenatori tramite la comunicazione locale
+o Internet. Puoi accedervi da un <color=#F01E1EFF>Centro Pokémon</color>.",66,-1,42,924,0,"0
+0
+0
+-1
+0"
+97,DLP_adventure_note_025_00,Bruciatore di incenso,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+98,DLP_adventure_note_025_simplified,"Questo oggetto attivabile ti permette di
+{pageend:incontrare ulteriori}
+{pageend:<color=#F01E1EFF>Pokémon Regionali</color>!}
+{pageend:Scegliere un fiore è per Luminescent 3.0 quando}
+tutte le regioni precedenti saranno disponibili in
+{pageend:natura.}
+Visita luminescent.team per maggiori dettagli.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+99,DLP_adventure_note_025_01,"Questo oggetto attivabile ti permette di
+{pageend:incontrare ulteriori}
+{pageend:<color=#F01E1EFF>Pokémon Regionali</color>!}
+Scegliere un fiore è per Luminescent 3.0, quando
+{pageend:tutte}
+{pageend:le regioni precedenti saranno disponibili.}
+{pageend:Nella build attuale, tutti i fiori portano agli stessi}
+{pageend:incontri. I Pokémon ""Regionali"" includono tutto}
+fino alla generazione 4 che ha forme regionali o
+{pageend:evoluzioni}
+regionali (Braviary non è nella generazione 4, quindi
+{pageend:non c'è}
+{pageend:Braviary o Braviary di Hisui).}
+{pageend:Maggiori informazioni sono disponibili su}
+https://luminescent.team/.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+100,DLP_adventure_note_026_00,Ricordamosse,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+101,DLP_adventure_note_026_simplified,"Il <color=#F01E1EFF>Ricordamosse</color> è ora nel
+{pageend:menu della tua squadra!}
+{pageend:Appare solo se il Pokémon ha cinque o più}
+mosse nella sua memoria e include le MN che
+{pageend:possiedi.}
+(Chissà cosa sta facendo ora il
+<color=#F01E1EFF>vecchio Ricordamosse</color>?)",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+102,DLP_adventure_note_026_01,"Il <color=#F01E1EFF>Ricordamosse</color> è ora nel
+{pageend:menu della tua squadra!}
+{pageend:Appare solo se il Pokémon può conoscere più}
+{pageend:di quattro mosse e la selezione include tutte}
+{pageend:le MT nel tuo inventario.}
+{pageend:La cancellazione delle mosse deve ancora essere}
+{pageend:effettuata a Canalipoli.}
+(Se il Ricordamosse è qui... chissà cosa sta facendo
+{pageend:il}
+<color=#F01E1EFF>vecchio Ricordamosse</color>?)",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+103,DLP_adventure_note_027_00,Soprannomi,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+104,DLP_adventure_note_027_simplified,"Puoi cambiare il <color=#F01E1EFF>Soprannome</color>
+{pageend:del tuo Pokémon in qualsiasi}
+{pageend:momento dal menu della squadra!}
+{pageend:Se l'opzione non è presente, potresti avere}
+un'installazione difettosa.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+105,DLP_adventure_note_027_01,"Puoi cambiare il <color=#F01E1EFF>Soprannome</color>
+{pageend:del tuo Pokémon in qualsiasi}
+{pageend:momento dal menu della squadra!}
+{pageend:Se l'opzione non è presente, potresti avere}
+un'installazione difettosa.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+106,DLP_adventure_note_028_00,Giudica IV,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+107,DLP_adventure_note_028_simplified,"Puoi vedere gli <color=#F01E1EFF>IV</color> del tuo
+{pageend:Pokémon in qualsiasi momento}
+{pageend:dal PC! Premi + per vedere i valori numerici.}
+Questo funziona anche con la funzione ""PC
+{pageend:Ovunque""}
+tramite il menu della squadra.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+108,DLP_adventure_note_028_01,"Puoi vedere gli <color=#F01E1EFF>IV</color> del tuo
+{pageend:Pokémon in qualsiasi momento}
+{pageend:dal PC! Premi + per vedere i valori numerici.}
+{pageend:}
+Questo funziona anche con la funzione ""PC
+{pageend:Ovunque"" tramite}
+{pageend:il menu della squadra.}
+{pageend:}
+Nota che le statistiche indicate come
+{pageend:""Allenamento Pro"" non}
+vengono trasmesse durante l'allevamento.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+109,DLP_adventure_note_029_00,Caramella rara infinita,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+110,DLP_adventure_note_029_simplified,"Queste <color=#F01E1EFF>Caramelle Rare
+{pageend:infinite</color>}
+{pageend:ti porteranno ovunque tu voglia andare,}
+{pageend:senza la necessità di grindare!}
+Se hai attivata la funzione <color=#F01E1EFF>Limite di
+{pageend:Livello</color>,}
+non supererà tale limite.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+111,DLP_adventure_note_029_01,"Queste <color=#F01E1EFF>Caramelle Rare
+{pageend:infinite</color>}
+{pageend:ti porteranno ovunque tu voglia andare,}
+{pageend:senza la necessità di grindare!}
+Se hai attivata la funzione <color=#F01E1EFF>Limite di
+{pageend:Livello</color>, non supererà tale limite.}
+{pageend:Tuttavia, le Caramelle Rare romperanno il limite se}
+hai bisogno di quel boost extra.",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+112,DLP_adventure_note_030_00,Maestri delle medaglie,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+113,DLP_adventure_note_030_simplified,"Per ogni medaglia che guadagni, questi gentili
+{pageend:signori}
+sbloccheranno <color=#F01E1EFF>un nuovo set di
+{pageend:mosse</color> per i tuoi Pokémon da}
+apprendere. Assicurati di controllare spesso!",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+114,DLP_adventure_note_030_01,"Per ogni medaglia che guadagni, questi amabili
+{pageend:individui}
+sbloccheranno <color=#F01E1EFF>un nuovo set di
+{pageend:mosse</color> per i tuoi Pokémon da}
+{pageend:apprendere. Assicurati di controllare spesso!}
+{pageend:}
+Per una lista completa delle mosse sbloccate per
+{pageend:medaglia, consulta}
+https://luminescent.team/docs/npc!",66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+115,DLP_adventure_note_031_00,Segnaposto Titolo,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+116,DLP_adventure_note_031_simplified,Segnaposto Messaggio,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+117,DLP_adventure_note_031_01,Segnaposto Messaggio,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+118,DLP_adventure_note_032_00,Segnaposto Titolo,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+119,DLP_adventure_note_032_simplified,Segnaposto Messaggio,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+120,DLP_adventure_note_032_01,Segnaposto Messaggio,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+121,DLP_adventure_note_033_00,Segnaposto Titolo,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+122,DLP_adventure_note_033_simplified,Segnaposto Messaggio,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+123,DLP_adventure_note_033_01,Segnaposto Messaggio,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+124,DLP_adventure_note_034_00,Segnaposto Titolo,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+125,DLP_adventure_note_034_simplified,Segnaposto Messaggio,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+126,DLP_adventure_note_034_01,Segnaposto Messaggio,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+127,DLP_adventure_note_035_00,Segnaposto Titolo,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+128,DLP_adventure_note_035_simplified,Segnaposto Messaggio,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+129,DLP_adventure_note_035_01,Segnaposto Messaggio,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+130,DLP_adventure_note_036_00,Segnaposto Titolo,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+131,DLP_adventure_note_036_simplified,Segnaposto Messaggio,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+132,DLP_adventure_note_036_01,Segnaposto Messaggio,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+133,DLP_adventure_note_037_00,Segnaposto Titolo,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+134,DLP_adventure_note_037_simplified,Segnaposto Messaggio,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+135,DLP_adventure_note_037_01,Segnaposto Messaggio,66,-1,42,924,0,"-1
+0
+0
+-1
+0"
+136,1-msg_,"Usando il PC ora potrai modificare queste opzioni:
+{pageend:■ Cambiare i tuoi vestiti.}
+{pageend:■ Attivare o disattivare il condividi esperienza.}
+■ Attivare o disattivare l’amicizia con i pokemon
+{pageend:(non influisce sulle evoluzioni tramite felicità).}
+{pageend:■ Attivare o disattivare il livello massimo a 100.}
+Puoi cambiare queste impostazioni da ogni PC
+presente nel gioco.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+137,1-msg_,"Usando il PC ora potrai modificare queste opzioni:
+{pageend:■ Cambiare i tuoi vestiti.}
+{pageend:■ Attivare o disattivare il condividi esperienza.}
+■ Attivare o disattivare l’amicizia con i pokemon
+{pageend:(non influisce sulle evoluzioni tramite felicità).}
+{pageend:■ Attivare o disattivare il livello massimo a 100.}
+Puoi cambiare queste impostazioni da ogni PC
+presente nel gioco.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+138,1-msg_,"Usando il PC ora potrai modificare queste opzioni:
+{pageend:■ Cambiare i tuoi vestiti.}
+{pageend:■ Attivare o disattivare il condividi esperienza.}
+■ Attivare o disattivare l’amicizia con i pokemon
+{pageend:(non influisce sulle evoluzioni tramite felicità).}
+{pageend:■ Attivare o disattivare il livello massimo a 100.}
+Puoi cambiare queste impostazioni da ogni PC
+presente nel gioco.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+139,1-msg_,"Usando il PC ora potrai modificare queste opzioni:
+{pageend:■ Cambiare i tuoi vestiti.}
+{pageend:■ Attivare o disattivare il condividi esperienza.}
+■ Attivare o disattivare l’amicizia con i pokemon
+{pageend:(non influisce sulle evoluzioni tramite felicità).}
+{pageend:■ Attivare o disattivare il livello massimo a 100.}
+Puoi cambiare queste impostazioni da ogni PC
+presente nel gioco.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+140,1-msg_,"Usando il PC ora potrai modificare queste opzioni:
+{pageend:■ Cambiare i tuoi vestiti.}
+{pageend:■ Attivare o disattivare il condividi esperienza.}
+■ Attivare o disattivare l’amicizia con i pokemon
+{pageend:(non influisce sulle evoluzioni tramite felicità).}
+{pageend:■ Attivare o disattivare il livello massimo a 100.}
+Puoi cambiare queste impostazioni da ogni PC
+presente nel gioco.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+141,1-msg_,Nuove features,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+142,1-msg_,Parco Ribelle,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+143,1-msg_,"Situato alla fine del
+{pageend:<color=#F01E1EFF>}
+{pageend:Percorso 221}
+{pageend:</color>}
+{pageend:,}
+{pageend:il}
+{pageend:<color=#F01E1EFF>}
+{pageend:Parco Ribelle}
+{pageend:</color>}
+{pageend:è}
+visitato da Allenatori e Pokémon provenienti da
+{pageend:ogni dove.}
+{pageend:Si dice che l'abbondanza di rose in fiore nel}
+Parco Ribelle attiri coloro che possiedono
+{pageend:grande forza,}
+come avviene sin dai tempi antichi della regione di
+Sinnoh.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+144,1-msg_,"Situato alla fine del
+{pageend:<color=#F01E1EFF>}
+{pageend:Percorso 221}
+{pageend:</color>}
+{pageend:,}
+{pageend:il}
+{pageend:<color=#F01E1EFF>}
+{pageend:Parco Ribelle}
+{pageend:</color>}
+{pageend:è}
+visitato da Allenatori e Pokémon provenienti da
+{pageend:ogni dove.}
+{pageend:Si dice che l'abbondanza di rose in fiore nel}
+Parco Ribelle attiri coloro che possiedono
+{pageend:grande forza,}
+come avviene sin dai tempi antichi della regione di
+Sinnoh.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+145,1-msg_,"Situato alla fine del
+{pageend:<color=#F01E1EFF>}
+{pageend:Percorso 221}
+{pageend:</color>}
+{pageend:,}
+{pageend:il}
+{pageend:<color=#F01E1EFF>}
+{pageend:Parco Ribelle}
+{pageend:</color>}
+{pageend:è}
+visitato da Allenatori e Pokémon provenienti da
+{pageend:ogni dove.}
+{pageend:Si dice che l'abbondanza di rose in fiore nel}
+Parco Ribelle attiri coloro che possiedono
+{pageend:grande forza,}
+come avviene sin dai tempi antichi della regione di
+Sinnoh.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+146,1-msg_,"I <color=#F01E1EFF>
+{pageend:Frammenti Misteriosi}
+{pageend:</color>}
+{pageend:che trovi scavando nel}
+{pageend:Gran Sottoterra possono essere scambiati per}
+{pageend:<color=#F01E1EFF>}
+{pageend:tavolette}
+{pageend:</color>}
+{pageend:.}
+{pageend:Puoi poi usare queste tavolette in varie stanze}
+{pageend:nel}
+{pageend:<color=#F01E1EFF>}
+{pageend:Parco Ribelle}
+{pageend:</color>}
+.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+147,1-msg_,"Ogni stanza del
+{pageend:<color=#F01E1EFF>}
+{pageend:Parco Ribelle}
+{pageend:</color>}
+{pageend:contiene un}
+{pageend:<color=#F01E1EFF>}
+{pageend:piedistallo}
+{pageend:</color>}
+{pageend:.}
+{pageend:Se usi la}
+{pageend:<color=#F01E1EFF>}
+{pageend:tavoletta}
+{pageend:</color>}
+{pageend:che corrisponde a un dato piedistallo,}
+{pageend:potresti trovarti in uno spazio misterioso.}
+{pageend:In questi spazi, puoi incontrare}
+{pageend:<color=#F01E1EFF>}
+{pageend:Pokémon Leggendari}
+{pageend:</color>}
+!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+148,1-msg_,Bruciatore di incenso,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+149,1-msg_,"Questo oggetto attivabile ti permette di
+{pageend:incontrare ulteriori}
+{pageend:<color=#F01E1EFF>Pokémon Regionali</color>!}
+{pageend:Scegliere un fiore è per Luminescent 3.0 quando}
+tutte le regioni precedenti saranno disponibili in
+{pageend:natura.}
+Visita luminescent.team per maggiori dettagli.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+150,1-msg_,"Questo oggetto attivabile ti permette di
+{pageend:incontrare ulteriori}
+{pageend:<color=#F01E1EFF>Pokémon Regionali</color>!}
+Scegliere un fiore è per Luminescent 3.0, quando
+{pageend:tutte}
+{pageend:le regioni precedenti saranno disponibili.}
+{pageend:Nella build attuale, tutti i fiori portano agli stessi}
+{pageend:incontri. I Pokémon ""Regionali"" includono tutto}
+fino alla generazione 4 che ha forme regionali o
+{pageend:evoluzioni}
+regionali (Braviary non è nella generazione 4, quindi
+{pageend:non c'è}
+{pageend:Braviary o Braviary di Hisui).}
+{pageend:Maggiori informazioni sono disponibili su}
+https://luminescent.team/.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+151,1-msg_,Ricordamosse,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+152,1-msg_,Ricordamosse,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+153,1-msg_,Ricordamosse,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+154,1-msg_,"Il <color=#F01E1EFF>Ricordamosse</color> è ora nel
+{pageend:menu della tua squadra!}
+{pageend:Appare solo se il Pokémon ha cinque o più}
+mosse nella sua memoria e include le MN che
+{pageend:possiedi.}
+(Chissà cosa sta facendo ora il
+<color=#F01E1EFF>vecchio Ricordamosse</color>?)",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+155,1-msg_,"Il <color=#F01E1EFF>Ricordamosse</color> è ora nel
+{pageend:menu della tua squadra!}
+{pageend:Appare solo se il Pokémon può conoscere più}
+{pageend:di quattro mosse e la selezione include tutte}
+{pageend:le MT nel tuo inventario.}
+{pageend:La cancellazione delle mosse deve ancora essere}
+{pageend:effettuata a Canalipoli.}
+(Se il Ricordamosse è qui... chissà cosa sta facendo
+{pageend:il}
+<color=#F01E1EFF>vecchio Ricordamosse</color>?)",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+156,1-msg_,"Il <color=#F01E1EFF>Ricordamosse</color> è ora nel
+{pageend:menu della tua squadra!}
+{pageend:Appare solo se il Pokémon può conoscere più}
+{pageend:di quattro mosse e la selezione include tutte}
+{pageend:le MT nel tuo inventario.}
+{pageend:La cancellazione delle mosse deve ancora essere}
+{pageend:effettuata a Canalipoli.}
+(Se il Ricordamosse è qui... chissà cosa sta facendo
+{pageend:il}
+<color=#F01E1EFF>vecchio Ricordamosse</color>?)",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+157,1-msg_,"Il <color=#F01E1EFF>Ricordamosse</color> è ora nel
+{pageend:menu della tua squadra!}
+{pageend:Appare solo se il Pokémon può conoscere più}
+{pageend:di quattro mosse e la selezione include tutte}
+{pageend:le MT nel tuo inventario.}
+{pageend:La cancellazione delle mosse deve ancora essere}
+{pageend:effettuata a Canalipoli.}
+(Se il Ricordamosse è qui... chissà cosa sta facendo
+{pageend:il}
+<color=#F01E1EFF>vecchio Ricordamosse</color>?)",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+158,1-msg_,"Il <color=#F01E1EFF>Ricordamosse</color> è ora nel
+{pageend:menu della tua squadra!}
+{pageend:Appare solo se il Pokémon può conoscere più}
+{pageend:di quattro mosse e la selezione include tutte}
+{pageend:le MT nel tuo inventario.}
+{pageend:La cancellazione delle mosse deve ancora essere}
+{pageend:effettuata a Canalipoli.}
+(Se il Ricordamosse è qui... chissà cosa sta facendo
+{pageend:il}
+<color=#F01E1EFF>vecchio Ricordamosse</color>?)",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+159,1-msg_,"Il <color=#F01E1EFF>Ricordamosse</color> è ora nel
+{pageend:menu della tua squadra!}
+{pageend:Appare solo se il Pokémon può conoscere più}
+{pageend:di quattro mosse e la selezione include tutte}
+{pageend:le MT nel tuo inventario.}
+{pageend:La cancellazione delle mosse deve ancora essere}
+{pageend:effettuata a Canalipoli.}
+(Se il Ricordamosse è qui... chissà cosa sta facendo
+{pageend:il}
+<color=#F01E1EFF>vecchio Ricordamosse</color>?)",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+160,1-msg_,Soprannomi,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+161,1-msg_,Soprannomi,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+162,1-msg_,"SoprannomiPuoi cambiare il
+<color=#F01E1EFF>Soprannome</color> del tuo
+Pokémon in qualsiasi momento dal menu della
+squadra! Se l’opzione non è presente, potresti
+avere un’installazione difettosa. Visita
+https://luminescent.team/ per le istruzioni.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+163,1-msg_,"Puoi cambiare il <color=#F01E1EFF>Soprannome</color>
+{pageend:del tuo Pokémon in qualsiasi}
+{pageend:momento dal menu della squadra!}
+{pageend:Se l'opzione non è presente, potresti avere}
+un'installazione difettosa.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+164,1-msg_,"Puoi cambiare il <color=#F01E1EFF>Soprannome</color>
+{pageend:del tuo Pokémon in qualsiasi}
+{pageend:momento dal menu della squadra!}
+{pageend:Se l'opzione non è presente, potresti avere}
+un'installazione difettosa.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+165,1-msg_,"Puoi cambiare il <color=#F01E1EFF>Soprannome</color>
+{pageend:del tuo Pokémon in qualsiasi}
+{pageend:momento dal menu della squadra!}
+{pageend:Se l'opzione non è presente, potresti avere}
+un'installazione difettosa.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+166,1-msg_,"Puoi cambiare il <color=#F01E1EFF>Soprannome</color>
+{pageend:del tuo Pokémon in qualsiasi}
+{pageend:momento dal menu della squadra!}
+{pageend:Se l'opzione non è presente, potresti avere}
+un'installazione difettosa.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+167,1-msg_,"Puoi cambiare il <color=#F01E1EFF>Soprannome</color>
+{pageend:del tuo Pokémon in qualsiasi}
+{pageend:momento dal menu della squadra!}
+{pageend:Se l'opzione non è presente, potresti avere}
+un'installazione difettosa.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+168,1-msg_,"Puoi cambiare il <color=#F01E1EFF>Soprannome</color>
+{pageend:del tuo Pokémon in qualsiasi}
+{pageend:momento dal menu della squadra!}
+{pageend:Se l'opzione non è presente, potresti avere}
+un'installazione difettosa.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+169,1-msg_,Giudica IV,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+170,1-msg_,Giudica IV,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+171,1-msg_,Giudica IV,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+172,1-msg_,"Puoi vedere gli <color=#F01E1EFF>IV</color> del tuo
+{pageend:Pokémon in qualsiasi momento}
+{pageend:dal PC! Premi + per vedere i valori numerici.}
+Questo funziona anche con la funzione ""PC
+{pageend:Ovunque""}
+tramite il menu della squadra.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+173,1-msg_,"Puoi vedere gli <color=#F01E1EFF>IV</color> del tuo
+{pageend:Pokémon in qualsiasi momento}
+{pageend:dal PC! Premi + per vedere i valori numerici.}
+Questo funziona anche con la funzione ""PC
+{pageend:Ovunque""}
+tramite il menu della squadra.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+174,1-msg_,"Puoi vedere gli <color=#F01E1EFF>IV</color> del tuo
+{pageend:Pokémon in qualsiasi momento}
+{pageend:dal PC! Premi + per vedere i valori numerici.}
+Questo funziona anche con la funzione ""PC
+{pageend:Ovunque""}
+tramite il menu della squadra.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+175,1-msg_,"Puoi vedere gli <color=#F01E1EFF>IV</color> del tuo
+{pageend:Pokémon in qualsiasi momento}
+{pageend:dal PC! Premi + per vedere i valori numerici.}
+{pageend:}
+Questo funziona anche con la funzione ""PC
+{pageend:Ovunque"" tramite}
+{pageend:il menu della squadra.}
+{pageend:}
+Nota che le statistiche indicate come
+{pageend:""Allenamento Pro"" non}
+vengono trasmesse durante l'allevamento.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+176,1-msg_,Caramella infinita,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+177,1-msg_,Caramella rara infinita,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+178,1-msg_,"Queste <color=#F01E1EFF>Caramelle Rare
+{pageend:infinite</color>}
+{pageend:ti porteranno ovunque tu voglia andare,}
+{pageend:senza la necessità di grindare!}
+Se hai attivata la funzione <color=#F01E1EFF>Limite di
+{pageend:Livello</color>,}
+non supererà tale limite.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+179,1-msg_,"Queste <color=#F01E1EFF>Caramelle Rare
+{pageend:infinite</color>}
+{pageend:ti porteranno ovunque tu voglia andare,}
+{pageend:senza la necessità di grindare!}
+Se hai attivata la funzione <color=#F01E1EFF>Limite di
+{pageend:Livello</color>,}
+non supererà tale limite.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+180,1-msg_,"Queste <color=#F01E1EFF>Caramelle Rare
+{pageend:infinite</color>}
+{pageend:ti porteranno ovunque tu voglia andare,}
+{pageend:senza la necessità di grindare!}
+Se hai attivata la funzione <color=#F01E1EFF>Limite di
+{pageend:Livello</color>,}
+non supererà tale limite.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+181,1-msg_,"Queste <color=#F01E1EFF>Caramelle Rare
+{pageend:infinite</color>}
+{pageend:ti porteranno ovunque tu voglia andare,}
+{pageend:senza la necessità di grindare!}
+Se hai attivata la funzione <color=#F01E1EFF>Limite di
+{pageend:Livello</color>, non supererà tale limite.}
+{pageend:Tuttavia, le Caramelle Rare romperanno il limite se}
+hai bisogno di quel boost extra.",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+182,1-msg_,Maestri delle medaglie,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+183,1-msg_,Maestri delle medaglie,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+184,1-msg_,"Per ogni medaglia che guadagni, questi gentili
+{pageend:signori}
+sbloccheranno <color=#F01E1EFF>un nuovo set di
+{pageend:mosse</color> per i tuoi Pokémon da}
+apprendere. Assicurati di controllare spesso!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+185,1-msg_,"Per ogni medaglia che guadagni, questi gentili
+{pageend:signori}
+sbloccheranno <color=#F01E1EFF>un nuovo set di
+{pageend:mosse</color> per i tuoi Pokémon da}
+apprendere. Assicurati di controllare spesso!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+186,1-msg_,"Per ogni medaglia che guadagni, questi gentili
+{pageend:signori}
+sbloccheranno <color=#F01E1EFF>un nuovo set di
+{pageend:mosse</color> per i tuoi Pokémon da}
+apprendere. Assicurati di controllare spesso!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+187,1-msg_,"Per ogni medaglia che guadagni, questi amabili
+{pageend:individui}
+sbloccheranno <color=#F01E1EFF>un nuovo set di
+{pageend:mosse</color> per i tuoi Pokémon da}
+{pageend:apprendere. Assicurati di controllare spesso!}
+{pageend:}
+Per una lista completa delle mosse sbloccate per
+{pageend:medaglia, consulta}
+https://luminescent.team/docs/npc!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+188,1-msg_,"Per ogni medaglia che guadagni, questi amabili
+{pageend:individui}
+sbloccheranno <color=#F01E1EFF>un nuovo set di
+{pageend:mosse</color> per i tuoi Pokémon da}
+{pageend:apprendere. Assicurati di controllare spesso!}
+{pageend:}
+Per una lista completa delle mosse sbloccate per
+{pageend:medaglia, consulta}
+https://luminescent.team/docs/npc!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+189,1-msg_,"Per ogni medaglia che guadagni, questi amabili
+{pageend:individui}
+sbloccheranno <color=#F01E1EFF>un nuovo set di
+{pageend:mosse</color> per i tuoi Pokémon da}
+{pageend:apprendere. Assicurati di controllare spesso!}
+{pageend:}
+Per una lista completa delle mosse sbloccate per
+{pageend:medaglia, consulta}
+https://luminescent.team/docs/npc!",0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+190,1-msg_,Segnaposto Titolo,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+191,1-msg_,Segnaposto Titolo,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+192,1-msg_,Segnaposto Titolo,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+193,1-msg_,Segnaposto Titolo,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+194,1-msg_,Segnaposto Titolo,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+195,1-msg_,Segnaposto Titolo,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+196,1-msg_,Segnaposto Titolo,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+197,1-msg_,Segnaposto Titolo,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+198,1-msg_,Segnaposto Titolo,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+199,1-msg_,Segnaposto Titolo,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+200,1-msg_,Segnaposto Titolo,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+201,1-msg_,Segnaposto Titolo,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+202,1-msg_,Segnaposto Titolo,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+203,1-msg_,Segnaposto Titolo,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+204,1-msg_,Segnaposto Titolo,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+205,1-msg_,Segnaposto Titolo,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+206,1-msg_,Segnaposto Titolo,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+207,1-msg_,Segnaposto Titolo,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+208,1-msg_,Segnaposto Titolo,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+209,1-msg_,Segnaposto messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+210,1-msg_,Segnaposto messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+211,1-msg_,Segnaposto messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+212,1-msg_,Segnaposto messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+213,1-msg_,Segnaposto messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+214,1-msg_,Segnaposto messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+215,1-msg_,Segnaposto messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+216,1-msg_,Segnaposto messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+217,1-msg_,Segnaposto messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+218,1-msg_,Segnaposto messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+219,1-msg_,Segnaposto messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+220,1-msg_,Segnaposto messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+221,1-msg_,Segnaposto titolo,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+222,1-msg_,Segnaposto titolo,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+223,1-msg_,Segnaposto titolo,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+224,1-msg_,Segnaposto Messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+225,1-msg_,Segnaposto Messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+226,1-msg_,Segnaposto Messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+227,1-msg_,Segnaposto Titolo,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+228,1-msg_,Segnaposto Titolo,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+229,1-msg_,Segnaposto Messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+230,1-msg_,Segnaposto Messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+231,1-msg_,Segnaposto Messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+232,1-msg_,Segnaposto Messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+233,1-msg_,Segnaposto Messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+234,1-msg_,Segnaposto Messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+235,1-msg_,Segnaposto Messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+236,1-msg_,Segnaposto Messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+237,1-msg_,Segnaposto Messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+238,1-msg_,Segnaposto Messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+239,1-msg_,Segnaposto Messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+240,1-msg_,Segnaposto Messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+241,1-msg_,Segnaposto Messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+242,1-msg_,Segnaposto Messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+243,1-msg_,Segnaposto Messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+244,1-msg_,Segnaposto Messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+245,1-msg_,Segnaposto Messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+246,1-msg_,Segnaposto Messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+247,1-msg_,Segnaposto Messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+248,1-msg_,Segnaposto Messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+249,1-msg_,Segnaposto Messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+250,1-msg_,Segnaposto Messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"
+251,1-msg_,Segnaposto Messaggio,0,-1,54,1080,0,"-1
+0
+0
+-1
+0"

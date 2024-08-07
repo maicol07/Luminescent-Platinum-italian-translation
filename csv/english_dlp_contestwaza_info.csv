@@ -1,0 +1,70 @@
+0,CONTESTWAZA_INFO_000,,109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+1,CONTESTWAZA_INFO_001,This move has no additional effects.,109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+2,CONTESTWAZA_INFO_002,"For {tag:0} seconds, missed notes will not be judged.",109,-1,32,736,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+10,CONTESTWAZA_INFO_018,"This move can’t be used.
+It’s recommended that this move is forgotten.
+Once forgotten, this move can’t be remembered.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
+0,,,0,0,0,0,0,
+3,CONTESTWAZA_INFO_005,Groove will not drop for {tag:0} seconds.,109,-1,32,736,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+4,CONTESTWAZA_INFO_008,"For {tag:0} seconds, it will be a bit easier to fill up the
+Heart Gauge.",109,-1,32,736,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+5,CONTESTWAZA_INFO_009,"For {tag:0} seconds, it will be easier to fill up the
+Heart Gauge.",109,-1,32,736,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+6,CONTESTWAZA_INFO_010,"For {tag:0} seconds, it will be much easier to fill up the
+Heart Gauge.",109,-1,32,736,0,"-1
+0
+0
+-1
+0",0,2,1,1,0,205,,0
+7,CONTESTWAZA_INFO_011,"Hype Points gained will increase by {tag:0} if groove
+is positive.",109,-1,32,736,0,"-1
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+8,CONTESTWAZA_INFO_014,"Hype Points gained will increase by {tag:0} if groove
+is negative.",109,-1,32,736,0,"-1
+0
+0
+-1
+0",0,2,0,1,0,205,,0
+0,,,0,0,0,0,0,
+0,,,0,0,0,0,0,
+9,CONTESTWAZA_INFO_017,"You will receive 1−5 Hype Points, depending on the
+Pokémon’s groove.",109,-1,32,736,0,"-1
+0
+0
+-1
+0"
